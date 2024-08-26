@@ -1,0 +1,3321 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Main String Table_ko.asset" source-language="en" target-language="ko">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Main String Table_ko.asset" uid="8cf0b7ced8cb54749bbf0eb54bc75a66" />
+      </skl>
+    </header>
+    <body>
+      <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+          <source>Settings</source>
+          <target>설정</target>
+        </trans-unit>
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+          <source>Start Game</source>
+          <target>게임 시작</target>
+        </trans-unit>
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+          <source>Extras</source>
+          <target>엑스트라</target>
+        </trans-unit>
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+          <source>Quit</source>
+          <target>나가기</target>
+        </trans-unit>
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+          <source>Back</source>
+          <target>뒤로</target>
+        </trans-unit>
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+          <source>Lag Calibration...</source>
+          <target>지연 보정...</target>
+        </trans-unit>
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+          <source>Graphics</source>
+          <target>그래픽</target>
+        </trans-unit>
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+          <source>Audio</source>
+          <target>오디오</target>
+        </trans-unit>
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
+          <source>Interface Settings</source>
+          <target>인터페이스 설정</target>
+        </trans-unit>
+        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
+          <source>Controls</source>
+          <target>조작</target>
+        </trans-unit>
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
+          <source>Accessibility</source>
+          <target>접근성</target>
+        </trans-unit>
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
+          <source>Scaling Mode</source>
+          <target>스케일링 모드</target>
+        </trans-unit>
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
+          <source>Flexible</source>
+          <target>유연함</target>
+        </trans-unit>
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
+          <source>Pixel Perfect</source>
+          <target>픽셀 퍼펙트</target>
+        </trans-unit>
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
+          <source>Screen Mode</source>
+          <target>화면 모드</target>
+        </trans-unit>
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
+          <source>Windowed</source>
+          <target>창 모드</target>
+        </trans-unit>
+        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
+          <source>Maximized</source>
+          <target>최대화</target>
+        </trans-unit>
+        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
+          <source>Fullscreen</source>
+          <target>전체 화면</target>
+        </trans-unit>
+        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed">
+          <source>Game will be run in a window. Can be resized.</source>
+          <target>게임이 창에서 실행됩니다. 크기를 조절할 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+          <source>Game will run in a maximized window.</source>
+          <target>게임이 최대화된 창에서 실행됩니다.</target>
+        </trans-unit>
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+          <source>Game will run in exclusive fullscreen mode.</source>
+          <target>게임 단독으로 전체 화면에서 실행됩니다.</target>
+        </trans-unit>
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
+          <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
+          <target>UI 및 카메라가 화면을 꽉 채우도록 스케일링됩니다. 픽셀이 정사각형이 아닐 수도 있습니다. 특히 낮은 해상도에서 발생할 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
+          <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
+          <target>(기본) UI와 카메라가 정수배로만 스케일링됩니다. 한 픽셀이 정사각형이 되는 것을 보장하지만, 더 많이 줌아웃될 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+          <source>Resolution</source>
+          <target>해상도</target>
+        </trans-unit>
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
+          <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
+          <target>창의 해상도를 미리 지정된 값으로 조정합니다. (전체 화면 해상도는 변경할 수 없습니다)</target>
+        </trans-unit>
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
+          <source>Vertical Sync</source>
+          <target>수직 동기화</target>
+        </trans-unit>
+        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
+          <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
+          <target>화면 재생률 동기화를 비활성화합니다. 빠른 렌더링을 가져올 수 있으나 화면에 계단현상이 발생할 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled">
+          <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
+          <target>(기본) 화면을 디스플레이의 재생률과 동기화합니다. 화면 계단 현상을 방지합니다.</target>
+        </trans-unit>
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+          <source>Disabled</source>
+          <target>비활성화</target>
+        </trans-unit>
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+          <source>Enabled</source>
+          <target>활성화</target>
+        </trans-unit>
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
+          <source>Scaling Settings...</source>
+          <target>스케일링 설정...</target>
+        </trans-unit>
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+          <source>Return to the previous menu.</source>
+          <target>이전 메뉴로 돌아갑니다.</target>
+        </trans-unit>
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
+          <source>Zoom Level</source>
+          <target>확대 수준</target>
+        </trans-unit>
+        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
+          <source>Default</source>
+          <target>기본</target>
+        </trans-unit>
+        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far">
+          <source>Far</source>
+          <target>멀리</target>
+        </trans-unit>
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near">
+          <source>Near</source>
+          <target>가깝게</target>
+        </trans-unit>
+        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
+          <source>Use default gameplay zoom level. Should suffice in most cases.</source>
+          <target>기본 게임플레이 확대 수준을 사용합니다. 대부분의 경우에 적합합니다.</target>
+        </trans-unit>
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+          <source>Forces a zoomed-out gameplay view.</source>
+          <target>축소된 게임플레이를 강제합니다.</target>
+        </trans-unit>
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+          <source>Forces a zoomed-in gameplay view.</source>
+          <target>확대된 게임플레이를 강제합니다.</target>
+        </trans-unit>
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
+          <source>Music Volume</source>
+          <target>음악 볼륨</target>
+        </trans-unit>
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
+          <source>Adjust the volume of the game music.</source>
+          <target>게임 음악 볼륨을 조정합니다.</target>
+        </trans-unit>
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+          <source>Adjust the volume of the in-game sound effects.</source>
+          <target>게임 효과 볼륨을 조정합니다.</target>
+        </trans-unit>
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
+          <source>Sfx Volume</source>
+          <target>효과음 볼륨</target>
+        </trans-unit>
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
+          <source>Effect Settings...</source>
+          <target>효과 설정...</target>
+        </trans-unit>
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
+          <source>Screen Shake</source>
+          <target>화면 흔들림</target>
+        </trans-unit>
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+          <source>Disables screen shake effects.</source>
+          <target>화면 흔들림 효과를 비활성화합니다.</target>
+        </trans-unit>
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+          <source>Enables screen shake effects.</source>
+          <target>화면 흔들림 효과를 활성화합니다.</target>
+        </trans-unit>
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
+          <source>Screen Flashes</source>
+          <target>화면 깜빡임</target>
+        </trans-unit>
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+          <source>Enables screen flash effects.</source>
+          <target>화면 깜빡임 효과를 활성화합니다.</target>
+        </trans-unit>
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+          <source>Disables screen flash effects.</source>
+          <target>화면 깜빡임 효과를 비활성화합니다.</target>
+        </trans-unit>
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
+          <source>Sfx Prescheduling</source>
+          <target>효과음 미리 재생</target>
+        </trans-unit>
+        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
+          <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
+          <target>액션 효과음이 입력에만 맞춰 재생됩니다. 저 지연 환경에서만 권장됩니다. 오디오 지연이 리듬을 망칠 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled">
+          <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
+          <target>(기본) 액션 효과음이 미리 재생되도록 하여 싱크를 맞춥니다. 입력을 놓치더라도 재생됩니다.</target>
+        </trans-unit>
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+          <source>Audio Offset</source>
+          <target>오디오 오프셋</target>
+        </trans-unit>
+        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
+          <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
+          <target>부저음과 빛의 깜빡임이 완벽히 일치하도록 이 값을 조정해주세요.</target>
+        </trans-unit>
+        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats">
+          <source>Cheats</source>
+          <target>치트</target>
+        </trans-unit>
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
+          <source>Auto Play</source>
+          <target>자동 플레이</target>
+        </trans-unit>
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
+          <source>Unlock All Levels</source>
+          <target>모든 레벨 해금</target>
+        </trans-unit>
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+          <source>Auto play is disabled.</source>
+          <target>자동 플레이가 비활성화 상태입니다.</target>
+        </trans-unit>
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+          <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
+          <target>자동 플레이가 활성화 상태입니다. 레벨이 플레이어 입력없이 자동으로 플레이됩니다. (진행사항은 여전히 저장됩니다)</target>
+        </trans-unit>
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+          <source>Levels must be unlocked normally.</source>
+          <target>레벨은 정상적인 방법으로만 해금됩니다.</target>
+        </trans-unit>
+        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
+          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
+          <target>모든 레벨이 시작부터 열립니다. (진행 상황은 여전히 저장됩니다)</target>
+        </trans-unit>
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
+          <source>Press Enter to Continue</source>
+          <target>Enter를 눌러 계속</target>
+        </trans-unit>
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
+          <source>Click to Continue</source>
+          <target>클릭하여 계속</target>
+        </trans-unit>
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
+          <source>Tap to Continue</source>
+          <target>탭하여 계속</target>
+        </trans-unit>
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
+          <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
+          <target>&lt;sprite name="controller_icons_100"&gt;를 눌러 계속</target>
+        </trans-unit>
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
+          <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
+          <target>&lt;sprite name="controller_icons_37"&gt;를 눌러 계속</target>
+        </trans-unit>
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
+          <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
+          <target>&lt;sprite name="controller_icons_60"&gt;를 눌러 계속</target>
+        </trans-unit>
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
+          <source>Font Style</source>
+          <target>폰트 스타일</target>
+        </trans-unit>
+        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
+          <source>Pixel Font</source>
+          <target>픽셀 폰트</target>
+        </trans-unit>
+        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled">
+          <source>Smooth Font</source>
+          <target>부드러운 폰트</target>
+        </trans-unit>
+        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled">
+          <source>Use smooth font for the interface.</source>
+          <target>인터페이스에 부드러운 폰트 사용.</target>
+        </trans-unit>
+        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled">
+          <source>Use pixel-styled font for the interface.</source>
+          <target>인터페이스에 픽셀 스타일 폰트 사용.</target>
+        </trans-unit>
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
+          <source>On-screen Buttons</source>
+          <target>화면 버튼</target>
+        </trans-unit>
+        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
+          <source>Hide</source>
+          <target>숨기기</target>
+        </trans-unit>
+        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show">
+          <source>Show</source>
+          <target>보이기</target>
+        </trans-unit>
+        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
+          <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
+          <target>화면 버튼들이 숨겨집니다. 화면의 왼쪽과 오른쪽을 탭하여 플레이하세요.</target>
+        </trans-unit>
+        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show">
+          <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
+          <target>화면 버튼들이 표시됩니다. (버튼을 정확히 탭하지 않아도 됩니다)</target>
+        </trans-unit>
+        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
+          <source>Changelog</source>
+          <target>변경 사항</target>
+        </trans-unit>
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
+          <source>World 1
+Green Grasslands</source>
+          <target>월드 1
+Green Grasslands</target>
+        </trans-unit>
+        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
+          <source>World 2
+Cloudy Courseway</source>
+          <target>월드 2
+Cloudy Courseway</target>
+        </trans-unit>
+        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
+          <source>World 3
+Retro Ridge</source>
+          <target>월드 3
+Retro Ridge</target>
+        </trans-unit>
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
+          <source>World 4
+Magical Metropolis</source>
+          <target>월드 4
+Magical Metropolis</target>
+        </trans-unit>
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
+          <source>World 5
+Crystal Caverns</source>
+          <target>월드 5
+Space Sojourn</target>
+        </trans-unit>
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
+          <source>World 6
+Space Sojourn</source>
+          <target>월드 6
+보너스 월드</target>
+        </trans-unit>
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+          <source>Level 1-1
+Sunrise Vista</source>
+          <target>레벨 1-1
+Sunrise Vista</target>
+        </trans-unit>
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
+          <source>Level 1-2
+Raceway Plain</source>
+          <target>레벨 1-2
+Raceway Plain</target>
+        </trans-unit>
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+          <source>Level 1-3
+River Crossing</source>
+          <target>레벨 1-3
+River Crossing</target>
+        </trans-unit>
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+          <source>Level 1-4
+Mystic Forest</source>
+          <target>레벨 1-4
+Mystic Forest</target>
+        </trans-unit>
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+          <source>Level 2-1
+Skyward Summit</source>
+          <target>레벨 2-1
+Skyward Summit</target>
+        </trans-unit>
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+          <source>Level 2-2
+Winged Airways</source>
+          <target>레벨 2-2
+Winged Airways</target>
+        </trans-unit>
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
+          <source>Level 2-3
+Twilight Flight</source>
+          <target>레벨 2-3
+Twilight Flight</target>
+        </trans-unit>
+        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
+          <source>a game by DDRKirby(ISQ)</source>
+          <target>게임 개발 DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
+          <source>Programming: DDRKirby(ISQ)
+Design: DDRKirby(ISQ)
+Music: DDRKirby(ISQ)
+Sfx: DDRKirby(ISQ)
+Graphics: DDRKirby(ISQ)</source>
+          <target>프로그래밍: DDRKirby(ISQ)
+디자인: DDRKirby(ISQ)
+음악: DDRKirby(ISQ)
+효과음: DDRKirby(ISQ)
+그래픽: DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3">
+          <source>Moral Support: fuzzybunny2</source>
+          <target>정신적 지원: fuzzybunny2</target>
+        </trans-unit>
+        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits">
+          <source>Credits</source>
+          <target>제작자</target>
+        </trans-unit>
+        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume">
+          <source>Resume</source>
+          <target>이어하기</target>
+        </trans-unit>
+        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused">
+          <source>Paused</source>
+          <target>일시정지</target>
+        </trans-unit>
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
+          <source>Level Complete</source>
+          <target>레벨 완료</target>
+        </trans-unit>
+        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
+          <source>Language</source>
+          <target>언어</target>
+        </trans-unit>
+        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked">
+          <source>(Locked)</source>
+          <target>(잠김)</target>
+        </trans-unit>
+        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols">
+          <source>Control Positioning</source>
+          <target>조작 방식</target>
+        </trans-unit>
+        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
+          <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
+          <target>(기본) 화면 왼쪽을 탭해 점프하고, 오른쪽을 탭해 공격합니다.</target>
+        </trans-unit>
+        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled">
+          <source>Tap left half of screen to attack, tap right half to jump.</source>
+          <target>화면 왼쪽을 탭해 공격하고, 오른쪽을 탭해 점프합니다.</target>
+        </trans-unit>
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+          <source>Jump</source>
+          <target>점프</target>
+        </trans-unit>
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+          <source>Attack</source>
+          <target>공격</target>
+        </trans-unit>
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+          <source>Press a key</source>
+          <target>키를 눌러주세요</target>
+        </trans-unit>
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+          <source>Select a key to use for &lt;Attack&gt;.</source>
+          <target>&lt;공격&gt;에 쓸 키를 선택하세요.</target>
+        </trans-unit>
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+          <source>Select a key to use for &lt;Jump&gt;.</source>
+          <target>&lt;점프&gt;에 쓸 키를 선택하세요.</target>
+        </trans-unit>
+        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
+          <source>Resets key bindings to their defaults.</source>
+          <target>키 설정을 기본 값으로 돌립니다.</target>
+        </trans-unit>
+        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols">
+          <source>Mouse Controls</source>
+          <target>마우스 조작</target>
+        </trans-unit>
+        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
+          <source>Flipped</source>
+          <target>반전</target>
+        </trans-unit>
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+          <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
+          <target>왼쪽 클릭으로 &lt;점프&gt;하고, 오른쪽 클릭으로 &lt;공격&gt;합니다.</target>
+        </trans-unit>
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
+          <source>In-game mouse controls are disabled.</source>
+          <target>게임 중 마우스 조작이 비활성화됩니다.</target>
+        </trans-unit>
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+          <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
+          <target>오른쪽 클릭으로 &lt;점프&gt;하고, 왼쪽 클릭으로 &lt;공격&gt;합니다.</target>
+        </trans-unit>
+        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
+          <source>Reset Game Data</source>
+          <target>게임 데이터 초기화</target>
+        </trans-unit>
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+          <source>All saved game data will be erased.
+Are you sure you want to proceed?</source>
+          <target>게임 데이터가 사라집니다.
+정말 그렇게 하시겠습니까?</target>
+        </trans-unit>
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+          <source>Yes</source>
+          <target>예</target>
+        </trans-unit>
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+          <source>No</source>
+          <target>아니오</target>
+        </trans-unit>
+        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
+          <source>Game data has successfully been erased.</source>
+          <target>게임 데이터가 성공적으로 삭제되었습니다.</target>
+        </trans-unit>
+        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
+          <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
+          <target>섬세하게 오디오 싱크를 조정하면 Rhythm Quest를 쾌적하게 즐기실 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
+          <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
+          <target>만약 보정을 나중에 하고 싶으시다면, &lt;color=yellow&gt;설정&lt;/color&gt; 메뉴에서 할 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
+          <source>Done</source>
+          <target>완료</target>
+        </trans-unit>
+        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
+          <source>Continue</source>
+          <target>계속</target>
+        </trans-unit>
+        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
+          <source>Do you want to calibrate audio lag now?</source>
+          <target>지금 오디오 보정을 하시겠습니까?</target>
+        </trans-unit>
+        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
+          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
+          <target>&lt;color=#{0}&gt;{1}&lt;/color&gt; 또는 &lt;sprite name="{2}" tint=1 color=#{0}&gt; 를 눌러 점프하세요.</target>
+        </trans-unit>
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
+          <source>How to Play</source>
+          <target>플레이 방법</target>
+        </trans-unit>
+        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack">
+          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
+          <target>&lt;color=#{0}&gt;{1}&lt;/color&gt; 또는 &lt;sprite name="{2}" tint=1 color=#{0}&gt; 를 눌러 공격하세요.</target>
+        </trans-unit>
+        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
+          <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
+          <target>화면 &lt;color=#{0}&gt;왼쪽을 탭하여&lt;/color&gt; 점프하세요.</target>
+        </trans-unit>
+        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped">
+          <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
+          <target>화면 &lt;color=#{0}&gt;오른쪽을 탭하여&lt;/color&gt; 점프하세요.</target>
+        </trans-unit>
+        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal">
+          <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
+          <target>화면 &lt;color=#{0}&gt;오른쪽을 탭하여&lt;/color&gt; 공격하세요.</target>
+        </trans-unit>
+        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped">
+          <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
+          <target>화면 &lt;color=#{0}&gt;왼쪽을 탭하여&lt;/color&gt; 공격하세요.</target>
+        </trans-unit>
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
+          <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
+          <target>&lt;color=yellow&gt;메인 메뉴&lt;/color&gt;에서 조작을 변경할 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
+          <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
+          <target>음악에 맞춰 &lt;color=yellow&gt;점프&lt;/color&gt;하고 &lt;color=yellow&gt;공격&lt;/color&gt;해서 레벨의 끝까지 도달하세요!</target>
+        </trans-unit>
+        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped">
+          <source>Flipped</source>
+          <target>반전</target>
+        </trans-unit>
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+          <source>Calibration complete!</source>
+          <target>보정 완료!</target>
+        </trans-unit>
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
+          <source>The flashing squares should now match the beeps.
+Otherwise, adjust manually until synced.</source>
+          <target>이제 깜박이는 사각형이 삐 소리와 일치해야 합니다.
+그렇지 않다면 싱크가 맞을 때까지 수동으로 조정하세요.</target>
+        </trans-unit>
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
+          <source>Audio Latency: {0}ms</source>
+          <target>오디오 지연: {0}ms</target>
+        </trans-unit>
+        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
+          <source>Audio Lag Calibration</source>
+          <target>오디오 지연 보정</target>
+        </trans-unit>
+        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
+          <source>Press any key or click in time with the beeps</source>
+          <target>삐 소리에 맞춰 스페이스 바를 누르시거나 클릭하여 주세요.</target>
+        </trans-unit>
+        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
+          <source>Press any key or click in time with the beeps</source>
+          <target>삐 소리에 맞춰 스페이스 바를 누르시거나 클릭하여 주세요.</target>
+        </trans-unit>
+        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
+          <source>Tap in time with the beeps</source>
+          <target>삐 소리에 맞춰 탭하세요</target>
+        </trans-unit>
+        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
+          <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
+          <target>삐 소리에 맞춰 &lt;sprite name="controller_icons_100"&gt;를 누르세요</target>
+        </trans-unit>
+        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
+          <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
+          <target>삐 소리에 맞춰 &lt;sprite name="controller_icons_37"&gt;를 누르세요</target>
+        </trans-unit>
+        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
+          <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
+          <target>삐 소리에 맞춰 &lt;sprite name="controller_icons_60"&gt;를 누르세요</target>
+        </trans-unit>
+        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
+          <source>Yes (Recommended)</source>
+          <target>네 (권장됨)</target>
+        </trans-unit>
+        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
+          <source>(Select an option to view more details)</source>
+          <target>(옵션을 선택해 자세한 설명 보기)</target>
+        </trans-unit>
+        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
+          <source>Level 3-1
+Spiked Steppes</source>
+          <target>레벨 3-1
+Spiked Steppes</target>
+        </trans-unit>
+        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
+          <source>Redo</source>
+          <target>되돌리기</target>
+        </trans-unit>
+        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
+          <source>Resets all game progress.</source>
+          <target>모든 게임 진행도를 초기화합니다.</target>
+        </trans-unit>
+        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable">
+          <source>Unavailable</source>
+          <target>사용할 수 없음</target>
+        </trans-unit>
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
+          <source>Perfect Clear!</source>
+          <target>퍼펙트 클리어!</target>
+        </trans-unit>
+        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
+          <source>Respawns: {0}</source>
+          <target>부활: {0}</target>
+        </trans-unit>
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
+          <source>Level 3-3
+Haunted Prairie</source>
+          <target>레벨 3-3
+Haunted Prairie</target>
+        </trans-unit>
+        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
+          <source>Restart Level</source>
+          <target>레벨 재시작</target>
+        </trans-unit>
+        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
+          <source>Cancel</source>
+          <target>취소</target>
+        </trans-unit>
+        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
+          <source>Calibration failed -- try again!
+Focus on matching the sound of your tap to the beep.
+(green = good)</source>
+          <target>보정 실패! 다시 시도해 보세요.
+삐 소리에 탭하는 소리를 맞출려고 노력해 보세요.
+(초록색 = 좋음)</target>
+        </trans-unit>
+        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
+          <source>Your accuracy: {0}%</source>
+          <target>정확도: {0}%</target>
+        </trans-unit>
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
+          <source>Quit to Menu</source>
+          <target>메뉴로 나가기</target>
+        </trans-unit>
+        <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
+          <source>New</source>
+          <target>신규</target>
+        </trans-unit>
+        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
+          <source>Shop</source>
+          <target>상점</target>
+        </trans-unit>
+        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
+          <source>Characters</source>
+          <target>캐릭터</target>
+        </trans-unit>
+        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
+          <source>Extra Levels</source>
+          <target>엑스트라 레벨</target>
+        </trans-unit>
+        <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
+          <source>Collected:
+Spent:
+
+Remaining:</source>
+          <target>보유:
+사용:
+
+잔여:</target>
+        </trans-unit>
+        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected">
+          <source>Selected</source>
+          <target>선택됨</target>
+        </trans-unit>
+        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase">
+          <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
+          <target>&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} 코인을 사용해 구매할까요?</target>
+        </trans-unit>
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
+          <source>Take It to the Limit
+by DDRKirby(ISQ)</source>
+          <target>Take It to the Limit
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
+          <source>Preview</source>
+          <target>미리보기</target>
+        </trans-unit>
+        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy">
+          <source>Buy</source>
+          <target>구매</target>
+        </trans-unit>
+        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play">
+          <source>Play</source>
+          <target>플레이</target>
+        </trans-unit>
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+          <source>What Lies Beneath
+by DDRKirby(ISQ)</source>
+          <target>What Lies Beneath</target>
+        </trans-unit>
+        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
+          <source>Level 1-5
+City in the Rain</source>
+          <target>레벨 1-5
+City in the Rain</target>
+        </trans-unit>
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
+          <source>Level 4-1
+Enchanted Oasis</source>
+          <target>레벨 4-1
+Enchanted Oasis</target>
+        </trans-unit>
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
+          <source>Gameplay Trailer
+by DDRKirby(ISQ)</source>
+          <target>Gameplay Trailer
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
+          <source>Level 2-4
+Snowy Peak</source>
+          <target>레벨 2-4
+Snowy Peak</target>
+        </trans-unit>
+        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
+          <source>Level 2-5
+Stratosphere</source>
+          <target>레벨 2-5
+Stratosphere</target>
+        </trans-unit>
+        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
+          <source>Wishlist on Steam</source>
+          <target>Steam에서 찜하기</target>
+        </trans-unit>
+        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
+          <source>Start</source>
+          <target>시작</target>
+        </trans-unit>
+        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
+          <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
+          <target>이 콘텐츠는 (곧 출시할) Rhythm Quest 풀 버전에서만 즐기실 수 있습니다!</target>
+        </trans-unit>
+        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
+          <source>&lt; World {0}</source>
+          <target>&lt; 월드 {0}</target>
+        </trans-unit>
+        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow">
+          <source>World {0} &gt;</source>
+          <target>월드 {0} &gt;</target>
+        </trans-unit>
+        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
+          <source>Adjusts audio latency calibration.
+Lower if audio is too early. Raise if audio is too late.</source>
+          <target>오디오 지연 보정을 조정합니다.
+오디오가 너무 빠르다면 줄이시고, 오디오가 너무 늦다면 올리시기 바랍니다.</target>
+        </trans-unit>
+        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
+          <source>Too Early</source>
+          <target>너무 빠름</target>
+        </trans-unit>
+        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late">
+          <source>Too Late</source>
+          <target>너무 느림</target>
+        </trans-unit>
+        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
+          <source>Level 3-2
+Twilight Tunnel</source>
+          <target>레벨 3-2
+Twilight Tunnel</target>
+        </trans-unit>
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
+          <source>Level 3-4
+Midnight Marathon</source>
+          <target>레벨 3-4
+Midnight Marathon</target>
+        </trans-unit>
+        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
+          <source>Level 3-5
+Gearwheel Factory</source>
+          <target>레벨 3-5
+Gearwheel Factory</target>
+        </trans-unit>
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
+          <source>Level 4-3
+Outerworld Highway</source>
+          <target>레벨 4-3
+Outerworld Highway</target>
+        </trans-unit>
+        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
+          <source>Level 4-2
+Misty Meadow</source>
+          <target>레벨 4-2
+Misty Meadow</target>
+        </trans-unit>
+        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
+          <source>Copy Protection Violation detected!</source>
+          <target>복사 방지 위반이 감지되었습니다!</target>
+        </trans-unit>
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
+          <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
+
+If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
+
+For Firefox, you can also try checking the referer header setting:
+- Navigate to "about:config" in the URL bar
+- If prompted, click on the button to Accept the warning
+- Search for the "network.http.sendRefererHeader" preference
+- Set the value to "2" (the default) which will enable the referer header
+
+If this doesn't work, I would suggest downloading and playing the offline build instead!
+
+Sorry about this!
+                                                                --DDRKirby(ISQ)</source>
+          <target>제 게임을 허락 없이 재배포하는 나쁜 사이트들을 막기 위해, Rhythm Quest는 HTTP "referer" 헤더를 이용해 허가된 웹사이트 (rhythmquestgame.com, itch.io)에서 불러왔는지 확인합니다.
+
+만약 referer 추적을 비활성화 하는 브라우저 확장이 있으시다면, 데모를 정상적으로 블러오기 위해 비활성화하시고 새로고침 해주세요. 
+
+Firefox의 경우 referer 헤더 설정도 살펴보세요:
+- 주소 창에 "about:config" 로 들어가세요
+- 만약 경고 창이 뜬다면 버튼을 눌러 경고를 승락해주세요
+- "network.http.sendRefererHeader" 설정을 검색해주세요
+- 값을 (기본 값인) 2로 설정해주세요, referer 헤더를 활성화합니다.
+
+만약 이게 되지 않는다면, 대신 오프라인 빌드를 내려받아 즐기시는걸 추천드립니다!
+
+죄송해요!
+                                                                --DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome">
+          <source>Welcome to the Rhythm Quest Demo!</source>
+          <target>Rhythm Quest 데모에 오신 걸 환영합니다!</target>
+        </trans-unit>
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+          <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
+
+If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
+
+Have fun, and thanks for playing!
+                                                                --DDRKirby(ISQ)</source>
+          <target>Rhythm Quest의 초기 데모 빌드입니다. 그래서 일부 레벨만 플레이할 수 있고 게임의 모든 것은 변경될 여지가 있습니다!
+
+Stream에서 게임 찜하기 또는 메일을 구독하거나 게임이 완전히 출시되었을 때 Discord에서 알림을 받고 싶다면 &lt;u&gt;rhythmquestgame.com&lt;/u&gt;에 방문해주세요.
+
+즐거운 시간 보내세요! 플레이해 주셔서 감사합니다!
+								--DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
+          <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
+
+Please make sure hardware graphics acceleration is enabled for your browser for better performance.
+
+Save data is stored in your browser and may potentially not persist across version updates.
+
+For the best experience, feel free to try the standalone offline build instead!</source>
+          <target>참고: 브라우저 버전의 데모를 플레이하고 있습니다, 오디오 멈춤을 경험하거나 싱크 정확도가 떨어질 수 있습니다.
+
+더 나은 성능을 위해 하드웨어 가속이 브라우저에서 켜져 있는지 확인해 주세요.
+
+세이브 데이터는 브라우저에 저장되며 버전에 따라 유지되지 않을 수 있습니다.
+
+최상의 경험을 위해 오프라인 빌드를 사용해 보세요!</target>
+        </trans-unit>
+        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
+          <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
+          <target>Rhythm Quest 데모의 종착점에 도착했습니다 - 플레이 해주셔서 감사합니다!</target>
+        </trans-unit>
+        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite">
+          <source>Visit the Website</source>
+          <target>웹사이트 방문</target>
+        </trans-unit>
+        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
+          <source>Join the Discord</source>
+          <target>Discord 참가</target>
+        </trans-unit>
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+          <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
+          <target>Rhythm Quest 정식 버전은 6개의 월드에 걸쳐 30개의 레벨에 열어지는 보너스 스테이지 그리고 더 많은 게임 플레이 메커니즘이 들어갈 예정입니다!</target>
+        </trans-unit>
+        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
+          <source>Next</source>
+          <target>다음</target>
+        </trans-unit>
+        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3">
+          <source>Wishlist and follow Rhythm Quest online for future updates!</source>
+          <target>찜해주시고 Rhythm Quest의 추후 업데이트를 팔로우 해주세요!</target>
+        </trans-unit>
+        <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description">
+          <source>Resolution and screen mode settings.</source>
+          <target>해상도 및 화면 모드 설정.</target>
+        </trans-unit>
+        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description">
+          <source>Zoom and scale settings.</source>
+          <target>확대 및 스케일 설정.</target>
+        </trans-unit>
+        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects">
+          <source>Visual effects and readability settings.</source>
+          <target>화면 효과 및 가독성 설정.</target>
+        </trans-unit>
+        <trans-unit id="123203967791181824" xml:space="preserve" resname="menu_settings_resolution">
+          <source>Resolution Settings...</source>
+          <target>해상도 설정...</target>
+        </trans-unit>
+        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata">
+          <source>Data Reset...</source>
+          <target>데이터 초기화</target>
+        </trans-unit>
+        <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description">
+          <source>Resets settings to default values.</source>
+          <target>설정을 기본값으로 초기화합니다.</target>
+        </trans-unit>
+        <trans-unit id="123208891287515136" xml:space="preserve" resname="resetprefs_confirmed">
+          <source>Settings have been reset to default values.
+(Audio recalibration is recommended)</source>
+          <target>설정이 기본값으로 초기화되었습니다.
+(오디오 재보정이 권장됩니다)</target>
+        </trans-unit>
+        <trans-unit id="123210343288451072" xml:space="preserve" resname="settings_resetprefs">
+          <source>Reset Preferences</source>
+          <target>환경 설정 초기화</target>
+        </trans-unit>
+        <trans-unit id="123232676979978240" xml:space="preserve" resname="menu_settings_screenfilter">
+          <source>Screen Filter Settings...</source>
+          <target>화면 필터 설정...</target>
+        </trans-unit>
+        <trans-unit id="123233005876326400" xml:space="preserve" resname="settings_menu_screenfilter">
+          <source>Configure a backdrop filter to make foreground elements more visible.</source>
+          <target>배경 필터를 조정하여 전면 요소들을 더 잘 보이게 합니다.</target>
+        </trans-unit>
+        <trans-unit id="123233399918604288" xml:space="preserve" resname="settings_screenfilter">
+          <source>Screen Filter</source>
+          <target>화면 필터</target>
+        </trans-unit>
+        <trans-unit id="123235128538083328" xml:space="preserve" resname="settings_screenfilter_fade">
+          <source>Fade</source>
+          <target>흐리게</target>
+        </trans-unit>
+        <trans-unit id="123235175392653312" xml:space="preserve" resname="settings_screenfilter_darken">
+          <source>Darken</source>
+          <target>어둡게</target>
+        </trans-unit>
+        <trans-unit id="123235228018585600" xml:space="preserve" resname="settings_screenfilter_desaturate">
+          <source>Desaturate</source>
+          <target>저채도</target>
+        </trans-unit>
+        <trans-unit id="123235460978618368" xml:space="preserve" resname="settings_screenfilter_description_disabled">
+          <source>Screen filter is disabled.</source>
+          <target>화면 필터가 비활성화됩니다.</target>
+        </trans-unit>
+        <trans-unit id="123235499293585408" xml:space="preserve" resname="settings_screenfilter_description_fade">
+          <source>Fades backdrops toward primary background color.</source>
+          <target>뒷 배경을 뒷 배경의 색깔에 맞춰 흐리게 합니다.</target>
+        </trans-unit>
+        <trans-unit id="123235512304316416" xml:space="preserve" resname="settings_screenfilter_description_darken">
+          <source>Darkens backdrops towards black.</source>
+          <target>뒷 배경을 어둡게 합니다.</target>
+        </trans-unit>
+        <trans-unit id="123235528121036800" xml:space="preserve" resname="settings_screenfilter_description_desaturate">
+          <source>Desaturates backdrops toward grayscale.</source>
+          <target>배경을 회색 계열로 채도를 낮춥니다.</target>
+        </trans-unit>
+        <trans-unit id="123512785343393792" xml:space="preserve" resname="settings_menu_calibration_description">
+          <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
+          <target>오디오 지연을 보정하여 오디오와 게임플레이의 싱크가 맞도록 보정합니다.</target>
+        </trans-unit>
+        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack">
+          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
+          <target>&lt;sprite name="{0}" tint=1 color=#{2}&gt; 또는 &lt;sprite name="{1}" tint=1 color=#{2}&gt; 를 눌러 공격.</target>
+        </trans-unit>
+        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump">
+          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</source>
+          <target>&lt;sprite name="{0}" tint=1 color=#{2}&gt; 또는 &lt;sprite name="{1}" tint=1 color=#{2}&gt; 를 눌러 점프.</target>
+        </trans-unit>
+        <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics">
+          <source>Haptic Feedback Settings...</source>
+          <target>햅틱 피드백 설정...</target>
+        </trans-unit>
+        <trans-unit id="124685691133931520" xml:space="preserve" resname="settings_hapticattack_description_disabled">
+          <source>Disables vibration on successful attacks.</source>
+          <target>공격 성공 시 진동을 사용하지 않습니다.</target>
+        </trans-unit>
+        <trans-unit id="124685702768930816" xml:space="preserve" resname="settings_hapticattack_description_enabled">
+          <source>Enables vibration on successful attacks.</source>
+          <target>공격 성공 시 진동을 사용합니다.</target>
+        </trans-unit>
+        <trans-unit id="124686712975437824" xml:space="preserve" resname="settings_hapticattack">
+          <source>Attack Rumble</source>
+          <target>공격 진동</target>
+        </trans-unit>
+        <trans-unit id="124686714758017024" xml:space="preserve" resname="settings_hapticjump">
+          <source>Jump Rumble</source>
+          <target>점프 진동</target>
+        </trans-unit>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
+          <source>Ui Rumble</source>
+          <target>Ui 진동</target>
+        </trans-unit>
+        <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
+          <source>Disables vibration on successful jumps.</source>
+          <target>점프 성공 시 진동을 사용하지 않습니다.</target>
+        </trans-unit>
+        <trans-unit id="124687024733859840" xml:space="preserve" resname="settings_hapticjump_description_enabled">
+          <source>Enables vibration on successful jumps.</source>
+          <target>점프 성공 시 진동을 사용합니다.</target>
+        </trans-unit>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
+          <source>Disables vibration for ui elements.</source>
+          <target>UI 요소에 진동을 사용합니다.</target>
+        </trans-unit>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
+          <source>Enables vibration for ui elements.</source>
+          <target>UI 요소에 진동을 사용하지 않습니다.</target>
+        </trans-unit>
+        <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
+          <source>Haptic vibration feedback settings.</source>
+          <target>햅틱 진동 피드백 설정.</target>
+        </trans-unit>
+        <trans-unit id="126828106082988032" xml:space="preserve" resname="settings_menu_audiocues_description">
+          <source>Adjust audio-based cues for the blind and visually impaired.</source>
+          <target>시각장애인을 위한 오디오 신호를 활성화합니다.</target>
+        </trans-unit>
+        <trans-unit id="126828476838490112" xml:space="preserve" resname="menu_settings_audiocueconfig">
+          <source>Audio Cue Config...</source>
+          <target>오디오 신호 설정...</target>
+        </trans-unit>
+        <trans-unit id="126840626063650816" xml:space="preserve" resname="settings_audiocuepanning">
+          <source>Panning</source>
+          <target>기울기</target>
+        </trans-unit>
+        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description">
+          <source>-100%: Attack cues on left, Jump cues on right
+100%: Jump cues on left, attack cues on right
+0%: Centered cues</source>
+          <target>-100%: 공격 신호음이 왼쪽, 점프 신호음이 오른쪽
+100%: 점프 신호음이 왼쪽, 공격 신호음이 오른쪽
+0%: 중앙 신호음</target>
+        </trans-unit>
+        <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump">
+          <source>Jump</source>
+          <target>점프</target>
+        </trans-unit>
+        <trans-unit id="126862293653565440" xml:space="preserve" resname="settings_audiocueattack">
+          <source>Attack</source>
+          <target>공격</target>
+        </trans-unit>
+        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold">
+          <source>Jump Hold</source>
+          <target>점프 홀드</target>
+        </trans-unit>
+        <trans-unit id="126862339107237888" xml:space="preserve" resname="settings_audiocuejumprelease">
+          <source>Jump Release</source>
+          <target>점프 해제</target>
+        </trans-unit>
+        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack">
+          <source>Jump + Attack</source>
+          <target>점프 + 공격</target>
+        </trans-unit>
+        <trans-unit id="126940109233500160" xml:space="preserve" resname="settings_audiocuevolume">
+          <source>Volume Balance</source>
+          <target>볼륨 균형</target>
+        </trans-unit>
+        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description">
+          <source>Adjust balance between game sound and cue track. (0% = cues disabled)</source>
+          <target>게임 소리와 신호음 사이 균형을 조정합니다. (0% = 신호음 비활성화)</target>
+        </trans-unit>
+        <trans-unit id="128297471466844160" xml:space="preserve" resname="menu_settings_haptics">
+          <source>Haptic Feedback...</source>
+          <target>햅틱 피드백...</target>
+        </trans-unit>
+        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description">
+          <source>Select a cue sound to play one beat before a jump.</source>
+          <target>점프 한 박자 전에 재생할 신호음을 설정해주세요.</target>
+        </trans-unit>
+        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description">
+          <source>Select a cue sound to play one beat before an attack.</source>
+          <target>공격 한 박자 전에 재생할 신호음을 설정해주세요.</target>
+        </trans-unit>
+        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description">
+          <source>Select a cue sound to play one beat before beginning a jump hold.</source>
+          <target>점프 홀드 한 박자 전에 재생할 신호음을 설정해주세요.</target>
+        </trans-unit>
+        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description">
+          <source>Select a cue sound to play one beat before releasing a jump hold.</source>
+          <target>점프 홀드 해제 한 박자 전에 재생할 신호음을 설정해주세요.</target>
+        </trans-unit>
+        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
+          <source>Select a cue sound to play one beat before a combined jump + attack.</source>
+          <target>점프 + 공격 한 박자 전에 재생할 신호음을 설정해주세요.</target>
+        </trans-unit>
+        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
+          <source>Keep going...</source>
+          <target>계속 하세요...</target>
+        </trans-unit>
+        <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
+          <source>Screenreader Mode</source>
+          <target>화면 읽기 모드</target>
+        </trans-unit>
+        <trans-unit id="134459975284862976" xml:space="preserve" resname="settings_screenreadermode_description_disabled">
+          <source>Screenreader is disabled.</source>
+          <target>화면 읽기가 비활성화되었습니다.</target>
+        </trans-unit>
+        <trans-unit id="134459976639623168" xml:space="preserve" resname="settings_screenreadermode_description_enabled">
+          <source>Enables full screenreader navigation. Normal navigation is disabled.</source>
+          <target>전체 화면 읽기 탐색을 활성화합니다. 일반적인 탐색은 비활성화됩니다.</target>
+        </trans-unit>
+        <trans-unit id="134459977423958016" xml:space="preserve" resname="settings_screenreadermode_description_readonly">
+          <source>Retains normal UI navigation, but reads out selected button.</source>
+          <target>일반적인 UI 탐색을 유지합니다, 하지만 선택된 버튼을 읽습니다.</target>
+        </trans-unit>
+        <trans-unit id="134460282559574016" xml:space="preserve" resname="settings_screenreadermode_readonly">
+          <source>Read Only</source>
+          <target>읽기 전용</target>
+        </trans-unit>
+        <trans-unit id="134460336959696896" xml:space="preserve" resname="settings_screenreadermode_full">
+          <source>Full</source>
+          <target>전체</target>
+        </trans-unit>
+        <trans-unit id="134464696317947904" xml:space="preserve" resname="settings_menu_screenreadermode_description">
+          <source>Control screenreader functionality and navigation.</source>
+          <target>화면 읽기 기능 및 탐색을 설정합니다.</target>
+        </trans-unit>
+        <trans-unit id="134464831173210112" xml:space="preserve" resname="menu_settings_screenreadermode">
+          <source>Screenreader Mode...</source>
+          <target>화면 읽기 모드...</target>
+        </trans-unit>
+        <trans-unit id="134563955822342144" xml:space="preserve" resname="screenreader_scene_prompt">
+          <source>It looks like you have a screen reader enabled.
+Would you like to enable screen reader mode?
+(This can later be configured in Settings -&gt; Accessibility)</source>
+          <target>화면 읽기를 사용 중이신 것 같습니다. 
+화면 읽기 모드를 활성화하시겠어요? 
+(이 설정은 설정 -&gt; 접근성에서 변경하실 수 있습니다)</target>
+        </trans-unit>
+        <trans-unit id="134569382538686464" xml:space="preserve" resname="menu_prev_level_accessible">
+          <source>Previous (Level {0} {1})</source>
+          <target>이전 (레벨 {0} {1})</target>
+        </trans-unit>
+        <trans-unit id="134569383104917504" xml:space="preserve" resname="menu_next_level_accessible">
+          <source>Next (Level {0} {1})</source>
+          <target>다음 (레벨 {0} {1})</target>
+        </trans-unit>
+        <trans-unit id="135522706851147776" xml:space="preserve" resname="decrement">
+          <source>Decrement</source>
+          <target>줄이기</target>
+        </trans-unit>
+        <trans-unit id="135522708604366848" xml:space="preserve" resname="increment">
+          <source>Increment</source>
+          <target>늘리기</target>
+        </trans-unit>
+        <trans-unit id="135534588144168960" xml:space="preserve" resname="settings_audiocues">
+          <source>Audio Cues</source>
+          <target>오디오 신호 음</target>
+        </trans-unit>
+        <trans-unit id="135535616151302144" xml:space="preserve" resname="settings_audiocues_description_disabled">
+          <source>Disables ahead-of-time audio cues.</source>
+          <target>사전 오디오 신호음을 재생하지 않습니다.</target>
+        </trans-unit>
+        <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled">
+          <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
+          <target>시각장애인을 위해서 사전 오디오 신호음을 재생합니다.</target>
+        </trans-unit>
+        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_desktop_attack_uap">
+          <source>Press {0} or {1} to Attack.</source>
+          <target>{0} 또는 {1} 를 눌러 공격하세요.</target>
+        </trans-unit>
+        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_desktop_jump_uap">
+          <source>Press {0} or {1} to Jump.</source>
+          <target>{0} 또는 {1} 를 눌러 점프하세요.</target>
+        </trans-unit>
+        <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button">
+          <source>right mouse button</source>
+          <target>마우스 오른쪽</target>
+        </trans-unit>
+        <trans-unit id="138026743349686272" xml:space="preserve" resname="left_mouse_button">
+          <source>left mouse button</source>
+          <target>마우스 왼쪽</target>
+        </trans-unit>
+        <trans-unit id="138027777304342528" xml:space="preserve" resname="controller_y">
+          <source>Y</source>
+          <target>Y</target>
+        </trans-unit>
+        <trans-unit id="138027779527323648" xml:space="preserve" resname="controller_x">
+          <source>X</source>
+          <target>X</target>
+        </trans-unit>
+        <trans-unit id="138027780382961664" xml:space="preserve" resname="controller_a">
+          <source>A</source>
+          <target>A</target>
+        </trans-unit>
+        <trans-unit id="138027948037681152" xml:space="preserve" resname="controller_b">
+          <source>B</source>
+          <target>B</target>
+        </trans-unit>
+        <trans-unit id="138027960914194432" xml:space="preserve" resname="controller_dpad">
+          <source>D-pad</source>
+          <target>십자 패드</target>
+        </trans-unit>
+        <trans-unit id="138027980287684608" xml:space="preserve" resname="controller_triangle">
+          <source>triangle</source>
+          <target>삼각형</target>
+        </trans-unit>
+        <trans-unit id="138028001263398912" xml:space="preserve" resname="controller_cross">
+          <source>X</source>
+          <target>X</target>
+        </trans-unit>
+        <trans-unit id="138028045664301056" xml:space="preserve" resname="controller_square">
+          <source>square</source>
+          <target>사각형</target>
+        </trans-unit>
+        <trans-unit id="138033177714012160" xml:space="preserve" resname="tutorial_mobile_jump_normal_uap">
+          <source>Tap the left side of the screen to Jump.</source>
+          <target>화면 왼쪽을 탭하여 점프하세요.</target>
+        </trans-unit>
+        <trans-unit id="138033286258405376" xml:space="preserve" resname="tutorial_mobile_jump_flipped_uap">
+          <source>Tap the right side of the screen to Jump.</source>
+          <target>화면 오른쪽을 탭하여 점프하세요.</target>
+        </trans-unit>
+        <trans-unit id="138033288263282688" xml:space="preserve" resname="tutorial_mobile_attack_normal_uap">
+          <source>Tap the right side of the screen to Attack.</source>
+          <target>화면 오른쪽을 탭하여 공격하세요.</target>
+        </trans-unit>
+        <trans-unit id="138033289026646016" xml:space="preserve" resname="tutorial_mobile_attack_flipped_uap">
+          <source>Tap the left side of the screen to Attack.</source>
+          <target>화면 왼쪽을 탭하여 공격하세요.</target>
+        </trans-unit>
+        <trans-unit id="138034608860868608" xml:space="preserve" resname="controller_sr">
+          <source>SR</source>
+          <target>SR</target>
+        </trans-unit>
+        <trans-unit id="138034634722947072" xml:space="preserve" resname="controller_sl">
+          <source>SL</source>
+          <target>SL</target>
+        </trans-unit>
+        <trans-unit id="138034670018015232" xml:space="preserve" resname="controller_dpaddown">
+          <source>D-pad down</source>
+          <target>십자 패드 아래</target>
+        </trans-unit>
+        <trans-unit id="138034724330057728" xml:space="preserve" resname="controller_dpadleft">
+          <source>D-pad left</source>
+          <target>십자 패드 왼쪽</target>
+        </trans-unit>
+        <trans-unit id="138034794794364928" xml:space="preserve" resname="controller_analogstick">
+          <source>analog stick</source>
+          <target>아날로그 스틱</target>
+        </trans-unit>
+        <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap">
+          <source>You can change these controls in the "Settings" menu.</source>
+          <target>조작법은 메인 메뉴에서 변경할 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="145495792350441472" xml:space="preserve" resname="menu_resuming">
+          <source>Resuming...</source>
+          <target>재개 중...</target>
+        </trans-unit>
+        <trans-unit id="157189498842636288" xml:space="preserve" resname="settings_never">
+          <source>Never</source>
+          <target>하지 않음</target>
+        </trans-unit>
+        <trans-unit id="157189666698682368" xml:space="preserve" resname="settings_in_game">
+          <source>In-Game</source>
+          <target>인 게임</target>
+        </trans-unit>
+        <trans-unit id="157189817408413696" xml:space="preserve" resname="settings_always">
+          <source>Always</source>
+          <target>항상</target>
+        </trans-unit>
+        <trans-unit id="157189963332444160" xml:space="preserve" resname="settings_hidecursor_description_never">
+          <source>Never hide mouse cursor.</source>
+          <target>마우스 커서 숨기지 않기</target>
+        </trans-unit>
+        <trans-unit id="157189966771773440" xml:space="preserve" resname="settings_hidecursor_description_in_game">
+          <source>Hide mouse cursor during gameplay.</source>
+          <target>게임 중에만 마우스 커서 숨기기</target>
+        </trans-unit>
+        <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always">
+          <source>Always hide mouse cursor.</source>
+          <target>항상 마우스 커서 숨기기</target>
+        </trans-unit>
+        <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor">
+          <source>Hide Cursor</source>
+          <target>마우스 커서 숨기기</target>
+        </trans-unit>
+        <trans-unit id="160981046260301824" xml:space="preserve" resname="medal_coin_totals">
+          <source>Totals</source>
+          <target>전체</target>
+        </trans-unit>
+        <trans-unit id="161022499091021824" xml:space="preserve" resname="game_auto_play">
+          <source>Auto Play</source>
+          <target>자동 플레이</target>
+        </trans-unit>
+        <trans-unit id="161040045575929856" xml:space="preserve" resname="settings_pixelfont_description_enabled_unavailable">
+          <source>Use pixel-styled font for the interface. &lt;color=red&gt;[Unavailable at this resolution]&lt;/color&gt;</source>
+          <target>인터페이스에 픽셀 스타일 폰트 사용. &lt;color=red&gt;[이 해상도에서 사용불가]&lt;/color&gt;</target>
+        </trans-unit>
+        <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
+          <source>Level 4-4
+Soaring Skyline</source>
+          <target>레벨 4-4
+Soaring Skyline</target>
+        </trans-unit>
+        <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
+          <source>English</source>
+          <target>영어</target>
+        </trans-unit>
+        <trans-unit id="176584575212630016" xml:space="preserve" resname="language_de">
+          <source>German</source>
+          <target>독일어</target>
+        </trans-unit>
+        <trans-unit id="176584577615966208" xml:space="preserve" resname="language_fr">
+          <source>French</source>
+          <target>프랑스어</target>
+        </trans-unit>
+        <trans-unit id="176584581759938560" xml:space="preserve" resname="language_it">
+          <source>Italian</source>
+          <target>이탈리아어</target>
+        </trans-unit>
+        <trans-unit id="176584584880500736" xml:space="preserve" resname="language_ja">
+          <source>Japanese</source>
+          <target>일본어</target>
+        </trans-unit>
+        <trans-unit id="176584587292225536" xml:space="preserve" resname="language_ko">
+          <source>Korean</source>
+          <target>한국어</target>
+        </trans-unit>
+        <trans-unit id="176584753697042432" xml:space="preserve" resname="language_pl">
+          <source>Polish</source>
+          <target>폴란드어</target>
+        </trans-unit>
+        <trans-unit id="176584755295072256" xml:space="preserve" resname="language_pt-BR">
+          <source>Brazilian Portuguese</source>
+          <target>브라질 포르투칼어</target>
+        </trans-unit>
+        <trans-unit id="176584756175876096" xml:space="preserve" resname="language_ru">
+          <source>Russian</source>
+          <target>러시아어</target>
+        </trans-unit>
+        <trans-unit id="176584972115423232" xml:space="preserve" resname="language_sv-SE">
+          <source>Swedish</source>
+          <target>스웨덴어</target>
+        </trans-unit>
+        <trans-unit id="176585005158150144" xml:space="preserve" resname="language_uk">
+          <source>Ukrainian</source>
+          <target>우크라이나어</target>
+        </trans-unit>
+        <trans-unit id="176585048514670592" xml:space="preserve" resname="language_vi">
+          <source>Vietnamese</source>
+          <target>베트남어</target>
+        </trans-unit>
+        <trans-unit id="176585075731509248" xml:space="preserve" resname="language_zh-CN">
+          <source>Chinese (Simplified)</source>
+          <target>중국어(간체)</target>
+        </trans-unit>
+        <trans-unit id="176585124578373632" xml:space="preserve" resname="language_zh-TW">
+          <source>Chinese (Traditional)</source>
+          <target>중국어(번체)</target>
+        </trans-unit>
+        <trans-unit id="176585183739031552" xml:space="preserve" resname="credits_translation_header">
+          <source>Translation Credits</source>
+          <target>번역 제작자</target>
+        </trans-unit>
+        <trans-unit id="176875347849818112" xml:space="preserve" resname="language_es-ES">
+          <source>Spanish</source>
+          <target>스페인어</target>
+        </trans-unit>
+        <trans-unit id="176933770259902464" xml:space="preserve" resname="language_description_en">
+          <source>Use original English text.</source>
+          <target>고유 영어 텍스트 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES">
+          <source>Use Spanish translation by {0}.</source>
+          <target>{0} 님이 제작한 스페인어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de">
+          <source>Use German translation by {0}.</source>
+          <target>{0} 님이 제작한 독일어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr">
+          <source>Use French translation by {0}.</source>
+          <target>{0} 님이 제작한 프랑스어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it">
+          <source>Use Italian translation by {0}.</source>
+          <target>{0} 님이 제작한 이탈리아어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja">
+          <source>Use Japanese translation by {0}.</source>
+          <target>{0} 님이 제작한 일본어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko">
+          <source>Use Korean translation by {0}.</source>
+          <target>{0} 님이 제작한 한국어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl">
+          <source>Use Polish translation by {0}.</source>
+          <target>{0} 님이 제작한 폴란드어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR">
+          <source>Use Brazilian Portuguese translation by {0}.</source>
+          <target>{0} 님이 제작한 브라질 포르투갈어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru">
+          <source>Use Russian translation by {0}.</source>
+          <target>{0} 님이 제작한 러시아어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE">
+          <source>Use Swedish translation by {0}.</source>
+          <target>{0} 님이 제작한 스웨덴어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk">
+          <source>Use Ukrainian translation by {0}.</source>
+          <target>{0} 님이 제작한 우크라이나어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN">
+          <source>Use Chinese (Simplified) translation by {0}.</source>
+          <target>{0} 님이 제작한 중국어(간체) 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW">
+          <source>Use Chinese (Traditional) translation by {0}.</source>
+          <target>{0} 님이 제작한 중국어(번체) 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
+          <source>Level 4-5
+Moonlit Mesa</source>
+          <target>레벨 4-5
+Moonlit Mesa</target>
+        </trans-unit>
+        <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
+          <source>Promotional Art: Kat Jia</source>
+          <target>홍보용 그림: Kat Jia</target>
+        </trans-unit>
+        <trans-unit id="193899931476209664" xml:space="preserve" resname="settings_checkpoints_description_disabled">
+          <source>Always restart at the beginning of the entire level. Coin/respawn counts are also reset.</source>
+          <target>항상 레벨 시작 지점에서 재시작합니다.</target>
+        </trans-unit>
+        <trans-unit id="193899933799854080" xml:space="preserve" resname="settings_checkpoints_description_enabled">
+          <source>Checkpoints behave normally.</source>
+          <target>체크포인트가 정상적으로 작동합니다.</target>
+        </trans-unit>
+        <trans-unit id="194143242711511040" xml:space="preserve" resname="language_description_vi">
+          <source>Use Vietnamese translation by {0}.</source>
+          <target>{0} 님이 제작한 베트남어 번역 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
+          <source>Level 5-1
+Gleaming Glassway</source>
+          <target>레벨 5-1
+Gleaming Glassway</target>
+        </trans-unit>
+        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
+          <source>Level 5-2
+Sunken Street</source>
+          <target>레벨 5-2
+Sunken Street</target>
+        </trans-unit>
+        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
+          <source>Level 5-3
+Crossway Corridor</source>
+          <target>레벨 5-3
+Crossway Corridor</target>
+        </trans-unit>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
+          <source>Level 5-4
+Planar Puzzle</source>
+          <target>레벨 5-4
+Planar Puzzle</target>
+        </trans-unit>
+        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
+          <source>Level 5-5
+Brilliant Boulevard</source>
+          <target>레벨 5-5
+Brilliant Boulevard</target>
+        </trans-unit>
+        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
+          <source>Level 6-2
+Speedy Starfield</source>
+          <target>레벨 6-2
+Speedy Starfield</target>
+        </trans-unit>
+        <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
+          <source>Perfect Cleared</source>
+          <target>퍼펙트 클리어</target>
+        </trans-unit>
+        <trans-unit id="245806537383075840" xml:space="preserve" resname="menu_settings_keyboardcontrols">
+          <source>Keyboard Bindings...</source>
+          <target>키보드 조작법...</target>
+        </trans-unit>
+        <trans-unit id="248578831460118528" xml:space="preserve" resname="settings_menu_keyboardcontrols_description">
+          <source>Configure keyboard bindings.</source>
+          <target>키보드 조작법을 설정합니다.</target>
+        </trans-unit>
+        <trans-unit id="248579024104501248" xml:space="preserve" resname="menu_settings_gamepadcontrols">
+          <source>Gamepad Bindings...</source>
+          <target>게임패드 조작법...</target>
+        </trans-unit>
+        <trans-unit id="248579048595042304" xml:space="preserve" resname="settings_menu_gamepadcontrols_description">
+          <source>Configure gamepad bindings.</source>
+          <target>게임패드 조작법을 설정합니다.</target>
+        </trans-unit>
+        <trans-unit id="248579730731479040" xml:space="preserve" resname="settings_keyboardcustomcontrols">
+          <source>Keyboard Config</source>
+          <target>키보드 설정</target>
+        </trans-unit>
+        <trans-unit id="248580085129195520" xml:space="preserve" resname="settings_custom">
+          <source>Custom</source>
+          <target>사용자 지정</target>
+        </trans-unit>
+        <trans-unit id="248580203068829696" xml:space="preserve" resname="settings_gamepadcustomcontrols">
+          <source>Gamepad Config</source>
+          <target>게임패드 설정</target>
+        </trans-unit>
+        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default">
+          <source>Use default keyboard bindings.</source>
+          <target>기본 키보드 조작법 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom">
+          <source>Use custom keyboard bindings.</source>
+          <target>키보드 조작법 사용자 지정하기.</target>
+        </trans-unit>
+        <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default">
+          <source>Use default gamepad bindings.</source>
+          <target>기본 게임패드 조작법 사용하기.</target>
+        </trans-unit>
+        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom">
+          <source>Use custom gamepad bindings.</source>
+          <target>게임패드 조작법 사용자 지정하기.</target>
+        </trans-unit>
+        <trans-unit id="249848469561061376" xml:space="preserve" resname="released_early">
+          <source>Released Early</source>
+          <target>빨리 놓음</target>
+        </trans-unit>
+        <trans-unit id="249848490654216192" xml:space="preserve" resname="released_late">
+          <source>Released Late</source>
+          <target>늦게 놓음</target>
+        </trans-unit>
+        <trans-unit id="250050013166350336" xml:space="preserve" resname="no_gamepad_detected">
+          <source>No compatible gamepad detected!
+Please connect a supported gamepad device.</source>
+          <target>호환 가능한 게임패드를 찾을 수 없습니다!
+지원되는 게임패드 장치를 연걸해주세요.</target>
+        </trans-unit>
+        <trans-unit id="250053160966336512" xml:space="preserve" resname="control_press_button">
+          <source>Press a button</source>
+          <target>버튼을 누르세요</target>
+        </trans-unit>
+        <trans-unit id="253407677048991744" xml:space="preserve" resname="settings_musicspeed">
+          <source>Music Speed</source>
+          <target>음악 속도</target>
+        </trans-unit>
+        <trans-unit id="254021560759529472" xml:space="preserve" resname="settings_normal">
+          <source>Normal</source>
+          <target>보통</target>
+        </trans-unit>
+        <trans-unit id="254021648764416000" xml:space="preserve" resname="settings_low">
+          <source>Low</source>
+          <target>낮음</target>
+        </trans-unit>
+        <trans-unit id="254021836123975680" xml:space="preserve" resname="settings_graphicsquality_description_low">
+          <source>Reduces some background effects to improve framerate.</source>
+          <target>프레임을 올리기 위해 몇몇 배경 효과를 줄입니다.</target>
+        </trans-unit>
+        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal">
+          <source>Full graphics quality.</source>
+          <target>완전한 그래픽 품질</target>
+        </trans-unit>
+        <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality">
+          <source>Graphics Quality</source>
+          <target>그래픽 품질</target>
+        </trans-unit>
+        <trans-unit id="255267299099717632" xml:space="preserve" resname="settings_uivolume">
+          <source>UI Volume</source>
+          <target>UI 음량</target>
+        </trans-unit>
+        <trans-unit id="255267540179922944" xml:space="preserve" resname="settings_uivolume_description">
+          <source>Adjust the volume of the user interface sounds.</source>
+          <target>사용자 인터페이스에서의 음량을 조정합니다.</target>
+        </trans-unit>
+        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
+          <source>Game Mods</source>
+          <target>게임 변형</target>
+        </trans-unit>
+        <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
+          <source>Adjust audio volume settings.</source>
+          <target>음량 설정을 조정합니다.</target>
+        </trans-unit>
+        <trans-unit id="255998149349126144" xml:space="preserve" resname="settings_framequeueing">
+          <source>Frame Queueing</source>
+          <target>프레임 대기 설정</target>
+        </trans-unit>
+        <trans-unit id="256003847856369664" xml:space="preserve" resname="menu_settings_performance">
+          <source>Performance Settings...</source>
+          <target>성능 설정...</target>
+        </trans-unit>
+        <trans-unit id="256004031717879808" xml:space="preserve" resname="settings_menu_performance">
+          <source>Adjust performance-related options.</source>
+          <target>성능과 관련 있는 설정을 조정합니다.</target>
+        </trans-unit>
+        <trans-unit id="256004459872432128" xml:space="preserve" resname="screen_refresh_rate">
+          <source>Current screen refresh rate: {0} Hz</source>
+          <target>현재 화면 주사율: {0} Hz</target>
+        </trans-unit>
+        <trans-unit id="256006348328448000" xml:space="preserve" resname="frames_per_second">
+          <source>Current FPS: {0}</source>
+          <target>현재 FPS: {0}</target>
+        </trans-unit>
+        <trans-unit id="256006672258740224" xml:space="preserve" resname="settings_framequeueing_latency">
+          <source>Latency</source>
+          <target>지연 시간 우선</target>
+        </trans-unit>
+        <trans-unit id="256006835362639872" xml:space="preserve" resname="settings_frame_queueing_performance">
+          <source>Performance</source>
+          <target>성능 우선</target>
+        </trans-unit>
+        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency">
+          <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
+          <target>여러 프레임이 대기하지 못하게 막아 낮은 지연 시간에 집중합니다.</target>
+        </trans-unit>
+        <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
+          <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
+          <target>여러 프레임이 대기할 수 있도록 해 부드러운 성능에 집중합니다. 게임 플레이 중 프레임 하락이 발생하면 사용하세요.</target>
+        </trans-unit>
+        <trans-unit id="256385837487140864" xml:space="preserve" resname="settings_musicspeed_description">
+          <source>Adjust the music speed to make the game easier or more difficult.</source>
+          <target>음악 속도를 조정하여 게임을 쉽거나 더 어렵게 만듭니다.</target>
+        </trans-unit>
+        <trans-unit id="256386100084125696" xml:space="preserve" resname="settings_checkpoints">
+          <source>Checkpoints</source>
+          <target>체크포인트</target>
+        </trans-unit>
+        <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes">
+          <source>Audio Volume...</source>
+          <target>음량...</target>
+        </trans-unit>
+        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
+          <source>Modifiers that affect game timing and speed.</source>
+          <target>게임의 타이밍과 속도에 영향을 주는 변형.</target>
+        </trans-unit>
+        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
+          <source>Modifiers that affect visual display of the game.</source>
+          <target>게임의 보여지는 모습에 영향을 주는 변형.</target>
+        </trans-unit>
+        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
+          <source>Timing Mods...</source>
+          <target>타이밍 변형...</target>
+        </trans-unit>
+        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
+          <source>Visual Mods...</source>
+          <target>시각 변형...</target>
+        </trans-unit>
+        <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
+          <source>Timing Windows</source>
+          <target>판정 범위</target>
+        </trans-unit>
+        <trans-unit id="256643554298605568" xml:space="preserve" resname="settings_timingwindows_extrawide">
+          <source>Extra Wide</source>
+          <target>넓음</target>
+        </trans-unit>
+        <trans-unit id="256643621076119552" xml:space="preserve" resname="settings_timingwindows_strict">
+          <source>Strict</source>
+          <target>엄격</target>
+        </trans-unit>
+        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide">
+          <source>Use extra wide timing windows to make gameplay very forgiving.</source>
+          <target>판정 범위를 넓혀 게임플레이를 자비롭게 만듭니다.</target>
+        </trans-unit>
+        <trans-unit id="256645728936177664" xml:space="preserve" resname="settings_timingwindows_description_normal">
+          <source>Use normal timing windows for game obstacles.</source>
+          <target>장애물에 대해 일반적인 판정 범위를 사용합니다.</target>
+        </trans-unit>
+        <trans-unit id="256645729905061888" xml:space="preserve" resname="settings_timingwindows_description_strict">
+          <source>Use smaller timing windows to increase game difficulty.</source>
+          <target>더 좁은 판정범위를 사용해 게임 난이도를 올립니다.</target>
+        </trans-unit>
+        <trans-unit id="256672503980404736" xml:space="preserve" resname="settings_ghosthelpers">
+          <source>Ghost Helpers</source>
+          <target>유령 도우미</target>
+        </trans-unit>
+        <trans-unit id="256672787016232960" xml:space="preserve" resname="settings_ghosthelpers_description">
+          <source>Adds translucent markers for ghost enemy positions.</source>
+          <target>유령 적 위치에 투명 표지를 추가합니다.</target>
+        </trans-unit>
+        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow">
+          <source>Slow</source>
+          <target>느림</target>
+        </trans-unit>
+        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast">
+          <source>Fast</source>
+          <target>빠름</target>
+        </trans-unit>
+        <trans-unit id="259823816314499072" xml:space="preserve" resname="settings_respawntiming">
+          <source>Respawn Timing</source>
+          <target>리스폰 타이밍</target>
+        </trans-unit>
+        <trans-unit id="259823939908055040" xml:space="preserve" resname="settings_respawntiming_description_slow">
+          <source>Use a longer respawn duration.</source>
+          <target>더 긴 리스폰 시간을 사용합니다.</target>
+        </trans-unit>
+        <trans-unit id="259823941657079808" xml:space="preserve" resname="settings_respawntiming_description_normal">
+          <source>Use a normal respawn duration.</source>
+          <target>일반적인 리스폰 시간을 사용합니다.</target>
+        </trans-unit>
+        <trans-unit id="259823945557782528" xml:space="preserve" resname="settings_respawntiming_description_fast">
+          <source>Respawn very quickly after a mistake.</source>
+          <target>실수 후 빠르게 리스폰합니다.</target>
+        </trans-unit>
+        <trans-unit id="259914650934358016" xml:space="preserve" resname="settings_millisecond_display">
+          <source>{0}ms</source>
+          <target>{0}ms</target>
+        </trans-unit>
+        <trans-unit id="259917308235657216" xml:space="preserve" resname="settings_timingwindows_normal">
+          <source>Normal</source>
+          <target>보통</target>
+        </trans-unit>
+        <trans-unit id="259917960366043136" xml:space="preserve" resname="settings_respawntiming_normal">
+          <source>Normal</source>
+          <target>보통</target>
+        </trans-unit>
+        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other">
+          <source>Other</source>
+          <target>기타</target>
+        </trans-unit>
+        <trans-unit id="269934069781671936" xml:space="preserve" resname="settings_runinbackground">
+          <source>Run in Background</source>
+          <target>백그라운드에서 실행</target>
+        </trans-unit>
+        <trans-unit id="269934325172842496" xml:space="preserve" resname="settings_runinbackground_description_disabled">
+          <source>Game will automatically pause when losing focus.</source>
+          <target>포커스를 잃을 때 게임을 자동으로 멈춥니다.</target>
+        </trans-unit>
+        <trans-unit id="269934329509752832" xml:space="preserve" resname="settings_runinbackground_description_enabled">
+          <source>Game will continue running when unfocused.</source>
+          <target>포커스를 잃어도 게임을 계속 실행합니다.</target>
+        </trans-unit>
+        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description">
+          <source>Manage and reset save data.</source>
+          <target>세이브 데이터 관리 및 초기화하기.</target>
+        </trans-unit>
+        <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete">
+          <source>Delete</source>
+          <target>삭제</target>
+        </trans-unit>
+        <trans-unit id="273376667829579776" xml:space="preserve" resname="settings_inputtimeline">
+          <source>Input Timeline</source>
+          <target>입력 타임라인</target>
+        </trans-unit>
+        <trans-unit id="273378692210405376" xml:space="preserve" resname="settings_inputtimeline_description">
+          <source>Adds a timeline display for expected inputs.</source>
+          <target>예상된 입력과의 타임라인 디스플레이를 추가합니다.</target>
+        </trans-unit>
+        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description">
+          <source>&lt;color=#ffff00&gt;Basic Enemies&lt;/color&gt;
+Click to insert red or green basic enemies.</source>
+          <target>&lt;color=#ffff00&gt;기본 적&lt;/color&gt;
+클릭해 빨간색 혹은 초록색 기본 적을 배치합니다.</target>
+        </trans-unit>
+        <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description">
+          <source>&lt;color=#ffff00&gt;Flight Paths&lt;/color&gt;
+Click and drag to insert winged flight paths.</source>
+          <target>&lt;color=#ffff00&gt;비행 경로&lt;/color&gt;
+클릭하고 드래그해 비행 경로를 배치합니다.</target>
+        </trans-unit>
+        <trans-unit id="276961258184159232" xml:space="preserve" resname="editor_tool_delete_description">
+          <source>&lt;color=#ffff00&gt;Delete&lt;/color&gt;
+Click on objects to delete them.</source>
+          <target>&lt;color=#ffff00&gt;삭제&lt;/color&gt;
+대상을 클릭해 삭제합니다.</target>
+        </trans-unit>
+        <trans-unit id="276961319072870400" xml:space="preserve" resname="editor_tool_editramp_description">
+          <source>&lt;color=#ffff00&gt;Ramps&lt;/color&gt;
+Click and drag to adjust the slope of ground / flight paths.</source>
+          <target>&lt;color=#ffff00&gt;경사&lt;/color&gt;
+클릭하고 드래그해 바닥이나 비행 경로가 기울어진 정도를 조정합니다.</target>
+        </trans-unit>
+        <trans-unit id="276961322856132608" xml:space="preserve" resname="editor_tool_scroll_description">
+          <source>&lt;color=#ffff00&gt;Scroll&lt;/color&gt;
+Click and drag to move the camera view.</source>
+          <target>&lt;color=#ffff00&gt;스크롤&lt;/color&gt;
+클릭하고 드래그해 카메라 시야를 움직입니다.</target>
+        </trans-unit>
+        <trans-unit id="276961323401392128" xml:space="preserve" resname="editor_tool_insertfloor_description">
+          <source>&lt;color=#ffff00&gt;Insert Floor&lt;/color&gt;
+Inserts a new blank section of track at the cursor.</source>
+          <target>&lt;color=#ffff00&gt;바닥 배치&lt;/color&gt;
+커서 위치 트랙에 빈 구획을 새로 배치합니다.</target>
+        </trans-unit>
+        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description">
+          <source>&lt;color=#ffff00&gt;Delete Floor&lt;/color&gt;
+Click and drag to delete sections of track along with the associated objects.</source>
+          <target>&lt;color=#ffff00&gt;바닥 제거&lt;/color&gt;
+클릭하고 드래그해 트랙 내 배치한 물체와 구획을 전부 제거합니다.</target>
+        </trans-unit>
+        <trans-unit id="276961400211681280" xml:space="preserve" resname="editor_tool_doublehitenemy_description">
+          <source>&lt;color=#ffff00&gt;Double Hit Enemies&lt;/color&gt;
+Click to insert orange double hit enemies.</source>
+          <target>&lt;color=#ffff00&gt;2회 타격 적&lt;/color&gt;
+클릭해 2회 타격 적을 배치합니다.</target>
+        </trans-unit>
+        <trans-unit id="276961400840826880" xml:space="preserve" resname="editor_tool_multihitenemy_description">
+          <source>&lt;color=#ffff00&gt;Ghost Enemies&lt;/color&gt;
+Click to insert purple 3-hit ghost enemies.</source>
+          <target>&lt;color=#ffff00&gt;유령 적&lt;/color&gt;
+클릭해 보라색 3회 타격 유령 적을 배치합니다.</target>
+        </trans-unit>
+        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy">
+          <source>Insert basic enemy at beat {0}</source>
+          <target>기본 적 배치</target>
+        </trans-unit>
+        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy">
+          <source>Insert double hit enemy at beat {0}</source>
+          <target>2회 타격 적 배치</target>
+        </trans-unit>
+        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy">
+          <source>Insert ghost enemy at beat {0}</source>
+          <target>다회 타격 적 배치</target>
+        </trans-unit>
+        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint">
+          <source>Insert checkpoint at beat {0}</source>
+          <target>체크포인트 배치</target>
+        </trans-unit>
+        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description">
+          <source>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
+Click to insert checkpoints.</source>
+          <target>&lt;color=#ffff00&gt;체크포인트&lt;/color&gt;
+클릭해 체크포인트를 배치합니다. 기존 체크포인트를 클릭해 속성을 수정합니다.</target>
+        </trans-unit>
+        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump">
+          <source>Insert jump at beat {0}</source>
+          <target>점프 배치</target>
+        </trans-unit>
+        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath">
+          <source>Insert flight path from beat {0} to {1}</source>
+          <target>비행 경로 배치</target>
+        </trans-unit>
+        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp">
+          <source>Edit ramp from beat {0} to {1}</source>
+          <target>비탈길 편집</target>
+        </trans-unit>
+        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor">
+          <source>Insert floor at beat {0}</source>
+          <target>바닥 배치</target>
+        </trans-unit>
+        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor">
+          <source>Delete floor from beat {0} to {1}</source>
+          <target>바닥 제거</target>
+        </trans-unit>
+        <trans-unit id="277028911993106432" xml:space="preserve" resname="editor_undo">
+          <source>Undo: {0}</source>
+          <target>되돌리기: {0}</target>
+        </trans-unit>
+        <trans-unit id="277028930653564928" xml:space="preserve" resname="editor_redo">
+          <source>Redo: {0}</source>
+          <target>다시하기: {0}</target>
+        </trans-unit>
+        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete">
+          <source>Delete {0} at beat {1}</source>
+          <target>삭제</target>
+        </trans-unit>
+        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone">
+          <source>Insert water zone from beat {0} to {1}</source>
+          <target>수영 구역 배치</target>
+        </trans-unit>
+        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone">
+          <source>Insert speed zone from beat {0} to {1}</source>
+          <target>가속 구역 배치</target>
+        </trans-unit>
+        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
+          <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
+Click and drag to insert water zones.</source>
+          <target>&lt;color=#ffff00&gt;수영 구역&lt;/color&gt;
+클릭하고 드래그해 수영 구역을 배치합니다.</target>
+        </trans-unit>
+        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description">
+          <source>&lt;color=#ffff00&gt;Speed Zones&lt;/color&gt;
+Click and drag to insert speed zones.</source>
+          <target>&lt;color=#ffff00&gt;가속 구역&lt;/color&gt;
+클릭하고 드래그해 가속 구역을 배치합니다.</target>
+        </trans-unit>
+        <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title">
+          <source>Scroll speed: Section {0}</source>
+          <target>스크롤 속도: 구획 {0}</target>
+        </trans-unit>
+        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed">
+          <source>Change scroll speed for section {0}</source>
+          <target>{0} 구획의 스크롤 속도 변경</target>
+        </trans-unit>
+        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy">
+          <source>Insert spike enemy at beat {0}</source>
+          <target>{0} 박자에 가시적 배치</target>
+        </trans-unit>
+        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description">
+          <source>&lt;color=#ffff00&gt;Spike Enemies&lt;/color&gt;
+Click to insert spike enemy jumps.</source>
+          <target>&lt;color=#ffff00&gt;가시 적&lt;/color&gt;
+클릭하여 점프가시 적 배치.</target>
+        </trans-unit>
+        <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy">
+          <source>Basic Enemies</source>
+          <target>기본 적</target>
+        </trans-unit>
+        <trans-unit id="283376598619303936" xml:space="preserve" resname="editor_tooltip_flightpath">
+          <source>Flight Paths</source>
+          <target>비행 경로</target>
+        </trans-unit>
+        <trans-unit id="283376599579799552" xml:space="preserve" resname="editor_tooltip_doublehitenemy">
+          <source>Double Hit Enemies</source>
+          <target>2회 타격 적</target>
+        </trans-unit>
+        <trans-unit id="283376600330579968" xml:space="preserve" resname="editor_tooltip_multihitenemy">
+          <source>Ghost Enemies</source>
+          <target>유령 적</target>
+        </trans-unit>
+        <trans-unit id="283376600972308480" xml:space="preserve" resname="editor_tooltip_editramp">
+          <source>Ramps</source>
+          <target>경사</target>
+        </trans-unit>
+        <trans-unit id="283376694345904128" xml:space="preserve" resname="editor_tooltip_deletefloor">
+          <source>Delete Floor</source>
+          <target>바닥 제거</target>
+        </trans-unit>
+        <trans-unit id="283376695021187072" xml:space="preserve" resname="editor_tooltip_insertfloor">
+          <source>Insert Floor</source>
+          <target>바닥 배치</target>
+        </trans-unit>
+        <trans-unit id="283376695675498496" xml:space="preserve" resname="editor_tooltip_speedzone">
+          <source>Speed Zones</source>
+          <target>가속 구역</target>
+        </trans-unit>
+        <trans-unit id="283376941830811648" xml:space="preserve" resname="editor_tooltip_scrollspeed">
+          <source>Scroll Speed</source>
+          <target>화면 이동 속도</target>
+        </trans-unit>
+        <trans-unit id="283376942418014208" xml:space="preserve" resname="editor_tooltip_spikeenemy">
+          <source>Spike Enemies</source>
+          <target>가시 적</target>
+        </trans-unit>
+        <trans-unit id="283377096353165312" xml:space="preserve" resname="editor_tooltip_waterzone">
+          <source>Water Zones</source>
+          <target>수영 구역</target>
+        </trans-unit>
+        <trans-unit id="283377229648146432" xml:space="preserve" resname="editor_tooltip_delete">
+          <source>Delete</source>
+          <target>제거</target>
+        </trans-unit>
+        <trans-unit id="283377233372688384" xml:space="preserve" resname="editor_tooltip_checkpoint">
+          <source>Checkpoints</source>
+          <target>체크포인트</target>
+        </trans-unit>
+        <trans-unit id="283377347306762240" xml:space="preserve" resname="editor_tooltip_scroll">
+          <source>Scroll</source>
+          <target>스크롤</target>
+        </trans-unit>
+        <trans-unit id="283377523178123264" xml:space="preserve" resname="editor_tooltip_undo">
+          <source>Undo</source>
+          <target>실행 취소</target>
+        </trans-unit>
+        <trans-unit id="283377526567120896" xml:space="preserve" resname="editor_tooltip_redo">
+          <source>Redo</source>
+          <target>다시 실행</target>
+        </trans-unit>
+        <trans-unit id="283389214276235264" xml:space="preserve" resname="menu_customlevels">
+          <source>Custom Levels</source>
+          <target>커스텀 레벨</target>
+        </trans-unit>
+        <trans-unit id="283403272652107776" xml:space="preserve" resname="menu_customlevels_leveleditor">
+          <source>Level Editor</source>
+          <target>레벨 편집기</target>
+        </trans-unit>
+        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description">
+          <source>&lt;color=#ffff00&gt;Scroll Speed&lt;/color&gt;
+Click on a checkpoint section to edit its scrolling speed.</source>
+          <target>&lt;color=#fffff00&gt;스크롤 속도&lt;/color&gt;
+체크포인트 구획을 클릭하여 스크롤 속도 수정.</target>
+        </trans-unit>
+        <trans-unit id="285910580783263744" xml:space="preserve" resname="settings_metronome">
+          <source>Metronome</source>
+          <target>메트로놈</target>
+        </trans-unit>
+        <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
+          <source>Use a metronome that beeps on each beat.</source>
+          <target>각 박자에 부저음이 울리는 메트로놈 사용.</target>
+        </trans-unit>
+        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
+          <source>Modifiers that affect music and audio playback.</source>
+          <target>음악과 소리 재생에 영향을 주는 변형들.</target>
+        </trans-unit>
+        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
+          <source>Modifiers that affect gameplay and unlocks.</source>
+          <target>게임플레이와 해금요소를 변형합니다.</target>
+        </trans-unit>
+        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
+          <source>Gameplay Mods...</source>
+          <target>게임플레이 변형...</target>
+        </trans-unit>
+        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
+          <source>Audio Mods...</source>
+          <target>오디오 변형...</target>
+        </trans-unit>
+        <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
+          <source>No, resume</source>
+          <target>아니요, 재개합니다</target>
+        </trans-unit>
+        <trans-unit id="285977877371727872" xml:space="preserve" resname="editor_button_yesquit">
+          <source>Yes, quit</source>
+          <target>네, 나갑니다</target>
+        </trans-unit>
+        <trans-unit id="285978896759566336" xml:space="preserve" resname="editor_text_quitdialog">
+          <source>Return to the main menu?</source>
+          <target>메인 메뉴로 돌아갈까요?</target>
+        </trans-unit>
+        <trans-unit id="286249879240224768" xml:space="preserve" resname="editor_menu_respawnloop">
+          <source>Respawn Loop...</source>
+          <target>리스폰 루프...</target>
+        </trans-unit>
+        <trans-unit id="286250531446108160" xml:space="preserve" resname="editor_button_loadmusic">
+          <source>Load Music</source>
+          <target>음악 불러오기</target>
+        </trans-unit>
+        <trans-unit id="286257077416669184" xml:space="preserve" resname="editor_text_musicnotloaded">
+          <source>Music not loaded!</source>
+          <target>음악 불러오지 않음!</target>
+        </trans-unit>
+        <trans-unit id="286257733451952128" xml:space="preserve" resname="editor_button_replacemusic">
+          <source>Replace</source>
+          <target>바꾸기</target>
+        </trans-unit>
+        <trans-unit id="286259036123082752" xml:space="preserve" resname="editor_tooltip_preview">
+          <source>Preview</source>
+          <target>미리보기</target>
+        </trans-unit>
+        <trans-unit id="286259036676730880" xml:space="preserve" resname="editor_tool_preview_description">
+          <source>&lt;color=#ffff00&gt;Preview&lt;/color&gt;
+Click to start a preview of the level at a given point. Click again to stop.</source>
+          <target>&lt;color=#ffff00&gt;미리보기&lt;/color&gt;
+클릭하여 지점으로 부터 레벨 미리보기. 다시 눌러 중단.</target>
+        </trans-unit>
+        <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties">
+          <source>Edit music data</source>
+          <target>음악데이터 수정</target>
+        </trans-unit>
+        <trans-unit id="287731387545202688" xml:space="preserve" resname="editor_input_firstbeattime">
+          <source>First beat time:</source>
+          <target>첫 박자 시간:</target>
+        </trans-unit>
+        <trans-unit id="287731443216199680" xml:space="preserve" resname="editor_input_bpm">
+          <source>Beats per minute:</source>
+          <target>분당 박자:</target>
+        </trans-unit>
+        <trans-unit id="287740139530924032" xml:space="preserve" resname="editor_button_musicautodetect">
+          <source>Auto-detect</source>
+          <target>자동 감지</target>
+        </trans-unit>
+        <trans-unit id="287740270351265792" xml:space="preserve" resname="editor_text_musicfilename">
+          <source>Song loaded: {0}</source>
+          <target>곡 불러옴: {0}</target>
+        </trans-unit>
+        <trans-unit id="287740271756357632" xml:space="preserve" resname="editor_text_musicduration">
+          <source>Duration: {0}</source>
+          <target>길이: {0}</target>
+        </trans-unit>
+        <trans-unit id="287740272452612096" xml:space="preserve" resname="editor_text_musicfilesize">
+          <source>Filesize: {0}</source>
+          <target>파일 크기: {0}</target>
+        </trans-unit>
+        <trans-unit id="287815658003804160" xml:space="preserve" resname="editor_input_beatspermeasure">
+          <source>Beats per measure:</source>
+          <target>한 마디당 박자:</target>
+        </trans-unit>
+        <trans-unit id="299037457861357568" xml:space="preserve" resname="editor_button_loadlevel">
+          <source>Load</source>
+          <target>불러오기</target>
+        </trans-unit>
+        <trans-unit id="299037631564263424" xml:space="preserve" resname="editor_button_savelevel">
+          <source>Save</source>
+          <target>저장</target>
+        </trans-unit>
+        <trans-unit id="299037665160638464" xml:space="preserve" resname="editor_button_savelevelas">
+          <source>Save As</source>
+          <target>다른 이름으로 저장</target>
+        </trans-unit>
+        <trans-unit id="299037803648167936" xml:space="preserve" resname="editor_button_newlevel">
+          <source>New</source>
+          <target>신규</target>
+        </trans-unit>
+        <trans-unit id="299088209224970240" xml:space="preserve" resname="editor_notification_save">
+          <source>Level saved: {0}</source>
+          <target>레벨 저장됨: {0}</target>
+        </trans-unit>
+        <trans-unit id="299088242817150976" xml:space="preserve" resname="editor_notification_load">
+          <source>Level loaded: {0}</source>
+          <target>레벨 불러옴: {0}</target>
+        </trans-unit>
+        <trans-unit id="299088264182935552" xml:space="preserve" resname="editor_notification_new">
+          <source>New level created</source>
+          <target>신규 레벨 생성됨</target>
+        </trans-unit>
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+          <source>File...</source>
+          <target>파일</target>
+        </trans-unit>
+        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
+          <source>Music</source>
+          <target>음악</target>
+        </trans-unit>
+        <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test">
+          <source>Test Level</source>
+          <target>레벨테스트</target>
+        </trans-unit>
+        <trans-unit id="299090153335205888" xml:space="preserve" resname="editor_menu_quit">
+          <source>Quit</source>
+          <target>나가기</target>
+        </trans-unit>
+        <trans-unit id="299097886033752064" xml:space="preserve" resname="editor_input_songname">
+          <source>Song name:</source>
+          <target>곡 제목:</target>
+        </trans-unit>
+        <trans-unit id="299098666916687872" xml:space="preserve" resname="editor_input_musicartist">
+          <source>Music artist:</source>
+          <target>작곡가:</target>
+        </trans-unit>
+        <trans-unit id="299098779676356608" xml:space="preserve" resname="editor_input_chartauthor">
+          <source>Chart author:</source>
+          <target>채보 제작자:</target>
+        </trans-unit>
+        <trans-unit id="300430651064889344" xml:space="preserve" resname="editor_action_levelmetadata">
+          <source>Edit level metadata</source>
+          <target>레벨 메타데이터 수정</target>
+        </trans-unit>
+        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges">
+          <source>You have unsaved changes!
+Do you want to save them first?</source>
+          <target>저장하지 않은 변경사항이 존재합니다!
+변경 내용을 저장하시겠습니까?</target>
+        </trans-unit>
+        <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges">
+          <source>Save</source>
+          <target>저장</target>
+        </trans-unit>
+        <trans-unit id="300438281497915392" xml:space="preserve" resname="editor_button_dontsaveunsavedchanges">
+          <source>Don't Save</source>
+          <target>저장하지 않음</target>
+        </trans-unit>
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+          <source>Settings...</source>
+          <target>설정</target>
+        </trans-unit>
+        <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
+          <source>Blur</source>
+          <target>흐림</target>
+        </trans-unit>
+        <trans-unit id="302756094422069248" xml:space="preserve" resname="editor_type_airjump">
+          <source>air jump</source>
+          <target>공중 점프</target>
+        </trans-unit>
+        <trans-unit id="302756097253224448" xml:space="preserve" resname="editor_type_checkpoint">
+          <source>checkpoint</source>
+          <target>체크포인트</target>
+        </trans-unit>
+        <trans-unit id="302756127649345536" xml:space="preserve" resname="editor_type_doublehitenemy">
+          <source>double hit enemy</source>
+          <target>2회 타격 적</target>
+        </trans-unit>
+        <trans-unit id="302756131201921024" xml:space="preserve" resname="editor_type_flightpath">
+          <source>flight path</source>
+          <target>비행 경로</target>
+        </trans-unit>
+        <trans-unit id="302756236906770432" xml:space="preserve" resname="editor_type_levelend">
+          <source>level end</source>
+          <target>레벨 종료</target>
+        </trans-unit>
+        <trans-unit id="302756238425108480" xml:space="preserve" resname="editor_type_multihitenemy">
+          <source>ghost enemy</source>
+          <target>유령 적</target>
+        </trans-unit>
+        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump">
+          <source>jump</source>
+          <target>점프</target>
+        </trans-unit>
+        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup">
+          <source>jump (up)</source>
+          <target>점프 (위)</target>
+        </trans-unit>
+        <trans-unit id="302756293387268096" xml:space="preserve" resname="editor_type_jumpdown">
+          <source>jump (down)</source>
+          <target>점프 (아래)</target>
+        </trans-unit>
+        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy">
+          <source>basic enemy</source>
+          <target>기본 적</target>
+        </trans-unit>
+        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone">
+          <source>speed zone</source>
+          <target>속도 구역</target>
+        </trans-unit>
+        <trans-unit id="302756394008621056" xml:space="preserve" resname="editor_type_spikeenemy">
+          <source>spike enemy</source>
+          <target>가시 적</target>
+        </trans-unit>
+        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone">
+          <source>water zone</source>
+          <target>물 구역</target>
+        </trans-unit>
+        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move">
+          <source>Move {0} from {1} to {2}</source>
+          <target>{0} {1} 에서 {2} 로 이동</target>
+        </trans-unit>
+        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend">
+          <source>speed zone end</source>
+          <target>속도 구역 종료</target>
+        </trans-unit>
+        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend">
+          <source>water zone end</source>
+          <target>물 구역 종료</target>
+        </trans-unit>
+        <trans-unit id="302761730312548352" xml:space="preserve" resname="editor_type_flightpathend">
+          <source>flight path end</source>
+          <target>비행 경로 종료</target>
+        </trans-unit>
+        <trans-unit id="302761932066959360" xml:space="preserve" resname="editor_tooltip_move">
+          <source>Move</source>
+          <target>이동</target>
+        </trans-unit>
+        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description">
+          <source>&lt;color=#ffff00&gt;Move&lt;/color&gt;
+Click and drag objects to move them.</source>
+          <target>&lt;color=#ffff00&gt;이동&lt;/color&gt;
+물체를 클릭 및 드래그하여 이동.</target>
+        </trans-unit>
+        <trans-unit id="303377087901511680" xml:space="preserve" resname="editor_invalid_checkpoint">
+          <source>Checkpoint #{0} does not exist!</source>
+          <target>체크포인트 #{0} 이 존재하지 않습니다!</target>
+        </trans-unit>
+        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Normal)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer grounded jumps when possible.</source>
+          <target>&lt;color=#ffff00&gt;점프 (보통)&lt;/color&gt;
+클릭하여 점프 또는 날개 공중점프를 추가. 가능한경우 지면점프를 선호.</target>
+        </trans-unit>
+        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Up)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer grounded rising jumps when possible.</source>
+          <target>&lt;color=#ffff00&gt;점프 (위)&lt;/color&gt;
+클릭하여 점프 또는 날개 공중점프를 추가. 가능한경우 지면상승 점프를 선호.</target>
+        </trans-unit>
+        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Down)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer grounded falling jumps when possible.</source>
+          <target>&lt;color=#ffff00&gt;점프 (위)&lt;/color&gt;
+클릭하여 점프 또는 날개 공중점프를 추가. 가능한경우 지면하락 점프를 선호.</target>
+        </trans-unit>
+        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Air)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</source>
+          <target>&lt;color=#ffff00&gt;점프 (공중)&lt;/color&gt;
+클릭하여 점프 또는 날개 공중점프를 추가. 가능한경우 날개 공중점프를 선호.</target>
+        </trans-unit>
+        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal">
+          <source>Jumps (Normal)</source>
+          <target>점프 (일반)</target>
+        </trans-unit>
+        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup">
+          <source>Jumps (Up)</source>
+          <target>점프 (위)</target>
+        </trans-unit>
+        <trans-unit id="306241843503083520" xml:space="preserve" resname="editor_tooltip_jumpdown">
+          <source>Jumps (Down)</source>
+          <target>점프 (아래)</target>
+        </trans-unit>
+        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair">
+          <source>Jumps (Air)</source>
+          <target>점프 (공중)</target>
+        </trans-unit>
+        <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations">
+          <source>Congratulations!</source>
+          <target>축하합니다!</target>
+        </trans-unit>
+        <trans-unit id="306547645476548608" xml:space="preserve" resname="menu_customlevels_playcustomlevels">
+          <source>Play Custom Levels</source>
+          <target>커스텀 레벨 플레이</target>
+        </trans-unit>
+        <trans-unit id="306547814062403584" xml:space="preserve" resname="menu_customlevels_opencustomlevelfolder">
+          <source>Open Custom Level Folder</source>
+          <target>커스텀 레벨 에디터 열기</target>
+        </trans-unit>
+        <trans-unit id="306723067694723072" xml:space="preserve" resname="error_parsecustomlevel">
+          <source>Error reading level</source>
+          <target>레벨 읽기 오류</target>
+        </trans-unit>
+        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description">
+          <source>Description:</source>
+          <target>설명:</target>
+        </trans-unit>
+        <trans-unit id="307087429873741824" xml:space="preserve" resname="editor_label_banner">
+          <source>Banner (cropped to 4:1 aspect ratio):</source>
+          <target>배너 (4:1 비율로 잘림):</target>
+        </trans-unit>
+        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19">
+          <source>(Easy)</source>
+          <target>(쉬움)</target>
+        </trans-unit>
+        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39">
+          <source>(Medium)</source>
+          <target>(중간)</target>
+        </trans-unit>
+        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59">
+          <source>(Hard)</source>
+          <target>(어려움)</target>
+        </trans-unit>
+        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79">
+          <source>(Expert)</source>
+          <target>(전문가)</target>
+        </trans-unit>
+        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100">
+          <source>(Impossible)</source>
+          <target>(불가능)</target>
+        </trans-unit>
+        <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
+          <source>Load Image</source>
+          <target>이미지 불러오기</target>
+        </trans-unit>
+        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
+          <source>Replace Image</source>
+          <target>이미지 교체</target>
+        </trans-unit>
+        <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
+          <source>Estimated Difficulty: {0}</source>
+          <target>예상 난이도: {0}</target>
+        </trans-unit>
+        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize">
+          <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
+          <target>이미지 파일이 너무 큽니다! ({0} MB) {1} MB 이하의 이미지를 고르십시오.</target>
+        </trans-unit>
+        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay">
+          <source>Chart by {0}</source>
+          <target>{0} 의 차트</target>
+        </trans-unit>
+        <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder">
+          <source>Open levels folder</source>
+          <target>레벨 폴더 열기</target>
+        </trans-unit>
+        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot">
+          <source>Back to (All Levels)</source>
+          <target>(모든 레벨) 로 돌아가기</target>
+        </trans-unit>
+        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
+          <source>Back to {0}</source>
+          <target>{0} 로 돌아가기</target>
+        </trans-unit>
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
+          <source>Back to menu</source>
+          <target>메뉴로 돌아가기</target>
+        </trans-unit>
+        <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
+          <source>Error loading level</source>
+          <target>레벨 불러오기 오류</target>
+        </trans-unit>
+        <trans-unit id="307819786427740160" xml:space="preserve" resname="menu_description_opencustomlevelfolder">
+          <source>Opens the directory where custom levels are stored.</source>
+          <target>커스텀 레벨이 저장된 폴더를 엽니다.</target>
+        </trans-unit>
+        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder">
+          <source>Return to the previous folder. ({0})</source>
+          <target>이전 폴더로 돌아가기. ({0})</target>
+        </trans-unit>
+        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot">
+          <source>Return to the main custom levels directory.</source>
+          <target>메인 커스텀 레벨 폴더로 돌아가기.</target>
+        </trans-unit>
+        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu">
+          <source>Return to the main custom levels menu.</source>
+          <target>메인 커스텀 레벨 메뉴로 돌아가기.</target>
+        </trans-unit>
+        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
+          <source>{0} BPM</source>
+          <target>{0} BPM</target>
+        </trans-unit>
+        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist">
+          <source>by {0}</source>
+          <target>- {0}</target>
+        </trans-unit>
+        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
+          <source>Export</source>
+          <target>내보내기</target>
+        </trans-unit>
+        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export">
+          <source>Level exported: {0}</source>
+          <target>레벨 내보냄: {0}</target>
+        </trans-unit>
+        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing">
+          <source>Couldn't find music for this level</source>
+          <target>해당 레벨을 위한 음악을 찾을 수 없습니다</target>
+        </trans-unit>
+        <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth">
+          <source>fast ghost enemy</source>
+          <target>빠른 유령 적</target>
+        </trans-unit>
+        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description">
+          <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
+Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
+          <target>&lt;color=#ffff00&gt;빠른 귀신 적&lt;/color&gt;
+클릭하여 노란 "점8분음표" 리듬 귀신 적 삽입.</target>
+        </trans-unit>
+        <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth">
+          <source>Insert fast ghost enemy at beat {0}</source>
+          <target>{0} 박자에 빠른 유령 적 배치</target>
+        </trans-unit>
+        <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth">
+          <source>Fast Ghost Enemies</source>
+          <target>빠른 유령 적</target>
+        </trans-unit>
+        <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header">
+          <source>Jump to Checkpoint</source>
+          <target>체크포인트로 이동</target>
+        </trans-unit>
+        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip">
+          <source>Preview Clip...</source>
+          <target>클립 미리보기...</target>
+        </trans-unit>
+        <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime">
+          <source>Preview start time:</source>
+          <target>미리보기 시작 시간:</target>
+        </trans-unit>
+        <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime">
+          <source>Preview end time:</source>
+          <target>미리보기 종료 시간:</target>
+        </trans-unit>
+        <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview">
+          <source>Play Preview</source>
+          <target>미리보기 재생</target>
+        </trans-unit>
+        <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration">
+          <source>Preview Duration: {0} seconds</source>
+          <target>미리보기 길이: {0} 초</target>
+        </trans-unit>
+        <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels">
+          <source>Import New Levels</source>
+          <target>새 레벨 가져오기</target>
+        </trans-unit>
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+          <source>({0} Levels)</source>
+          <target>({0} 레벨)</target>
+        </trans-unit>
+        <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
+          <source>Already in custom level directory</source>
+          <target>이미 사용자 레벨 디렉토리에 있습니다</target>
+        </trans-unit>
+        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading">
+          <source>Downloading...</source>
+          <target>내려받는 중...</target>
+        </trans-unit>
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+          <source>Download failed</source>
+          <target>내려받기 실패</target>
+        </trans-unit>
+        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
+          <source>Missing {0} file</source>
+          <target>{0} 파일이 없음</target>
+        </trans-unit>
+        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists">
+          <source>File already exists:</source>
+          <target>파일이 이미 존재합니다:</target>
+        </trans-unit>
+        <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting">
+          <source>Extracting...</source>
+          <target>추출하는 중...</target>
+        </trans-unit>
+        <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded">
+          <source>No music included</source>
+          <target>포함한 음악 없음</target>
+        </trans-unit>
+        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success">
+          <source>Success</source>
+          <target>성공</target>
+        </trans-unit>
+        <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse">
+          <source>Browse from disk</source>
+          <target>디스크에서 탐색하기</target>
+        </trans-unit>
+        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu">
+          <source>Download from URL(s)</source>
+          <target>URL에서 내려받기</target>
+        </trans-unit>
+        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
+          <source>Drag .rqzip files here</source>
+          <target>.rqzip 파일을 여기에 끌어 놓으세요</target>
+        </trans-unit>
+        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
+          <source>or</source>
+          <target>또는</target>
+        </trans-unit>
+        <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
+          <source>Browse custom levels on mod.io</source>
+          <target>mod.io 에서 사용자 레벨을 찾아보세요</target>
+        </trans-unit>
+        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
+          <source>Import new custom levels.
+
+You can import levels from:
+- Locally-saved ".rqzip" files
+- Public ".rqzip" URL downloads
+- Fan creations in Steam Workshop</source>
+          <target>새로운 커스텀 레벨 가져오기.
+
+- 로컬에 저장된 '.rqzip' 파일
+- 공용 ".rqzip' URL 다운로드
+- 스팀 창작마당의 유저 창작물
+로 부터 가져올 수 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
+          <source>Enter one or more URL(s) to .rqzip files to download:
+(place each URL on a separate line)</source>
+          <target>하나 이상의 .rqzip 파일 다운로드 URL(들)을 입력하십시오:
+(각 URL을 다른 줄에 입력하십시오)</target>
+        </trans-unit>
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+          <source>Download</source>
+          <target>내려받기</target>
+        </trans-unit>
+        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
+          <source>Paste from Clipboard</source>
+          <target>클립보드에서 붙여넣기</target>
+        </trans-unit>
+        <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics">
+          <source>Graphics</source>
+          <target>그래픽</target>
+        </trans-unit>
+        <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata">
+          <source>Edit level graphics</source>
+          <target>레벨 그래픽 편집</target>
+        </trans-unit>
+        <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset">
+          <source>Tile Set</source>
+          <target>타일셋</target>
+        </trans-unit>
+        <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset">
+          <source>Backdrop Set</source>
+          <target>배경셋</target>
+        </trans-unit>
+        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
+          <source>World 1
+Green Grasslands (+ grass)</source>
+          <target>월드 1
+Green Grasslands (+ grass)</target>
+        </trans-unit>
+        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
+          <source>Sfx Pitch...</source>
+          <target>효과음 피치...</target>
+        </trans-unit>
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+          <source>Select the main pitch/key of your song.
+Note: Coin Sfx play in perfect fifths
+(Example: Key of C -&gt; Coin notes will be C and G)</source>
+          <target>노래의 주가 되는 피치/음 을 선택하여주세요.
+노트: 동전 효과음은 완전5도에서 재생됩니다
+(에시: C의 음 - &gt; 코인 노트는 C 와 G가 됩니다)</target>
+        </trans-unit>
+        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
+          <source>Palette: Section {0}</source>
+          <target>팔레트: 구획 {0}</target>
+        </trans-unit>
+        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
+          <source>Change color palette for section {0}</source>
+          <target>{0} 구획의 색상 팔레트 변경</target>
+        </trans-unit>
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+          <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
+Click on a checkpoint section to edit its color palette.</source>
+          <target>&lt;color=#ffff00&gt;팔레트&lt;/color&gt;
+체크포인트 구획을 클릭하여 색상 팔레트 수정.</target>
+        </trans-unit>
+        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
+          <source>Palettes</source>
+          <target>팔레트</target>
+        </trans-unit>
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
+Do you still want to continue?</source>
+          <target>현재, Rhythm Quest 레벨 편집기를 사용하려면 마우스나 다른 포인팅 장치가 필요합니다.
+정말로 계속하시겠습니까?</target>
+        </trans-unit>
+        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
+          <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
+Click on a checkpoint section to edit its particle effects.</source>
+          <target>&lt;color=#ffff00&gt;파티클&lt;/color&gt;
+체크포인트 구획을 클릭하여 파티클 효과를 수정.</target>
+        </trans-unit>
+        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
+          <source>Particles</source>
+          <target>입자</target>
+        </trans-unit>
+        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
+          <source>Change particle effects for section {0}</source>
+          <target>{0} 구획의 파티클 효과 수정</target>
+        </trans-unit>
+        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
+          <source>Particles: Section {0}</source>
+          <target>파티클: 구획 {0}</target>
+        </trans-unit>
+        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
+          <source>None</source>
+          <target>없음</target>
+        </trans-unit>
+        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
+          <source>Leaves</source>
+          <target>나뭇잎</target>
+        </trans-unit>
+        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
+          <source>Diamonds</source>
+          <target>다이아몬드</target>
+        </trans-unit>
+        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
+          <source>Snow</source>
+          <target>눈</target>
+        </trans-unit>
+        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
+          <source>Dots</source>
+          <target>점</target>
+        </trans-unit>
+        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
+          <source>Stars</source>
+          <target>별</target>
+        </trans-unit>
+        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
+          <source>Petals</source>
+          <target>꽃잎</target>
+        </trans-unit>
+        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails">
+          <source>Trails</source>
+          <target>자취</target>
+        </trans-unit>
+        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain">
+          <source>Rain</source>
+          <target>비</target>
+        </trans-unit>
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+          <source>Violet Hyperwave
+by DDRKirby(ISQ)</source>
+          <target>Violet Hyperwave
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+          <source>A Single Leaf Flutters in the Wind
+by DDRKirby(ISQ)</source>
+          <target>A Single Leaf Flutters in the Wind
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+          <source>Standing Here Alone (Expert Mix)
+by DDRKirby(ISQ)</source>
+          <target>Standing Here Alone (Expert Mix)
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
+          <source>Super Mega Zero
+by DDRKirby(ISQ)</source>
+          <target>Super Mega Zero
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
+          <source>Colors</source>
+          <target>색상</target>
+        </trans-unit>
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+          <source>As the Cherry Blossom Falls
+by DDRKirby(ISQ)</source>
+          <target>As the Cherry Blossom Falls
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
+          <source>Adjust the visual position of enemies relative to the beat.</source>
+          <target>박자에 비례하여 적의 시각적 위치를 조정.</target>
+        </trans-unit>
+        <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
+          <source>Enemy Spacing</source>
+          <target>적 간격</target>
+        </trans-unit>
+        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description">
+          <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
+          <target>적의 시각적 위치를 조정 (박자의 비례하여 타이밍을 조정하지 않습니다).</target>
+        </trans-unit>
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+          <source>Let's Have an Adventure!
+by DDRKirby(ISQ)</source>
+          <target>Let's Have an Adventure!
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
+          <source>Scaling Windows</source>
+          <target>조정 범위</target>
+        </trans-unit>
+        <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled">
+          <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
+          <target>(기본) 판정 범위가 보여지는 간격과 일치합니다. 곡의 속도가 빨라질수록 범위가 좁아집니다.</target>
+        </trans-unit>
+        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled">
+          <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
+          <target>길이가 일정하도록 보여지는 판정 범위를 조정합니다. 빠르거나 느린 속도에서 예기치 못한 효과를 가져올 수 있습니다!</target>
+        </trans-unit>
+        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
+          <source>Crimson Halls
+by DDRKirby(ISQ)</source>
+          <target>Crimson Halls
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
+          <source>Color Skins...</source>
+          <target>색깔...</target>
+        </trans-unit>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
+          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
+          <target>장애물의 색상을 수정하여 패턴을 읽기 쉽게 합니다.</target>
+        </trans-unit>
+        <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
+          <source>Beat Grid</source>
+          <target>박자 그리드</target>
+        </trans-unit>
+        <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies">
+          <source>Enemies</source>
+          <target>적</target>
+        </trans-unit>
+        <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings">
+          <source>Wings</source>
+          <target>날개</target>
+        </trans-unit>
+        <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes">
+          <source>Spikes</source>
+          <target>가시</target>
+        </trans-unit>
+        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description">
+          <source>Change the color of floor beat markers.</source>
+          <target>바닥 박자 마커의 색상을 변경합니다</target>
+        </trans-unit>
+        <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description">
+          <source>Change the color of enemies.</source>
+          <target>적의 색을 변경합니다.</target>
+        </trans-unit>
+        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description">
+          <source>Change the color of rolling spike obstacles.</source>
+          <target>구르는 가시 장애물의 색상을 변경합니다.</target>
+        </trans-unit>
+        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
+          <source>Tweak obstacle color palettes.</source>
+          <target>장애물 색상 팔레트 수정.</target>
+        </trans-unit>
+        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
+          <source>Change the color of floating wings.</source>
+          <target>공중 날개의 색상 수정.</target>
+        </trans-unit>
+        <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits">
+          <source>Actions Only</source>
+          <target>액션만</target>
+        </trans-unit>
+        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all">
+          <source>All</source>
+          <target>전체</target>
+        </trans-unit>
+        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
+          <source>Action Type</source>
+          <target>동작 유형</target>
+        </trans-unit>
+        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description">
+          <source>Floor beat grid markers match level background colors.</source>
+          <target>바닥 박자 그리드 마커의 색깔이 레벨의 배경색과 일치시킵니다.</target>
+        </trans-unit>
+        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
+          <source>Beat grid markers with obstacles will be colored according beat offset.</source>
+          <target>장애물이 있는 박자 그리드 마커가 박자 오프셋에 맞춰 색칠됩니다.</target>
+        </trans-unit>
+        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description">
+          <source>All beat grid markers will be colored according to beat offset.</source>
+          <target>모든 박자 그리드 마커가 박자 오프셋에 맞춰 색칠됩니다.</target>
+        </trans-unit>
+        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description">
+          <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
+          <target>박자 그리드 마커가 액션(점프/공격/동시) 종류에 따라 색칠됩니다.</target>
+        </trans-unit>
+        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly">
+          <source>Basic Only</source>
+          <target>기본만</target>
+        </trans-unit>
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
+          <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
+Other enemies colored based on enemy type.</source>
+        </trans-unit>
+        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
+          <source>Basic enemies colored based on beat offset.
+Other enemies colored based on enemy type.</source>
+        </trans-unit>
+        <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description">
+          <source>All enemies colored based on beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description">
+          <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
+        </trans-unit>
+        <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset">
+          <source>Beat Offset</source>
+        </trans-unit>
+        <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description">
+          <source>All rolling spikes are colored blue.</source>
+        </trans-unit>
+        <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description">
+          <source>Rolling spikes are colored according to beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
+          <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
+        </trans-unit>
+        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
+          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        </trans-unit>
+        <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
+          <source>All wings are colored based on beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
+          <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+        </trans-unit>
+        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
+          <source>Alternate Green</source>
+          <target>초록 교체</target>
+        </trans-unit>
+        <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description">
+          <source>Use default color scheme for obstacles.</source>
+          <target>장애물에 기본 색 구성을 사용합니다.</target>
+        </trans-unit>
+        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description">
+          <source>Use alternate green color (less blue tinted).</source>
+          <target>(파란색이 덜하도록) 초록색을 교체합니다.</target>
+        </trans-unit>
+        <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing">
+          <source>Enemy Spacing...</source>
+          <target>적 간격...</target>
+        </trans-unit>
+        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions">
+          <source>Companions</source>
+        </trans-unit>
+        <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username">
+          <source>Username: {0}</source>
+          <target>사용자명: {0}</target>
+        </trans-unit>
+        <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid">
+          <source>User ID: {0}</source>
+          <target>사용자 ID: {0}</target>
+        </trans-unit>
+        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat">
+          <source>Invalid email format. Please enter a valid email address.</source>
+          <target>이메일 형식이 잘못되었습니다. 유효한 이메일 주소를 입력해주세요.</target>
+        </trans-unit>
+        <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished">
+          <source>This level has never been published to mod.io.</source>
+          <target>이 레벨은 mod.io에 게시된 적이 없습니다.</target>
+        </trans-unit>
+        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching">
+          <source>Retrieving level data from mod.io...</source>
+          <target>mod.io에서 레벨 정보 가져오는 중...</target>
+        </trans-unit>
+        <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound">
+          <source>This level has mod.io ID {0} but was not found on mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription">
+          <source>Level ID: {0}
+
+Author: {1}
+
+Last updated: {2}</source>
+        </trans-unit>
+        <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu">
+          <source>Publish to mod.io...</source>
+          <target>mod.io에 게시하기...</target>
+        </trans-unit>
+        <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile">
+          <source>Export as .rqzip</source>
+          <target>.rqzip으로 내보내기</target>
+        </trans-unit>
+        <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail">
+          <source>Login/Register with Email</source>
+          <target>이메일로 로그인/회원가입</target>
+        </trans-unit>
+        <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam">
+          <source>Login/Register with Steam</source>
+          <target>Steam으로 로그인/회원가입</target>
+        </trans-unit>
+        <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout">
+          <source>Logout</source>
+          <target>로그아웃</target>
+        </trans-unit>
+        <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit">
+          <source>Submit</source>
+          <target>제출</target>
+        </trans-unit>
+        <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published">
+          <source>This level has previously been published on mod.io.</source>
+          <target>이 레벨은 mod.io에 게시된 적이 있습니다.</target>
+        </trans-unit>
+        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description">
+          <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
+          <target>이메일 주소를 입력하면 mod.io 계정을 만들거나 로그인하기 위한 보안 코드가 발송됩니다.</target>
+        </trans-unit>
+        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description">
+          <source>Enter the security code that was sent to {0}.</source>
+          <target>{0} 에서 받은 보안 코드를 입력하세요.</target>
+        </trans-unit>
+        <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout">
+          <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
+
+You need an account in order to publish levels to mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin">
+          <source>You are logged into mod.io as:</source>
+          <target>mod.io에 다음 계정으로 로그인함:</target>
+        </trans-unit>
+        <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount">
+          <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount">
+          <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile">
+          <source>View profile on web</source>
+          <target>웹에서 프로필 보기</target>
+        </trans-unit>
+        <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio">
+          <source>View on mod.io</source>
+          <target>mod.io에서 보기</target>
+        </trans-unit>
+        <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio">
+          <source>Publish to mod.io</source>
+          <target>mod.io에 게시하기</target>
+        </trans-unit>
+        <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio">
+          <source>Publish new version</source>
+          <target>새 버전 게시하기</target>
+        </trans-unit>
+        <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails">
+          <source>Account details...</source>
+        </trans-unit>
+        <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister">
+          <source>Login/Register...</source>
+          <target>로그인/회원가입...</target>
+        </trans-unit>
+        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction">
+          <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
+
+Login or register an account to publish levels to mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode">
+          <source>Invalid security code.
+Check the code and try again.</source>
+        </trans-unit>
+        <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio">
+          <source>Publishing to mod.io</source>
+        </trans-unit>
+        <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile">
+          <source>Creating mod.io mod profile...</source>
+        </trans-unit>
+        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid">
+          <source>Got mod.io level ID: {0}</source>
+        </trans-unit>
+        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
+          <source>Packaging level data...</source>
+          <target>레벨 정보를 꾸러미에 싸는 중...</target>
+        </trans-unit>
+        <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel">
+          <source>Uploading level data...</source>
+          <target>레벨 정보를 올리는 중...</target>
+        </trans-unit>
+        <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess">
+          <source>Successfully published level!</source>
+          <target>성공적으로 레벨을 게시했습니다!</target>
+        </trans-unit>
+        <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess">
+          <source>Successfully updated level!</source>
+          <target>성공적으로 레벨을 업데이트했습니다!</target>
+        </trans-unit>
+        <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction">
+          <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
+        </trans-unit>
+        <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid">
+          <source>Saving new level ID into .rqe file...</source>
+        </trans-unit>
+        <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout">
+          <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
+        </trans-unit>
+        <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin">
+          <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
+        </trans-unit>
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
+          <source>Updating mod.iod mod profile...</source>
+        </trans-unit>
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+          <source>Level 6-1
+Spellbound Nebula</source>
+          <target>레벨 6-1
+Spellbound Nebula</target>
+        </trans-unit>
+        <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
+          <source>Coin Outlines</source>
+          <target>동전 윤곽선</target>
+        </trans-unit>
+        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled">
+          <source>(Default) Already-collected coins do not show on respawn.</source>
+          <target>(기본) 이미 수집한 동전은 리스폰 시 보여주지 않습니다.</target>
+        </trans-unit>
+        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled">
+          <source>Shows faint coin outlines on respawn for already-collected coins.</source>
+          <target>이미 수집한 동전은 리스폰 시 희미한 동전 윤곽선만 보입니다.</target>
+        </trans-unit>
+        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
+          <source>Steam ID: {0}</source>
+          <target>Steam ID: {0}</target>
+        </trans-unit>
+        <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description">
+          <source>Register/login to mod.io using the following active Steam account?</source>
+        </trans-unit>
+        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm">
+          <source>Confirm</source>
+          <target>확인</target>
+        </trans-unit>
+        <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication">
+          <source>Error passing Steam authentication to mod.io.</source>
+        </trans-unit>
+        <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree">
+          <source>I Agree</source>
+          <target>동의</target>
+        </trans-unit>
+        <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio">
+          <source>Visit mod.io page</source>
+          <target>mod.io 페이지 방문</target>
+        </trans-unit>
+        <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade">
+          <source>Fade out</source>
+        </trans-unit>
+        <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings">
+          <source>Music Export Settings</source>
+          <target>음악 내보내기 설정</target>
+        </trans-unit>
+        <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem">
+          <source>Fix</source>
+        </trans-unit>
+        <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems">
+          <source>No problems found!</source>
+          <target>문제 없습니다!</target>
+        </trans-unit>
+        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
+          <source>Song name/artist and chart author needs to be filled out</source>
+        </trans-unit>
+        <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
+          <source>Level is missing a Description</source>
+          <target>레벨에 설명이 없습니다</target>
+        </trans-unit>
+        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
+          <source>Level has no music audio</source>
+          <target>레벨에 음악이 없습니다</target>
+        </trans-unit>
+        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
+          <source>Music export options need to be set</source>
+          <target>음악 내보내기 옵션을 설정해야 합니다</target>
+        </trans-unit>
+        <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
+          <source>Music audio will not be included in export</source>
+          <target>음악은 내보내기에 포함하지 않습니다</target>
+        </trans-unit>
+        <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder">
+          <source>(name of the music track)</source>
+        </trans-unit>
+        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder">
+          <source>(credit the song's artist)</source>
+        </trans-unit>
+        <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder">
+          <source>(your name)</source>
+        </trans-unit>
+        <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder">
+          <source>(enter notes or details about your level here)</source>
+        </trans-unit>
+        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist">
+          <source>Export Checklist</source>
+        </trans-unit>
+        <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
+          <source>No banner image provided, default will be used</source>
+        </trans-unit>
+        <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
+          <source>Applies a blur effect to backdrops so they are less focused.</source>
+        </trans-unit>
+        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
+          <source>Mods and Assists</source>
+        </trans-unit>
+        <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
+          <source>Assists...</source>
+        </trans-unit>
+        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
+          <source>Assist features that can help with difficult gameplay sections.</source>
+        </trans-unit>
+        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
+          <source>Track Preview</source>
+        </trans-unit>
+        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
+          <source>Practice Mode</source>
+          <target>연습 모드</target>
+        </trans-unit>
+        <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats">
+          <source>Temporary Cheats...</source>
+        </trans-unit>
+        <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description">
+          <source>Repeatedly practice the current section with various assists.</source>
+        </trans-unit>
+        <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description">
+          <source>Allows you to scroll left and right to see the rest of the track.</source>
+        </trans-unit>
+        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description">
+          <source>Options for making the current section easier.</source>
+        </trans-unit>
+        <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats">
+          <source>(These settings will reset after the current section is complete)</source>
+        </trans-unit>
+        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt">
+          <source>It looks like you're having trouble with this section.
+Would you like to enable game assist features?</source>
+        </trans-unit>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
+          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
+        </trans-unit>
+        <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
+          <source>Practice Mode Settings</source>
+        </trans-unit>
+        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
+          <source>Track Freezing</source>
+        </trans-unit>
+        <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride">
+          <source>(Unchanged)</source>
+        </trans-unit>
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+          <source>Piano Sonata No. 16 in C Major
+I. Allegro
+by Wolfgang Amadeus Mozart</source>
+        </trans-unit>
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+          <source>Eine kleine Nachtmusik
+I. Allegro
+by Wolfgang Amadeus Mozart</source>
+        </trans-unit>
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
+          <source>Song of the Sea (Expert Mix)
+by DDRKirby(ISQ)</source>
+        </trans-unit>
+        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
+          <source>Track freezing is disabled.</source>
+        </trans-unit>
+        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled">
+          <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
+        </trans-unit>
+        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
+          <source>Press &lt;- and -&gt; to scroll.
+Press Enter to return.</source>
+        </trans-unit>
+        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
+          <source>Click and drag to scroll left/right.</source>
+        </trans-unit>
+        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
+          <source>Tap and drag to scroll left/right.</source>
+        </trans-unit>
+        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
+          <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
+Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
+        </trans-unit>
+        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
+          <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
+Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
+        </trans-unit>
+        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation">
+          <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
+Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
+        </trans-unit>
+        <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description">
+          <source>Adjust in-game controls.</source>
+        </trans-unit>
+        <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties">
+          <source>Properties</source>
+        </trans-unit>
+        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
+          <source>Level...</source>
+        </trans-unit>
+        <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
+          <source>Grid Snap</source>
+        </trans-unit>
+        <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine">
+          <source>Fine</source>
+        </trans-unit>
+        <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers">
+          <source>Helpers</source>
+        </trans-unit>
+        <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled">
+          <source>Don't override settings for visual/audio aids.</source>
+        </trans-unit>
+        <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled">
+          <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+        </trans-unit>
+        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
+          <source>Exit Practice</source>
+        </trans-unit>
+        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
+          <source>Practice Mode
+Press Esc for settings</source>
+        </trans-unit>
+        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
+          <source>Practice Mode</source>
+        </trans-unit>
+        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
+          <source>Practice Mode</source>
+        </trans-unit>
+        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
+          <source>Practice Mode
+Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+        </trans-unit>
+        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
+          <source>Practice Mode
+Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
+        </trans-unit>
+        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
+          <source>Practice Mode
+Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
+        </trans-unit>
+        <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
+          <source>Practice Settings</source>
+        </trans-unit>
+        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
+          <source>Level 6-3
+Quantum Orbit</source>
+        </trans-unit>
+        <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
+          <source>Additional Settings...</source>
+        </trans-unit>
+        <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description">
+          <source>Edit additional audio settings.</source>
+        </trans-unit>
+        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx">
+          <source>Coin Sfx</source>
+        </trans-unit>
+        <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
+          <source>Coin collection is silent.</source>
+        </trans-unit>
+        <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled">
+          <source>(Default) Plays a chime whenever a coin is collected.</source>
+        </trans-unit>
+        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch">
+          <source>Rumble...</source>
+        </trans-unit>
+        <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch">
+          <source>Configure Controls...</source>
+        </trans-unit>
+        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
+          <source>Configure controller bindings.</source>
+        </trans-unit>
+        <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
+          <source>Controller Config</source>
+        </trans-unit>
+        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
+          <source>Use default controller bindings.</source>
+        </trans-unit>
+        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
+          <source>Use custom controller bindings.</source>
+        </trans-unit>
+        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
+          <source>Flower Fang (Expert Mix)
+by DDRKirby(ISQ)</source>
+        </trans-unit>
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+          <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11
+by Wolfgang Amadeus Mozart</source>
+        </trans-unit>
+        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
+          <source>Controls...</source>
+          <target>조작...</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
