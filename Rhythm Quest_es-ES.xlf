@@ -727,7 +727,8 @@ Restantes:</target>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
           <source>Take It to the Limit
 by DDRKirby(ISQ)</source>
-          <target>Llévalo hasta el límite</target>
+          <target>Llévalo hasta el Límite
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -744,7 +745,8 @@ by DDRKirby(ISQ)</source>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
           <source>What Lies Beneath
 by DDRKirby(ISQ)</source>
-          <target>Lo que yace debajo</target>
+          <target>Lo que Yace Debajo
+DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>Level 1-5
@@ -761,7 +763,8 @@ Oasis Encantado</target>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer
 by DDRKirby(ISQ)</source>
-          <target>Tráiler del Juego</target>
+          <target>Tráiler del Juego
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Level 2-4
@@ -1291,7 +1294,7 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap">
           <source>You can change these controls in the "Settings" menu.</source>
-          <target>Puedes cambiar estos controles en el menú principal.</target>
+          <target>Puedes cambiar estos controles en el menú de "Opciones".</target>
         </trans-unit>
         <trans-unit id="145495792350441472" xml:space="preserve" resname="menu_resuming">
           <source>Resuming...</source>
@@ -2139,7 +2142,7 @@ Haz click para iniciar una vista previa del nivel en un punto determinado. Haz c
         </trans-unit>
         <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
           <source>File...</source>
-          <target>Archivo</target>
+          <target>Archivo...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2185,7 +2188,7 @@ Do you want to save them first?</source>
         </trans-unit>
         <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
           <source>Settings...</source>
-          <target>Opciones</target>
+          <target>Opciones...</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -2525,12 +2528,15 @@ Haz click para insertar enemigos fantasma amarillos de ritmo "punta-octavo".</ta
         </trans-unit>
         <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
           <source>Drag .rqzip files here</source>
+          <target>Arrastre archivos .rqzip aquí</target>
         </trans-unit>
         <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
           <source>or</source>
+          <target>o</target>
         </trans-unit>
         <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
           <source>Browse custom levels on mod.io</source>
+          <target>Explorar niveles personalizados en mod.io</target>
         </trans-unit>
         <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
           <source>Import new custom levels.
@@ -2539,22 +2545,34 @@ You can import levels from:
 - Locally-saved ".rqzip" files
 - Public ".rqzip" URL downloads
 - Fan creations in Steam Workshop</source>
+          <target>Importar nuevos niveles personalizados.
+
+Puedes importar niveles desde:
+- Archivos ".rqzip" guardados localmente
+- Descargas de ".rqzip" públicas vía URL
+- Creaciones de fans en Steam Workshop</target>
         </trans-unit>
         <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
           <source>Enter one or more URL(s) to .rqzip files to download:
 (place each URL on a separate line)</source>
+          <target>Introduzca una o más URL(s) a archivos .rqzip para descargar:
+(coloque cada URL en una línea separada)</target>
         </trans-unit>
         <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
           <source>Download</source>
+          <target>Descargar</target>
         </trans-unit>
         <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
           <source>Paste from Clipboard</source>
+          <target>Pegar de Portapapeles</target>
         </trans-unit>
         <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics">
           <source>Graphics</source>
+          <target>Gráficos</target>
         </trans-unit>
         <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata">
           <source>Edit level graphics</source>
+          <target>Editar gráficos del nivel</target>
         </trans-unit>
         <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset">
           <source>Tile Set</source>
@@ -2565,94 +2583,132 @@ You can import levels from:
         <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
           <source>World 1
 Green Grasslands (+ grass)</source>
+          <target>Mundo 1
+Praderas Verdes (+ pasto)</target>
         </trans-unit>
         <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
           <source>Sfx Pitch...</source>
+          <target>Pitch de Sfx...</target>
         </trans-unit>
         <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
           <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
+          <target>Selecciona el pitch/clave de tu canción.
+Nota: Sfx de monedas tocan en quintos perfectos
+(Ejemplo: Clave de C -&gt; Notas de monedas serian C y G)</target>
         </trans-unit>
         <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
           <source>Palette: Section {0}</source>
+          <target>Paleta: Sección {0}</target>
         </trans-unit>
         <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
           <source>Change color palette for section {0}</source>
+          <target>Cambiar paleta de color para sección {0}</target>
         </trans-unit>
         <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
           <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
 Click on a checkpoint section to edit its color palette.</source>
+          <target>&lt;color=#ffff00&gt;Paleta&lt;/color&gt;
+Haz click en una sección de punto de control para editar su paleta de color.</target>
         </trans-unit>
         <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
           <source>Palettes</source>
+          <target>Paletas</target>
         </trans-unit>
         <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
           <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
 Do you still want to continue?</source>
+          <target>El editor de nivel para Rhythm Quest en este momento solo se puede utilizar con un ratón u otro dispositivo para apuntar.
+¿Todavía quieres continuar?</target>
         </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
+          <target>&lt;color=#ffff00&gt;Particular&lt;/color&gt;
+Haz click en una sección de punto de control para editar su efecto de partículas.</target>
         </trans-unit>
         <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
           <source>Particles</source>
+          <target>Partículas</target>
         </trans-unit>
         <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
           <source>Change particle effects for section {0}</source>
+          <target>Cambiar los efectos de partículas para sección {0}</target>
         </trans-unit>
         <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
           <source>Particles: Section {0}</source>
+          <target>Partículas: Sección {0}</target>
         </trans-unit>
         <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
           <source>None</source>
+          <target>Ninguna</target>
         </trans-unit>
         <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
           <source>Leaves</source>
+          <target>Hojas</target>
         </trans-unit>
         <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
           <source>Diamonds</source>
+          <target>Diamantes</target>
         </trans-unit>
         <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
           <source>Snow</source>
+          <target>Nieve</target>
         </trans-unit>
         <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
           <source>Dots</source>
+          <target>Puntos</target>
         </trans-unit>
         <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
           <source>Stars</source>
+          <target>Estrellas</target>
         </trans-unit>
         <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
           <source>Petals</source>
+          <target>Petalos</target>
         </trans-unit>
         <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails">
           <source>Trails</source>
+          <target>Rastros</target>
         </trans-unit>
         <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain">
           <source>Rain</source>
+          <target>Lluvia</target>
         </trans-unit>
         <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
           <source>Violet Hyperwave
 by DDRKirby(ISQ)</source>
+          <target>Hyperonda Violeta
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
           <source>A Single Leaf Flutters in the Wind
 by DDRKirby(ISQ)</source>
+          <target>Una Única Hoja Aletea en el Viento
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
           <source>Standing Here Alone (Expert Mix)
 by DDRKirby(ISQ)</source>
+          <target>Aquí Solo De pie (Mix de Experto)
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
           <source>Super Mega Zero
 by DDRKirby(ISQ)</source>
+          <target>Super Mega Cero
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
+          <target>Colores</target>
         </trans-unit>
         <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
           <source>As the Cherry Blossom Falls
 by DDRKirby(ISQ)</source>
+          <target>Mientras la Flor de Cerezo Cae
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2660,6 +2716,7 @@ by DDRKirby(ISQ)</source>
         </trans-unit>
         <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
           <source>Enemy Spacing</source>
+          <target>Espaciado de Enemigo</target>
         </trans-unit>
         <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description">
           <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
@@ -2668,67 +2725,90 @@ by DDRKirby(ISQ)</source>
         <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
           <source>Let's Have an Adventure!
 by DDRKirby(ISQ)</source>
+          <target>¡Tengamos una Aventura!
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
+          <target>Escala de Ventanas</target>
         </trans-unit>
         <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled">
           <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
+          <target>(Por Defecto) Las ventanas de tiempo coinciden con los espacios visuales esperados. Las ventanas son más pequeñas en duración con música más rápida.</target>
         </trans-unit>
         <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled">
           <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
+          <target>Escala el ancho visual de las ventanas de tiempo por la velocidad de la música para que la duración sea constante. ¡Puede causar efectos inesperados a velocidades altas o bajas!</target>
         </trans-unit>
         <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
           <source>Crimson Halls
 by DDRKirby(ISQ)</source>
+          <target>Salas de Crimson
+por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>
+          <target>Skins de Color...</target>
         </trans-unit>
         <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
           <source>Modify the coloration of obstacles to make patterns easier to read.</source>
+          <target>Modifica la colorizacion de obstáculos para que los patrones sean más fáciles de leer.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
+          <target>Grilla de Pulsos</target>
         </trans-unit>
         <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies">
           <source>Enemies</source>
+          <target>Enemigos</target>
         </trans-unit>
         <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings">
           <source>Wings</source>
+          <target>Alas</target>
         </trans-unit>
         <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes">
           <source>Spikes</source>
+          <target>Pinchos</target>
         </trans-unit>
         <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description">
           <source>Change the color of floor beat markers.</source>
+          <target>Cambia el color de los marcadores de pulso en el piso.</target>
         </trans-unit>
         <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description">
           <source>Change the color of enemies.</source>
+          <target>Cambia el color de los enemigos.</target>
         </trans-unit>
         <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description">
           <source>Change the color of rolling spike obstacles.</source>
+          <target>Cambia el color de los obstáculos de pinchos rodantes.</target>
         </trans-unit>
         <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
           <source>Tweak obstacle color palettes.</source>
+          <target>Retocar las paletas de color de los obstáculos.</target>
         </trans-unit>
         <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
           <source>Change the color of floating wings.</source>
+          <target>Cambia el color de las alas flotantes.</target>
         </trans-unit>
         <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits">
           <source>Actions Only</source>
+          <target>Solo Acciones</target>
         </trans-unit>
         <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all">
           <source>All</source>
+          <target>Todas</target>
         </trans-unit>
         <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
           <source>Action Type</source>
+          <target>Tipo de Acción</target>
         </trans-unit>
         <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description">
           <source>Floor beat grid markers match level background colors.</source>
+          <target>Los marcadores de pulso en el piso coinciden con los colores de fondo en el nivel.</target>
         </trans-unit>
         <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
           <source>Beat grid markers with obstacles will be colored according beat offset.</source>
+          <target>Los marcadores de pulso con obstáculos se colorearán acuerdo al offset del pulso.</target>
         </trans-unit>
         <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description">
           <source>All beat grid markers will be colored according to beat offset.</source>
@@ -2922,7 +3002,7 @@ Check the code and try again.</source>
           <source>Level 6-1
 Spellbound Nebula</source>
           <target>Nivel 6-1
-Campo Estelar Veloz</target>
+Nebula Hechizada</target>
         </trans-unit>
         <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
           <source>Coin Outlines</source>
@@ -3188,6 +3268,28 @@ by Wolfgang Amadeus Mozart</source>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>Controles...</target>
+        </trans-unit>
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+          <source>Midnight Moon
+by DDRKirby(ISQ)</source>
+        </trans-unit>
+        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
+          <source>Return to the main menu.</source>
+        </trans-unit>
+        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
+          <source>Für Elise
+by Ludwig van Beethoven</source>
+        </trans-unit>
+        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
+          <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        </trans-unit>
+        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
+          <source>Level 6-4
+Cosmic Conflux</source>
+        </trans-unit>
+        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
+          <source>Skip Tutorial</source>
         </trans-unit>
       </group>
     </body>

@@ -574,7 +574,7 @@ Are you sure you want to proceed?</source>
         </trans-unit>
         <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
-          <target>Vous pouvez changer ces contrôles en passant par le &lt;color=yellow&gt;menu principal&lt;/color&gt;.</target>
+          <target>Vous pouvez changer ces contrôles dans le menu &lt;color=yellow&gt;"Paramètres"&lt;/color&gt;.</target>
         </trans-unit>
         <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
           <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
@@ -1294,7 +1294,7 @@ Voulez-vous activer le mode lecteur d'écran ?
         </trans-unit>
         <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap">
           <source>You can change these controls in the "Settings" menu.</source>
-          <target>Vous pouvez changer ces contrôles en passant par le menu principal.</target>
+          <target>Vous pouvez changer ces contrôles dans le menu "Paramètres".</target>
         </trans-unit>
         <trans-unit id="145495792350441472" xml:space="preserve" resname="menu_resuming">
           <source>Resuming...</source>
@@ -2142,7 +2142,7 @@ Cliquez pour démarrer un aperçu du niveau à un point donné. Cliquez de nouve
         </trans-unit>
         <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
           <source>File...</source>
-          <target>Fichier</target>
+          <target>Fichier...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2188,7 +2188,7 @@ Voulez-vous les conserver ?</target>
         </trans-unit>
         <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
           <source>Settings...</source>
-          <target>Paramètres</target>
+          <target>Paramètres...</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -3076,7 +3076,7 @@ Vérifiez le code et réessayez.</target>
           <source>Level 6-1
 Spellbound Nebula</source>
           <target>Niveau 6-1
-Nébuleuse Vertigineuse</target>
+Nébuleuse Envoutée</target>
         </trans-unit>
         <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
           <source>Coin Outlines</source>
@@ -3132,229 +3132,339 @@ Nébuleuse Vertigineuse</target>
         </trans-unit>
         <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
           <source>Song name/artist and chart author needs to be filled out</source>
+          <target>Les noms de la musique, de l'artiste et de l'auteur du niveau doivent être renseignés</target>
         </trans-unit>
         <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
           <source>Level is missing a Description</source>
+          <target>Il manque une description au niveau</target>
         </trans-unit>
         <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
           <source>Level has no music audio</source>
+          <target>Le niveau n'a pas d'audio</target>
         </trans-unit>
         <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
           <source>Music export options need to be set</source>
+          <target>Les options d'exportation de musique ne sont pas définies</target>
         </trans-unit>
         <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
           <source>Music audio will not be included in export</source>
+          <target>L'audio ne sera pas inclus dans l'exportation</target>
         </trans-unit>
         <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder">
           <source>(name of the music track)</source>
+          <target>(nom de la musique)</target>
         </trans-unit>
         <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder">
           <source>(credit the song's artist)</source>
+          <target>(nom de l'artiste musical)</target>
         </trans-unit>
         <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder">
           <source>(your name)</source>
+          <target>(votre nom)</target>
         </trans-unit>
         <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder">
           <source>(enter notes or details about your level here)</source>
+          <target>(entrez vos notes ou détails concernant votre niveau)</target>
         </trans-unit>
         <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist">
           <source>Export Checklist</source>
+          <target>Prérequis pour l'Exportation</target>
         </trans-unit>
         <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
           <source>No banner image provided, default will be used</source>
+          <target>Aucune image de bannière fournie, celle par défaut sera utilisée</target>
         </trans-unit>
         <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
+          <target>Applique un effet de flou aux arrière-plans afin qu'ils soient moins nets.</target>
         </trans-unit>
         <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
           <source>Mods and Assists</source>
+          <target>Modificateurs et Aides</target>
         </trans-unit>
         <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
           <source>Assists...</source>
+          <target>Aides...</target>
         </trans-unit>
         <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
           <source>Assist features that can help with difficult gameplay sections.</source>
+          <target>Fonctionnalités d'aide pour les sections trop difficiles.</target>
         </trans-unit>
         <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
           <source>Track Preview</source>
+          <target>Aperçu du Niveau</target>
         </trans-unit>
         <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
           <source>Practice Mode</source>
+          <target>Mode Entraînement</target>
         </trans-unit>
         <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats">
           <source>Temporary Cheats...</source>
+          <target>Triches Temporaires...</target>
         </trans-unit>
         <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description">
           <source>Repeatedly practice the current section with various assists.</source>
+          <target>Recommencer en boucle la section actuelle avec diverses aides.</target>
         </trans-unit>
         <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description">
           <source>Allows you to scroll left and right to see the rest of the track.</source>
+          <target>Permet de faire défiler à gauche et à droite pour voir le reste du niveau.</target>
         </trans-unit>
         <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description">
           <source>Options for making the current section easier.</source>
+          <target>Options pour faciliter la section actuelle.</target>
         </trans-unit>
         <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats">
           <source>(These settings will reset after the current section is complete)</source>
+          <target>(Ces paramètres seront réinitialisés une fois la section en cours terminée)</target>
         </trans-unit>
         <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt">
           <source>It looks like you're having trouble with this section.
 Would you like to enable game assist features?</source>
+          <target>On dirait que vous avez des difficultés avec cette section.
+Souhaitez-vous activer des fonctionnalités d'aide ?</target>
         </trans-unit>
         <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
           <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
+          <target>Si vous souhaitez activer les aides ultérieurement, vous les trouverez dans le menu "Modificateurs et Aides".</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
+          <target>Paramètres du Mode Entraînement</target>
         </trans-unit>
         <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
           <source>Track Freezing</source>
+          <target>Arrêt du Niveau</target>
         </trans-unit>
         <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride">
           <source>(Unchanged)</source>
+          <target>(Inchangée)</target>
         </trans-unit>
         <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
           <source>Piano Sonata No. 16 in C Major
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
+          <target>Sonate pour piano n°16 en do majeur
+I. Allegro
+par Wolfgang Amadeus Mozart</target>
         </trans-unit>
         <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
           <source>Eine kleine Nachtmusik
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
+          <target>Une petite musique de nuit
+I. Allegro
+par Wolfgang Amadeus Mozart</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
           <source>Song of the Sea (Expert Mix)
 by DDRKirby(ISQ)</source>
+          <target>Song of the Sea (Expert Mix)
+par DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
           <source>Track freezing is disabled.</source>
+          <target>L'arrêt de piste est désactivé.</target>
         </trans-unit>
         <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled">
           <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
+          <target>L'arrêt de piste est activé. Le niveau s'arrêtera automatiquement pour attendre les bonnes actions.</target>
         </trans-unit>
         <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
           <source>Press &lt;- and -&gt; to scroll.
 Press Enter to return.</source>
+          <target>Appuyez sur &lt;- et -&gt; pour faire défiler.
+Appuyez sur Entrée pour revenir.</target>
         </trans-unit>
         <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
           <source>Click and drag to scroll left/right.</source>
+          <target>Cliquez et faites glisser pour faire défiler à gauche/droite.</target>
         </trans-unit>
         <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
           <source>Tap and drag to scroll left/right.</source>
+          <target>Touchez et faites glisser pour faire défiler à gauche/droite.</target>
         </trans-unit>
         <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
           <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
 Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
+          <target>Utilisez &lt;sprite name="controller_icons_45"&gt; pour faire défiler.
+Appuyez sur &lt;sprite name="controller_icons_60"&gt; pour revenir.</target>
         </trans-unit>
         <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
           <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
 Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
+          <target>Utilisez &lt;sprite name="controller_icons_79"&gt; pour faire défiler.
+Appuyez sur &lt;sprite name="controller_icons_100"&gt; pour revenir.</target>
         </trans-unit>
         <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation">
           <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
 Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
+          <target>Utilisez &lt;sprite name="controller_icons_16"&gt; pour faire défiler.
+Appuyez sur &lt;sprite name="controller_icons_37"&gt; pour revenir.</target>
         </trans-unit>
         <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description">
           <source>Adjust in-game controls.</source>
+          <target>Ajuster les contrôles du jeu.</target>
         </trans-unit>
         <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties">
           <source>Properties</source>
+          <target>Propriétés</target>
         </trans-unit>
         <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
           <source>Level...</source>
+          <target>Niveau...</target>
         </trans-unit>
         <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
           <source>Grid Snap</source>
+          <target>Aligner sur la Grille</target>
         </trans-unit>
         <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine">
           <source>Fine</source>
+          <target>Fine</target>
         </trans-unit>
         <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers">
           <source>Helpers</source>
+          <target>Soutiens</target>
         </trans-unit>
         <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled">
           <source>Don't override settings for visual/audio aids.</source>
+          <target>Ne pas remplacer les paramètres des aides visuelles/audio.</target>
         </trans-unit>
         <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled">
           <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+          <target>Forcer l'activation des aides visuelles/audio comme le métronome et la chronologie des actions.</target>
         </trans-unit>
         <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
           <source>Exit Practice</source>
+          <target>Quitter l'Entraînement</target>
         </trans-unit>
         <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
           <source>Practice Mode
 Press Esc for settings</source>
+          <target>Mode Entraînement
+Appuyez sur Échap pour paramétrer</target>
         </trans-unit>
         <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
           <source>Practice Mode</source>
+          <target>Mode Entraînement</target>
         </trans-unit>
         <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
           <source>Practice Mode</source>
+          <target>Mode Entraînement</target>
         </trans-unit>
         <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+          <target>Mode Entraînement
+Appuyez sur &lt;sprite name="controller_icons_100"&gt; pour paramétrer</target>
         </trans-unit>
         <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
+          <target>Mode Entraînement
+Appuyez sur &lt;sprite name="controller_icons_65"&gt; pour paramétrer</target>
         </trans-unit>
         <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
+          <target>Mode Entraînement
+Appuyez sur &lt;sprite name="controller_icons_97"&gt; pour paramétrer</target>
         </trans-unit>
         <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
           <source>Practice Settings</source>
+          <target>Paramètres d'Entraînement</target>
         </trans-unit>
         <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
           <source>Level 6-3
 Quantum Orbit</source>
+          <target>Niveau 6-3
+Orbite Quantique</target>
         </trans-unit>
         <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
           <source>Additional Settings...</source>
+          <target>Paramètres additionnels...</target>
         </trans-unit>
         <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description">
           <source>Edit additional audio settings.</source>
+          <target>Modifier les paramètres audio additionnels.</target>
         </trans-unit>
         <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx">
           <source>Coin Sfx</source>
+          <target>Son des Pièces</target>
         </trans-unit>
         <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
           <source>Coin collection is silent.</source>
+          <target>Les pièces sont silencieuses.</target>
         </trans-unit>
         <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled">
           <source>(Default) Plays a chime whenever a coin is collected.</source>
+          <target>(Par défaut) Joue un son chaque fois qu'une pièce est collectée.</target>
         </trans-unit>
         <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch">
           <source>Rumble...</source>
+          <target>Vibrations...</target>
         </trans-unit>
         <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch">
           <source>Configure Controls...</source>
+          <target>Configurer les Contrôles...</target>
         </trans-unit>
         <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
           <source>Configure controller bindings.</source>
+          <target>Configurer les boutons de la manette.</target>
         </trans-unit>
         <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
           <source>Controller Config</source>
+          <target>Configuration de la Manette</target>
         </trans-unit>
         <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
           <source>Use default controller bindings.</source>
+          <target>Utiliser les boutons par défaut.</target>
         </trans-unit>
         <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
           <source>Use custom controller bindings.</source>
+          <target>Utiliser des boutons de manette personnalisés.</target>
         </trans-unit>
         <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
           <source>Flower Fang (Expert Mix)
 by DDRKirby(ISQ)</source>
+          <target>Flower Fang (Expert Mix)
+par DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11
 by Wolfgang Amadeus Mozart</source>
+          <target>Marche turque (Rondo alla Turca)
+de la Sonate pour piano n°11
+par Wolfgang Amadeus Mozart</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>Contrôles...</target>
+        </trans-unit>
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+          <source>Midnight Moon
+by DDRKirby(ISQ)</source>
+          <target>Lune de Minuit
+par DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
+          <source>Return to the main menu.</source>
+        </trans-unit>
+        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
+          <source>Für Elise
+by Ludwig van Beethoven</source>
+        </trans-unit>
+        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
+          <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        </trans-unit>
+        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
+          <source>Level 6-4
+Cosmic Conflux</source>
+        </trans-unit>
+        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
+          <source>Skip Tutorial</source>
         </trans-unit>
       </group>
     </body>

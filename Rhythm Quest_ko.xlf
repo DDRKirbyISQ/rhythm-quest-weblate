@@ -2976,6 +2976,7 @@ You need an account in order to publish levels to mod.io.</source>
         </trans-unit>
         <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails">
           <source>Account details...</source>
+          <target>계정 상세 정보...</target>
         </trans-unit>
         <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister">
           <source>Login/Register...</source>
@@ -3023,9 +3024,11 @@ Check the code and try again.</source>
         </trans-unit>
         <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout">
           <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
+          <target>&lt;sprite name="fonticons_8"&gt; 비로그인</target>
         </trans-unit>
         <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin">
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
+          <target>&lt;sprite name="fonticons_10"&gt; {0} (으)로 로그인함</target>
         </trans-unit>
         <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
           <source>Updating mod.iod mod profile...</source>
@@ -3120,6 +3123,7 @@ Spellbound Nebula</target>
         </trans-unit>
         <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
           <source>No banner image provided, default will be used</source>
+          <target>배너 이미지를 설정하지 않아, 기본 값을 사용합니다</target>
         </trans-unit>
         <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
@@ -3129,12 +3133,15 @@ Spellbound Nebula</target>
         </trans-unit>
         <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
           <source>Assists...</source>
+          <target>보조 기능...</target>
         </trans-unit>
         <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
           <source>Assist features that can help with difficult gameplay sections.</source>
+          <target>보조 기능은 어려운 게임 플레이 구역을 넘도록 도와줄 수 있습니다.</target>
         </trans-unit>
         <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
           <source>Track Preview</source>
+          <target>트랙 미리 보기</target>
         </trans-unit>
         <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
           <source>Practice Mode</source>
@@ -3164,6 +3171,7 @@ Would you like to enable game assist features?</source>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
+          <target>연습 모드 설정</target>
         </trans-unit>
         <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
           <source>Track Freezing</source>
@@ -3175,15 +3183,23 @@ Would you like to enable game assist features?</source>
           <source>Piano Sonata No. 16 in C Major
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
+          <target>Piano Sonata No. 16 in C Major
+I. Allegro
+by Wolfgang Amadeus Mozart</target>
         </trans-unit>
         <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
           <source>Eine kleine Nachtmusik
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
+          <target>Eine kleine Nachtmusik
+I. Allegro
+by Wolfgang Amadeus Mozart</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
           <source>Song of the Sea (Expert Mix)
 by DDRKirby(ISQ)</source>
+          <target>Song of the Sea (Expert Mix)
+by DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
           <source>Track freezing is disabled.</source>
@@ -3194,9 +3210,12 @@ by DDRKirby(ISQ)</source>
         <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
           <source>Press &lt;- and -&gt; to scroll.
 Press Enter to return.</source>
+          <target>&lt;- 혹은 -&gt; 을 눌러 스크롤합니다.
+Enter를 눌러 돌아갑니다.</target>
         </trans-unit>
         <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
           <source>Click and drag to scroll left/right.</source>
+          <target>클릭 후 드래그해 왼쪽/오른쪽으로 스크롤합니다.</target>
         </trans-unit>
         <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
           <source>Tap and drag to scroll left/right.</source>
@@ -3218,9 +3237,11 @@ Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
         </trans-unit>
         <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties">
           <source>Properties</source>
+          <target>속성</target>
         </trans-unit>
         <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
           <source>Level...</source>
+          <target>레벨...</target>
         </trans-unit>
         <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
           <source>Grid Snap</source>
@@ -3239,35 +3260,49 @@ Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
         </trans-unit>
         <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
           <source>Exit Practice</source>
+          <target>연습 나가기</target>
         </trans-unit>
         <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
           <source>Practice Mode
 Press Esc for settings</source>
+          <target>연습 모드
+Esc를 눌러 설정 열기</target>
         </trans-unit>
         <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
           <source>Practice Mode</source>
+          <target>연습 모드</target>
         </trans-unit>
         <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
           <source>Practice Mode</source>
+          <target>연습 모드</target>
         </trans-unit>
         <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+          <target>연습 모드
+&lt;sprite name="controller_icons_100"&gt;를 눌러 설정 열기</target>
         </trans-unit>
         <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
+          <target>연습 모드
+&lt;sprite name="controller_icons_65"&gt;를 눌러 설정 열기</target>
         </trans-unit>
         <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
+          <target>연습 모드
+&lt;sprite name="controller_icons_97"&gt;를 눌러 설정 열기</target>
         </trans-unit>
         <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
           <source>Practice Settings</source>
+          <target>연습 설정</target>
         </trans-unit>
         <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
           <source>Level 6-3
 Quantum Orbit</source>
+          <target>레벨 6-3
+Quantum Orbit</target>
         </trans-unit>
         <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
           <source>Additional Settings...</source>
@@ -3280,6 +3315,7 @@ Quantum Orbit</source>
         </trans-unit>
         <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
           <source>Coin collection is silent.</source>
+          <target>동전 수집이 조용해집니다.</target>
         </trans-unit>
         <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled">
           <source>(Default) Plays a chime whenever a coin is collected.</source>
@@ -3292,28 +3328,60 @@ Quantum Orbit</source>
         </trans-unit>
         <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
           <source>Configure controller bindings.</source>
+          <target>컨트롤러 조작법을 설정합니다.</target>
         </trans-unit>
         <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
           <source>Controller Config</source>
         </trans-unit>
         <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
           <source>Use default controller bindings.</source>
+          <target>기본 컨트롤러 조작법 사용하기.</target>
         </trans-unit>
         <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
           <source>Use custom controller bindings.</source>
+          <target>컨트롤러 조작법 사용자 지정하기.</target>
         </trans-unit>
         <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
           <source>Flower Fang (Expert Mix)
 by DDRKirby(ISQ)</source>
+          <target>Flower Fang (Expert Mix)
+by DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11
 by Wolfgang Amadeus Mozart</source>
+          <target>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11
+by Wolfgang Amadeus Mozart</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>조작...</target>
+        </trans-unit>
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+          <source>Midnight Moon
+by DDRKirby(ISQ)</source>
+          <target>Midnight Moon
+by DDRKirby(ISQ)</target>
+        </trans-unit>
+        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
+          <source>Return to the main menu.</source>
+        </trans-unit>
+        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
+          <source>Für Elise
+by Ludwig van Beethoven</source>
+        </trans-unit>
+        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
+          <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        </trans-unit>
+        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
+          <source>Level 6-4
+Cosmic Conflux</source>
+        </trans-unit>
+        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
+          <source>Skip Tutorial</source>
         </trans-unit>
       </group>
     </body>
