@@ -406,49 +406,49 @@ Voo Crepuscular</target>
           <source>a game by DDRKirby(ISQ)</source>
           <target state="final">um jogo por DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
+        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2" approved="yes">
           <source>Programming: DDRKirby(ISQ)
 Design: DDRKirby(ISQ)
 Music: DDRKirby(ISQ)
 Sfx: DDRKirby(ISQ)
 Graphics: DDRKirby(ISQ)</source>
-          <target>Programação: DDRKirby(ISQ)
+          <target state="final">Programação: DDRKirby(ISQ)
 Design: DDRKirby(ISQ)
 Música: DDRKirby(ISQ)
-Efeitos Especiais: DDRKirby(ISQ)
+Efeitos sonoros: DDRKirby(ISQ)
 Gráficos: DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3">
+        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3" approved="yes">
           <source>Moral Support: fuzzybunny2</source>
-          <target>Suporte Moral: fuzzybunny2</target>
+          <target state="final">Suporte Moral: fuzzybunny2</target>
         </trans-unit>
-        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits">
+        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits" approved="yes">
           <source>Credits</source>
-          <target>Créditos</target>
+          <target state="final">Créditos</target>
         </trans-unit>
-        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume">
+        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="yes">
           <source>Resume</source>
-          <target>Continuar</target>
+          <target state="final">Continuar</target>
         </trans-unit>
-        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused">
+        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused" approved="yes">
           <source>Paused</source>
-          <target>Pausado</target>
+          <target state="final">Pausado</target>
         </trans-unit>
-        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete" approved="yes">
           <source>Level Complete</source>
-          <target>Nível Completo</target>
+          <target state="final">Nível Completo</target>
         </trans-unit>
-        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
+        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language" approved="yes">
           <source>Language</source>
-          <target>Linguagem</target>
+          <target state="final">Idioma</target>
         </trans-unit>
-        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked">
+        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="yes">
           <source>(Locked)</source>
-          <target>(Bloqueado)</target>
+          <target state="final">(Bloqueado)</target>
         </trans-unit>
-        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols">
+        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols" approved="yes">
           <source>Control Positioning</source>
-          <target>Posicionamento de Controle</target>
+          <target state="final">Posicionamento de Controle</target>
         </trans-unit>
         <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
           <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
