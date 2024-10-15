@@ -3451,4 +3451,34 @@ par DDRKirby(ISQ)</target>
       </group>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="fr" datatype="plaintext">
+    <body>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="yes">
+        <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        <target state="final">Le Vol du Bourdon
+par Nikolai Rimsky-Korsakov</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="yes">
+        <source>Level 6-4
+Cosmic Conflux</source>
+        <target state="final">Niveau 6-4
+Confluence Cosmique</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">Passer le Tutoriel</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="yes">
+        <source>Return to the main menu.</source>
+        <target state="final">Retourner au menu principal.</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="yes">
+        <source>Für Elise
+by Ludwig van Beethoven</source>
+        <target state="final">La Lettre à Elise
+par Ludwig van Beethoven</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
