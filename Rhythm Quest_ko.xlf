@@ -3158,4 +3158,18 @@ by DDRKirby(ISQ)</target>
       </group>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="ko" datatype="plaintext">
+    <body>
+      <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description" approved="no">
+        <source>All enemies colored based on beat offset.</source>
+        <target state="translated">모든 적이 박자 오프셋에 맞춰 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="no">
+        <source>Basic enemies colored based on beat offset.
+Other enemies colored based on enemy type.</source>
+        <target state="translated">기본 적을 박자 오프셋에 맞춰 칠합니다.
+다른적들은 적 종류에 맞춰 칠해집니다.</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
