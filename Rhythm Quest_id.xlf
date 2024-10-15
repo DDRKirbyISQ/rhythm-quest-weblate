@@ -8,13 +8,13 @@
     </header>
     <body>
       <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
-        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings" approved="yes">
           <source>Settings</source>
-          <target>Pengaturan</target>
+          <target state="final">Pengaturan</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="yes">
           <source>Start Game</source>
-          <target>Mulai Permainan</target>
+          <target state="final">Mulai Permainan</target>
         </trans-unit>
         <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
           <source>Extras</source>
@@ -2763,6 +2763,14 @@ Speedy Starfield</target>
           <target>Kontrol...</target>
         </trans-unit>
       </group>
+    </body>
+  </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="id" datatype="plaintext">
+    <body>
+      <trans-unit id="299097886033752064" xml:space="preserve" resname="editor_input_songname" approved="no">
+        <source>Song name:</source>
+        <target state="translated">Nama lagu:</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
