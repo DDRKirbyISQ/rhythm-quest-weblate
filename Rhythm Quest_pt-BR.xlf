@@ -96,97 +96,97 @@
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
           <target state="final">Interface e câmera dimensionarão para se ajustarem à tela. Pode resultar em pixels não quadrados, especialmente em resoluções menores.</target>
         </trans-unit>
-        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="yes">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
-          <target>(Padrão) Interface e câmera apenas irá escalonar por valores inteiros. Garante que os pixels serão quadrados, mas pode ser necessário afastar a câmera.</target>
+          <target state="final">(Padrão) Interface e câmera dimensionarão apenas valores inteiros. Garante que os pixels sejam quadrados, mas pode ser necessário afastar a câmera.</target>
         </trans-unit>
-        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
           <source>Resolution</source>
-          <target>Resolução</target>
+          <target state="final">Resolução</target>
         </trans-unit>
-        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="yes">
           <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
-          <target>Ajuste a resolução da janela para valores pré-definidos. (Resoluções em tela cheia não podem ser alterados)</target>
+          <target state="final">Ajuste a resolução da janela para valores predefinidos. (Resoluções em tela cheia não podem ser alteradas)</target>
         </trans-unit>
-        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="yes">
           <source>Vertical Sync</source>
-          <target>Sincronização Vertical (V-Sync)</target>
+          <target state="final">Sincronização Vertical (V-Sync)</target>
         </trans-unit>
-        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
+        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled" approved="yes">
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
-          <target>Desativa a sincronização de atualização de tela. Pode resultar em uma renderização mais rápida, porém cortes visuais na tela podem acontecer.</target>
+          <target state="final">Desativa a sincronização de atualização da tela. Pode resultar em uma renderização mais rápida, porém cortes visuais na tela podem ocorrer.</target>
         </trans-unit>
-        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled">
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="yes">
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
-          <target>(Padrão) Sincroniza a renderização com a taxa de atualização de tela. Evita cortes visuais na tela.</target>
+          <target state="final">(Padrão) Sincroniza a renderização com a taxa de atualização da tela. Evita cortes visuais na tela.</target>
         </trans-unit>
-        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="yes">
           <source>Disabled</source>
-          <target>Desativado</target>
+          <target state="final">Desativado</target>
         </trans-unit>
-        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
           <source>Enabled</source>
-          <target>Ativado</target>
+          <target state="final">Ativado</target>
         </trans-unit>
-        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="yes">
           <source>Scaling Settings...</source>
-          <target>Opções de escala...</target>
+          <target state="final">Configurações de Escala...</target>
         </trans-unit>
-        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="yes">
           <source>Return to the previous menu.</source>
-          <target>Retorna ao menu anterior.</target>
+          <target state="final">Retornar ao menu anterior.</target>
         </trans-unit>
-        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="yes">
           <source>Zoom Level</source>
-          <target>Nível de Zoom</target>
+          <target state="final">Nível de Zoom</target>
         </trans-unit>
-        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
+        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
           <source>Default</source>
-          <target>Padrão</target>
+          <target state="final">Padrão</target>
         </trans-unit>
-        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far">
+        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="yes">
           <source>Far</source>
-          <target>Longe</target>
+          <target state="final">Longe</target>
         </trans-unit>
-        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near">
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="yes">
           <source>Near</source>
-          <target>Perto</target>
+          <target state="final">Perto</target>
         </trans-unit>
-        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
+        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default" approved="yes">
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
-          <target>Usa o nível padrão de zoom. Deve ser o suficiente geralmente.</target>
+          <target state="final">Usar o nível de zoom padrão do jogo. Deve ser suficiente na maioria dos casos.</target>
         </trans-unit>
-        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far" approved="yes">
           <source>Forces a zoomed-out gameplay view.</source>
-          <target>Força uma câmera afastada.</target>
+          <target state="final">Força uma visão de jogo afastada.</target>
         </trans-unit>
-        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near" approved="yes">
           <source>Forces a zoomed-in gameplay view.</source>
-          <target>Força uma câmera aproximada.</target>
+          <target state="final">Força uma visão de jogo ampliada.</target>
         </trans-unit>
-        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="yes">
           <source>Music Volume</source>
-          <target>Volume da música</target>
+          <target state="final">Volume da Música</target>
         </trans-unit>
-        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="yes">
           <source>Adjust the volume of the game music.</source>
-          <target>Ajuste o volume da música do jogo.</target>
+          <target state="final">Ajuste o volume da música do jogo.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="yes">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>Ajuste o volume dos efeitos sonoros do jogo.</target>
+          <target state="final">Ajuste o volume dos efeitos sonoros do jogo.</target>
         </trans-unit>
-        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="yes">
           <source>Sfx Volume</source>
-          <target>Volume dos efeitos sonoros</target>
+          <target state="final">Volume dos Efeitos Sonoros</target>
         </trans-unit>
-        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="yes">
           <source>Effect Settings...</source>
-          <target>Opções dos Efeitos...</target>
+          <target state="final">Configurações dos Efeitos...</target>
         </trans-unit>
-        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake" approved="yes">
           <source>Screen Shake</source>
-          <target>Tremor da Tela</target>
+          <target state="final">Tremor da Tela</target>
         </trans-unit>
         <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
           <source>Disables screen shake effects.</source>
