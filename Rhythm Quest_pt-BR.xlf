@@ -188,77 +188,77 @@
           <source>Screen Shake</source>
           <target state="final">Tremor da Tela</target>
         </trans-unit>
-        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="yes">
           <source>Disables screen shake effects.</source>
-          <target>Desativa os efeitos de tremor de tela.</target>
+          <target state="final">Desativa os efeitos de tremor da tela.</target>
         </trans-unit>
-        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="yes">
           <source>Enables screen shake effects.</source>
-          <target>Habilita os efeitos de tremor de tela.</target>
+          <target state="final">Habilita os efeitos de tremor da tela.</target>
         </trans-unit>
-        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="yes">
           <source>Screen Flashes</source>
-          <target>Luzes Piscantes</target>
+          <target state="final">Luzes Piscantes</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="yes">
           <source>Enables screen flash effects.</source>
-          <target>Habilita os efeitos de luzes piscantes na tela.</target>
+          <target state="final">Habilita os efeitos de luzes piscantes na tela.</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="yes">
           <source>Disables screen flash effects.</source>
-          <target>Desativa os efeitos de luzes piscantes na tela.</target>
+          <target state="final">Desativa os efeitos de luzes piscantes na tela.</target>
         </trans-unit>
-        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling" approved="yes">
           <source>Sfx Prescheduling</source>
-          <target>Pré-agendamento de efeitos sonoros</target>
+          <target state="final">Pré-agendamento dos efeitos sonoros</target>
         </trans-unit>
-        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
+        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled" approved="yes">
           <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
-          <target>Sons de ação sempre serão reproduzidos em resposta à interação. Recomendado apenas para baixas latências. O atraso extra do som pode atrapalhar seu ritmo.</target>
+          <target state="final">Sons de ação sempre reproduzirão em resposta à ação. Recomendado somente para baixas latências. O atraso extra do som pode atrapalhar seu ritmo.</target>
         </trans-unit>
-        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled">
+        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled" approved="yes">
           <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
-          <target>(Padrão) Sons de ação serão pré-agendados para estarem sincronizados perfeitamente. Eles irão reproduzir mesmo se a ação for perdida.</target>
+          <target state="final">(Padrão) Sons de ação serão pré-agendados para que fiquem perfeitamente sincronizados. Eles reproduzirão mesmo se a ação seja perdida.</target>
         </trans-unit>
-        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="yes">
           <source>Audio Offset</source>
-          <target>Atraso de áudio</target>
+          <target state="final">Compensação de Áudio</target>
         </trans-unit>
-        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
+        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description" approved="yes">
           <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
-          <target>Ajuste esse valor até que os bipes correspondam perfeitamente às luzes piscando.</target>
+          <target state="final">Ajuste esse valor até que os bipes correspondam perfeitamente às luzes piscantes.</target>
         </trans-unit>
-        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats">
+        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats" approved="yes">
           <source>Cheats</source>
-          <target>Trapaças</target>
+          <target state="final">Trapaças</target>
         </trans-unit>
-        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="yes">
           <source>Auto Play</source>
-          <target>Jogo Automático</target>
+          <target state="final">Jogo Automático</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
-          <target>Desbloquear Todos os Níveis</target>
+          <target state="final">Desbloquear Todos os Níveis</target>
         </trans-unit>
-        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="yes">
           <source>Auto play is disabled.</source>
-          <target>Jogo automático está desativado.</target>
+          <target state="final">Jogo automático está desativado.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Jogo automático está ativado. Níveis serão jogados automaticamente sem a interação do jogador. (O progresso não será salvo)</target>
+          <target state="final">Jogo automático está ativado. Os níveis serão jogados automaticamente sem a interação do jogador. (O progresso ainda será salvo)</target>
         </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
           <source>Levels must be unlocked normally.</source>
-          <target>Os níveis precisam ser desbloqueados normalmente.</target>
+          <target state="final">Os níveis precisam ser desbloqueados normalmente.</target>
         </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
+        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="yes">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>Todos os níveis são desbloqueados desde o começo. (O progresso ainda será salvo)</target>
+          <target state="final">Todos os níveis são desbloqueados desde o início. (O progresso ainda será salvo)</target>
         </trans-unit>
-        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
-          <target>Pressione Enter para Continuar</target>
+          <target state="final">Pressione Enter para Continuar</target>
         </trans-unit>
         <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
           <source>Click to Continue</source>
