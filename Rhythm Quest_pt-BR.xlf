@@ -544,33 +544,33 @@ Tem certeza de que deseja continuar?</target>
           <source>Do you want to calibrate audio lag now?</source>
           <target state="final">Você quer calibrar o atraso do áudio agora?</target>
         </trans-unit>
-        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
+        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump" approved="yes">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
-          <target>Aperte &lt;color=#{0}&gt;{1}&lt;/color&gt; ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; para Pular.</target>
+          <target state="final">Pressione &lt;color=#{0}&gt;{1}&lt;/color&gt; ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; para Pular.</target>
         </trans-unit>
-        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>
-          <target>Como Jogar</target>
+          <target state="final">Como Jogar</target>
         </trans-unit>
-        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack">
+        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack" approved="yes">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
-          <target>Aperte &lt;color=#{0}&gt;{1}&lt;/color&gt; ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; para Atacar.</target>
+          <target state="final">Pressione &lt;color=#{0}&gt;{1}&lt;/color&gt; ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; para Atacar.</target>
         </trans-unit>
-        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
+        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
-          <target>&lt;color=#{0}&gt;Toque na parte esquerda&lt;/color&gt; da tela para Pular.</target>
+          <target state="final">&lt;color=#{0}&gt;Toque na parte esquerda&lt;/color&gt; da tela para Pular.</target>
         </trans-unit>
-        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped">
+        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
-          <target>&lt;color=#{0}&gt;Toque na parte direita&lt;/color&gt; da tela para Pular.</target>
+          <target state="final">&lt;color=#{0}&gt;Toque na parte direita&lt;/color&gt; da tela para Pular.</target>
         </trans-unit>
-        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal">
+        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
-          <target>&lt;color=#{0}&gt;Toque na parte direita&lt;/color&gt; da tela para Atacar.</target>
+          <target state="final">&lt;color=#{0}&gt;Toque na parte direita&lt;/color&gt; da tela para Atacar.</target>
         </trans-unit>
-        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped">
+        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
-          <target>&lt;color=#{0}&gt;Toque na parte esquerda&lt;/color&gt; da tela para Atacar.</target>
+          <target state="final">&lt;color=#{0}&gt;Toque na parte esquerda&lt;/color&gt; da tela para Atacar.</target>
         </trans-unit>
         <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
