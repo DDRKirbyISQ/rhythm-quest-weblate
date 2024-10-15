@@ -94,11 +94,11 @@
         </trans-unit>
         <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="yes">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
-          <target state="final">Interface e câmera dimensionarão para se ajustarem à tela. Pode resultar em pixels não quadrados, especialmente em resoluções menores.</target>
+          <target state="final">A interface e a câmera serão dimensionadas para se ajustarem à tela. Pode resultar em pixels não quadrados, especialmente em resoluções mais baixas.</target>
         </trans-unit>
         <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="yes">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
-          <target state="final">(Padrão) Interface e câmera dimensionarão apenas valores inteiros. Garante que os pixels sejam quadrados, mas pode ser necessário afastar a câmera.</target>
+          <target state="final">(Padrão) A interface e a câmera só dimensionarão por valores inteiros. Garante que os pixels sejam quadrados, mas pode ser necessário afastar a câmera.</target>
         </trans-unit>
         <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
           <source>Resolution</source>
@@ -450,99 +450,99 @@ Gráficos: DDRKirby(ISQ)</target>
           <source>Control Positioning</source>
           <target state="final">Posicionamento de Controle</target>
         </trans-unit>
-        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
+        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="yes">
           <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
-          <target>(Padrão) Toque no lado esquerdo da tela para pular, toque no lado direito para atacar.</target>
+          <target state="final">(Padrão) Toque no lado esquerdo da tela para pular, toque no lado direito para atacar.</target>
         </trans-unit>
-        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled">
+        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="yes">
           <source>Tap left half of screen to attack, tap right half to jump.</source>
-          <target>Toque no lado esquerdo da tela para atacar, toque no lado direito para pular.</target>
+          <target state="final">Toque no lado esquerdo da tela para atacar, toque no lado direito para pular.</target>
         </trans-unit>
-        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="yes">
           <source>Jump</source>
-          <target>Pular</target>
+          <target state="final">Pular</target>
         </trans-unit>
-        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack" approved="yes">
           <source>Attack</source>
-          <target>Atacar</target>
+          <target state="final">Atacar</target>
         </trans-unit>
-        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="yes">
           <source>Press a key</source>
-          <target>Aperte uma tecla</target>
+          <target state="final">Pressione uma tecla</target>
         </trans-unit>
-        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description" approved="yes">
           <source>Select a key to use for &lt;Attack&gt;.</source>
-          <target>Selecione uma tecla para usar para &lt;Ataque&gt;.</target>
+          <target state="final">Selecione uma tecla para usar o &lt;Ataque&gt;.</target>
         </trans-unit>
-        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description" approved="yes">
           <source>Select a key to use for &lt;Jump&gt;.</source>
-          <target>Selecione uma tecla para usar para &lt;Pular&gt;.</target>
+          <target state="final">Selecione uma tecla para usar para &lt;Pular&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
+        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description" approved="yes">
           <source>Resets key bindings to their defaults.</source>
-          <target>Redefine as teclas modificadas para o padrão.</target>
+          <target state="final">Redefine as teclas modificadas para seus padrões.</target>
         </trans-unit>
-        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols">
+        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols" approved="yes">
           <source>Mouse Controls</source>
-          <target>Controles do Mouse</target>
+          <target state="final">Controles do Mouse</target>
         </trans-unit>
-        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
+        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Invertido</target>
+          <target state="final">Invertido</target>
         </trans-unit>
-        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="yes">
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
-          <target>Clique esquerdo para &lt;Pular&gt;. Clique direito para &lt;Atacar&gt;.</target>
+          <target state="final">Clique esquerdo para &lt;Pular&gt;. Clique direito para &lt;Atacar&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled" approved="yes">
           <source>In-game mouse controls are disabled.</source>
-          <target>Controles do mouse no jogo estão desativados.</target>
+          <target state="final">Controles do mouse no jogo estão desativados.</target>
         </trans-unit>
-        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled" approved="yes">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
-          <target>Clique direito para &lt;Pular&gt;. Clique esquerdo para &lt;Atacar&gt;.</target>
+          <target state="final">Clique direito para &lt;Pular&gt;. Clique esquerdo para &lt;Atacar&gt;.</target>
         </trans-unit>
-        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
+        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata" approved="yes">
           <source>Reset Game Data</source>
-          <target>Apagar Dados do Jogo</target>
+          <target state="final">Redefinir Dados do Jogo</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="yes">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target>Todos os dados salvos do jogo serão apagados.
+          <target state="final">Todos os dados salvos do jogo serão apagados.
 Tem certeza de que deseja continuar?</target>
         </trans-unit>
-        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="yes">
           <source>Yes</source>
-          <target>Sim</target>
+          <target state="final">Sim</target>
         </trans-unit>
-        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="yes">
           <source>No</source>
-          <target>Não</target>
+          <target state="final">Não</target>
         </trans-unit>
-        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
+        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed" approved="yes">
           <source>Game data has successfully been erased.</source>
-          <target>Os dados do jogo foram apagados com sucesso.</target>
+          <target state="final">Os dados do jogo foram apagados com sucesso.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
+        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt" approved="yes">
           <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target>Rhythm Quest é melhor aproveitado com a sincronização de áudio bem calibrado.</target>
+          <target state="final">Rhythm Quest é melhor aproveitado uma sincronização de áudio bem calibrada.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
+        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled" approved="yes">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target>Se você quiser fazer a calibração de atraso depois, você sempre pode fazer isso no menu de &lt;color=yellow&gt;Configurações&lt;/color&gt;.</target>
+          <target state="final">Se quiser fazer a calibração de atraso mais tarde, pode fazê-lo no menu de &lt;color=yellow&gt;Configurações&lt;/color&gt;.</target>
         </trans-unit>
-        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
+        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="yes">
           <source>Done</source>
-          <target>Pronto</target>
+          <target state="final">Pronto</target>
         </trans-unit>
-        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
+        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="yes">
           <source>Continue</source>
-          <target>Continuar</target>
+          <target state="final">Continuar</target>
         </trans-unit>
-        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
+        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2" approved="yes">
           <source>Do you want to calibrate audio lag now?</source>
-          <target>Você quer calibrar o atraso do áudio agora?</target>
+          <target state="final">Você quer calibrar o atraso do áudio agora?</target>
         </trans-unit>
         <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
