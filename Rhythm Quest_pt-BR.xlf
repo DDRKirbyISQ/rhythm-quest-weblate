@@ -260,151 +260,151 @@
           <source>Press Enter to Continue</source>
           <target state="final">Pressione Enter para Continuar</target>
         </trans-unit>
-        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="yes">
           <source>Click to Continue</source>
-          <target>Clique para Continuar</target>
+          <target state="final">Clique para Continuar</target>
         </trans-unit>
-        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="yes">
           <source>Tap to Continue</source>
-          <target>Toque para Continuar</target>
+          <target state="final">Toque para Continuar</target>
         </trans-unit>
-        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="yes">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
-          <target>Aperte &lt;sprite name="controller_icons_100"&gt; para Continuar</target>
+          <target state="final">Pressione &lt;sprite name="controller_icons_100"&gt; para Continuar</target>
         </trans-unit>
-        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="yes">
           <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
-          <target>Aperte &lt;sprite name="controller_icons_37"&gt; para Continuar</target>
+          <target state="final">Pressione &lt;sprite name="controller_icons_37"&gt; para Continuar</target>
         </trans-unit>
-        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="yes">
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
-          <target>Aperte &lt;sprite name="controller_icons_60"&gt; para Continuar</target>
+          <target state="final">Pressione &lt;sprite name="controller_icons_60"&gt; para Continuar</target>
         </trans-unit>
-        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="yes">
           <source>Font Style</source>
-          <target>Estilo da Fonte</target>
+          <target state="final">Estilo da Fonte</target>
         </trans-unit>
-        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
+        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="yes">
           <source>Pixel Font</source>
-          <target>Fonte Pixelada</target>
+          <target state="final">Fonte Pixelada</target>
         </trans-unit>
-        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled">
+        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled" approved="yes">
           <source>Smooth Font</source>
-          <target>Fonte Suavizada</target>
+          <target state="final">Fonte Suavizada</target>
         </trans-unit>
-        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled">
+        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled" approved="yes">
           <source>Use smooth font for the interface.</source>
-          <target>Use a fonte suavizada para a interface.</target>
+          <target state="final">Use a fonte suavizada para a interface.</target>
         </trans-unit>
-        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled">
+        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled" approved="yes">
           <source>Use pixel-styled font for the interface.</source>
-          <target>Use a fonte de estilo pixelada para a interface.</target>
+          <target state="final">Use a fonte de estilo pixelada para a interface.</target>
         </trans-unit>
-        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons" approved="yes">
           <source>On-screen Buttons</source>
-          <target>Botões na Tela</target>
+          <target state="final">Botões na Tela</target>
         </trans-unit>
-        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
+        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide" approved="yes">
           <source>Hide</source>
-          <target>Esconder</target>
+          <target state="final">Ocultar</target>
         </trans-unit>
-        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show">
+        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show" approved="yes">
           <source>Show</source>
-          <target>Mostrar</target>
+          <target state="final">Exibir</target>
         </trans-unit>
-        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
+        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide" approved="yes">
           <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
-          <target>Botões na tela serão ocultados. Toque nos lados esquerdo e direito da tela para jogar.</target>
+          <target state="final">Os botões na tela serão ocultados. Toque nos lados esquerdo e direito da tela para jogar.</target>
         </trans-unit>
-        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show">
+        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show" approved="yes">
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
-          <target>Botões na tela serão exibidos. (Você não precisa tocar exatamente neles)</target>
+          <target state="final">Os botões na tela serão exibidos. (Você não precisa tocar exatamente neles)</target>
         </trans-unit>
-        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
+        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog" approved="yes">
           <source>Changelog</source>
-          <target>Notas de atualização</target>
+          <target state="final">Notas de atualização</target>
         </trans-unit>
-        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="yes">
           <source>World 1
 Green Grasslands</source>
-          <target>Mundo 1
+          <target state="final">Mundo 1
 Campos Verdes</target>
         </trans-unit>
-        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
+        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="yes">
           <source>World 2
 Cloudy Courseway</source>
-          <target>Mundo 2
+          <target state="final">Mundo 2
 Percurso Nublado</target>
         </trans-unit>
-        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
+        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3" approved="yes">
           <source>World 3
 Retro Ridge</source>
-          <target>Mundo 3
+          <target state="final">Mundo 3
 Cordilheira Retrô</target>
         </trans-unit>
-        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="yes">
           <source>World 4
 Magical Metropolis</source>
-          <target>Mundo 4
+          <target state="final">Mundo 4
 Metrópole Mágica</target>
         </trans-unit>
-        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="yes">
           <source>World 5
 Crystal Caverns</source>
-          <target>Mundo 5
-Cavernas Cristalinas</target>
+          <target state="final">Mundo 5
+Cavernas de Cristal</target>
         </trans-unit>
-        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="yes">
           <source>World 6
 Space Sojourn</source>
-          <target>Mundo 6
+          <target state="final">Mundo 6
 Estadia Espacial</target>
         </trans-unit>
-        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="yes">
           <source>Level 1-1
 Sunrise Vista</source>
-          <target>Nível 1-1
+          <target state="final">Nível 1-1
 Vista da Alvorada</target>
         </trans-unit>
-        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="yes">
           <source>Level 1-2
 Raceway Plain</source>
-          <target>Nível 1-2
+          <target state="final">Nível 1-2
 Corrida na Planície</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="yes">
           <source>Level 1-3
 River Crossing</source>
-          <target>Nível 1-3
+          <target state="final">Nível 1-3
 Cruzamento do Rio</target>
         </trans-unit>
-        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="yes">
           <source>Level 1-4
 Mystic Forest</source>
-          <target>Nível 1-4
+          <target state="final">Nível 1-4
 Floresta Mística</target>
         </trans-unit>
-        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="yes">
           <source>Level 2-1
 Skyward Summit</source>
-          <target>Nível 2-1
-Cume aos Céus</target>
+          <target state="final">Nível 2-1
+Cume do Céu</target>
         </trans-unit>
-        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="yes">
           <source>Level 2-2
 Winged Airways</source>
-          <target>Nível 2-2
-Via Alada</target>
+          <target state="final">Nível 2-2
+Vias Aladas</target>
         </trans-unit>
-        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="yes">
           <source>Level 2-3
 Twilight Flight</source>
-          <target>Nível 2-3
+          <target state="final">Nível 2-3
 Voo Crepuscular</target>
         </trans-unit>
-        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
+        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits" approved="yes">
           <source>a game by DDRKirby(ISQ)</source>
-          <target>um jogo por DDRKirby(ISQ)</target>
+          <target state="final">um jogo por DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
           <source>Programming: DDRKirby(ISQ)
