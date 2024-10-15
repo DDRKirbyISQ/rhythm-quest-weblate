@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Assets/Localization/Main String Table_ru.asset" source-language="en" target-language="ru">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_ru.asset" uid="70eab19e494e9344995a75aae5074445" />
+        <external-file href="Assets/Localization/Main String Table_ru.asset" uid="70eab19e494e9344995a75aae5074445"/>
       </skl>
     </header>
     <body>
@@ -3427,36 +3427,9 @@ by DDRKirby(ISQ)</source>
           <target>Flower Fang (Expert Mix)
 Автор: DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
-          <source>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11
-by Wolfgang Amadeus Mozart</source>
-        </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>Управление...</target>
-        </trans-unit>
-        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
-          <source>Midnight Moon
-by DDRKirby(ISQ)</source>
-        </trans-unit>
-        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
-          <source>Return to the main menu.</source>
-        </trans-unit>
-        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
-          <source>Für Elise
-by Ludwig van Beethoven</source>
-        </trans-unit>
-        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
-          <source>Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</source>
-        </trans-unit>
-        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
-          <source>Level 6-4
-Cosmic Conflux</source>
-        </trans-unit>
-        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
-          <source>Skip Tutorial</source>
         </trans-unit>
       </group>
     </body>

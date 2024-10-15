@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Assets/Localization/Main String Table_uk.asset" source-language="en" target-language="uk">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_uk.asset" uid="8ef9c30fef4f94e84b22e1952b5fb21a" />
+        <external-file href="Assets/Localization/Main String Table_uk.asset" uid="8ef9c30fef4f94e84b22e1952b5fb21a"/>
       </skl>
     </header>
     <body>
@@ -3443,24 +3443,6 @@ from Piano Sonata No. 11
 by DDRKirby(ISQ)</source>
           <target>Midnight Moon
 від DDRKirby(ISQ)</target>
-        </trans-unit>
-        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
-          <source>Return to the main menu.</source>
-        </trans-unit>
-        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
-          <source>Für Elise
-by Ludwig van Beethoven</source>
-        </trans-unit>
-        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
-          <source>Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</source>
-        </trans-unit>
-        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
-          <source>Level 6-4
-Cosmic Conflux</source>
-        </trans-unit>
-        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
-          <source>Skip Tutorial</source>
         </trans-unit>
       </group>
     </body>

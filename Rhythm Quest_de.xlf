@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Assets/Localization/Main String Table_de.asset" source-language="en" target-language="de">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_de.asset" uid="33591246d8ccf5a4f97c9a43a4f7d778" />
+        <external-file href="Assets/Localization/Main String Table_de.asset" uid="33591246d8ccf5a4f97c9a43a4f7d778"/>
       </skl>
     </header>
     <body>
@@ -3312,120 +3312,9 @@ Drücke &lt;sprite name="controller_icons_37"&gt; um zurückzukehren.</target>
           <source>Level...</source>
           <target>Level...</target>
         </trans-unit>
-        <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
-          <source>Grid Snap</source>
-        </trans-unit>
-        <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine">
-          <source>Fine</source>
-        </trans-unit>
-        <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers">
-          <source>Helpers</source>
-        </trans-unit>
-        <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled">
-          <source>Don't override settings for visual/audio aids.</source>
-        </trans-unit>
-        <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled">
-          <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
-        </trans-unit>
-        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
-          <source>Exit Practice</source>
-        </trans-unit>
-        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
-          <source>Practice Mode
-Press Esc for settings</source>
-        </trans-unit>
-        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
-          <source>Practice Mode</source>
-        </trans-unit>
-        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
-          <source>Practice Mode</source>
-        </trans-unit>
-        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
-          <source>Practice Mode
-Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
-        </trans-unit>
-        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
-          <source>Practice Mode
-Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
-        </trans-unit>
-        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
-          <source>Practice Mode
-Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
-        </trans-unit>
-        <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
-          <source>Practice Settings</source>
-        </trans-unit>
-        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
-          <source>Level 6-3
-Quantum Orbit</source>
-        </trans-unit>
-        <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
-          <source>Additional Settings...</source>
-        </trans-unit>
-        <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description">
-          <source>Edit additional audio settings.</source>
-        </trans-unit>
-        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx">
-          <source>Coin Sfx</source>
-        </trans-unit>
-        <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
-          <source>Coin collection is silent.</source>
-        </trans-unit>
-        <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled">
-          <source>(Default) Plays a chime whenever a coin is collected.</source>
-        </trans-unit>
-        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch">
-          <source>Rumble...</source>
-        </trans-unit>
-        <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch">
-          <source>Configure Controls...</source>
-        </trans-unit>
-        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
-          <source>Configure controller bindings.</source>
-        </trans-unit>
-        <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
-          <source>Controller Config</source>
-        </trans-unit>
-        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
-          <source>Use default controller bindings.</source>
-        </trans-unit>
-        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
-          <source>Use custom controller bindings.</source>
-        </trans-unit>
-        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
-          <source>Flower Fang (Expert Mix)
-by DDRKirby(ISQ)</source>
-        </trans-unit>
-        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
-          <source>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11
-by Wolfgang Amadeus Mozart</source>
-        </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>Steuerung...</target>
-        </trans-unit>
-        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
-          <source>Midnight Moon
-by DDRKirby(ISQ)</source>
-        </trans-unit>
-        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
-          <source>Return to the main menu.</source>
-        </trans-unit>
-        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
-          <source>Für Elise
-by Ludwig van Beethoven</source>
-        </trans-unit>
-        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
-          <source>Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</source>
-        </trans-unit>
-        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
-          <source>Level 6-4
-Cosmic Conflux</source>
-        </trans-unit>
-        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
-          <source>Skip Tutorial</source>
         </trans-unit>
       </group>
     </body>

@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Assets/Localization/Main String Table_pt-BR.asset" source-language="en" target-language="pt-BR">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_pt-BR.asset" uid="e9619f11b8608411a952b4ace29b95c9" />
+        <external-file href="Assets/Localization/Main String Table_pt-BR.asset" uid="e9619f11b8608411a952b4ace29b95c9"/>
       </skl>
     </header>
     <body>
@@ -2440,10 +2440,6 @@ Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos al
           <source>fast ghost enemy</source>
           <target>inimigo fantasma rápido</target>
         </trans-unit>
-        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description">
-          <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
-Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
-        </trans-unit>
         <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth">
           <source>Insert fast ghost enemy at beat {0}</source>
           <target>Inserir inimigo fantasma rápido no tempo {0}</target>
@@ -3126,9 +3122,6 @@ Campo Estelar Veloz</target>
           <source>No problems found!</source>
           <target>Nenhum problema encontrado!</target>
         </trans-unit>
-        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
-          <source>Song name/artist and chart author needs to be filled out</source>
-        </trans-unit>
         <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
           <source>Level is missing a Description</source>
           <target>Está faltando a descrição do nível</target>
@@ -3161,9 +3154,6 @@ Campo Estelar Veloz</target>
           <source>(enter notes or details about your level here)</source>
           <target>(insira notas ou detalhes sobre seu nível aqui)</target>
         </trans-unit>
-        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist">
-          <source>Export Checklist</source>
-        </trans-unit>
         <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
           <source>No banner image provided, default will be used</source>
           <target>Nenhuma imagem de faixa fornecida, o padrão será usado</target>
@@ -3183,9 +3173,6 @@ Campo Estelar Veloz</target>
         <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
           <source>Assist features that can help with difficult gameplay sections.</source>
           <target>Recursos de assistência que podem ajudar em seções difíceis.</target>
-        </trans-unit>
-        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
-          <source>Track Preview</source>
         </trans-unit>
         <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
           <source>Practice Mode</source>
@@ -3310,9 +3297,6 @@ Pressione &lt;sprite name="controller_icons_37"&gt; para retornar.</target>
         <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
           <source>Grid Snap</source>
           <target>Encaixe de Grade</target>
-        </trans-unit>
-        <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine">
-          <source>Fine</source>
         </trans-unit>
         <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers">
           <source>Helpers</source>
@@ -3439,24 +3423,6 @@ por Wolfgang Amadeus Mozart</target>
 by DDRKirby(ISQ)</source>
           <target>Midnight Moon
 por DDRKirby(ISQ)</target>
-        </trans-unit>
-        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
-          <source>Return to the main menu.</source>
-        </trans-unit>
-        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
-          <source>Für Elise
-by Ludwig van Beethoven</source>
-        </trans-unit>
-        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
-          <source>Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</source>
-        </trans-unit>
-        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
-          <source>Level 6-4
-Cosmic Conflux</source>
-        </trans-unit>
-        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
-          <source>Skip Tutorial</source>
         </trans-unit>
       </group>
     </body>
