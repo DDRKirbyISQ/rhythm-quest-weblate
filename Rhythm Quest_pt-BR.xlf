@@ -1132,9 +1132,9 @@ Para obter a melhor experiência, sinta-se a vontade para testar a versão offli
           <source>Select a cue sound to play one beat before releasing a jump hold.</source>
           <target state="final">Selecione um som de sinalização para reproduzir uma batida antes de soltar um pulo mantido.</target>
         </trans-unit>
-        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
+        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description" approved="yes">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
-          <target>Selecione um som de sinalização para reproduzir uma batida antes de um pulo + ataque combinado.</target>
+          <target state="final">Selecione um som de sinalização para reproduzir uma batida antes de um pulo + ataque combinados.</target>
         </trans-unit>
         <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
           <source>Keep going...</source>
