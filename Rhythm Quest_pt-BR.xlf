@@ -1028,29 +1028,29 @@ Para obter a melhor experiência, sinta-se a vontade para testar a versão offli
           <source>Disables vibration on successful attacks.</source>
           <target>Desativa a vibração em ataques bem sucedidos.</target>
         </trans-unit>
-        <trans-unit id="124685702768930816" xml:space="preserve" resname="settings_hapticattack_description_enabled">
+        <trans-unit id="124685702768930816" xml:space="preserve" resname="settings_hapticattack_description_enabled" approved="yes">
           <source>Enables vibration on successful attacks.</source>
-          <target>Habilita a vibração em ataques bem sucedidos.</target>
+          <target state="final">Habilita a vibração em ataques bem-sucedidos.</target>
         </trans-unit>
-        <trans-unit id="124686712975437824" xml:space="preserve" resname="settings_hapticattack">
+        <trans-unit id="124686712975437824" xml:space="preserve" resname="settings_hapticattack" approved="yes">
           <source>Attack Rumble</source>
-          <target>Vibração do Ataque</target>
+          <target state="final">Vibração do Ataque</target>
         </trans-unit>
-        <trans-unit id="124686714758017024" xml:space="preserve" resname="settings_hapticjump">
+        <trans-unit id="124686714758017024" xml:space="preserve" resname="settings_hapticjump" approved="yes">
           <source>Jump Rumble</source>
-          <target>Vibração do Pulo</target>
+          <target state="final">Vibração do Pulo</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="yes">
           <source>Ui Rumble</source>
-          <target>Vibração da Interface</target>
+          <target state="final">Vibração da Interface</target>
         </trans-unit>
-        <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
+        <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled" approved="yes">
           <source>Disables vibration on successful jumps.</source>
-          <target>Desativa a vibração em pulos bem sucedidos.</target>
+          <target state="final">Desativa a vibração em pulos bem-sucedidos.</target>
         </trans-unit>
-        <trans-unit id="124687024733859840" xml:space="preserve" resname="settings_hapticjump_description_enabled">
+        <trans-unit id="124687024733859840" xml:space="preserve" resname="settings_hapticjump_description_enabled" approved="yes">
           <source>Enables vibration on successful jumps.</source>
-          <target>Habilita a vibração em pulos bem sucedidos.</target>
+          <target state="final">Habilita a vibração em pulos bem-sucedidos.</target>
         </trans-unit>
         <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
           <source>Disables vibration for ui elements.</source>
@@ -1076,61 +1076,61 @@ Para obter a melhor experiência, sinta-se a vontade para testar a versão offli
           <source>Panning</source>
           <target>Panorâmica</target>
         </trans-unit>
-        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description">
+        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description" approved="yes">
           <source>-100%: Attack cues on left, Jump cues on right
 100%: Jump cues on left, attack cues on right
 0%: Centered cues</source>
-          <target>-100%: Sinalizações de ataque na esquerda, sinalizações de Pulo na direita
-100%: Sinalizações de Pulo na esquerda, sinalizações de Ataque na direita
-0%: Sinalizações centradas</target>
+          <target state="final">-100%: Sinalizações de ataque à esquerda, sinalizações de pulo à direita
+100%: Sinalizações de pulo à esquerda, sinalizações de ataque à direita
+0%: Sinalizações centralizadas</target>
         </trans-unit>
-        <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump">
+        <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump" approved="yes">
           <source>Jump</source>
-          <target>Pular</target>
+          <target state="final">Pular</target>
         </trans-unit>
-        <trans-unit id="126862293653565440" xml:space="preserve" resname="settings_audiocueattack">
+        <trans-unit id="126862293653565440" xml:space="preserve" resname="settings_audiocueattack" approved="yes">
           <source>Attack</source>
-          <target>Atacar</target>
+          <target state="final">Atacar</target>
         </trans-unit>
-        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold">
+        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold" approved="yes">
           <source>Jump Hold</source>
-          <target>Manter Pulo</target>
+          <target state="final">Manter Pulo</target>
         </trans-unit>
-        <trans-unit id="126862339107237888" xml:space="preserve" resname="settings_audiocuejumprelease">
+        <trans-unit id="126862339107237888" xml:space="preserve" resname="settings_audiocuejumprelease" approved="yes">
           <source>Jump Release</source>
-          <target>Soltar Pulo</target>
+          <target state="final">Soltar Pulo</target>
         </trans-unit>
-        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack">
+        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack" approved="yes">
           <source>Jump + Attack</source>
-          <target>Pular + Atacar</target>
+          <target state="final">Pular + Atacar</target>
         </trans-unit>
-        <trans-unit id="126940109233500160" xml:space="preserve" resname="settings_audiocuevolume">
+        <trans-unit id="126940109233500160" xml:space="preserve" resname="settings_audiocuevolume" approved="yes">
           <source>Volume Balance</source>
-          <target>Balanço do Volume</target>
+          <target state="final">Balanço de Volume</target>
         </trans-unit>
-        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description">
+        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description" approved="yes">
           <source>Adjust balance between game sound and cue track. (0% = cues disabled)</source>
-          <target>Ajuste o balanceamento entre o som do jogo e o som da sinalização. (0% = sinalizações desativadas)</target>
+          <target state="final">Ajuste o equilíbrio entre o som do jogo e o som da sinalização. (0% = sinalizações desativadas)</target>
         </trans-unit>
         <trans-unit id="128297471466844160" xml:space="preserve" resname="menu_settings_haptics">
           <source>Haptic Feedback...</source>
           <target>Feedback Háptico...</target>
         </trans-unit>
-        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description">
+        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description" approved="yes">
           <source>Select a cue sound to play one beat before a jump.</source>
-          <target>Selecione um som de sinalização para reproduzir uma batida antes de um pulo.</target>
+          <target state="final">Selecione um som de sinalização para reproduzir uma batida antes de um pulo.</target>
         </trans-unit>
-        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description">
+        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description" approved="yes">
           <source>Select a cue sound to play one beat before an attack.</source>
-          <target>Selecione um som de sinalização para reproduzir uma batida antes de um ataque.</target>
+          <target state="final">Selecione um som de sinalização para reproduzir uma batida antes de um ataque.</target>
         </trans-unit>
-        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description">
+        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description" approved="yes">
           <source>Select a cue sound to play one beat before beginning a jump hold.</source>
-          <target>Selecione um som de sinalização para reproduzir uma batida antes de começar um pulo contínuo.</target>
+          <target state="final">Selecione um som de sinalização para reproduzir uma batida antes de começar um pulo mantido.</target>
         </trans-unit>
-        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description">
+        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description" approved="yes">
           <source>Select a cue sound to play one beat before releasing a jump hold.</source>
-          <target>Selecione um som de sinalização para reproduzir uma batida antes de soltar um pulo contínuo.</target>
+          <target state="final">Selecione um som de sinalização para reproduzir uma batida antes de soltar um pulo mantido.</target>
         </trans-unit>
         <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
