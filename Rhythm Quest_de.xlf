@@ -8,9 +8,9 @@
     </header>
     <body>
       <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
-        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings" approved="yes">
           <source>Settings</source>
-          <target>Einstellungen</target>
+          <target state="final">Einstellungen</target>
         </trans-unit>
         <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
           <source>Start Game</source>
