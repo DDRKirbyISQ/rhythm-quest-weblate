@@ -12,698 +12,699 @@
           <source>Settings</source>
           <target state="final">Einstellungen</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="yes">
           <source>Start Game</source>
-          <target>Spiel starten</target>
+          <target state="final">Spiel starten</target>
         </trans-unit>
-        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="yes">
           <source>Extras</source>
-          <target>Extras</target>
+          <target state="final">Extras</target>
         </trans-unit>
-        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="yes">
           <source>Quit</source>
-          <target>Beenden</target>
+          <target state="final">Beenden</target>
         </trans-unit>
-        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back" approved="yes">
           <source>Back</source>
-          <target>Zurück</target>
+          <target state="final">Zurück</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="yes">
           <source>Lag Calibration...</source>
-          <target>Latenz-Kalibrierung...</target>
+          <target state="final">Latenz-Kalibrierung...</target>
         </trans-unit>
-        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics" approved="yes">
           <source>Graphics</source>
-          <target>Grafik</target>
+          <target state="final">Grafik</target>
         </trans-unit>
-        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio" approved="yes">
           <source>Audio</source>
-          <target>Audio</target>
+          <target state="final">Audio</target>
         </trans-unit>
-        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="yes">
           <source>Interface Settings</source>
-          <target>Oberflächen-Einstellungen</target>
+          <target state="final">Oberflächen-Einstellungen</target>
         </trans-unit>
-        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
+        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls" approved="yes">
           <source>Controls</source>
-          <target>Steuerung</target>
+          <target state="final">Steuerung</target>
         </trans-unit>
-        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="yes">
           <source>Accessibility</source>
-          <target>Barrierefreiheit</target>
+          <target state="final">Barrierefreiheit</target>
         </trans-unit>
-        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="yes">
           <source>Scaling Mode</source>
-          <target>Skalierungsmodus</target>
+          <target state="final">Skalierungsmodus</target>
         </trans-unit>
-        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="yes">
           <source>Flexible</source>
-          <target>Flexibel</target>
+          <target state="final">Flexibel</target>
         </trans-unit>
-        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="yes">
           <source>Pixel Perfect</source>
-          <target>Pixel Perfekt</target>
+          <target state="final">Pixel Perfekt</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="yes">
           <source>Screen Mode</source>
-          <target>Anzeigemodus</target>
+          <target state="final">Anzeigemodus</target>
         </trans-unit>
         <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
           <source>Windowed</source>
           <target>Fenster</target>
         </trans-unit>
-        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
+        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="yes">
           <source>Maximized</source>
-          <target>Maximiert</target>
+          <target state="final">Maximiert</target>
         </trans-unit>
-        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
+        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen" approved="yes">
           <source>Fullscreen</source>
-          <target>Vollbild</target>
+          <target state="final">Vollbild</target>
         </trans-unit>
-        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed">
+        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed" approved="yes">
           <source>Game will be run in a window. Can be resized.</source>
-          <target>Das Spiel wird in einem Fenster ausgeführt. Die Größe kann angepasst werden.</target>
+          <target state="final">Das Spiel wird in einem Fenster ausgeführt. Die Größe kann angepasst werden.</target>
         </trans-unit>
-        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="yes">
           <source>Game will run in a maximized window.</source>
-          <target>Das Spiel wird in einem maximierten Fenster ausgeführt.</target>
+          <target state="final">Das Spiel wird in einem maximierten Fenster ausgeführt.</target>
         </trans-unit>
-        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="yes">
           <source>Game will run in exclusive fullscreen mode.</source>
-          <target>Das Spiel wird im exklusiven Vollbildmodus ausgeführt.</target>
+          <target state="final">Das Spiel wird im exklusiven Vollbildmodus ausgeführt.</target>
         </trans-unit>
-        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="yes">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
-          <target>Die Benutzeroberfläche und die Kamera werden an den Bildschirm angepasst. Dies kann zu nicht quadratischen Pixeln führen, insbesondere bei niedrigeren Auflösungen.</target>
+          <target state="final">Die Benutzeroberfläche und die Kamera werden an den Bildschirm angepasst. Dies kann zu nicht quadratischen Pixeln führen, insbesondere bei niedrigeren Auflösungen.</target>
         </trans-unit>
-        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="yes">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
-          <target>(Standard) Die Benutzeroberfläche und die Kamera werden nur um ganzzahlige Beträge skaliert. Stellt sicher, dass die Pixel quadratisch sind, muss aber möglicherweise stärker herausgezoomt werden.</target>
+          <target state="final">(Standard) Die Benutzeroberfläche und die Kamera werden nur um ganzzahlige Nummern skaliert. Das stellt sicher, dass die Pixel quadratisch sind, es muss aber möglicherweise stärker herausgezoomt werden.</target>
         </trans-unit>
-        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
           <source>Resolution</source>
-          <target>Auflösung</target>
+          <target state="final">Auflösung</target>
         </trans-unit>
-        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="yes">
           <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
-          <target>Passt die Auflösung des Fensters an die voreingestellten Werte an. (Auflösungen im Vollbildmodus können nicht geändert werden)</target>
+          <target state="final">Passt die Auflösung des Fensters an die voreingestellten Werte an. (Auflösungen im Vollbildmodus können nicht geändert werden)</target>
         </trans-unit>
-        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="yes">
           <source>Vertical Sync</source>
-          <target>Vertikale Synchronisation</target>
+          <target state="final">Vertikale Synchronisation</target>
         </trans-unit>
-        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
+        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled" approved="yes">
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
-          <target>Deaktiviert die Synchronisierung der Bildschirmaktualisierung. Dies kann zu einem schnelleren Rendering führen, aber es kann zu Bildschirmrissen kommen.</target>
+          <target state="final">Deaktiviert die Synchronisierung der Bildschirmaktualisierung. Dies kann zu einem schnelleren Rendering führen, aber es kann zu Bildschirmrissen kommen.</target>
         </trans-unit>
-        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled">
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="yes">
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
-          <target>(Standard) Synchronisiert das Rendering mit der Bildwiederholfrequenz. Verhindert visuelle Rissartefakte.</target>
+          <target state="final">(Standard) Synchronisiert das Rendering mit der Bildwiederholfrequenz. Verhindert visuelle Rissartefakte.</target>
         </trans-unit>
-        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="yes">
           <source>Disabled</source>
-          <target>Deaktiviert</target>
+          <target state="final">Deaktiviert</target>
         </trans-unit>
-        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
           <source>Enabled</source>
-          <target>Aktiviert</target>
+          <target state="final">Aktiviert</target>
         </trans-unit>
-        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="yes">
           <source>Scaling Settings...</source>
-          <target>Skalierungs-Einstellungen...</target>
+          <target state="final">Skalierungs-Einstellungen...</target>
         </trans-unit>
-        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="yes">
           <source>Return to the previous menu.</source>
-          <target>Zurück zum vorherigen Menü.</target>
+          <target state="final">Zurück zum vorherigen Menü.</target>
         </trans-unit>
-        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="yes">
           <source>Zoom Level</source>
-          <target>Zoomstufe</target>
+          <target state="final">Zoomstufe</target>
         </trans-unit>
-        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
+        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
           <source>Default</source>
-          <target>Standard</target>
+          <target state="final">Standard</target>
         </trans-unit>
-        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far">
+        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="yes">
           <source>Far</source>
-          <target>Weit</target>
+          <target state="final">Weit</target>
         </trans-unit>
-        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near">
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="yes">
           <source>Near</source>
-          <target>Nah</target>
+          <target state="final">Nah</target>
         </trans-unit>
-        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
+        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default" approved="yes">
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
-          <target>Verwendet die Standard-Zoomstufe für das Spiel. Das sollte in den meisten Fällen ausreichen.</target>
+          <target state="final">Verwendet die Standard-Zoomstufe für das Spiel. Das sollte in den meisten Fällen ausreichen.</target>
         </trans-unit>
-        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far" approved="yes">
           <source>Forces a zoomed-out gameplay view.</source>
-          <target>Erzwingt eine herausgezoomte Spielansicht.</target>
+          <target state="final">Erzwingt eine herausgezoomte Spielansicht.</target>
         </trans-unit>
-        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near" approved="yes">
           <source>Forces a zoomed-in gameplay view.</source>
-          <target>Erzwingt eine herangezoomte Spielansicht.</target>
+          <target state="final">Erzwingt eine herangezoomte Spielansicht.</target>
         </trans-unit>
-        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="yes">
           <source>Music Volume</source>
-          <target>Musik Lautstärke</target>
+          <target state="final">Musik Lautstärke</target>
         </trans-unit>
-        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="yes">
           <source>Adjust the volume of the game music.</source>
-          <target>Stelle die Lautstärke der Spielmusik ein.</target>
+          <target state="final">Stelle die Lautstärke der Spielmusik ein.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="yes">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>Spiel Soundeffekt-Lautstärke anpassen.</target>
+          <target state="final">Stelle die Lautstärke der Sounfeffekte ein.</target>
         </trans-unit>
-        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="yes">
           <source>Sfx Volume</source>
-          <target>SFX Lautstärke</target>
+          <target state="final">SFX Lautstärke</target>
         </trans-unit>
-        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="yes">
           <source>Effect Settings...</source>
-          <target>Effekt-Einstellungen...</target>
+          <target state="final">Effekt-Einstellungen...</target>
         </trans-unit>
-        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake" approved="yes">
           <source>Screen Shake</source>
-          <target>Bildschirmwackeln</target>
+          <target state="final">Bildschirmwackeln</target>
         </trans-unit>
-        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="yes">
           <source>Disables screen shake effects.</source>
-          <target>Deaktiviert Verwacklungseffekte.</target>
+          <target state="final">Deaktiviert Bildschirmwackeleffekte.</target>
         </trans-unit>
-        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="yes">
           <source>Enables screen shake effects.</source>
-          <target>Aktiviert Verwacklungseffekte.</target>
+          <target state="final">Aktiviert Bildschirmwackeleffekte.</target>
         </trans-unit>
-        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="yes">
           <source>Screen Flashes</source>
-          <target>Bildschirmflackern</target>
+          <target state="final">Bildschirmflackern</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="yes">
           <source>Enables screen flash effects.</source>
-          <target>Aktiviert Bildschirmflackereffekte.</target>
+          <target state="final">Aktiviert Bildschirmflackereffekte.</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="yes">
           <source>Disables screen flash effects.</source>
-          <target>Deaktiviert Bildschirmflackereffekte.</target>
+          <target state="final">Deaktiviert Bildschirmflackereffekte.</target>
         </trans-unit>
-        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling" approved="yes">
           <source>Sfx Prescheduling</source>
-          <target>SFX Vorplanung</target>
+          <target state="final">SFX Vorplanung</target>
         </trans-unit>
-        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
+        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled" approved="yes">
           <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
-          <target>Aktionssounds werden immer als Reaktion auf die Eingabe abgespielt. Nur für niedrige Latenzen empfohlen. Die zusätzliche Klangverzögerung kann deinen Rhythmus durcheinander bringen.</target>
+          <target state="final">Aktionssounds werden immer als Reaktion auf die Eingabe abgespielt. Nur für niedrige Latenzen empfohlen. Die zusätzliche Klangverzögerung kann deinen Rhythmus durcheinander bringen.</target>
         </trans-unit>
-        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled">
+        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled" approved="yes">
           <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
-          <target>(Standard) Aktionstöne werden vorausgeplant, damit sie perfekt synchronisiert sind. Sie werden auch dann abgespielt, wenn die Eingabe verpasst wird.</target>
+          <target state="final">(Standard) Aktionstöne werden vorausgeplant, damit sie perfekt synchronisiert sind. Sie werden auch dann abgespielt, wenn die Eingabe verpasst wird.</target>
         </trans-unit>
-        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="yes">
           <source>Audio Offset</source>
-          <target>Audio-Versatz</target>
+          <target state="final">Audio-Versatz</target>
         </trans-unit>
-        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
+        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description" approved="yes">
           <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
-          <target>Stelle diesen Wert so ein, dass die Signaltöne perfekt mit den blinkenden Lichtern übereinstimmen.</target>
+          <target state="final">Stelle diesen Wert so ein, dass die Signaltöne perfekt mit den blinkenden Lichtern übereinstimmen.</target>
         </trans-unit>
-        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats">
+        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats" approved="yes">
           <source>Cheats</source>
-          <target>Cheats</target>
+          <target state="final">Cheats</target>
         </trans-unit>
-        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="yes">
           <source>Auto Play</source>
-          <target>Automatisches Spielen</target>
+          <target state="final">Automatisches Spielen</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
-          <target>Alle Level freischalten</target>
+          <target state="final">Alle Level freischalten</target>
         </trans-unit>
-        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="yes">
           <source>Auto play is disabled.</source>
-          <target>Automatisches Spielen ist deaktiviert.</target>
+          <target state="final">Automatisches Spielen ist deaktiviert.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Automatisches Spielen ist aktiviert. Level werden automatisch ohne Spieler-Eingabe gespielt. (Der Fortschritt wird nicht gespeichert)</target>
+          <target state="final">Automatisches Spielen ist aktiviert. Level werden automatisch ohne Spieler-Eingabe gespielt. (Der Fortschritt wird nicht gespeichert)</target>
         </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
           <source>Levels must be unlocked normally.</source>
-          <target>Die Level müssen normal freigeschaltet werden.</target>
+          <target state="final">Die Level müssen normal freigeschaltet werden.</target>
         </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
+        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="yes">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>Alle Level sind von Anfang an freigeschaltet. (Der Fortschritt wird weiterhin gespeichert)</target>
+          <target state="final">Alle Level sind von Anfang an freigeschaltet. (Der Fortschritt wird weiterhin gespeichert)</target>
         </trans-unit>
-        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
-          <target>Drücke Enter um fortzufahren</target>
+          <target state="final">Drücke Enter um fortzufahren</target>
         </trans-unit>
-        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="yes">
           <source>Click to Continue</source>
-          <target>Klicke um fortzufahren</target>
+          <target state="final">Klicke um Fortzufahren</target>
         </trans-unit>
-        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="yes">
           <source>Tap to Continue</source>
-          <target>Tippe um fortzufahren</target>
+          <target state="final">Tippe um Fortzufahren</target>
         </trans-unit>
-        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="yes">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
-          <target>Drücke &lt;sprite name="controller_icons_100"&gt; um fortzufahren</target>
+          <target state="final">Drücke &lt;sprite name="controller_icons_100"&gt; um Fortzufahren</target>
         </trans-unit>
-        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="yes">
           <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
-          <target>Drücke &lt;sprite name="controller_icons_37"&gt; um fortzufahren</target>
+          <target state="final">Drücke &lt;sprite name="controller_icons_37"&gt; um Fortzufahren</target>
         </trans-unit>
-        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="yes">
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
-          <target>Drücke &lt;sprite name="controller_icons_60"&gt; um fortzufahren</target>
+          <target state="final">Drücke &lt;sprite name="controller_icons_60"&gt; um Fortzufahren</target>
         </trans-unit>
-        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="yes">
           <source>Font Style</source>
-          <target>Schriftstil</target>
+          <target state="final">Schriftstil</target>
         </trans-unit>
-        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
+        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="yes">
           <source>Pixel Font</source>
-          <target>Pixel Schriftart</target>
+          <target state="final">Pixel Schriftart</target>
         </trans-unit>
-        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled">
+        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled" approved="yes">
           <source>Smooth Font</source>
-          <target>Weiche Schriftart</target>
+          <target state="final">Weiche Schriftart</target>
         </trans-unit>
-        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled">
+        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled" approved="yes">
           <source>Use smooth font for the interface.</source>
-          <target>Weiche Schriftart für die Oberfläche verwenden.</target>
+          <target state="final">Weiche Schriftart für die Oberfläche verwenden.</target>
         </trans-unit>
-        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled">
+        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled" approved="yes">
           <source>Use pixel-styled font for the interface.</source>
-          <target>Pixel Schriftart für die Oberfläche verwenden.</target>
+          <target state="final">Pixel Schriftart für die Oberfläche verwenden.</target>
         </trans-unit>
-        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons" approved="yes">
           <source>On-screen Buttons</source>
-          <target>Bildschirmtasten</target>
+          <target state="final">Bildschirmtasten</target>
         </trans-unit>
-        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
+        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide" approved="yes">
           <source>Hide</source>
-          <target>Ausblenden</target>
+          <target state="final">Ausblenden</target>
         </trans-unit>
-        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show">
+        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show" approved="yes">
           <source>Show</source>
-          <target>Anzeigen</target>
+          <target state="final">Anzeigen</target>
         </trans-unit>
-        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
+        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide" approved="yes">
           <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
-          <target>Bildschirmtasten werden ausgeblendet. Tippe zum Spielen auf die linke und rechte Seite des Bildschirms.</target>
+          <target state="final">Bildschirmtasten werden ausgeblendet. Tippe zum Spielen auf die linke und rechte Seite des Bildschirms.</target>
         </trans-unit>
-        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show">
+        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show" approved="yes">
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
-          <target>Bildschirmtasten werden angezeigt. (Du musst nicht genau auf sie tippen)</target>
+          <target state="final">Bildschirmtasten werden angezeigt. (Du musst nicht genau auf sie tippen)</target>
         </trans-unit>
-        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
+        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog" approved="yes">
           <source>Changelog</source>
-          <target>Änderungsprotokoll</target>
+          <target state="final">Änderungsprotokoll</target>
         </trans-unit>
-        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="yes">
           <source>World 1
 Green Grasslands</source>
-          <target>Welt 1
+          <target state="final">Welt 1
 Grünes Grasland</target>
         </trans-unit>
-        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
+        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="yes">
           <source>World 2
 Cloudy Courseway</source>
-          <target>Welt 2
+          <target state="final">Welt 2
 Wolkiger Wanderweg</target>
         </trans-unit>
-        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
+        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3" approved="yes">
           <source>World 3
 Retro Ridge</source>
-          <target>Welt 3
+          <target state="final">Welt 3
 Retro Ridge</target>
         </trans-unit>
-        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="yes">
           <source>World 4
 Magical Metropolis</source>
-          <target>Welt 4
+          <target state="final">Welt 4
 Magische Metropole</target>
         </trans-unit>
-        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="yes">
           <source>World 5
 Crystal Caverns</source>
-          <target>Welt 5
-Kristallhöhlen</target>
+          <target state="final">Welt 5
+Kristall Kavernen</target>
         </trans-unit>
-        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="yes">
           <source>World 6
 Space Sojourn</source>
-          <target>Welt 6
-Weltraumreise</target>
+          <target state="final">Welt 6
+Weltraum Reise</target>
         </trans-unit>
-        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="yes">
           <source>Level 1-1
 Sunrise Vista</source>
-          <target>Level 1-1
+          <target state="final">Level 1-1
 Sonnenaufgangsblick</target>
         </trans-unit>
-        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="yes">
           <source>Level 1-2
 Raceway Plain</source>
-          <target>Level 1-2
+          <target state="final">Level 1-2
 Rennbahn Ebene</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="yes">
           <source>Level 1-3
 River Crossing</source>
-          <target>Level 1-3
+          <target state="final">Level 1-3
 Flusskreuzung</target>
         </trans-unit>
-        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="yes">
           <source>Level 1-4
 Mystic Forest</source>
-          <target>Level 1-4
+          <target state="final">Level 1-4
 Mystischer Wald</target>
         </trans-unit>
-        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="yes">
           <source>Level 2-1
 Skyward Summit</source>
-          <target>Level 2-1
+          <target state="final">Level 2-1
 Himmelsgipfel</target>
         </trans-unit>
-        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="yes">
           <source>Level 2-2
 Winged Airways</source>
-          <target>Level 2-2
+          <target state="final">Level 2-2
 Geflügelte Luftstraßen</target>
         </trans-unit>
-        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="yes">
           <source>Level 2-3
 Twilight Flight</source>
-          <target>Level 2-3
+          <target state="final">Level 2-3
 Dämmerungsflug</target>
         </trans-unit>
-        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
+        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits" approved="yes">
           <source>a game by DDRKirby(ISQ)</source>
-          <target>Ein Spiel von DDRKirby(ISQ)</target>
+          <target state="final">Ein Spiel von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
+        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2" approved="yes">
           <source>Programming: DDRKirby(ISQ)
 Design: DDRKirby(ISQ)
 Music: DDRKirby(ISQ)
 Sfx: DDRKirby(ISQ)
 Graphics: DDRKirby(ISQ)</source>
-          <target>Programmierung: DDRKirby(ISQ)
+          <target state="final">Programmierung: DDRKirby(ISQ)
 Design: DDRKirby(ISQ)
 Musik: DDRKirby(ISQ)
 SFX: DDRKirby(ISQ)
 Grafik: DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3">
+        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3" approved="yes">
           <source>Moral Support: fuzzybunny2</source>
-          <target>Moralischer Support: fuzzybunny2</target>
+          <target state="final">Moralischer Support: fuzzybunny2</target>
         </trans-unit>
-        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits">
+        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits" approved="yes">
           <source>Credits</source>
-          <target>Mitwirkende</target>
+          <target state="final">Mitwirkende</target>
         </trans-unit>
-        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume">
+        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="yes">
           <source>Resume</source>
-          <target>Fortfahren</target>
+          <target state="final">Fortfahren</target>
         </trans-unit>
-        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused">
+        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused" approved="yes">
           <source>Paused</source>
-          <target>Pausiert</target>
+          <target state="final">Pausiert</target>
         </trans-unit>
-        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete" approved="yes">
           <source>Level Complete</source>
-          <target>Level abgeschlossen</target>
+          <target state="final">Level abgeschlossen</target>
         </trans-unit>
-        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
+        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language" approved="yes">
           <source>Language</source>
-          <target>Sprache</target>
+          <target state="final">Sprache</target>
         </trans-unit>
-        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked">
+        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="yes">
           <source>(Locked)</source>
-          <target>(Gesperrt)</target>
+          <target state="final">(Gesperrt)</target>
         </trans-unit>
-        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols">
+        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols" approved="yes">
           <source>Control Positioning</source>
-          <target>Steuerungspositionierung</target>
+          <target state="final">Steuerungspositionierung</target>
         </trans-unit>
-        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
+        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="yes">
           <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
-          <target>(Standard) Tippe auf die linke Hälfte des Bildschirms, um zu springen, auf die rechte Hälfte, um anzugreifen.</target>
+          <target state="final">(Standard) Tippe auf die linke Hälfte des Bildschirms, um zu springen. Tippe auf die rechte Hälfte, um anzugreifen.</target>
         </trans-unit>
-        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled">
+        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="yes">
           <source>Tap left half of screen to attack, tap right half to jump.</source>
-          <target>Tippe auf die linke Hälfte des Bildschirms, um anzugreifen, und auf die rechte Hälfte, um zu springen.</target>
+          <target state="final">Tippe auf die linke Hälfte des Bildschirms, um anzugreifen. Tippe auf die rechte Hälfte, um zu springen.</target>
         </trans-unit>
-        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="yes">
           <source>Jump</source>
-          <target>Springen</target>
+          <target state="final">Springen</target>
         </trans-unit>
-        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack" approved="yes">
           <source>Attack</source>
-          <target>Angreifen</target>
+          <target state="final">Angreifen</target>
         </trans-unit>
-        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="yes">
           <source>Press a key</source>
-          <target>Drück eine Taste</target>
+          <target state="final">Drück eine Taste</target>
         </trans-unit>
-        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description" approved="yes">
           <source>Select a key to use for &lt;Attack&gt;.</source>
-          <target>Wähle eine Taste für &lt;Angreifen&gt;.</target>
+          <target state="final">Wähle eine Taste für &lt;Attack&gt;.</target>
         </trans-unit>
-        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description" approved="yes">
           <source>Select a key to use for &lt;Jump&gt;.</source>
-          <target>Wähle eine Taste für &lt;Springen&gt;.</target>
+          <target state="final">Wähle eine Taste für &lt;Jump&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
+        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description" approved="yes">
           <source>Resets key bindings to their defaults.</source>
-          <target>Setzt die Tastenbelegung auf die Standardwerte zurück.</target>
+          <target state="final">Setzt die Tastenbelegung auf die Standardwerte zurück.</target>
         </trans-unit>
-        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols">
+        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols" approved="yes">
           <source>Mouse Controls</source>
-          <target>Maussteuerung</target>
+          <target state="final">Maussteuerung</target>
         </trans-unit>
-        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
+        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Umgekehrt</target>
+          <target state="final">Umgekehrt</target>
         </trans-unit>
-        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="yes">
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
-          <target>Linksklick für &lt;Springen&gt;. Rechtsklick für &lt;Angreifen&gt;.</target>
+          <target state="final">Linksklick für &lt;Jump&gt;. Rechtsklick für &lt;Attack&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled" approved="yes">
           <source>In-game mouse controls are disabled.</source>
-          <target>Die Maussteuerung im Spiel ist deaktiviert.</target>
+          <target state="final">Die Maussteuerung im Spiel ist deaktiviert.</target>
         </trans-unit>
-        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled" approved="yes">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
-          <target>Rechtsklick für &lt;Springen&gt;. Linksklick für &lt;Angreifen&gt;.</target>
+          <target state="final">Rechtsklick für &lt;Jump&gt;. Linksklick für &lt;Attack&gt;.</target>
         </trans-unit>
-        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
+        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata" approved="yes">
           <source>Reset Game Data</source>
-          <target>Spieldaten zurücksetzen</target>
+          <target state="final">Spieldaten zurücksetzen</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="yes">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target>Alle gespeicherten Spieldaten werden gelöscht.
+          <target state="final">Alle gespeicherten Spieldaten werden gelöscht.
 Bist du sicher, dass du fortfahren willst?</target>
         </trans-unit>
-        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="yes">
           <source>Yes</source>
-          <target>Ja</target>
+          <target state="final">Ja</target>
         </trans-unit>
-        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="yes">
           <source>No</source>
-          <target>Nein</target>
+          <target state="final">Nein</target>
         </trans-unit>
-        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
+        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed" approved="yes">
           <source>Game data has successfully been erased.</source>
-          <target>Die Spieldaten wurden erfolgreich gelöscht.</target>
+          <target state="final">Die Spieldaten wurden erfolgreich gelöscht.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
+        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt" approved="yes">
           <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target>Rhythm Quest lässt sich am besten mit genau kalibrierter Audiosynchronisation genießen.</target>
+          <target state="final">Rhythm Quest lässt sich am besten mit genau kalibrierter Audiosynchronisation genießen.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
+        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled" approved="yes">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target>Wenn du die Latenzkalibrierung später durchführen willst, kannst du das jederzeit im Menü &lt;color=yellow&gt;Einstellungen&lt;/color&gt; tun.</target>
+          <target state="final">Wenn du die Latenzkalibrierung später durchführen willst, kannst du das jederzeit im Menü &lt;color=yellow&gt;Einstellungen&lt;/color&gt; tun.</target>
         </trans-unit>
-        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
+        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="yes">
           <source>Done</source>
-          <target>Fertig</target>
+          <target state="final">Fertig</target>
         </trans-unit>
-        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
+        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="yes">
           <source>Continue</source>
-          <target>Fortfahren</target>
+          <target state="final">Fortfahren</target>
         </trans-unit>
-        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
+        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2" approved="yes">
           <source>Do you want to calibrate audio lag now?</source>
-          <target>Möchtest du die Audiolatenz jetzt kalibrieren?</target>
+          <target state="final">Möchtest du die Audiolatenz jetzt kalibrieren?</target>
         </trans-unit>
-        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
+        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump" approved="yes">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
-          <target>Drücke &lt;color=#{0}&gt;{1}&lt;/color&gt; oder &lt;sprite name="{2}" tint=1 color=#{0}&gt; um zu springen.</target>
+          <target state="final">Drücke &lt;color=#{0}&gt;{1}&lt;/color&gt; oder &lt;sprite name="{2}" tint=1 color=#{0}&gt; um zu springen.</target>
         </trans-unit>
-        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>
-          <target>So wird gespielt</target>
+          <target state="final">So wird gespielt</target>
         </trans-unit>
-        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack">
+        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack" approved="yes">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
-          <target>Drücke &lt;color=#{0}&gt;{1}&lt;/color&gt; oder &lt;sprite name="{2}" tint=1 color=#{0}&gt; um anzugreifen.</target>
+          <target state="final">Drücke &lt;color=#{0}&gt;{1}&lt;/color&gt; oder &lt;sprite name="{2}" tint=1 color=#{0}&gt; um anzugreifen.</target>
         </trans-unit>
-        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
+        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
-          <target>&lt;color=#{0}&gt;Tippe auf die linke Seite&lt;/color&gt; des Bildschirms, um zu springen.</target>
+          <target state="final">&lt;color=#{0}&gt;Tippe auf die linke Seite&lt;/color&gt; des Bildschirms, um zu springen.</target>
         </trans-unit>
-        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped">
+        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
-          <target>&lt;color=#{0}&gt;Tippe auf die rechte Seite&lt;/color&gt; des Bildschirms, um zu springen.</target>
+          <target state="final">&lt;color=#{0}&gt;Tippe auf die rechte Seite&lt;/color&gt; des Bildschirms, um zu springen.</target>
         </trans-unit>
-        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal">
+        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
-          <target>&lt;color=#{0}&gt;Tippe auf die rechte Seite&lt;/color&gt; des Bildschirms, um anzugreifen.</target>
+          <target state="final">&lt;color=#{0}&gt;Tippe auf die rechte Seite&lt;/color&gt; des Bildschirms, um anzugreifen.</target>
         </trans-unit>
-        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped">
+        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
-          <target>&lt;color=#{0}&gt;Tippe auf die linke Seite&lt;/color&gt; des Bildschirms, um anzugreifen.</target>
+          <target state="final">&lt;color=#{0}&gt;Tippe auf die linke Seite&lt;/color&gt; des Bildschirms, um anzugreifen.</target>
         </trans-unit>
-        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop" approved="yes">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
-          <target>Du kannst diese Steuerung im &lt;color=yellow&gt;Hauptmenü&lt;/color&gt; ändern.</target>
+          <target state="final">Du kannst diese Steuerung im &lt;color=yellow&gt;Einstellungen&lt;/color&gt; ändern.</target>
         </trans-unit>
-        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
+        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile" approved="yes">
           <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
-          <target>&lt;color=yellow&gt;Springe&lt;/color&gt; und &lt;color=yellow&gt;greife&lt;/color&gt; mit der Musik &lt;color=yellow&gt;an&lt;/color&gt;, um den Rest des Levels zu beenden!</target>
+          <target state="final">&lt;color=yellow&gt;Springe&lt;/color&gt; und &lt;color=yellow&gt;greife&lt;/color&gt; mit der Musik &lt;color=yellow&gt;an&lt;/color&gt;, um den Rest des Levels zu beenden!</target>
         </trans-unit>
-        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped">
+        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Umgekehrt</target>
+          <target state="final">Umgekehrt</target>
         </trans-unit>
-        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="yes">
           <source>Calibration complete!</source>
-          <target>Kalibrierung abgeschlossen!</target>
+          <target state="final">Kalibrierung abgeschlossen!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="yes">
           <source>The flashing squares should now match the beeps.
 Otherwise, adjust manually until synced.</source>
-          <target>Die blinkenden Quadrate sollten nun mit den Signaltönen übereinstimmen. Andernfalls musst du die Einstellung manuell vornehmen, bis sie synchronisiert ist.</target>
+          <target state="final">Die blinkenden Quadrate sollten nun mit den Signaltönen übereinstimmen.
+Andernfalls musst du die Einstellung manuell vornehmen, bis sie synchronisiert ist.</target>
         </trans-unit>
-        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
-          <target>Audio-Latenz: {0}ms</target>
+          <target state="final">Audio-Latenz: {0}ms</target>
         </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
+        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title" approved="yes">
           <source>Audio Lag Calibration</source>
-          <target>Audiolatenz-Kalibrierung</target>
+          <target state="final">Audiolatenz-Kalibrierung</target>
         </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
+        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard" approved="yes">
           <source>Press any key or click in time with the beeps</source>
-          <target>Klicke oder drücke eine Taste im Takt der Signaltöne</target>
+          <target state="final">Klicke oder drücke eine Taste im Takt der Signaltöne</target>
         </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
+        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse" approved="yes">
           <source>Press any key or click in time with the beeps</source>
-          <target>Klicke oder drücke eine Taste im Takt der Signaltöne</target>
+          <target state="final">Klicke oder drücke eine Taste im Takt der Signaltöne</target>
         </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
+        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="yes">
           <source>Tap in time with the beeps</source>
-          <target>Tippe im Takt der Signaltöne</target>
+          <target state="final">Tippe im Takt der Signaltöne</target>
         </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
+        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox" approved="yes">
           <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target>Drücke &lt;sprite name="controller_icons_100"&gt; im Takt der Signaltöne</target>
+          <target state="final">Drücke &lt;sprite name="controller_icons_100"&gt; im Takt der Signaltöne</target>
         </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
+        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation" approved="yes">
           <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target>Drücke &lt;sprite name="controller_icons_37"&gt; im Takt der Signaltöne</target>
+          <target state="final">Drücke &lt;sprite name="controller_icons_37"&gt; im Takt der Signaltöne</target>
         </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
+        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch" approved="yes">
           <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target>Drücke &lt;sprite name="controller_icons_60"&gt; im Takt der Signaltöne</target>
+          <target state="final">Drücke &lt;sprite name="controller_icons_60"&gt; im Takt der Signaltöne</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
+        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
           <source>Yes (Recommended)</source>
-          <target>Ja (Empfohlen)</target>
+          <target state="final">Ja (Empfohlen)</target>
         </trans-unit>
-        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
+        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="yes">
           <source>(Select an option to view more details)</source>
-          <target>(Wähle eine Option aus, um weitere Details zu sehen)</target>
+          <target state="final">(Wähle eine Option aus, um weitere Details zu sehen)</target>
         </trans-unit>
-        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
+        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1" approved="yes">
           <source>Level 3-1
 Spiked Steppes</source>
-          <target>Level 3-1
+          <target state="final">Level 3-1
 Stachelige Steppen</target>
         </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
+        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo" approved="yes">
           <source>Redo</source>
-          <target>Wiederholen</target>
+          <target state="final">Wiederholen</target>
         </trans-unit>
-        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
+        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description" approved="yes">
           <source>Resets all game progress.</source>
-          <target>Setzt den gesamten Spielfortschritt zurück.</target>
+          <target state="final">Setzt den gesamten Spielfortschritt zurück.</target>
         </trans-unit>
-        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable">
+        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable" approved="yes">
           <source>Unavailable</source>
-          <target>Nicht verfügbar</target>
+          <target state="final">Nicht verfügbar</target>
         </trans-unit>
-        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="yes">
           <source>Perfect Clear!</source>
-          <target>Perfekt!</target>
+          <target state="final">Perfekt!</target>
         </trans-unit>
-        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
+        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count" approved="yes">
           <source>Respawns: {0}</source>
-          <target>Respawns: {0}</target>
+          <target state="final">Respawns: {0}</target>
         </trans-unit>
-        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="yes">
           <source>Level 3-3
 Haunted Prairie</source>
-          <target>Level 3-3
+          <target state="final">Level 3-3
 Gespenstische Prärie</target>
         </trans-unit>
-        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
+        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart" approved="yes">
           <source>Restart Level</source>
-          <target>Level neu starten</target>
+          <target state="final">Level neu starten</target>
         </trans-unit>
-        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
+        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="yes">
           <source>Cancel</source>
-          <target>Abbrechen</target>
+          <target state="final">Abbrechen</target>
         </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
+        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed" approved="yes">
           <source>Calibration failed -- try again!
 Focus on matching the sound of your tap to the beep.
 (green = good)</source>
-          <target>Kalibrierung fehlgeschlagen - versuche es erneut!
+          <target state="final">Kalibrierung fehlgeschlagen - Versuche es erneut!
 Konzentriere dich darauf, den Klang deines Tippens mit dem Signalton abzustimmen.
 (grün = gut)</target>
         </trans-unit>
-        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
+        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy" approved="yes">
           <source>Your accuracy: {0}%</source>
-          <target>Deine Genauigkeit: {0}%</target>
+          <target state="final">Deine Genauigkeit: {0}%</target>
         </trans-unit>
-        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="yes">
           <source>Quit to Menu</source>
-          <target>Beenden zum Menü</target>
+          <target state="final">Beenden zum Menü</target>
         </trans-unit>
-        <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
+        <trans-unit id="34008930576228352" xml:space="preserve" resname="new" approved="yes">
           <source>New</source>
-          <target>Neu</target>
+          <target state="final">Neu</target>
         </trans-unit>
-        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
+        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop" approved="yes">
           <source>Shop</source>
-          <target>Shop</target>
+          <target state="final">Shop</target>
         </trans-unit>
-        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
+        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters" approved="yes">
           <source>Characters</source>
-          <target>Charaktere</target>
+          <target state="final">Charaktere</target>
         </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
+        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="no">
           <source>Extra Levels</source>
-          <target>Extra-Levels</target>
+          <target state="translated">Extra-Level</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:
