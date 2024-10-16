@@ -644,159 +644,159 @@ Estepes Espinhosos</target>
           <source>Redo</source>
           <target>Refazer</target>
         </trans-unit>
-        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
+        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description" approved="yes">
           <source>Resets all game progress.</source>
-          <target>Redefine todo o progresso do jogo.</target>
+          <target state="final">Reinicia todo o progresso do jogo.</target>
         </trans-unit>
-        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable">
+        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable" approved="yes">
           <source>Unavailable</source>
-          <target>Indisponível</target>
+          <target state="final">Indisponível</target>
         </trans-unit>
-        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="yes">
           <source>Perfect Clear!</source>
-          <target>Conclusão Perfeita!</target>
+          <target state="final">Conclusão Perfeita!</target>
         </trans-unit>
-        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
+        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count" approved="yes">
           <source>Respawns: {0}</source>
-          <target>Renascimentos: {0}</target>
+          <target state="final">Ressurgimentos: {0}</target>
         </trans-unit>
-        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="yes">
           <source>Level 3-3
 Haunted Prairie</source>
-          <target>Nível 3-3
+          <target state="final">Nível 3-3
 Pradaria Assombrada</target>
         </trans-unit>
-        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
+        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart" approved="yes">
           <source>Restart Level</source>
-          <target>Reiniciar Nível</target>
+          <target state="final">Reiniciar Nível</target>
         </trans-unit>
-        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
+        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="yes">
           <source>Cancel</source>
-          <target>Cancelar</target>
+          <target state="final">Cancelar</target>
         </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
+        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed" approved="yes">
           <source>Calibration failed -- try again!
 Focus on matching the sound of your tap to the beep.
 (green = good)</source>
-          <target>Falha na calibração -- tente de novo!
-Foque em combinar o som do seu toque com o bipe.
+          <target state="final">Falha na calibração -- tente novamente!
+Foque em sincronizar o som do seu toque com o bipe.
 (verde = bom)</target>
         </trans-unit>
-        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
+        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy" approved="yes">
           <source>Your accuracy: {0}%</source>
-          <target>Sua precisão: {0}%</target>
+          <target state="final">Sua precisão: {0}%</target>
         </trans-unit>
-        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="yes">
           <source>Quit to Menu</source>
-          <target>Sair ao Menu</target>
+          <target state="final">Sair para o Menu</target>
         </trans-unit>
-        <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
+        <trans-unit id="34008930576228352" xml:space="preserve" resname="new" approved="yes">
           <source>New</source>
-          <target>Novo</target>
+          <target state="final">Novo</target>
         </trans-unit>
-        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
+        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop" approved="yes">
           <source>Shop</source>
-          <target>Loja</target>
+          <target state="final">Loja</target>
         </trans-unit>
-        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
+        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters" approved="yes">
           <source>Characters</source>
-          <target>Personagens</target>
+          <target state="final">Personagens</target>
         </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
+        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="yes">
           <source>Extra Levels</source>
-          <target>Níveis Extras</target>
+          <target state="final">Níveis Extras</target>
         </trans-unit>
-        <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
+        <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels" approved="yes">
           <source>Collected:
 Spent:
 
 Remaining:</source>
-          <target>Coletado:
+          <target state="final">Coletado:
 Gasto:
 
 Restante:</target>
         </trans-unit>
-        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected">
+        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected" approved="yes">
           <source>Selected</source>
-          <target>Selecionado</target>
+          <target state="final">Selecionado</target>
         </trans-unit>
-        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase">
+        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="yes">
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
-          <target>Comprar por  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</target>
+          <target state="final">Comprar por &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</target>
         </trans-unit>
-        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="yes">
           <source>Take It to the Limit
 by DDRKirby(ISQ)</source>
-          <target>Leve ao Limite
+          <target state="final">Take It to the Limit
 por DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
+        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview" approved="yes">
           <source>Preview</source>
-          <target>Prévia</target>
+          <target state="final">Prévia</target>
         </trans-unit>
-        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy">
+        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy" approved="yes">
           <source>Buy</source>
-          <target>Comprar</target>
+          <target state="final">Comprar</target>
         </trans-unit>
-        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play">
+        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play" approved="yes">
           <source>Play</source>
-          <target>Jogar</target>
+          <target state="final">Jogar</target>
         </trans-unit>
-        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="yes">
           <source>What Lies Beneath
 by DDRKirby(ISQ)</source>
-          <target>O que está por Baixo
+          <target state="final">What Lies Beneath
 por DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
+        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="yes">
           <source>Level 1-5
 City in the Rain</source>
-          <target>Nível 1-5
+          <target state="final">Nível 1-5
 Cidade na Chuva</target>
         </trans-unit>
-        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1" approved="yes">
           <source>Level 4-1
 Enchanted Oasis</source>
-          <target>Nível 4-1
+          <target state="final">Nível 4-1
 Oásis Encantado</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="yes">
           <source>Gameplay Trailer
 by DDRKirby(ISQ)</source>
-          <target>Trailer de Jogabilidade
+          <target state="final">Gameplay Trailer
 por DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
+        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="yes">
           <source>Level 2-4
 Snowy Peak</source>
-          <target>Nível 2-4
+          <target state="final">Nível 2-4
 Pico Nevado</target>
         </trans-unit>
-        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
+        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5" approved="yes">
           <source>Level 2-5
 Stratosphere</source>
-          <target>Nível 2-5
+          <target state="final">Nível 2-5
 Estratosfera</target>
         </trans-unit>
-        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
+        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam" approved="yes">
           <source>Wishlist on Steam</source>
-          <target>Adicionar à lista de desejos no Steam</target>
+          <target state="final">Adicionar à lista de desejos no Steam</target>
         </trans-unit>
-        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
+        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start" approved="yes">
           <source>Start</source>
-          <target>Iniciar</target>
+          <target state="final">Iniciar</target>
         </trans-unit>
-        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
+        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked" approved="yes">
           <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
-          <target>Este conteúdo está apenas disponível na versão completa de Rhythm Quest! (em breve)</target>
+          <target state="final">Este conteúdo está apenas disponível na versão completa de Rhythm Quest! (em breve)</target>
         </trans-unit>
-        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
+        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow" approved="yes">
           <source>&lt; World {0}</source>
-          <target>&lt; Mundo {0}</target>
+          <target state="final">&lt; Mundo {0}</target>
         </trans-unit>
-        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow">
+        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow" approved="yes">
           <source>World {0} &gt;</source>
-          <target>Mundo {0} &gt;</target>
+          <target state="final">Mundo {0} &gt;</target>
         </trans-unit>
         <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
           <source>Adjusts audio latency calibration.
