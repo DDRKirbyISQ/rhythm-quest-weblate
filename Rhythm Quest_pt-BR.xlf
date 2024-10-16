@@ -798,11 +798,11 @@ Estratosfera</target>
           <source>World {0} &gt;</source>
           <target state="final">Mundo {0} &gt;</target>
         </trans-unit>
-        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
+        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame" approved="yes">
           <source>Adjusts audio latency calibration.
 Lower if audio is too early. Raise if audio is too late.</source>
-          <target>Ajuste a calibração de latência de áudio.
-Diminua caso esteja muito adiantado. Aumente se estiver muito atrasado.</target>
+          <target state="final">Ajuste a calibração da latência do áudio.
+Reduza se estiver muito adiantado. Aumente se estiver muito atrasado.</target>
         </trans-unit>
         <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
           <source>Too Early</source>
@@ -812,10 +812,10 @@ Diminua caso esteja muito adiantado. Aumente se estiver muito atrasado.</target>
           <source>Too Late</source>
           <target>Tarde Demais</target>
         </trans-unit>
-        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
+        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2" approved="yes">
           <source>Level 3-2
 Twilight Tunnel</source>
-          <target>Nível 3-2
+          <target state="final">Nível 3-2
 Túnel do Crepúsculo</target>
         </trans-unit>
         <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
@@ -1016,9 +1016,9 @@ Para obter a melhor experiência, sinta-se a vontade para testar a versão offli
           <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
           <target>Aperte &lt;sprite name="{0}" tint=1 color=#{2}&gt; ou &lt;sprite name="{1}" tint=1 color=#{2}&gt; para Atacar.</target>
         </trans-unit>
-        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump">
+        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump" approved="yes">
           <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</source>
-          <target>Aperte &lt;sprite name="{0}" tint=1 color=#{2}&gt; ou &lt;sprite name="{1}" tint=1 color=#{2}&gt; para Pular.</target>
+          <target state="final">Pressione &lt;sprite name="{0}" tint=1 color=#{2}&gt; ou &lt;sprite name="{1}" tint=1 color=#{2}&gt; para Pular.</target>
         </trans-unit>
         <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics">
           <source>Haptic Feedback Settings...</source>
