@@ -68,9 +68,9 @@
           <source>Screen Mode</source>
           <target state="final">Anzeigemodus</target>
         </trans-unit>
-        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="yes">
           <source>Windowed</source>
-          <target>Fenster</target>
+          <target state="final">Fenster</target>
         </trans-unit>
         <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="yes">
           <source>Maximized</source>
@@ -1556,996 +1556,996 @@ Schnelles Sternenfeld</target>
           <source>Gamepad Config</source>
           <target state="final">Gamepad-Konfiguration</target>
         </trans-unit>
-        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default">
+        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default" approved="yes">
           <source>Use default keyboard bindings.</source>
-          <target>Standard Tastatur-Belegung verwenden.</target>
+          <target state="final">Standard Tastatur-Belegung verwenden.</target>
         </trans-unit>
-        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom">
+        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom" approved="yes">
           <source>Use custom keyboard bindings.</source>
-          <target>Benutzerdefinierte Tastatur-Belegung verwenden.</target>
+          <target state="final">Benutzerdefinierte Tastatur-Belegung verwenden.</target>
         </trans-unit>
-        <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default">
+        <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default" approved="yes">
           <source>Use default gamepad bindings.</source>
-          <target>Standard Gamepad-Belegung verwenden.</target>
+          <target state="final">Standard Gamepad-Belegung verwenden.</target>
         </trans-unit>
-        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom">
+        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom" approved="yes">
           <source>Use custom gamepad bindings.</source>
-          <target>Benutzerdefinierte Gamepad-Belegung verwenden.</target>
+          <target state="final">Benutzerdefinierte Gamepad-Belegung verwenden.</target>
         </trans-unit>
-        <trans-unit id="249848469561061376" xml:space="preserve" resname="released_early">
+        <trans-unit id="249848469561061376" xml:space="preserve" resname="released_early" approved="yes">
           <source>Released Early</source>
-          <target>Zu früh losgelassen</target>
+          <target state="final">Zu früh losgelassen</target>
         </trans-unit>
-        <trans-unit id="249848490654216192" xml:space="preserve" resname="released_late">
+        <trans-unit id="249848490654216192" xml:space="preserve" resname="released_late" approved="yes">
           <source>Released Late</source>
-          <target>Zu spät losgelassen</target>
+          <target state="final">Zu spät losgelassen</target>
         </trans-unit>
-        <trans-unit id="250050013166350336" xml:space="preserve" resname="no_gamepad_detected">
+        <trans-unit id="250050013166350336" xml:space="preserve" resname="no_gamepad_detected" approved="yes">
           <source>No compatible gamepad detected!
 Please connect a supported gamepad device.</source>
-          <target>Kein kompatibles Gamepad erkannt!
+          <target state="final">Kein kompatibles Gamepad erkannt!
 Bitte verbinde ein unterstütztes Gamepad-Gerät.</target>
         </trans-unit>
-        <trans-unit id="250053160966336512" xml:space="preserve" resname="control_press_button">
+        <trans-unit id="250053160966336512" xml:space="preserve" resname="control_press_button" approved="yes">
           <source>Press a button</source>
-          <target>Drücke einen Knopf</target>
+          <target state="final">Drücke einen Knopf</target>
         </trans-unit>
-        <trans-unit id="253407677048991744" xml:space="preserve" resname="settings_musicspeed">
+        <trans-unit id="253407677048991744" xml:space="preserve" resname="settings_musicspeed" approved="yes">
           <source>Music Speed</source>
-          <target>Musik-Geschwindigkeit</target>
+          <target state="final">Musik Geschwindigkeit</target>
         </trans-unit>
-        <trans-unit id="254021560759529472" xml:space="preserve" resname="settings_normal">
+        <trans-unit id="254021560759529472" xml:space="preserve" resname="settings_normal" approved="yes">
           <source>Normal</source>
-          <target>Normal</target>
+          <target state="final">Normal</target>
         </trans-unit>
-        <trans-unit id="254021648764416000" xml:space="preserve" resname="settings_low">
+        <trans-unit id="254021648764416000" xml:space="preserve" resname="settings_low" approved="yes">
           <source>Low</source>
-          <target>Niedrig</target>
+          <target state="final">Niedrig</target>
         </trans-unit>
-        <trans-unit id="254021836123975680" xml:space="preserve" resname="settings_graphicsquality_description_low">
+        <trans-unit id="254021836123975680" xml:space="preserve" resname="settings_graphicsquality_description_low" approved="yes">
           <source>Reduces some background effects to improve framerate.</source>
-          <target>Reduziert einige Hintergrundeffekte, um die Framerate zu verbessern.</target>
+          <target state="final">Reduziert einige Hintergrundeffekte, um die Framerate zu verbessern.</target>
         </trans-unit>
-        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal">
+        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal" approved="yes">
           <source>Full graphics quality.</source>
-          <target>Vollständige Grafikqualität.</target>
+          <target state="final">Vollständige Grafikqualität.</target>
         </trans-unit>
-        <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality">
+        <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality" approved="yes">
           <source>Graphics Quality</source>
-          <target>Grafikqualität</target>
+          <target state="final">Grafikqualität</target>
         </trans-unit>
-        <trans-unit id="255267299099717632" xml:space="preserve" resname="settings_uivolume">
+        <trans-unit id="255267299099717632" xml:space="preserve" resname="settings_uivolume" approved="yes">
           <source>UI Volume</source>
-          <target>UI Lautstärke</target>
+          <target state="final">UI Lautstärke</target>
         </trans-unit>
-        <trans-unit id="255267540179922944" xml:space="preserve" resname="settings_uivolume_description">
+        <trans-unit id="255267540179922944" xml:space="preserve" resname="settings_uivolume_description" approved="yes">
           <source>Adjust the volume of the user interface sounds.</source>
-          <target>Die Lautstärke der Benutzeroberfläche anpassen.</target>
+          <target state="final">Die Lautstärke der Benutzeroberfläche anpassen.</target>
         </trans-unit>
-        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
+        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods" approved="yes">
           <source>Game Mods</source>
-          <target>Spiel Mods</target>
+          <target state="final">Spiel Mods</target>
         </trans-unit>
-        <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
+        <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes" approved="yes">
           <source>Adjust audio volume settings.</source>
-          <target>Audio-Lautstärke anpassen.</target>
+          <target state="final">Audiolautstärke anpassen.</target>
         </trans-unit>
         <trans-unit id="255998149349126144" xml:space="preserve" resname="settings_framequeueing">
           <source>Frame Queueing</source>
           <target>Frames vorladen</target>
         </trans-unit>
-        <trans-unit id="256003847856369664" xml:space="preserve" resname="menu_settings_performance">
+        <trans-unit id="256003847856369664" xml:space="preserve" resname="menu_settings_performance" approved="yes">
           <source>Performance Settings...</source>
-          <target>Leistungs-Einstellungen...</target>
+          <target state="final">Leistungs-Einstellungen...</target>
         </trans-unit>
-        <trans-unit id="256004031717879808" xml:space="preserve" resname="settings_menu_performance">
+        <trans-unit id="256004031717879808" xml:space="preserve" resname="settings_menu_performance" approved="yes">
           <source>Adjust performance-related options.</source>
-          <target>Leistungsbezogene Optionen anpassen.</target>
+          <target state="final">Leistungsbezogene Optionen anpassen.</target>
         </trans-unit>
-        <trans-unit id="256004459872432128" xml:space="preserve" resname="screen_refresh_rate">
+        <trans-unit id="256004459872432128" xml:space="preserve" resname="screen_refresh_rate" approved="yes">
           <source>Current screen refresh rate: {0} Hz</source>
-          <target>Aktuelle Bildschirm-Aktualisierungsrate: {0} Hz</target>
+          <target state="final">Aktuelle Bildschirm-Aktualisierungsrate: {0} Hz</target>
         </trans-unit>
-        <trans-unit id="256006348328448000" xml:space="preserve" resname="frames_per_second">
+        <trans-unit id="256006348328448000" xml:space="preserve" resname="frames_per_second" approved="yes">
           <source>Current FPS: {0}</source>
-          <target>Aktuelle FPS: {0}</target>
+          <target state="final">Aktuelle FPS: {0}</target>
         </trans-unit>
-        <trans-unit id="256006672258740224" xml:space="preserve" resname="settings_framequeueing_latency">
+        <trans-unit id="256006672258740224" xml:space="preserve" resname="settings_framequeueing_latency" approved="yes">
           <source>Latency</source>
-          <target>Latenz</target>
+          <target state="final">Latenz</target>
         </trans-unit>
-        <trans-unit id="256006835362639872" xml:space="preserve" resname="settings_frame_queueing_performance">
+        <trans-unit id="256006835362639872" xml:space="preserve" resname="settings_frame_queueing_performance" approved="yes">
           <source>Performance</source>
-          <target>Leistung</target>
+          <target state="final">Leistung</target>
         </trans-unit>
-        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency">
+        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="yes">
           <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target>Latenz optimieren, indem verhindert wird, dass mehrere Frames vorgeladen werden.</target>
+          <target state="final">Latenz optimieren, indem verhindert wird, dass mehrere Frames vorgeladen werden.</target>
         </trans-unit>
-        <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
+        <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance" approved="yes">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
-          <target>Für eine flüssigere Leistung optimieren, indem mehrere Frames vorgeladen werden. Wenn die Framerate fällt, sollte diese Einstellung benutzt werden.</target>
+          <target state="final">Für eine flüssigere Leistung optimieren, indem mehrere Frames vorgeladen werden. Wenn die Framerate fällt, sollte diese Einstellung benutzt werden.</target>
         </trans-unit>
-        <trans-unit id="256385837487140864" xml:space="preserve" resname="settings_musicspeed_description">
+        <trans-unit id="256385837487140864" xml:space="preserve" resname="settings_musicspeed_description" approved="yes">
           <source>Adjust the music speed to make the game easier or more difficult.</source>
-          <target>Die Musikgeschwindigkeit anpassen, um das Spiel einfacher oder schwerer zu machen.</target>
+          <target state="final">Die Musikgeschwindigkeit anpassen, um das Spiel einfacher oder schwerer zu machen.</target>
         </trans-unit>
-        <trans-unit id="256386100084125696" xml:space="preserve" resname="settings_checkpoints">
+        <trans-unit id="256386100084125696" xml:space="preserve" resname="settings_checkpoints" approved="yes">
           <source>Checkpoints</source>
-          <target>Checkpoints</target>
+          <target state="final">Checkpoints</target>
         </trans-unit>
-        <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes">
+        <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes" approved="yes">
           <source>Audio Volume...</source>
-          <target>Audio-Lautstärke...</target>
+          <target state="final">Audio-Lautstärke...</target>
         </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
+        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description" approved="yes">
           <source>Modifiers that affect game timing and speed.</source>
-          <target>Modifikatoren, die das Zeitfenster und die Geschwindigkeit des Spiels beeinflussen.</target>
+          <target state="final">Modifikatoren, die das Zeitfenster und die Geschwindigkeit des Spiels beeinflussen.</target>
         </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
+        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description" approved="yes">
           <source>Modifiers that affect visual display of the game.</source>
-          <target>Modifikatoren, die die visuelle Darstellung des Spiels beeinflussen.</target>
+          <target state="final">Modifikatoren, die die visuelle Darstellung des Spiels beeinflussen.</target>
         </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
+        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods" approved="yes">
           <source>Timing Mods...</source>
-          <target>Zeitfenster Mods...</target>
+          <target state="final">Zeitfenster Mods...</target>
         </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
+        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods" approved="yes">
           <source>Visual Mods...</source>
-          <target>Visuelle Mods...</target>
+          <target state="final">Visuelle Mods...</target>
         </trans-unit>
-        <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
+        <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows" approved="yes">
           <source>Timing Windows</source>
-          <target>Zeitfenster</target>
+          <target state="final">Zeitfenster</target>
         </trans-unit>
-        <trans-unit id="256643554298605568" xml:space="preserve" resname="settings_timingwindows_extrawide">
+        <trans-unit id="256643554298605568" xml:space="preserve" resname="settings_timingwindows_extrawide" approved="yes">
           <source>Extra Wide</source>
-          <target>Extra groß</target>
+          <target state="final">Extra groß</target>
         </trans-unit>
-        <trans-unit id="256643621076119552" xml:space="preserve" resname="settings_timingwindows_strict">
+        <trans-unit id="256643621076119552" xml:space="preserve" resname="settings_timingwindows_strict" approved="yes">
           <source>Strict</source>
-          <target>Strikt</target>
+          <target state="final">Strikt</target>
         </trans-unit>
-        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide">
+        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide" approved="yes">
           <source>Use extra wide timing windows to make gameplay very forgiving.</source>
-          <target>Extra große Zeitfenster verwenden, um das Spielerlebnis sehr fehlerverzeihend zu gestalten.</target>
+          <target state="final">Extra große Zeitfenster verwenden, um das Spielerlebnis sehr fehlerverzeihend zu gestalten.</target>
         </trans-unit>
-        <trans-unit id="256645728936177664" xml:space="preserve" resname="settings_timingwindows_description_normal">
+        <trans-unit id="256645728936177664" xml:space="preserve" resname="settings_timingwindows_description_normal" approved="yes">
           <source>Use normal timing windows for game obstacles.</source>
-          <target>Normal große Zeitfenster für Spielhindernisse verwenden.</target>
+          <target state="final">Normal große Zeitfenster für Spielhindernisse verwenden.</target>
         </trans-unit>
-        <trans-unit id="256645729905061888" xml:space="preserve" resname="settings_timingwindows_description_strict">
+        <trans-unit id="256645729905061888" xml:space="preserve" resname="settings_timingwindows_description_strict" approved="yes">
           <source>Use smaller timing windows to increase game difficulty.</source>
-          <target>Kleinere Zeitfenster verwenden, um die Spielschwierigkeit zu erhöhen.</target>
+          <target state="final">Kleinere Zeitfenster verwenden, um die Spielschwierigkeit zu erhöhen.</target>
         </trans-unit>
-        <trans-unit id="256672503980404736" xml:space="preserve" resname="settings_ghosthelpers">
+        <trans-unit id="256672503980404736" xml:space="preserve" resname="settings_ghosthelpers" approved="yes">
           <source>Ghost Helpers</source>
-          <target>Geisterhelfer</target>
+          <target state="final">Geisterhelfer</target>
         </trans-unit>
-        <trans-unit id="256672787016232960" xml:space="preserve" resname="settings_ghosthelpers_description">
+        <trans-unit id="256672787016232960" xml:space="preserve" resname="settings_ghosthelpers_description" approved="yes">
           <source>Adds translucent markers for ghost enemy positions.</source>
-          <target>Fügt transparente Markierungen für Geistergegner hinzu.</target>
+          <target state="final">Fügt transparente Markierungen für Geistergegner hinzu.</target>
         </trans-unit>
-        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow">
+        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow" approved="yes">
           <source>Slow</source>
-          <target>Langsam</target>
+          <target state="final">Langsam</target>
         </trans-unit>
-        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast">
+        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast" approved="yes">
           <source>Fast</source>
-          <target>Schnell</target>
+          <target state="final">Schnell</target>
         </trans-unit>
-        <trans-unit id="259823816314499072" xml:space="preserve" resname="settings_respawntiming">
+        <trans-unit id="259823816314499072" xml:space="preserve" resname="settings_respawntiming" approved="yes">
           <source>Respawn Timing</source>
-          <target>Respawn-Dauer</target>
+          <target state="final">Respawn-Dauer</target>
         </trans-unit>
-        <trans-unit id="259823939908055040" xml:space="preserve" resname="settings_respawntiming_description_slow">
+        <trans-unit id="259823939908055040" xml:space="preserve" resname="settings_respawntiming_description_slow" approved="yes">
           <source>Use a longer respawn duration.</source>
-          <target>Verwende eine größere Respawn-Dauer.</target>
+          <target state="final">Verwende eine größere Respawn-Dauer.</target>
         </trans-unit>
-        <trans-unit id="259823941657079808" xml:space="preserve" resname="settings_respawntiming_description_normal">
+        <trans-unit id="259823941657079808" xml:space="preserve" resname="settings_respawntiming_description_normal" approved="yes">
           <source>Use a normal respawn duration.</source>
-          <target>Verwende die normale Respawn-Dauer.</target>
+          <target state="final">Verwende die normale Respawn-Dauer.</target>
         </trans-unit>
-        <trans-unit id="259823945557782528" xml:space="preserve" resname="settings_respawntiming_description_fast">
+        <trans-unit id="259823945557782528" xml:space="preserve" resname="settings_respawntiming_description_fast" approved="yes">
           <source>Respawn very quickly after a mistake.</source>
-          <target>Respawne nach einem Fehler viel schneller.</target>
+          <target state="final">Respawne nach einem Fehler viel schneller.</target>
         </trans-unit>
-        <trans-unit id="259914650934358016" xml:space="preserve" resname="settings_millisecond_display">
+        <trans-unit id="259914650934358016" xml:space="preserve" resname="settings_millisecond_display" approved="yes">
           <source>{0}ms</source>
-          <target>{0}ms</target>
+          <target state="final">{0}ms</target>
         </trans-unit>
-        <trans-unit id="259917308235657216" xml:space="preserve" resname="settings_timingwindows_normal">
+        <trans-unit id="259917308235657216" xml:space="preserve" resname="settings_timingwindows_normal" approved="yes">
           <source>Normal</source>
-          <target>Normal</target>
+          <target state="final">Normal</target>
         </trans-unit>
-        <trans-unit id="259917960366043136" xml:space="preserve" resname="settings_respawntiming_normal">
+        <trans-unit id="259917960366043136" xml:space="preserve" resname="settings_respawntiming_normal" approved="yes">
           <source>Normal</source>
-          <target>Normal</target>
+          <target state="final">Normal</target>
         </trans-unit>
-        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other">
+        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other" approved="yes">
           <source>Other</source>
-          <target>Sonstiges</target>
+          <target state="final">Sonstiges</target>
         </trans-unit>
-        <trans-unit id="269934069781671936" xml:space="preserve" resname="settings_runinbackground">
+        <trans-unit id="269934069781671936" xml:space="preserve" resname="settings_runinbackground" approved="yes">
           <source>Run in Background</source>
-          <target>Im Hintergrund ausführen</target>
+          <target state="final">Im Hintergrund ausführen</target>
         </trans-unit>
-        <trans-unit id="269934325172842496" xml:space="preserve" resname="settings_runinbackground_description_disabled">
+        <trans-unit id="269934325172842496" xml:space="preserve" resname="settings_runinbackground_description_disabled" approved="yes">
           <source>Game will automatically pause when losing focus.</source>
-          <target>Das Spiel wird automatisch pausiert, wenn der Fokus verloren geht.</target>
+          <target state="final">Das Spiel wird automatisch pausiert, wenn der Fokus verloren geht.</target>
         </trans-unit>
-        <trans-unit id="269934329509752832" xml:space="preserve" resname="settings_runinbackground_description_enabled">
+        <trans-unit id="269934329509752832" xml:space="preserve" resname="settings_runinbackground_description_enabled" approved="yes">
           <source>Game will continue running when unfocused.</source>
-          <target>Das Spiel wird nicht automatisch pausiert, wenn der Fokus verloren geht.</target>
+          <target state="final">Das Spiel läuft weiter, wenn der Fokus verloren geht.</target>
         </trans-unit>
-        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description">
+        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description" approved="yes">
           <source>Manage and reset save data.</source>
-          <target>Daten verwalten und zurücksetzen.</target>
+          <target state="final">Daten verwalten und zurücksetzen.</target>
         </trans-unit>
-        <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete">
+        <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete" approved="yes">
           <source>Delete</source>
-          <target>Löschen</target>
+          <target state="final">Löschen</target>
         </trans-unit>
-        <trans-unit id="273376667829579776" xml:space="preserve" resname="settings_inputtimeline">
+        <trans-unit id="273376667829579776" xml:space="preserve" resname="settings_inputtimeline" approved="yes">
           <source>Input Timeline</source>
-          <target>Eingaben-Zeitleiste</target>
+          <target state="final">Eingaben-Zeitleiste</target>
         </trans-unit>
-        <trans-unit id="273378692210405376" xml:space="preserve" resname="settings_inputtimeline_description">
+        <trans-unit id="273378692210405376" xml:space="preserve" resname="settings_inputtimeline_description" approved="yes">
           <source>Adds a timeline display for expected inputs.</source>
-          <target>Fügt eine Zeitleiste für erwartete Eingaben hinzu.</target>
+          <target state="final">Fügt eine Zeitleiste für erwartete Eingaben hinzu.</target>
         </trans-unit>
-        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description">
+        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Basic Enemies&lt;/color&gt;
 Click to insert red or green basic enemies.</source>
-          <target>&lt;color=#ffff00&gt;Grundgegner&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Grundgegner&lt;/color&gt;
 Klicke, um einen roten oder grünen Grundgegner einzufügen.</target>
         </trans-unit>
-        <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description">
+        <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Flight Paths&lt;/color&gt;
 Click and drag to insert winged flight paths.</source>
-          <target>&lt;color=#ffff00&gt;Flugpfade&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Flugpfade&lt;/color&gt;
 Klicke und ziehe, um geflügelte Flugpfade einzufügen.</target>
         </trans-unit>
-        <trans-unit id="276961258184159232" xml:space="preserve" resname="editor_tool_delete_description">
+        <trans-unit id="276961258184159232" xml:space="preserve" resname="editor_tool_delete_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Delete&lt;/color&gt;
 Click on objects to delete them.</source>
-          <target>&lt;color=#ffff00&gt;Löschen&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Löschen&lt;/color&gt;
 Klicke auf Objekte, um diese zu löschen.</target>
         </trans-unit>
-        <trans-unit id="276961319072870400" xml:space="preserve" resname="editor_tool_editramp_description">
+        <trans-unit id="276961319072870400" xml:space="preserve" resname="editor_tool_editramp_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Ramps&lt;/color&gt;
 Click and drag to adjust the slope of ground / flight paths.</source>
-          <target>&lt;color=#ffff00&gt;Rampen&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Rampen&lt;/color&gt;
 Klicke und ziehe, um die Neigung von Böden / Flugpfaden anzupassen.</target>
         </trans-unit>
-        <trans-unit id="276961322856132608" xml:space="preserve" resname="editor_tool_scroll_description">
+        <trans-unit id="276961322856132608" xml:space="preserve" resname="editor_tool_scroll_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Scroll&lt;/color&gt;
 Click and drag to move the camera view.</source>
-          <target>&lt;color=#ffff00&gt;Scrollen&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Scrollen&lt;/color&gt;
 Klicke und ziehe, um die Kameraansicht zu bewegen.</target>
         </trans-unit>
-        <trans-unit id="276961323401392128" xml:space="preserve" resname="editor_tool_insertfloor_description">
+        <trans-unit id="276961323401392128" xml:space="preserve" resname="editor_tool_insertfloor_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Insert Floor&lt;/color&gt;
 Inserts a new blank section of track at the cursor.</source>
-          <target>&lt;color=#ffff00&gt;Boden einfügen&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Boden einfügen&lt;/color&gt;
 Fügt einen neuen leeren Streckenabschnitt am Cursor ein.</target>
         </trans-unit>
-        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description">
+        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Delete Floor&lt;/color&gt;
 Click and drag to delete sections of track along with the associated objects.</source>
-          <target>&lt;color=#ffff00&gt;Boden löschen&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Boden löschen&lt;/color&gt;
 Klicke und ziehe, um Streckenabschnitte zusammen mit ihren zugehörigen Objekten zu löschen.</target>
         </trans-unit>
-        <trans-unit id="276961400211681280" xml:space="preserve" resname="editor_tool_doublehitenemy_description">
+        <trans-unit id="276961400211681280" xml:space="preserve" resname="editor_tool_doublehitenemy_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Double Hit Enemies&lt;/color&gt;
 Click to insert orange double hit enemies.</source>
-          <target>&lt;color=#ffff00&gt;Doppel-Schlag Gegner&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Doppel-Schlag Gegner&lt;/color&gt;
 Klicke, um orange Doppel-Schlag Gegner einzufügen.</target>
         </trans-unit>
-        <trans-unit id="276961400840826880" xml:space="preserve" resname="editor_tool_multihitenemy_description">
+        <trans-unit id="276961400840826880" xml:space="preserve" resname="editor_tool_multihitenemy_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Ghost Enemies&lt;/color&gt;
 Click to insert purple 3-hit ghost enemies.</source>
-          <target>&lt;color=#ffff00&gt;Geistergegner&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Geistergegner&lt;/color&gt;
 Klicke, um violette 3-Schlag Geistergegner einzufügen.</target>
         </trans-unit>
-        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy">
+        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy" approved="yes">
           <source>Insert basic enemy at beat {0}</source>
-          <target>Grundgegner bei Takt {0} einfügen</target>
+          <target state="final">Grundgegner bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy">
+        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy" approved="yes">
           <source>Insert double hit enemy at beat {0}</source>
-          <target>Doppel-Schlag Gegner bei Takt {0} einfügen</target>
+          <target state="final">Doppel-Schlag Gegner bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy">
+        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy" approved="yes">
           <source>Insert ghost enemy at beat {0}</source>
-          <target>Geistergegner bei Takt {0} einfügen</target>
+          <target state="final">Geistergegner bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint">
+        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint" approved="yes">
           <source>Insert checkpoint at beat {0}</source>
-          <target>Checkpoint bei Takt {0} einfügen</target>
+          <target state="final">Checkpoint bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description">
+        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
 Click to insert checkpoints.</source>
-          <target>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
-Klicke, um Checkpoints einzufügen. Klicke auf bestehende Checkpoints, um seine Eigenschaften zu bearbeiten.</target>
+          <target state="final">&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
+Klicke, um Checkpoints einzufügen.</target>
         </trans-unit>
-        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump">
+        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump" approved="yes">
           <source>Insert jump at beat {0}</source>
-          <target>Sprung bei Takt {0} einfügen</target>
+          <target state="final">Sprung bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath">
+        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath" approved="yes">
           <source>Insert flight path from beat {0} to {1}</source>
-          <target>Flugpfad von Takt {0} bis {1} einfügen</target>
+          <target state="final">Flugpfad von Takt {0} bis {1} einfügen</target>
         </trans-unit>
-        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp">
+        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp" approved="yes">
           <source>Edit ramp from beat {0} to {1}</source>
-          <target>Rampe von Takt {0} bis {1} bearbeiten</target>
+          <target state="final">Rampe von Takt {0} bis {1} bearbeiten</target>
         </trans-unit>
-        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor">
+        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor" approved="yes">
           <source>Insert floor at beat {0}</source>
-          <target>Boden bei Takt {0} einfügen</target>
+          <target state="final">Boden bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor">
+        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor" approved="yes">
           <source>Delete floor from beat {0} to {1}</source>
-          <target>Boden von Takt {0} bis {1} löschen</target>
+          <target state="final">Boden von Takt {0} bis {1} löschen</target>
         </trans-unit>
-        <trans-unit id="277028911993106432" xml:space="preserve" resname="editor_undo">
+        <trans-unit id="277028911993106432" xml:space="preserve" resname="editor_undo" approved="yes">
           <source>Undo: {0}</source>
-          <target>Rückgängig: {0}</target>
+          <target state="final">Rückgängig: {0}</target>
         </trans-unit>
-        <trans-unit id="277028930653564928" xml:space="preserve" resname="editor_redo">
+        <trans-unit id="277028930653564928" xml:space="preserve" resname="editor_redo" approved="yes">
           <source>Redo: {0}</source>
-          <target>Wiederholen: {0}</target>
+          <target state="final">Wiederholen: {0}</target>
         </trans-unit>
-        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete">
+        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete" approved="yes">
           <source>Delete {0} at beat {1}</source>
-          <target>Von Takt {0} bis {1} löschen</target>
+          <target state="final">Von Takt {0} bis {1} löschen</target>
         </trans-unit>
-        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone">
+        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone" approved="yes">
           <source>Insert water zone from beat {0} to {1}</source>
-          <target>Wasserzone von Takt {0} bis {1} einfügen</target>
+          <target state="final">Wasserzone von Takt {0} bis {1} einfügen</target>
         </trans-unit>
-        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone">
+        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone" approved="yes">
           <source>Insert speed zone from beat {0} to {1}</source>
-          <target>Schnellzone von Takt {0} bis {1} einfügen</target>
+          <target state="final">Schnellzone von Takt {0} bis {1} einfügen</target>
         </trans-unit>
-        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
+        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
 Click and drag to insert water zones.</source>
-          <target>&lt;color=#ffff00&gt;Wasserzonen&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Wasserzonen&lt;/color&gt;
 Klicke und ziehe, um Wasserzonen einzufügen.</target>
         </trans-unit>
-        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description">
+        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Speed Zones&lt;/color&gt;
 Click and drag to insert speed zones.</source>
-          <target>&lt;color=#ffff00&gt;Schnellzonen&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Schnellzonen&lt;/color&gt;
 Klicke und ziehe, um Schnellzonen einzufügen.</target>
         </trans-unit>
-        <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title">
+        <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title" approved="yes">
           <source>Scroll speed: Section {0}</source>
-          <target>Scroll-Geschwindigkeit: Abschnitt {0}</target>
+          <target state="final">Scroll-Geschwindigkeit: Abschnitt {0}</target>
         </trans-unit>
-        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed">
+        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed" approved="yes">
           <source>Change scroll speed for section {0}</source>
-          <target>Scroll-Geschwindigkeit für Abschnitt {0} ändern</target>
+          <target state="final">Scroll-Geschwindigkeit für Abschnitt {0} ändern</target>
         </trans-unit>
-        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy">
+        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy" approved="yes">
           <source>Insert spike enemy at beat {0}</source>
-          <target>Stachelgegner bei Takt {0} einfügen</target>
+          <target state="final">Stachelgegner bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description">
+        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Spike Enemies&lt;/color&gt;
 Click to insert spike enemy jumps.</source>
-          <target>&lt;color=#ffff00&gt;Stachelgegner&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Stachelgegner&lt;/color&gt;
 Klicke, um Stachelgegner einzufügen.</target>
         </trans-unit>
-        <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy">
+        <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy" approved="yes">
           <source>Basic Enemies</source>
-          <target>Grundgegner</target>
+          <target state="final">Grundgegner</target>
         </trans-unit>
-        <trans-unit id="283376598619303936" xml:space="preserve" resname="editor_tooltip_flightpath">
+        <trans-unit id="283376598619303936" xml:space="preserve" resname="editor_tooltip_flightpath" approved="yes">
           <source>Flight Paths</source>
-          <target>Flugpfade</target>
+          <target state="final">Flugpfade</target>
         </trans-unit>
-        <trans-unit id="283376599579799552" xml:space="preserve" resname="editor_tooltip_doublehitenemy">
+        <trans-unit id="283376599579799552" xml:space="preserve" resname="editor_tooltip_doublehitenemy" approved="yes">
           <source>Double Hit Enemies</source>
-          <target>Doppel-Schlag Gegner</target>
+          <target state="final">Doppel-Schlag Gegner</target>
         </trans-unit>
-        <trans-unit id="283376600330579968" xml:space="preserve" resname="editor_tooltip_multihitenemy">
+        <trans-unit id="283376600330579968" xml:space="preserve" resname="editor_tooltip_multihitenemy" approved="yes">
           <source>Ghost Enemies</source>
-          <target>Geistergegner</target>
+          <target state="final">Geistergegner</target>
         </trans-unit>
-        <trans-unit id="283376600972308480" xml:space="preserve" resname="editor_tooltip_editramp">
+        <trans-unit id="283376600972308480" xml:space="preserve" resname="editor_tooltip_editramp" approved="yes">
           <source>Ramps</source>
-          <target>Rampen</target>
+          <target state="final">Rampen</target>
         </trans-unit>
-        <trans-unit id="283376694345904128" xml:space="preserve" resname="editor_tooltip_deletefloor">
+        <trans-unit id="283376694345904128" xml:space="preserve" resname="editor_tooltip_deletefloor" approved="yes">
           <source>Delete Floor</source>
-          <target>Boden löschen</target>
+          <target state="final">Boden löschen</target>
         </trans-unit>
-        <trans-unit id="283376695021187072" xml:space="preserve" resname="editor_tooltip_insertfloor">
+        <trans-unit id="283376695021187072" xml:space="preserve" resname="editor_tooltip_insertfloor" approved="yes">
           <source>Insert Floor</source>
-          <target>Boden einfügen</target>
+          <target state="final">Boden einfügen</target>
         </trans-unit>
-        <trans-unit id="283376695675498496" xml:space="preserve" resname="editor_tooltip_speedzone">
+        <trans-unit id="283376695675498496" xml:space="preserve" resname="editor_tooltip_speedzone" approved="yes">
           <source>Speed Zones</source>
-          <target>Schnellzonen</target>
+          <target state="final">Schnellzonen</target>
         </trans-unit>
-        <trans-unit id="283376941830811648" xml:space="preserve" resname="editor_tooltip_scrollspeed">
+        <trans-unit id="283376941830811648" xml:space="preserve" resname="editor_tooltip_scrollspeed" approved="yes">
           <source>Scroll Speed</source>
-          <target>Scroll-Geschwindigkeit</target>
+          <target state="final">Scroll-Geschwindigkeit</target>
         </trans-unit>
-        <trans-unit id="283376942418014208" xml:space="preserve" resname="editor_tooltip_spikeenemy">
+        <trans-unit id="283376942418014208" xml:space="preserve" resname="editor_tooltip_spikeenemy" approved="yes">
           <source>Spike Enemies</source>
-          <target>Stachelgegner</target>
+          <target state="final">Stachelgegner</target>
         </trans-unit>
-        <trans-unit id="283377096353165312" xml:space="preserve" resname="editor_tooltip_waterzone">
+        <trans-unit id="283377096353165312" xml:space="preserve" resname="editor_tooltip_waterzone" approved="yes">
           <source>Water Zones</source>
-          <target>Wasserzonen</target>
+          <target state="final">Wasserzonen</target>
         </trans-unit>
-        <trans-unit id="283377229648146432" xml:space="preserve" resname="editor_tooltip_delete">
+        <trans-unit id="283377229648146432" xml:space="preserve" resname="editor_tooltip_delete" approved="yes">
           <source>Delete</source>
-          <target>Löschen</target>
+          <target state="final">Löschen</target>
         </trans-unit>
-        <trans-unit id="283377233372688384" xml:space="preserve" resname="editor_tooltip_checkpoint">
+        <trans-unit id="283377233372688384" xml:space="preserve" resname="editor_tooltip_checkpoint" approved="yes">
           <source>Checkpoints</source>
-          <target>Checkpoints</target>
+          <target state="final">Checkpoints</target>
         </trans-unit>
-        <trans-unit id="283377347306762240" xml:space="preserve" resname="editor_tooltip_scroll">
+        <trans-unit id="283377347306762240" xml:space="preserve" resname="editor_tooltip_scroll" approved="yes">
           <source>Scroll</source>
-          <target>Scrollen</target>
+          <target state="final">Scrollen</target>
         </trans-unit>
-        <trans-unit id="283377523178123264" xml:space="preserve" resname="editor_tooltip_undo">
+        <trans-unit id="283377523178123264" xml:space="preserve" resname="editor_tooltip_undo" approved="yes">
           <source>Undo</source>
-          <target>Rückgängig</target>
+          <target state="final">Rückgängig</target>
         </trans-unit>
-        <trans-unit id="283377526567120896" xml:space="preserve" resname="editor_tooltip_redo">
+        <trans-unit id="283377526567120896" xml:space="preserve" resname="editor_tooltip_redo" approved="yes">
           <source>Redo</source>
-          <target>Wiederholen</target>
+          <target state="final">Wiederholen</target>
         </trans-unit>
-        <trans-unit id="283389214276235264" xml:space="preserve" resname="menu_customlevels">
+        <trans-unit id="283389214276235264" xml:space="preserve" resname="menu_customlevels" approved="yes">
           <source>Custom Levels</source>
-          <target>Benutzerdefinierte Level</target>
+          <target state="final">Benutzerdefinierte Level</target>
         </trans-unit>
-        <trans-unit id="283403272652107776" xml:space="preserve" resname="menu_customlevels_leveleditor">
+        <trans-unit id="283403272652107776" xml:space="preserve" resname="menu_customlevels_leveleditor" approved="yes">
           <source>Level Editor</source>
-          <target>Level Editor</target>
+          <target state="final">Level Editor</target>
         </trans-unit>
-        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description">
+        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Scroll Speed&lt;/color&gt;
 Click on a checkpoint section to edit its scrolling speed.</source>
-          <target>&lt;color=#ffff00&gt;Scroll-Geschwindigkeit&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Scroll-Geschwindigkeit&lt;/color&gt;
 Klicke auf einen Checkpoint Abschnitt, um seine Scroll-Geschwindigkeit zu bearbeiten.</target>
         </trans-unit>
-        <trans-unit id="285910580783263744" xml:space="preserve" resname="settings_metronome">
+        <trans-unit id="285910580783263744" xml:space="preserve" resname="settings_metronome" approved="yes">
           <source>Metronome</source>
-          <target>Metronom</target>
+          <target state="final">Metronom</target>
         </trans-unit>
-        <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
+        <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description" approved="yes">
           <source>Use a metronome that beeps on each beat.</source>
-          <target>Verwende ein Metronom, das bei jedem Takt ertönt.</target>
+          <target state="final">Verwende ein Metronom, das bei jedem Takt ertönt.</target>
         </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
+        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description" approved="yes">
           <source>Modifiers that affect music and audio playback.</source>
-          <target>Modifikatoren, die die Musik und Audiowiedergabe beeinflussen.</target>
+          <target state="final">Modifikatoren, die die Musik und Audiowiedergabe beeinflussen.</target>
         </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
+        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description" approved="yes">
           <source>Modifiers that affect gameplay and unlocks.</source>
-          <target>Modifikatoren, die das Spiel und Freischaltbares beeinflussen.</target>
+          <target state="final">Modifikatoren, die das Spiel und Freischaltbares beeinflussen.</target>
         </trans-unit>
-        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
+        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods" approved="yes">
           <source>Gameplay Mods...</source>
-          <target>Spiel Mods...</target>
+          <target state="final">Spiel Mods...</target>
         </trans-unit>
-        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
+        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods" approved="yes">
           <source>Audio Mods...</source>
-          <target>Audio Mods...</target>
+          <target state="final">Audio Mods...</target>
         </trans-unit>
-        <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
+        <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume" approved="yes">
           <source>No, resume</source>
-          <target>Nein, fortsetzen</target>
+          <target state="final">Nein, fortsetzen</target>
         </trans-unit>
-        <trans-unit id="285977877371727872" xml:space="preserve" resname="editor_button_yesquit">
+        <trans-unit id="285977877371727872" xml:space="preserve" resname="editor_button_yesquit" approved="yes">
           <source>Yes, quit</source>
-          <target>Ja, verlassen</target>
+          <target state="final">Ja, verlassen</target>
         </trans-unit>
-        <trans-unit id="285978896759566336" xml:space="preserve" resname="editor_text_quitdialog">
+        <trans-unit id="285978896759566336" xml:space="preserve" resname="editor_text_quitdialog" approved="yes">
           <source>Return to the main menu?</source>
-          <target>Zurück zum Hauptmenü?</target>
+          <target state="final">Zurück zum Hauptmenü?</target>
         </trans-unit>
-        <trans-unit id="286249879240224768" xml:space="preserve" resname="editor_menu_respawnloop">
+        <trans-unit id="286249879240224768" xml:space="preserve" resname="editor_menu_respawnloop" approved="yes">
           <source>Respawn Loop...</source>
-          <target>Respawn Loop...</target>
+          <target state="final">Respawn Loop...</target>
         </trans-unit>
-        <trans-unit id="286250531446108160" xml:space="preserve" resname="editor_button_loadmusic">
+        <trans-unit id="286250531446108160" xml:space="preserve" resname="editor_button_loadmusic" approved="yes">
           <source>Load Music</source>
-          <target>Musik laden</target>
+          <target state="final">Musik laden</target>
         </trans-unit>
-        <trans-unit id="286257077416669184" xml:space="preserve" resname="editor_text_musicnotloaded">
+        <trans-unit id="286257077416669184" xml:space="preserve" resname="editor_text_musicnotloaded" approved="yes">
           <source>Music not loaded!</source>
-          <target>Musik nicht geladen!</target>
+          <target state="final">Musik nicht geladen!</target>
         </trans-unit>
-        <trans-unit id="286257733451952128" xml:space="preserve" resname="editor_button_replacemusic">
+        <trans-unit id="286257733451952128" xml:space="preserve" resname="editor_button_replacemusic" approved="yes">
           <source>Replace</source>
-          <target>Ersetzen</target>
+          <target state="final">Ersetzen</target>
         </trans-unit>
-        <trans-unit id="286259036123082752" xml:space="preserve" resname="editor_tooltip_preview">
+        <trans-unit id="286259036123082752" xml:space="preserve" resname="editor_tooltip_preview" approved="yes">
           <source>Preview</source>
-          <target>Vorschau</target>
+          <target state="final">Vorschau</target>
         </trans-unit>
-        <trans-unit id="286259036676730880" xml:space="preserve" resname="editor_tool_preview_description">
+        <trans-unit id="286259036676730880" xml:space="preserve" resname="editor_tool_preview_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Preview&lt;/color&gt;
 Click to start a preview of the level at a given point. Click again to stop.</source>
-          <target>&lt;color=#ffff00&gt;Vorschau&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Vorschau&lt;/color&gt;
 Klicke, um eine Vorschau des Levels an einem bestimmten Punkt zu starten. Klicke erneut um zu stoppen.</target>
         </trans-unit>
-        <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties">
+        <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties" approved="yes">
           <source>Edit music data</source>
-          <target>Musikdaten bearbeiten</target>
+          <target state="final">Musikdaten bearbeiten</target>
         </trans-unit>
-        <trans-unit id="287731387545202688" xml:space="preserve" resname="editor_input_firstbeattime">
+        <trans-unit id="287731387545202688" xml:space="preserve" resname="editor_input_firstbeattime" approved="yes">
           <source>First beat time:</source>
-          <target>Erste Schlagzeit:</target>
+          <target state="final">Zeit zum ersten Takt:</target>
         </trans-unit>
-        <trans-unit id="287731443216199680" xml:space="preserve" resname="editor_input_bpm">
+        <trans-unit id="287731443216199680" xml:space="preserve" resname="editor_input_bpm" approved="yes">
           <source>Beats per minute:</source>
-          <target>Schläge pro Minute:</target>
+          <target state="final">Schläge pro Minute:</target>
         </trans-unit>
-        <trans-unit id="287740139530924032" xml:space="preserve" resname="editor_button_musicautodetect">
+        <trans-unit id="287740139530924032" xml:space="preserve" resname="editor_button_musicautodetect" approved="yes">
           <source>Auto-detect</source>
-          <target>Automatische Erkennung</target>
+          <target state="final">Automatische Erkennung</target>
         </trans-unit>
-        <trans-unit id="287740270351265792" xml:space="preserve" resname="editor_text_musicfilename">
+        <trans-unit id="287740270351265792" xml:space="preserve" resname="editor_text_musicfilename" approved="yes">
           <source>Song loaded: {0}</source>
-          <target>Song geladen: {0}</target>
+          <target state="final">Song geladen: {0}</target>
         </trans-unit>
-        <trans-unit id="287740271756357632" xml:space="preserve" resname="editor_text_musicduration">
+        <trans-unit id="287740271756357632" xml:space="preserve" resname="editor_text_musicduration" approved="yes">
           <source>Duration: {0}</source>
-          <target>Dauer: {0}</target>
+          <target state="final">Dauer: {0}</target>
         </trans-unit>
-        <trans-unit id="287740272452612096" xml:space="preserve" resname="editor_text_musicfilesize">
+        <trans-unit id="287740272452612096" xml:space="preserve" resname="editor_text_musicfilesize" approved="yes">
           <source>Filesize: {0}</source>
-          <target>Dateigröße: {0}</target>
+          <target state="final">Dateigröße: {0}</target>
         </trans-unit>
-        <trans-unit id="287815658003804160" xml:space="preserve" resname="editor_input_beatspermeasure">
+        <trans-unit id="287815658003804160" xml:space="preserve" resname="editor_input_beatspermeasure" approved="yes">
           <source>Beats per measure:</source>
-          <target>Schläge pro Takt:</target>
+          <target state="final">Schläge pro Takt:</target>
         </trans-unit>
-        <trans-unit id="299037457861357568" xml:space="preserve" resname="editor_button_loadlevel">
+        <trans-unit id="299037457861357568" xml:space="preserve" resname="editor_button_loadlevel" approved="yes">
           <source>Load</source>
-          <target>Laden</target>
+          <target state="final">Laden</target>
         </trans-unit>
-        <trans-unit id="299037631564263424" xml:space="preserve" resname="editor_button_savelevel">
+        <trans-unit id="299037631564263424" xml:space="preserve" resname="editor_button_savelevel" approved="yes">
           <source>Save</source>
-          <target>Speichern</target>
+          <target state="final">Speichern</target>
         </trans-unit>
-        <trans-unit id="299037665160638464" xml:space="preserve" resname="editor_button_savelevelas">
+        <trans-unit id="299037665160638464" xml:space="preserve" resname="editor_button_savelevelas" approved="yes">
           <source>Save As</source>
-          <target>Speichern als</target>
+          <target state="final">Speichern als</target>
         </trans-unit>
-        <trans-unit id="299037803648167936" xml:space="preserve" resname="editor_button_newlevel">
+        <trans-unit id="299037803648167936" xml:space="preserve" resname="editor_button_newlevel" approved="yes">
           <source>New</source>
-          <target>Neu</target>
+          <target state="final">Neu</target>
         </trans-unit>
-        <trans-unit id="299088209224970240" xml:space="preserve" resname="editor_notification_save">
+        <trans-unit id="299088209224970240" xml:space="preserve" resname="editor_notification_save" approved="yes">
           <source>Level saved: {0}</source>
-          <target>Level gespeichert: {0}</target>
+          <target state="final">Level gespeichert: {0}</target>
         </trans-unit>
-        <trans-unit id="299088242817150976" xml:space="preserve" resname="editor_notification_load">
+        <trans-unit id="299088242817150976" xml:space="preserve" resname="editor_notification_load" approved="yes">
           <source>Level loaded: {0}</source>
-          <target>Level geladen: {0}</target>
+          <target state="final">Level geladen: {0}</target>
         </trans-unit>
-        <trans-unit id="299088264182935552" xml:space="preserve" resname="editor_notification_new">
+        <trans-unit id="299088264182935552" xml:space="preserve" resname="editor_notification_new" approved="yes">
           <source>New level created</source>
-          <target>Neues Level erstellt</target>
+          <target state="final">Neues Level erstellt</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="yes">
           <source>File...</source>
-          <target>Datei</target>
+          <target state="final">Datei...</target>
         </trans-unit>
-        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
+        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music" approved="yes">
           <source>Music</source>
-          <target>Musik</target>
+          <target state="final">Musik</target>
         </trans-unit>
-        <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test">
+        <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test" approved="yes">
           <source>Test Level</source>
-          <target>Test Level</target>
+          <target state="final">Level testen</target>
         </trans-unit>
-        <trans-unit id="299090153335205888" xml:space="preserve" resname="editor_menu_quit">
+        <trans-unit id="299090153335205888" xml:space="preserve" resname="editor_menu_quit" approved="yes">
           <source>Quit</source>
-          <target>Verlassen</target>
+          <target state="final">Verlassen</target>
         </trans-unit>
-        <trans-unit id="299097886033752064" xml:space="preserve" resname="editor_input_songname">
+        <trans-unit id="299097886033752064" xml:space="preserve" resname="editor_input_songname" approved="yes">
           <source>Song name:</source>
-          <target>Songname:</target>
+          <target state="final">Songname:</target>
         </trans-unit>
-        <trans-unit id="299098666916687872" xml:space="preserve" resname="editor_input_musicartist">
+        <trans-unit id="299098666916687872" xml:space="preserve" resname="editor_input_musicartist" approved="yes">
           <source>Music artist:</source>
-          <target>Interpret:</target>
+          <target state="final">Interpret:</target>
         </trans-unit>
-        <trans-unit id="299098779676356608" xml:space="preserve" resname="editor_input_chartauthor">
+        <trans-unit id="299098779676356608" xml:space="preserve" resname="editor_input_chartauthor" approved="yes">
           <source>Chart author:</source>
-          <target>Kartenautor:</target>
+          <target state="final">Kartenautor:</target>
         </trans-unit>
-        <trans-unit id="300430651064889344" xml:space="preserve" resname="editor_action_levelmetadata">
+        <trans-unit id="300430651064889344" xml:space="preserve" resname="editor_action_levelmetadata" approved="yes">
           <source>Edit level metadata</source>
-          <target>Level-Metadaten bearbeiten</target>
+          <target state="final">Level-Metadaten bearbeiten</target>
         </trans-unit>
-        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges">
+        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges" approved="yes">
           <source>You have unsaved changes!
 Do you want to save them first?</source>
-          <target>Du hast ungespeicherte Änderungen!
-Sollen diese gespeichert werden?</target>
+          <target state="final">Du hast ungespeicherte Änderungen!
+Sollen diese erst gespeichert werden?</target>
         </trans-unit>
-        <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges">
+        <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges" approved="yes">
           <source>Save</source>
-          <target>Speichern</target>
+          <target state="final">Speichern</target>
         </trans-unit>
-        <trans-unit id="300438281497915392" xml:space="preserve" resname="editor_button_dontsaveunsavedchanges">
+        <trans-unit id="300438281497915392" xml:space="preserve" resname="editor_button_dontsaveunsavedchanges" approved="yes">
           <source>Don't Save</source>
-          <target>Nicht speichern</target>
+          <target state="final">Nicht speichern</target>
         </trans-unit>
-        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings" approved="yes">
           <source>Settings...</source>
-          <target>Einstellungen</target>
+          <target state="final">Einstellungen...</target>
         </trans-unit>
-        <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
+        <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur" approved="yes">
           <source>Blur</source>
-          <target>Unschärfe</target>
+          <target state="final">Unschärfe</target>
         </trans-unit>
-        <trans-unit id="302756094422069248" xml:space="preserve" resname="editor_type_airjump">
+        <trans-unit id="302756094422069248" xml:space="preserve" resname="editor_type_airjump" approved="yes">
           <source>air jump</source>
-          <target>luftsprung</target>
+          <target state="final">luftsprung</target>
         </trans-unit>
-        <trans-unit id="302756097253224448" xml:space="preserve" resname="editor_type_checkpoint">
+        <trans-unit id="302756097253224448" xml:space="preserve" resname="editor_type_checkpoint" approved="yes">
           <source>checkpoint</source>
-          <target>checkpoint</target>
+          <target state="final">checkpoint</target>
         </trans-unit>
-        <trans-unit id="302756127649345536" xml:space="preserve" resname="editor_type_doublehitenemy">
+        <trans-unit id="302756127649345536" xml:space="preserve" resname="editor_type_doublehitenemy" approved="yes">
           <source>double hit enemy</source>
-          <target>doppel-schlag gegner</target>
+          <target state="final">doppel-schlag gegner</target>
         </trans-unit>
-        <trans-unit id="302756131201921024" xml:space="preserve" resname="editor_type_flightpath">
+        <trans-unit id="302756131201921024" xml:space="preserve" resname="editor_type_flightpath" approved="yes">
           <source>flight path</source>
-          <target>flugpfad</target>
+          <target state="final">flugpfad</target>
         </trans-unit>
-        <trans-unit id="302756236906770432" xml:space="preserve" resname="editor_type_levelend">
+        <trans-unit id="302756236906770432" xml:space="preserve" resname="editor_type_levelend" approved="yes">
           <source>level end</source>
-          <target>level-ende</target>
+          <target state="final">level-ende</target>
         </trans-unit>
-        <trans-unit id="302756238425108480" xml:space="preserve" resname="editor_type_multihitenemy">
+        <trans-unit id="302756238425108480" xml:space="preserve" resname="editor_type_multihitenemy" approved="yes">
           <source>ghost enemy</source>
-          <target>geistergegner</target>
+          <target state="final">geistergegner</target>
         </trans-unit>
-        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump">
+        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump" approved="yes">
           <source>jump</source>
-          <target>sprung</target>
+          <target state="final">sprung</target>
         </trans-unit>
-        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup">
+        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup" approved="yes">
           <source>jump (up)</source>
-          <target>sprung (hoch)</target>
+          <target state="final">sprung (hoch)</target>
         </trans-unit>
-        <trans-unit id="302756293387268096" xml:space="preserve" resname="editor_type_jumpdown">
+        <trans-unit id="302756293387268096" xml:space="preserve" resname="editor_type_jumpdown" approved="yes">
           <source>jump (down)</source>
-          <target>sprung (runter)</target>
+          <target state="final">sprung (runter)</target>
         </trans-unit>
-        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy">
+        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy" approved="yes">
           <source>basic enemy</source>
-          <target>grundgegner</target>
+          <target state="final">grundgegner</target>
         </trans-unit>
-        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone">
+        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone" approved="yes">
           <source>speed zone</source>
-          <target>schnellzonen</target>
+          <target state="final">schnellzonen</target>
         </trans-unit>
-        <trans-unit id="302756394008621056" xml:space="preserve" resname="editor_type_spikeenemy">
+        <trans-unit id="302756394008621056" xml:space="preserve" resname="editor_type_spikeenemy" approved="yes">
           <source>spike enemy</source>
-          <target>stachelgegner</target>
+          <target state="final">stachelgegner</target>
         </trans-unit>
-        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone">
+        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone" approved="yes">
           <source>water zone</source>
-          <target>wasserzonen</target>
+          <target state="final">wasserzonen</target>
         </trans-unit>
-        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move">
+        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move" approved="yes">
           <source>Move {0} from {1} to {2}</source>
-          <target>Verschiebe {0} von {1} nach {2}</target>
+          <target state="final">Verschiebe {0} von {1} nach {2}</target>
         </trans-unit>
-        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend">
+        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend" approved="yes">
           <source>speed zone end</source>
-          <target>schnellzonen-ende</target>
+          <target state="final">schnellzonen-ende</target>
         </trans-unit>
-        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend">
+        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend" approved="yes">
           <source>water zone end</source>
-          <target>wasserzonen-ende</target>
+          <target state="final">wasserzonen-ende</target>
         </trans-unit>
-        <trans-unit id="302761730312548352" xml:space="preserve" resname="editor_type_flightpathend">
+        <trans-unit id="302761730312548352" xml:space="preserve" resname="editor_type_flightpathend" approved="yes">
           <source>flight path end</source>
-          <target>flugpfad-ende</target>
+          <target state="final">flugpfad-ende</target>
         </trans-unit>
-        <trans-unit id="302761932066959360" xml:space="preserve" resname="editor_tooltip_move">
+        <trans-unit id="302761932066959360" xml:space="preserve" resname="editor_tooltip_move" approved="yes">
           <source>Move</source>
-          <target>Verschieben</target>
+          <target state="final">Verschieben</target>
         </trans-unit>
-        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description">
+        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Move&lt;/color&gt;
 Click and drag objects to move them.</source>
-          <target>&lt;color=#ffff00&gt;Verschieben&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Verschieben&lt;/color&gt;
 Klicke und ziehe, um Objekte zu verschieben.</target>
         </trans-unit>
-        <trans-unit id="303377087901511680" xml:space="preserve" resname="editor_invalid_checkpoint">
+        <trans-unit id="303377087901511680" xml:space="preserve" resname="editor_invalid_checkpoint" approved="yes">
           <source>Checkpoint #{0} does not exist!</source>
-          <target>Checkpoint #{0} existiert nicht!</target>
+          <target state="final">Checkpoint #{0} existiert nicht!</target>
         </trans-unit>
-        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description">
+        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Normal)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sprünge (Normal)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Sprünge (Normal)&lt;/color&gt;
 Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge Bodensprünge, wenn möglich.</target>
         </trans-unit>
-        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description">
+        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Up)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded rising jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sprünge (Hoch)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Sprünge (Hoch)&lt;/color&gt;
 Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge aufsteigende Bodensprünge, wenn möglich.</target>
         </trans-unit>
-        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description">
+        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Down)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded falling jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sprünge (Runter)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Sprünge (Runter)&lt;/color&gt;
 Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge absteigende Bodensprünge, wenn möglich.</target>
         </trans-unit>
-        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
+        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Air)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sprünge (Luft)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Sprünge (Luft)&lt;/color&gt;
 Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge geflügelte Luftsprünge, wenn möglich.</target>
         </trans-unit>
-        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal">
+        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal" approved="yes">
           <source>Jumps (Normal)</source>
-          <target>Sprünge (Normal)</target>
+          <target state="final">Sprünge (Normal)</target>
         </trans-unit>
-        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup">
+        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup" approved="yes">
           <source>Jumps (Up)</source>
-          <target>Sprünge (Hoch)</target>
+          <target state="final">Sprünge (Hoch)</target>
         </trans-unit>
-        <trans-unit id="306241843503083520" xml:space="preserve" resname="editor_tooltip_jumpdown">
+        <trans-unit id="306241843503083520" xml:space="preserve" resname="editor_tooltip_jumpdown" approved="yes">
           <source>Jumps (Down)</source>
-          <target>Sprünge (Runter)</target>
+          <target state="final">Sprünge (Runter)</target>
         </trans-unit>
-        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair">
+        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair" approved="yes">
           <source>Jumps (Air)</source>
-          <target>Sprünge (Luft)</target>
+          <target state="final">Sprünge (Luft)</target>
         </trans-unit>
-        <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations">
+        <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations" approved="yes">
           <source>Congratulations!</source>
-          <target>Glückwunsch!</target>
+          <target state="final">Glückwunsch!</target>
         </trans-unit>
-        <trans-unit id="306547645476548608" xml:space="preserve" resname="menu_customlevels_playcustomlevels">
+        <trans-unit id="306547645476548608" xml:space="preserve" resname="menu_customlevels_playcustomlevels" approved="yes">
           <source>Play Custom Levels</source>
-          <target>Benutzerdefinierte Level spielen</target>
+          <target state="final">Benutzerdefinierte Level spielen</target>
         </trans-unit>
-        <trans-unit id="306547814062403584" xml:space="preserve" resname="menu_customlevels_opencustomlevelfolder">
+        <trans-unit id="306547814062403584" xml:space="preserve" resname="menu_customlevels_opencustomlevelfolder" approved="yes">
           <source>Open Custom Level Folder</source>
-          <target>Benutzerdefinierte Level-Ordner öffnen</target>
+          <target state="final">Benutzerdefinierte Level-Ordner öffnen</target>
         </trans-unit>
-        <trans-unit id="306723067694723072" xml:space="preserve" resname="error_parsecustomlevel">
+        <trans-unit id="306723067694723072" xml:space="preserve" resname="error_parsecustomlevel" approved="yes">
           <source>Error reading level</source>
-          <target>Fehler beim Lesen des Levels</target>
+          <target state="final">Fehler beim Lesen des Levels</target>
         </trans-unit>
-        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description">
+        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description" approved="yes">
           <source>Description:</source>
-          <target>Beschreibung:</target>
+          <target state="final">Beschreibung:</target>
         </trans-unit>
-        <trans-unit id="307087429873741824" xml:space="preserve" resname="editor_label_banner">
+        <trans-unit id="307087429873741824" xml:space="preserve" resname="editor_label_banner" approved="yes">
           <source>Banner (cropped to 4:1 aspect ratio):</source>
-          <target>Banner (auf 4:1 Seitenverhältnis zugeschnitten):</target>
+          <target state="final">Banner (auf 4:1 Seitenverhältnis zugeschnitten):</target>
         </trans-unit>
-        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19">
+        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19" approved="yes">
           <source>(Easy)</source>
-          <target>(Einfach)</target>
+          <target state="final">(Einfach)</target>
         </trans-unit>
-        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39">
+        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39" approved="yes">
           <source>(Medium)</source>
-          <target>(Mittel)</target>
+          <target state="final">(Mittel)</target>
         </trans-unit>
-        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59">
+        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59" approved="yes">
           <source>(Hard)</source>
-          <target>(Schwer)</target>
+          <target state="final">(Schwer)</target>
         </trans-unit>
-        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79">
+        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79" approved="yes">
           <source>(Expert)</source>
-          <target>(Experte)</target>
+          <target state="final">(Experte)</target>
         </trans-unit>
-        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100">
+        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100" approved="yes">
           <source>(Impossible)</source>
-          <target>(Unmöglich)</target>
+          <target state="final">(Unmöglich)</target>
         </trans-unit>
-        <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
+        <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage" approved="yes">
           <source>Load Image</source>
-          <target>Bild laden</target>
+          <target state="final">Bild laden</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
+        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage" approved="yes">
           <source>Replace Image</source>
-          <target>Bild ersetzen</target>
+          <target state="final">Bild ersetzen</target>
         </trans-unit>
-        <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
+        <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty" approved="yes">
           <source>Estimated Difficulty: {0}</source>
-          <target>Geschätzte Schwierigkeit: {0}</target>
+          <target state="final">Geschätzte Schwierigkeit: {0}</target>
         </trans-unit>
-        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize">
+        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize" approved="yes">
           <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
-          <target>Bilddatei zu groß! ({0} MB) Wähle ein Bild unter {1} MB.</target>
+          <target state="final">Bilddatei zu groß! ({0} MB) Wähle ein Bild unter {1} MB.</target>
         </trans-unit>
-        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay">
+        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay" approved="yes">
           <source>Chart by {0}</source>
-          <target>Karte von {0}</target>
+          <target state="final">Karte von {0}</target>
         </trans-unit>
-        <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder">
+        <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder" approved="yes">
           <source>Open levels folder</source>
-          <target>Level-Ordner öffnen</target>
+          <target state="final">Level-Ordner öffnen</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot">
+        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot" approved="yes">
           <source>Back to (All Levels)</source>
-          <target>Zurück zu (Alle Level)</target>
+          <target state="final">Zurück zu (Alle Level)</target>
         </trans-unit>
-        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
+        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder" approved="yes">
           <source>Back to {0}</source>
-          <target>Zurück zu {0}</target>
+          <target state="final">Zurück zu {0}</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="yes">
           <source>Back to menu</source>
-          <target>Zurück zum Menü</target>
+          <target state="final">Zurück zum Menü</target>
         </trans-unit>
-        <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
+        <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror" approved="yes">
           <source>Error loading level</source>
-          <target>Fehler beim Laden des Levels</target>
+          <target state="final">Fehler beim Laden des Levels</target>
         </trans-unit>
-        <trans-unit id="307819786427740160" xml:space="preserve" resname="menu_description_opencustomlevelfolder">
+        <trans-unit id="307819786427740160" xml:space="preserve" resname="menu_description_opencustomlevelfolder" approved="yes">
           <source>Opens the directory where custom levels are stored.</source>
-          <target>Öffnet das Verzeichnis, in dem benutzerdefinierte Level gespeichert werden.</target>
+          <target state="final">Öffnet das Verzeichnis, in dem benutzerdefinierte Level gespeichert werden.</target>
         </trans-unit>
-        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder">
+        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder" approved="yes">
           <source>Return to the previous folder. ({0})</source>
-          <target>Zurück zum vorherigen Ordner. ({0})</target>
+          <target state="final">Zurück zum vorherigen Ordner. ({0})</target>
         </trans-unit>
-        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot">
+        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot" approved="yes">
           <source>Return to the main custom levels directory.</source>
-          <target>Zurück zum Hauptverzeichnis der benutzerdefinierten Level.</target>
+          <target state="final">Zurück zum Hauptverzeichnis der benutzerdefinierten Level.</target>
         </trans-unit>
-        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu">
+        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu" approved="yes">
           <source>Return to the main custom levels menu.</source>
-          <target>Zurück zum Hauptmenü der benutzerdefinierten Level.</target>
+          <target state="final">Zurück zum Hauptmenü der benutzerdefinierten Level.</target>
         </trans-unit>
-        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
+        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm" approved="yes">
           <source>{0} BPM</source>
-          <target>{0} BPM</target>
+          <target state="final">{0} BPM</target>
         </trans-unit>
-        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist">
+        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist" approved="yes">
           <source>by {0}</source>
-          <target>von {0}</target>
+          <target state="final">von {0}</target>
         </trans-unit>
-        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
+        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel" approved="yes">
           <source>Export</source>
-          <target>Exportieren</target>
+          <target state="final">Exportieren</target>
         </trans-unit>
-        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export">
+        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export" approved="yes">
           <source>Level exported: {0}</source>
-          <target>Level exportiert: {0}</target>
+          <target state="final">Level exportiert: {0}</target>
         </trans-unit>
-        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing">
+        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing" approved="yes">
           <source>Couldn't find music for this level</source>
-          <target>Keine Musik für dieses Level gefunden</target>
+          <target state="final">Keine Musik für dieses Level gefunden</target>
         </trans-unit>
-        <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth">
+        <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth" approved="yes">
           <source>fast ghost enemy</source>
-          <target>schneller geistergegner</target>
+          <target state="final">schneller geistergegner</target>
         </trans-unit>
-        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description">
+        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
 Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
-          <target>&lt;color=#ffff00&gt;Schnelle Geistergegner&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Schnelle Geistergegner&lt;/color&gt;
 Klicke, um gelbe "gepunktete Achtel"-Rhythmus-Geister einzufügen.</target>
         </trans-unit>
-        <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth">
+        <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth" approved="yes">
           <source>Insert fast ghost enemy at beat {0}</source>
-          <target>Schnellen Geistergegner bei Takt {0} einfügen</target>
+          <target state="final">Schnellen Geistergegner bei Takt {0} einfügen</target>
         </trans-unit>
-        <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth">
+        <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth" approved="yes">
           <source>Fast Ghost Enemies</source>
-          <target>Schnelle Geistergegner</target>
+          <target state="final">Schnelle Geistergegner</target>
         </trans-unit>
-        <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header">
+        <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header" approved="yes">
           <source>Jump to Checkpoint</source>
-          <target>Zum Checkpoint springen</target>
+          <target state="final">Zum Checkpoint springen</target>
         </trans-unit>
-        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip">
+        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip" approved="yes">
           <source>Preview Clip...</source>
-          <target>Clip-Vorschau...</target>
+          <target state="final">Clip-Vorschau...</target>
         </trans-unit>
-        <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime">
+        <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime" approved="yes">
           <source>Preview start time:</source>
-          <target>Startzeitpunkt der Vorschau:</target>
+          <target state="final">Startzeitpunkt der Vorschau:</target>
         </trans-unit>
-        <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime">
+        <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime" approved="yes">
           <source>Preview end time:</source>
-          <target>Endzeitpunkt der Vorschau:</target>
+          <target state="final">Endzeitpunkt der Vorschau:</target>
         </trans-unit>
-        <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview">
+        <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview" approved="yes">
           <source>Play Preview</source>
-          <target>Vorschau abspielen</target>
+          <target state="final">Vorschau abspielen</target>
         </trans-unit>
-        <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration">
+        <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration" approved="yes">
           <source>Preview Duration: {0} seconds</source>
-          <target>Vorschau-Dauer: {0} Sekunden</target>
+          <target state="final">Vorschau-Dauer: {0} Sekunden</target>
         </trans-unit>
-        <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels">
+        <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels" approved="yes">
           <source>Import New Levels</source>
-          <target>Neue Levels importieren</target>
+          <target state="final">Neue Levels importieren</target>
         </trans-unit>
-        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount" approved="yes">
           <source>({0} Levels)</source>
-          <target>({0} Level)</target>
+          <target state="final">({0} Level)</target>
         </trans-unit>
-        <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
+        <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported" approved="yes">
           <source>Already in custom level directory</source>
-          <target>Bereits im Verzeichnis der benutzerdefinierten Level</target>
+          <target state="final">Bereits im Verzeichnis der benutzerdefinierten Level</target>
         </trans-unit>
-        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading">
+        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading" approved="yes">
           <source>Downloading...</source>
-          <target>Wird heruntergeladen...</target>
+          <target state="final">Wird heruntergeladen...</target>
         </trans-unit>
-        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload" approved="yes">
           <source>Download failed</source>
-          <target>Download fehlgeschlagen</target>
+          <target state="final">Download fehlgeschlagen</target>
         </trans-unit>
-        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
+        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile" approved="yes">
           <source>Missing {0} file</source>
-          <target>Datei {0} fehlt</target>
+          <target state="final">Datei {0} fehlt</target>
         </trans-unit>
-        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists">
+        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists" approved="yes">
           <source>File already exists:</source>
-          <target>Datei existiert bereits:</target>
+          <target state="final">Datei existiert bereits:</target>
         </trans-unit>
-        <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting">
+        <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting" approved="yes">
           <source>Extracting...</source>
-          <target>Extrahieren...</target>
+          <target state="final">Extrahieren...</target>
         </trans-unit>
-        <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded">
+        <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded" approved="yes">
           <source>No music included</source>
-          <target>Keine Musik enthalten</target>
+          <target state="final">Keine Musik enthalten</target>
         </trans-unit>
-        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success">
+        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success" approved="yes">
           <source>Success</source>
-          <target>Erfolgreich</target>
+          <target state="final">Erfolgreich</target>
         </trans-unit>
-        <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse">
+        <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse" approved="yes">
           <source>Browse from disk</source>
-          <target>Von der Festplatte durchsuchen</target>
+          <target state="final">Von der Festplatte durchsuchen</target>
         </trans-unit>
-        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu">
+        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu" approved="yes">
           <source>Download from URL(s)</source>
-          <target>Von URL(s) herunterladen</target>
+          <target state="final">Von URL(s) herunterladen</target>
         </trans-unit>
-        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
+        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop" approved="yes">
           <source>Drag .rqzip files here</source>
-          <target>.rqzip-Dateien hierher ziehen</target>
+          <target state="final">.rqzip-Dateien hierher ziehen</target>
         </trans-unit>
-        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
+        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or" approved="yes">
           <source>or</source>
-          <target>oder</target>
+          <target state="final">oder</target>
         </trans-unit>
-        <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
+        <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio" approved="yes">
           <source>Browse custom levels on mod.io</source>
-          <target>Benutzerdefinierte Level auf mod.io durchsuchen</target>
+          <target state="final">Benutzerdefinierte Level auf mod.io durchsuchen</target>
         </trans-unit>
-        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
+        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels" approved="yes">
           <source>Import new custom levels.
 
 You can import levels from:
 - Locally-saved ".rqzip" files
 - Public ".rqzip" URL downloads
 - Fan creations in Steam Workshop</source>
-          <target>Importiere neue benutzerdefinierte Levels.
+          <target state="final">Importiere neue benutzerdefinierte Levels.
 
 Du kannst Levels aus:
 - Lokal gespeicherten ".rqzip"-Dateien,
@@ -2553,277 +2553,277 @@ Du kannst Levels aus:
 - Fan-Kreationen im Steam Workshop
 importieren.</target>
         </trans-unit>
-        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
+        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput" approved="yes">
           <source>Enter one or more URL(s) to .rqzip files to download:
 (place each URL on a separate line)</source>
-          <target>Gib eine oder mehrere URLs zu herunterzuladenden .rqzip-Dateien ein:
+          <target state="final">Gib eine oder mehrere URLs zu herunterzuladenden .rqzip-Dateien ein:
 (gebe jede URL in eine eigene Zeile ein)</target>
         </trans-unit>
-        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download" approved="yes">
           <source>Download</source>
-          <target>Herunterladen</target>
+          <target state="final">Herunterladen</target>
         </trans-unit>
-        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
+        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard" approved="yes">
           <source>Paste from Clipboard</source>
-          <target>Aus Zwischenablage einfügen</target>
+          <target state="final">Aus Zwischenablage einfügen</target>
         </trans-unit>
-        <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics">
+        <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics" approved="yes">
           <source>Graphics</source>
-          <target>Grafik</target>
+          <target state="final">Grafik</target>
         </trans-unit>
-        <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata">
+        <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata" approved="yes">
           <source>Edit level graphics</source>
-          <target>Levelgrafik bearbeiten</target>
+          <target state="final">Levelgrafik bearbeiten</target>
         </trans-unit>
-        <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset">
+        <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset" approved="yes">
           <source>Tile Set</source>
-          <target>Kachel-Set</target>
+          <target state="final">Kachel-Set</target>
         </trans-unit>
-        <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset">
+        <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset" approved="yes">
           <source>Backdrop Set</source>
-          <target>Hintergrund-Set</target>
+          <target state="final">Hintergrund-Set</target>
         </trans-unit>
-        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
+        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass" approved="yes">
           <source>World 1
 Green Grasslands (+ grass)</source>
-          <target>Welt 1
+          <target state="final">Welt 1
 Grünes Grasland (+ Gras)</target>
         </trans-unit>
-        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
+        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch" approved="yes">
           <source>Sfx Pitch...</source>
-          <target>SFX-Tonhöhe...</target>
+          <target state="final">SFX-Tonhöhe...</target>
         </trans-unit>
-        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription" approved="yes">
           <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
-          <target>Wähle die Haupttonhöhe/Tonart deines Songs.
+          <target state="final">Wähle die Haupttonhöhe/Tonart deines Songs.
 Hinweis: Münzsounds spielen in perfekten Quinten
 (Beispiel: Tonart C -&gt; Münzsounds werden C und G sein)</target>
         </trans-unit>
-        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
+        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title" approved="yes">
           <source>Palette: Section {0}</source>
-          <target>Palette: Abschnitt {0}</target>
+          <target state="final">Palette: Abschnitt {0}</target>
         </trans-unit>
-        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
+        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette" approved="yes">
           <source>Change color palette for section {0}</source>
-          <target>Farbpalette für Abschnitt {0} ändern</target>
+          <target state="final">Farbpalette für Abschnitt {0} ändern</target>
         </trans-unit>
-        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
 Click on a checkpoint section to edit its color palette.</source>
-          <target>&lt;color=#ffff00&gt;Paletten&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Paletten&lt;/color&gt;
 Klicke auf einen Checkpoint Abschnitt, um seine Farbpalette zu bearbeiten.</target>
         </trans-unit>
-        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
+        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette" approved="yes">
           <source>Palettes</source>
-          <target>Paletten</target>
+          <target state="final">Paletten</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="yes">
           <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
 Do you still want to continue?</source>
-          <target>Der Rhythm Quest Level-Editor kann derzeit nur mit einer Maus oder einem anderen Zeigegerät verwendet werden.
+          <target state="final">Der Rhythm Quest Level-Editor kann derzeit nur mit einer Maus oder einem anderen Zeigegerät verwendet werden.
 Möchtest du trotzdem fortfahren?</target>
         </trans-unit>
-        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
+        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
-          <target>&lt;color=#ffff00&gt;Partikel&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Partikel&lt;/color&gt;
 Klicke auf einen Checkpoint Abschnitt, um seine Partikeleffekte zu bearbeiten.</target>
         </trans-unit>
-        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
+        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles" approved="yes">
           <source>Particles</source>
-          <target>Partikel</target>
+          <target state="final">Partikel</target>
         </trans-unit>
-        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
+        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles" approved="yes">
           <source>Change particle effects for section {0}</source>
-          <target>Partikeleffekte für Abschnitt {0} ändern</target>
+          <target state="final">Partikeleffekte für Abschnitt {0} ändern</target>
         </trans-unit>
-        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
+        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title" approved="yes">
           <source>Particles: Section {0}</source>
-          <target>Partikel: Abschnitt {0}</target>
+          <target state="final">Partikel: Abschnitt {0}</target>
         </trans-unit>
-        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
+        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none" approved="yes">
           <source>None</source>
-          <target>Keine</target>
+          <target state="final">Keine</target>
         </trans-unit>
-        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
+        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves" approved="yes">
           <source>Leaves</source>
-          <target>Laub</target>
+          <target state="final">Laub</target>
         </trans-unit>
-        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
+        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds" approved="yes">
           <source>Diamonds</source>
-          <target>Diamanten</target>
+          <target state="final">Diamanten</target>
         </trans-unit>
-        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
+        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow" approved="yes">
           <source>Snow</source>
-          <target>Schnee</target>
+          <target state="final">Schnee</target>
         </trans-unit>
-        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
+        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots" approved="yes">
           <source>Dots</source>
-          <target>Punkte</target>
+          <target state="final">Punkte</target>
         </trans-unit>
-        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
+        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars" approved="yes">
           <source>Stars</source>
-          <target>Sterne</target>
+          <target state="final">Sterne</target>
         </trans-unit>
-        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
+        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals" approved="yes">
           <source>Petals</source>
-          <target>Blütenblätter</target>
+          <target state="final">Blütenblätter</target>
         </trans-unit>
-        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails">
+        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails" approved="yes">
           <source>Trails</source>
-          <target>Spuren</target>
+          <target state="final">Spuren</target>
         </trans-unit>
-        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain">
+        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain" approved="yes">
           <source>Rain</source>
-          <target>Regen</target>
+          <target state="final">Regen</target>
         </trans-unit>
-        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="yes">
           <source>Violet Hyperwave
 by DDRKirby(ISQ)</source>
-          <target>Violet Hyperwave
+          <target state="final">Violet Hyperwave
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="yes">
           <source>A Single Leaf Flutters in the Wind
 by DDRKirby(ISQ)</source>
-          <target>A Single Leaf Flutters in the Wind
+          <target state="final">A Single Leaf Flutters in the Wind
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="yes">
           <source>Standing Here Alone (Expert Mix)
 by DDRKirby(ISQ)</source>
-          <target>Standing Here Alone (Expert Mix)
+          <target state="final">Standing Here Alone (Expert Mix)
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
           <source>Super Mega Zero
 by DDRKirby(ISQ)</source>
-          <target>Super Mega Zero
+          <target state="final">Super Mega Zero
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
+        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="yes">
           <source>Colors</source>
-          <target>Farben</target>
+          <target state="final">Farben</target>
         </trans-unit>
-        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls" approved="yes">
           <source>As the Cherry Blossom Falls
 by DDRKirby(ISQ)</source>
-          <target>As the Cherry Blossom Falls
+          <target state="final">As the Cherry Blossom Falls
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
+        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description" approved="yes">
           <source>Adjust the visual position of enemies relative to the beat.</source>
-          <target>Die visuelle Position der Feinde relativ zum Beat anpassen.</target>
+          <target state="final">Die visuelle Position der Feinde relativ zum Beat anpassen.</target>
         </trans-unit>
-        <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
+        <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing" approved="yes">
           <source>Enemy Spacing</source>
-          <target>Gegner Abstand</target>
+          <target state="final">Gegner Abstand</target>
         </trans-unit>
-        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description">
+        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description" approved="yes">
           <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
-          <target>Die visuelle Position der Feinde anpassen (wirkt sich nicht auf das Zeitfenster relativ zum Beat aus).</target>
+          <target state="final">Die visuelle Position der Feinde anpassen (wirkt sich nicht auf das Zeitfenster relativ zum Beat aus).</target>
         </trans-unit>
-        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure" approved="yes">
           <source>Let's Have an Adventure!
 by DDRKirby(ISQ)</source>
-          <target>Let's Have an Adventure!
+          <target state="final">Let's Have an Adventure!
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
+        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows" approved="yes">
           <source>Scaling Windows</source>
-          <target>Fensterskalierung</target>
+          <target state="final">Fensterskalierung</target>
         </trans-unit>
-        <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled">
+        <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled" approved="yes">
           <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
-          <target>(Standard) Die Zeitfenster entsprechen den erwarteten visuellen Abständen. Die Fenster sind von kürzerer Dauer bei schnellerer Musikgeschwindigkeit.</target>
+          <target state="final">(Standard) Die Zeitfenster entsprechen den erwarteten visuellen Abständen. Die Fenster sind von kürzerer Dauer bei schnellerer Musikgeschwindigkeit.</target>
         </trans-unit>
-        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled">
+        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled" approved="yes">
           <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
-          <target>Skaliert die visuelle Breite der Zeitfenster mit der eingestellten Musikgeschwindigkeit, sodass die Dauer konstant bleibt. Kann bei hohen oder niedrigen Geschwindigkeiten unerwartete Effekte verursachen!</target>
+          <target state="final">Skaliert die visuelle Breite der Zeitfenster mit der eingestellten Musikgeschwindigkeit, sodass die Dauer konstant bleibt. Kann bei hohen oder niedrigen Geschwindigkeiten unerwartete Effekte verursachen!</target>
         </trans-unit>
-        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
+        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls" approved="yes">
           <source>Crimson Halls
 by DDRKirby(ISQ)</source>
-          <target>Crimson Halls
+          <target state="final">Crimson Halls
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="yes">
           <source>Color Skins...</source>
-          <target>Farbliche Skins...</target>
+          <target state="final">Farbliche Skins...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="yes">
           <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>Die Färbung von Hindernissen ändern, um die Muster besser lesbar zu machen.</target>
+          <target state="final">Die Färbung von Hindernissen ändern, um die Muster besser lesbar zu machen.</target>
         </trans-unit>
-        <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
+        <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="yes">
           <source>Beat Grid</source>
-          <target>Taktraster</target>
+          <target state="final">Taktraster</target>
         </trans-unit>
-        <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies">
+        <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies" approved="yes">
           <source>Enemies</source>
-          <target>Gegner</target>
+          <target state="final">Gegner</target>
         </trans-unit>
-        <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings">
+        <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings" approved="yes">
           <source>Wings</source>
-          <target>Flügel</target>
+          <target state="final">Flügel</target>
         </trans-unit>
-        <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes">
+        <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes" approved="yes">
           <source>Spikes</source>
-          <target>Stacheln</target>
+          <target state="final">Stacheln</target>
         </trans-unit>
-        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description">
+        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description" approved="yes">
           <source>Change the color of floor beat markers.</source>
-          <target>Farbe der Bodentaktmarker ändern.</target>
+          <target state="final">Farbe der Bodentaktmarker ändern.</target>
         </trans-unit>
-        <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description">
+        <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description" approved="yes">
           <source>Change the color of enemies.</source>
-          <target>Die Farbe der Gegner ändern.</target>
+          <target state="final">Die Farbe der Gegner ändern.</target>
         </trans-unit>
-        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description">
+        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description" approved="yes">
           <source>Change the color of rolling spike obstacles.</source>
-          <target>Die Farbe der rollenden Stachel-Hindernisse ändern.</target>
+          <target state="final">Die Farbe der rollenden Stachel-Hindernisse ändern.</target>
         </trans-unit>
-        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
+        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description" approved="yes">
           <source>Tweak obstacle color palettes.</source>
-          <target>Farbpaletten für Hindernisse anpassen.</target>
+          <target state="final">Farbpaletten für Hindernisse anpassen.</target>
         </trans-unit>
-        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
+        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description" approved="yes">
           <source>Change the color of floating wings.</source>
-          <target>Die Farbe von schwebenden Flügeln ändern.</target>
+          <target state="final">Die Farbe von schwebenden Flügeln ändern.</target>
         </trans-unit>
-        <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits">
+        <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits" approved="yes">
           <source>Actions Only</source>
-          <target>Nur Aktionen</target>
+          <target state="final">Nur Aktionen</target>
         </trans-unit>
-        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all">
+        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all" approved="yes">
           <source>All</source>
-          <target>Alle</target>
+          <target state="final">Alle</target>
         </trans-unit>
-        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
+        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype" approved="yes">
           <source>Action Type</source>
-          <target>Aktionstyp</target>
+          <target state="final">Aktionstyp</target>
         </trans-unit>
-        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description">
+        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description" approved="yes">
           <source>Floor beat grid markers match level background colors.</source>
-          <target>Die Markierungen für die Bodentaktmarker entsprechen den Hintergrundfarben der Level.</target>
+          <target state="final">Die Markierungen für die Bodentaktmarker entsprechen den Hintergrundfarben der Level.</target>
         </trans-unit>
-        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
+        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description" approved="yes">
           <source>Beat grid markers with obstacles will be colored according beat offset.</source>
-          <target>Taktmarker mit Hindernissen werden entsprechend dem Beat-Offset eingefärbt.</target>
+          <target state="final">Taktmarker mit Hindernissen werden entsprechend dem Beat-Offset eingefärbt.</target>
         </trans-unit>
-        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description">
+        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description" approved="yes">
           <source>All beat grid markers will be colored according to beat offset.</source>
-          <target>Alle Taktmarker werden entsprechend dem Takt-Offset eingefärbt.</target>
+          <target state="final">Alle Taktmarker werden entsprechend dem Takt-Offset eingefärbt.</target>
         </trans-unit>
-        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description">
+        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description" approved="yes">
           <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
-          <target>Die Taktmarker werden je nach Aktionstyp (Sprung/Angriff/Beides) eingefärbt.</target>
+          <target state="final">Die Taktmarker werden je nach Aktionstyp (Sprung/Angriff/Beides) eingefärbt.</target>
         </trans-unit>
-        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly">
+        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly" approved="yes">
           <source>Basic Only</source>
-          <target>Nur Grundlegende</target>
+          <target state="final">Nur Grundlegende</target>
         </trans-unit>
         <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
           <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
