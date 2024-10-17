@@ -1630,9 +1630,9 @@ Bitte verbinde ein unterstütztes Gamepad-Gerät.</target>
           <source>Adjust audio volume settings.</source>
           <target state="final">Audiolautstärke anpassen.</target>
         </trans-unit>
-        <trans-unit id="255998149349126144" xml:space="preserve" resname="settings_framequeueing">
+        <trans-unit id="255998149349126144" xml:space="preserve" resname="settings_framequeueing" approved="yes">
           <source>Frame Queueing</source>
-          <target>Frames vorladen</target>
+          <target state="final">Frames vorladen</target>
         </trans-unit>
         <trans-unit id="256003847856369664" xml:space="preserve" resname="menu_settings_performance" approved="yes">
           <source>Performance Settings...</source>
@@ -2825,499 +2825,659 @@ von DDRKirby(ISQ)</target>
           <source>Basic Only</source>
           <target state="final">Nur Grundlegende</target>
         </trans-unit>
-        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="yes">
           <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
 Other enemies colored based on enemy type.</source>
-          <target>Grundlegende Gegner sind je nach Aktionstyp (Angriff vs. Angriff+Sprung) rot/grün gefärbt.
+          <target state="final">Grundlegende Gegner sind je nach Aktionstyp (Angriff vs. Angriff+Sprung) rot/grün gefärbt.
 Andere Gegner werden je nach Gegnertyp gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
+        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="yes">
           <source>Basic enemies colored based on beat offset.
 Other enemies colored based on enemy type.</source>
-          <target>Grundgegner gefärbt basierend auf dem Beat-Offset.
+          <target state="final">Grundgegner gefärbt basierend auf dem Beat-Offset.
 Andere Gegner werden je nach Feindtyp eingefärbt.</target>
         </trans-unit>
-        <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description">
+        <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description" approved="yes">
           <source>All enemies colored based on beat offset.</source>
-          <target>Alle Gegner sind nach dem Takt-Offset gefärbt.</target>
+          <target state="final">Alle Gegner sind nach dem Takt-Offset gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description">
+        <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description" approved="yes">
           <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
-          <target>Alle Gegner sind je nach Aktionstyp (Angriff vs. Angriff+Sprung) rot/grün gefärbt.</target>
+          <target state="final">Alle Gegner sind je nach Aktionstyp (Angriff vs. Angriff+Sprung) rot/grün gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset">
+        <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset" approved="yes">
           <source>Beat Offset</source>
-          <target>Beat-Versatz</target>
+          <target state="final">Beat-Versatz</target>
         </trans-unit>
-        <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description">
+        <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description" approved="yes">
           <source>All rolling spikes are colored blue.</source>
-          <target>Alle rollenden Stacheln sind blau gefärbt.</target>
+          <target state="final">Alle rollenden Stacheln sind blau gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description">
+        <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description" approved="yes">
           <source>Rolling spikes are colored according to beat offset.</source>
-          <target>Rollende Stacheln sind entsprechend dem Beat-Versatz eingefärbt.</target>
+          <target state="final">Rollende Stacheln sind entsprechend dem Beat-Versatz eingefärbt.</target>
         </trans-unit>
-        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
+        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="yes">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>Rollende Stacheln sind je nach Aktionstyp (Sprung vs. Sprung + Angriff) blau/grün gefärbt.</target>
+          <target state="final">Rollende Stacheln sind je nach Aktionstyp (Sprung vs. Sprung + Angriff) blau/grün gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
+        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="yes">
           <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-          <target>Luftsprungflügel sind blau gefärbt, Flugpfadflügel sind grün gefärbt.</target>
+          <target state="final">Luftsprungflügel sind blau gefärbt, Flugpfadflügel sind grün gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
+        <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="yes">
           <source>All wings are colored based on beat offset.</source>
-          <target>Alle Flügel sind auf der Grundlage des Takt-Offsets gefärbt.</target>
+          <target state="final">Alle Flügel sind auf der Grundlage des Takt-Offsets gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="yes">
           <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>Alle Flügel sind je nach Aktionstyp (Sprung oder Sprung + Angriff) blau/grün gefärbt.</target>
+          <target state="final">Alle Flügel sind je nach Aktionstyp (Sprung oder Sprung + Angriff) blau/grün gefärbt.</target>
         </trans-unit>
-        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
+        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen" approved="yes">
           <source>Alternate Green</source>
-          <target>Alternatives Grün</target>
+          <target state="final">Alternatives Grün</target>
         </trans-unit>
-        <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description">
+        <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description" approved="yes">
           <source>Use default color scheme for obstacles.</source>
-          <target>Standard Farbschema für Hindernisse verwenden.</target>
+          <target state="final">Standard Farbschema für Hindernisse verwenden.</target>
         </trans-unit>
-        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description">
+        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description" approved="yes">
           <source>Use alternate green color (less blue tinted).</source>
-          <target>Alternative grüne Farbe verwenden (weniger blau gefärbt).</target>
+          <target state="final">Alternative grüne Farbe verwenden (weniger blau gefärbt).</target>
         </trans-unit>
-        <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing">
+        <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing" approved="yes">
           <source>Enemy Spacing...</source>
-          <target>Gegner Abstand...</target>
+          <target state="final">Gegner Abstand...</target>
         </trans-unit>
-        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions">
+        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="yes">
           <source>Companions</source>
-          <target>Gefährten</target>
+          <target state="final">Gefährten</target>
         </trans-unit>
-        <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username">
+        <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username" approved="yes">
           <source>Username: {0}</source>
-          <target>Benutzername: {0}</target>
+          <target state="final">Benutzername: {0}</target>
         </trans-unit>
-        <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid">
+        <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid" approved="yes">
           <source>User ID: {0}</source>
-          <target>Benutzer ID: {0}</target>
+          <target state="final">Benutzer ID: {0}</target>
         </trans-unit>
-        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat">
+        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat" approved="yes">
           <source>Invalid email format. Please enter a valid email address.</source>
-          <target>Ungültiges E-Mail-Format. Bitte gebe eine gültige E-Mail-Adresse ein.</target>
+          <target state="final">Ungültiges E-Mail-Format. Bitte gebe eine gültige E-Mail-Adresse ein.</target>
         </trans-unit>
-        <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished">
+        <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished" approved="yes">
           <source>This level has never been published to mod.io.</source>
-          <target>Dieses Level wurde noch nie auf mod.io veröffentlicht.</target>
+          <target state="final">Dieses Level wurde noch nie auf mod.io veröffentlicht.</target>
         </trans-unit>
-        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching">
+        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching" approved="yes">
           <source>Retrieving level data from mod.io...</source>
-          <target>Leveldaten aus mod.io abrufen...</target>
+          <target state="final">Leveldaten aus mod.io abrufen...</target>
         </trans-unit>
-        <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound">
+        <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound" approved="yes">
           <source>This level has mod.io ID {0} but was not found on mod.io.</source>
-          <target>Dieses Level hat die mod.io ID {0}, wurde aber nicht auf mod.io gefunden.</target>
+          <target state="final">Dieses Level hat die mod.io ID {0}, wurde aber nicht auf mod.io gefunden.</target>
         </trans-unit>
-        <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription">
+        <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription" approved="yes">
           <source>Level ID: {0}
 
 Author: {1}
 
 Last updated: {2}</source>
-          <target>Level ID: {0}
+          <target state="final">Level ID: {0}
 
 Autor: {1}
 
 Zuletzt aktualisiert: {2}</target>
         </trans-unit>
-        <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu">
+        <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu" approved="yes">
           <source>Publish to mod.io...</source>
-          <target>Auf mod.io veröffentlichen...</target>
+          <target state="final">Auf mod.io veröffentlichen...</target>
         </trans-unit>
-        <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile">
+        <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile" approved="yes">
           <source>Export as .rqzip</source>
-          <target>Als .rqzip exportieren</target>
+          <target state="final">Als .rqzip exportieren</target>
         </trans-unit>
-        <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail">
+        <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail" approved="yes">
           <source>Login/Register with Email</source>
-          <target>Anmelden/Registrieren mit E-Mail</target>
+          <target state="final">Anmelden/Registrieren mit E-Mail</target>
         </trans-unit>
-        <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam">
+        <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam" approved="yes">
           <source>Login/Register with Steam</source>
-          <target>Anmelden/Registrieren mit Steam</target>
+          <target state="final">Anmelden/Registrieren mit Steam</target>
         </trans-unit>
-        <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout">
+        <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout" approved="yes">
           <source>Logout</source>
-          <target>Abmelden</target>
+          <target state="final">Abmelden</target>
         </trans-unit>
-        <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit">
+        <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit" approved="yes">
           <source>Submit</source>
-          <target>Bestätigen</target>
+          <target state="final">Bestätigen</target>
         </trans-unit>
-        <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published">
+        <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published" approved="yes">
           <source>This level has previously been published on mod.io.</source>
-          <target>Dieses Level wurde bereits auf mod.io veröffentlicht.</target>
+          <target state="final">Dieses Level wurde bereits auf mod.io veröffentlicht.</target>
         </trans-unit>
-        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description">
+        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description" approved="yes">
           <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
-          <target>Gebe deine E-Mail-Adresse ein und erhalte einen Sicherheitscode, mit dem du dich bei mod.io registrieren oder anmelden kannst.</target>
+          <target state="final">Gebe deine E-Mail-Adresse ein und erhalte einen Sicherheitscode, mit dem du dich bei mod.io registrieren oder anmelden kannst.</target>
         </trans-unit>
-        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description">
+        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description" approved="yes">
           <source>Enter the security code that was sent to {0}.</source>
-          <target>Gebe den Sicherheitscode an, der an {0} gesendet wurde.</target>
+          <target state="final">Gebe den Sicherheitscode an, der an {0} gesendet wurde.</target>
         </trans-unit>
-        <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout">
+        <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout" approved="yes">
           <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
 
 You need an account in order to publish levels to mod.io.</source>
-          <target>&lt;sprite name="fonticons_8"&gt; Du bist nicht bei mod.io angemeldet.
+          <target state="final">&lt;sprite name="fonticons_8"&gt; Du bist nicht bei mod.io angemeldet.
 
 Du brauchst einen Account um Levels auf mod.io veröffentlichen zu können.</target>
         </trans-unit>
-        <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin">
+        <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin" approved="yes">
           <source>You are logged into mod.io as:</source>
-          <target>Du bist bei mod.io angemeldet als:</target>
+          <target state="final">Du bist bei mod.io angemeldet als:</target>
         </trans-unit>
-        <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount">
+        <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount" approved="yes">
           <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
-          <target>&lt;sprite name="fonticons_8"&gt; Dieser Account ist nicht der Autor des ausgewählten Levels auf mod.io.</target>
+          <target state="final">&lt;sprite name="fonticons_8"&gt; Dieser Account ist nicht der Autor des ausgewählten Levels auf mod.io.</target>
         </trans-unit>
-        <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount">
+        <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="yes">
           <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
-          <target>&lt;sprite name="fonticons_10"&gt; Dieser Account ist der Autor des ausgewählten Levels auf mod.io.</target>
+          <target state="final">&lt;sprite name="fonticons_10"&gt; Dieser Account ist der Autor des ausgewählten Levels auf mod.io.</target>
         </trans-unit>
-        <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile">
+        <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile" approved="yes">
           <source>View profile on web</source>
-          <target>Profil im Web anzeigen</target>
+          <target state="final">Profil im Web anzeigen</target>
         </trans-unit>
-        <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio">
+        <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio" approved="yes">
           <source>View on mod.io</source>
-          <target>Auf mod.io anzeigen</target>
+          <target state="final">Auf mod.io anzeigen</target>
         </trans-unit>
-        <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio">
+        <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio" approved="yes">
           <source>Publish to mod.io</source>
-          <target>Auf mod.io veröffentlichen</target>
+          <target state="final">Auf mod.io veröffentlichen</target>
         </trans-unit>
-        <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio">
+        <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio" approved="yes">
           <source>Publish new version</source>
-          <target>Neue Version öffentlichen</target>
+          <target state="final">Neue Version öffentlichen</target>
         </trans-unit>
-        <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails">
+        <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails" approved="yes">
           <source>Account details...</source>
-          <target>Accountdaten...</target>
+          <target state="final">Accountdaten...</target>
         </trans-unit>
-        <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister">
+        <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister" approved="yes">
           <source>Login/Register...</source>
-          <target>Anmelden/Registrieren...</target>
+          <target state="final">Anmelden/Registrieren...</target>
         </trans-unit>
-        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction">
+        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction" approved="yes">
           <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
 
 Login or register an account to publish levels to mod.io.</source>
-          <target>mod.io ist ein kostenloser Dienst, um Rhythm Quest Levels zu hosten und zu teilen.
+          <target state="final">mod.io ist ein kostenloser Dienst, um Rhythm Quest Levels zu hosten und zu teilen.
 
 Melde dich an oder registriere ein Account, um Level auf mod.io zu veröffentlichen.</target>
         </trans-unit>
-        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode">
+        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="yes">
           <source>Invalid security code.
 Check the code and try again.</source>
-          <target>Ungültiger Sicherheitscode.
+          <target state="final">Ungültiger Sicherheitscode.
 Überprüfe den Code und versuche es erneut.</target>
         </trans-unit>
-        <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio">
+        <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio" approved="yes">
           <source>Publishing to mod.io</source>
-          <target>Auf mod.io veröffentlichen</target>
+          <target state="final">Auf mod.io veröffentlichen</target>
         </trans-unit>
-        <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile">
+        <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile" approved="yes">
           <source>Creating mod.io mod profile...</source>
-          <target>Erstelle mod.io mod Profil...</target>
+          <target state="final">Erstelle mod.io mod Profil...</target>
         </trans-unit>
-        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid">
+        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="yes">
           <source>Got mod.io level ID: {0}</source>
-          <target>Mod.io Level ID erhalten: {0}</target>
+          <target state="final">Mod.io Level ID erhalten: {0}</target>
         </trans-unit>
-        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
+        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="yes">
           <source>Packaging level data...</source>
-          <target>Leveldaten verpacken...</target>
+          <target state="final">Leveldaten verpacken...</target>
         </trans-unit>
-        <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel">
+        <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel" approved="yes">
           <source>Uploading level data...</source>
-          <target>Leveldaten hochladen...</target>
+          <target state="final">Leveldaten hochladen...</target>
         </trans-unit>
-        <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess">
+        <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess" approved="yes">
           <source>Successfully published level!</source>
-          <target>Level erfolgreich veröffentlicht!</target>
+          <target state="final">Level erfolgreich veröffentlicht!</target>
         </trans-unit>
-        <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess">
+        <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess" approved="yes">
           <source>Successfully updated level!</source>
-          <target>Level erfolgreich aktualisiert!</target>
+          <target state="final">Level erfolgreich aktualisiert!</target>
         </trans-unit>
-        <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction">
+        <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction" approved="yes">
           <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
-          <target>Veröffentliche dieses Level auf mod.io, um es mit anderen Rhythm Quest Spielern teilen zu können!</target>
+          <target state="final">Veröffentliche dieses Level auf mod.io, um es mit anderen Rhythm Quest Spielern teilen zu können!</target>
         </trans-unit>
-        <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid">
+        <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid" approved="yes">
           <source>Saving new level ID into .rqe file...</source>
-          <target>Speichere neue Level ID in .rqe Datei...</target>
+          <target state="final">Speichere neue Level ID in .rqe Datei...</target>
         </trans-unit>
-        <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout">
+        <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout" approved="yes">
           <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
-          <target>&lt;sprite name="fonticons_8"&gt; Nicht angemeldet</target>
+          <target state="final">&lt;sprite name="fonticons_8"&gt; Nicht angemeldet</target>
         </trans-unit>
-        <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin">
+        <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin" approved="yes">
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
-          <target>&lt;sprite name="fonticons_10"&gt; Angemeldet als {0}</target>
+          <target state="final">&lt;sprite name="fonticons_10"&gt; Angemeldet als {0}</target>
         </trans-unit>
-        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="yes">
           <source>Updating mod.iod mod profile...</source>
-          <target>mod.io Mod Profil aktualisieren...</target>
+          <target state="final">mod.io Mod Profil aktualisieren...</target>
         </trans-unit>
-        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="yes">
           <source>Level 6-1
 Spellbound Nebula</source>
-          <target>Level 6-1
-Schnelles Sternenfeld</target>
+          <target state="final">Level 6-1
+Verzauberter Nebel</target>
         </trans-unit>
-        <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
+        <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines" approved="yes">
           <source>Coin Outlines</source>
-          <target>Münzumrisse</target>
+          <target state="final">Münzumrisse</target>
         </trans-unit>
-        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled">
+        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled" approved="yes">
           <source>(Default) Already-collected coins do not show on respawn.</source>
-          <target>(Standard) Bereits gesammelte Münzen werden beim Respawn nicht angezeigt.</target>
+          <target state="final">(Standard) Bereits gesammelte Münzen werden beim Respawn nicht angezeigt.</target>
         </trans-unit>
-        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled">
+        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled" approved="yes">
           <source>Shows faint coin outlines on respawn for already-collected coins.</source>
-          <target>Zeigt beim Respawn schwache Münzumrisse für bereits gesammelte Münzen an.</target>
+          <target state="final">Zeigt beim Respawn schwache Münzumrisse für bereits gesammelte Münzen an.</target>
         </trans-unit>
-        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
+        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid" approved="yes">
           <source>Steam ID: {0}</source>
-          <target>Steam ID: {0}</target>
+          <target state="final">Steam ID: {0}</target>
         </trans-unit>
-        <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description">
+        <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description" approved="yes">
           <source>Register/login to mod.io using the following active Steam account?</source>
-          <target>Registrierung/Anmeldung bei mod.io mit dem folgenden aktiven Steam-Account?</target>
+          <target state="final">Registrierung/Anmeldung bei mod.io mit dem folgenden aktiven Steam-Account?</target>
         </trans-unit>
-        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm">
+        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm" approved="yes">
           <source>Confirm</source>
-          <target>Bestätigen</target>
+          <target state="final">Bestätigen</target>
         </trans-unit>
-        <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication">
+        <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication" approved="yes">
           <source>Error passing Steam authentication to mod.io.</source>
-          <target>Fehler beim Übertragen der Steam Authentifizierung an mod.io.</target>
+          <target state="final">Fehler beim Übertragen der Steam Authentifizierung an mod.io.</target>
         </trans-unit>
-        <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree">
+        <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree" approved="yes">
           <source>I Agree</source>
-          <target>Ich stimme zu</target>
+          <target state="final">Ich stimme zu</target>
         </trans-unit>
-        <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio">
+        <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio" approved="yes">
           <source>Visit mod.io page</source>
-          <target>mod.io Seite besuchen</target>
+          <target state="final">mod.io Seite besuchen</target>
         </trans-unit>
-        <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade">
+        <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="yes">
           <source>Fade out</source>
-          <target>Abblendung</target>
+          <target state="final">Abblendung</target>
         </trans-unit>
-        <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings">
+        <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings" approved="yes">
           <source>Music Export Settings</source>
-          <target>Musik Export Einstellungen</target>
+          <target state="final">Musik Export Einstellungen</target>
         </trans-unit>
-        <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem">
+        <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="yes">
           <source>Fix</source>
-          <target>Beheben</target>
+          <target state="final">Beheben</target>
         </trans-unit>
-        <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems">
+        <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems" approved="yes">
           <source>No problems found!</source>
-          <target>Keine Probleme gefunden!</target>
+          <target state="final">Keine Probleme gefunden!</target>
         </trans-unit>
-        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
+        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="yes">
           <source>Song name/artist and chart author needs to be filled out</source>
-          <target>Songname/Künstler und Chartautor müssen ausgefüllt werden</target>
+          <target state="final">Songname/Künstler und Chartautor müssen ausgefüllt werden</target>
         </trans-unit>
-        <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
+        <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription" approved="yes">
           <source>Level is missing a Description</source>
-          <target>Level fehlt eine Beschreibung</target>
+          <target state="final">Level fehlt eine Beschreibung</target>
         </trans-unit>
-        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
+        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic" approved="yes">
           <source>Level has no music audio</source>
-          <target>Level hat keinen Musikton</target>
+          <target state="final">Level hat keinen Musikton</target>
         </trans-unit>
-        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
+        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement" approved="yes">
           <source>Music export options need to be set</source>
-          <target>Die Musikexportoptionen müssen eingestellt sein</target>
+          <target state="final">Die Musikexportoptionen müssen eingestellt sein</target>
         </trans-unit>
-        <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
+        <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded" approved="yes">
           <source>Music audio will not be included in export</source>
-          <target>Der Musikton wird beim Export nicht berücksichtigt</target>
+          <target state="final">Der Musikton wird beim Export nicht berücksichtigt</target>
         </trans-unit>
-        <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder">
+        <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder" approved="yes">
           <source>(name of the music track)</source>
-          <target>(Name des Musiktitels)</target>
+          <target state="final">(Name des Musiktitels)</target>
         </trans-unit>
-        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder">
+        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="yes">
           <source>(credit the song's artist)</source>
-          <target>(Anerkennung des Song-Künstlers)</target>
+          <target state="final">(Anerkennung des Song-Künstlers)</target>
         </trans-unit>
-        <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder">
+        <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="yes">
           <source>(your name)</source>
-          <target>(Dein Name)</target>
+          <target state="final">(Dein Name)</target>
         </trans-unit>
-        <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder">
+        <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder" approved="yes">
           <source>(enter notes or details about your level here)</source>
-          <target>(Gib hier Notizen oder Details über dein Level ein)</target>
+          <target state="final">(Gib hier Notizen oder Details über dein Level ein)</target>
         </trans-unit>
-        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist">
+        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="yes">
           <source>Export Checklist</source>
-          <target>Export Checkliste</target>
+          <target state="final">Export Checkliste</target>
         </trans-unit>
-        <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
+        <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage" approved="yes">
           <source>No banner image provided, default will be used</source>
-          <target>Kein Bannerbild angegeben, das Standardbild wird verwendet</target>
+          <target state="final">Kein Bannerbild angegeben, das Standardbild wird verwendet</target>
         </trans-unit>
-        <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
+        <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur" approved="yes">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
-          <target>Wendet einen Unschärfeeffekt auf Hintergründe an, sodass diese weniger scharf sind.</target>
+          <target state="final">Wendet einen Unschärfeeffekt auf Hintergründe an, sodass diese weniger scharf sind.</target>
         </trans-unit>
-        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
+        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="yes">
           <source>Mods and Assists</source>
-          <target>Mods und Assistenten</target>
+          <target state="final">Mods und Assistenten</target>
         </trans-unit>
-        <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
+        <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists" approved="yes">
           <source>Assists...</source>
-          <target>Assistenten...</target>
+          <target state="final">Assistenten...</target>
         </trans-unit>
-        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
+        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description" approved="yes">
           <source>Assist features that can help with difficult gameplay sections.</source>
-          <target>Assistenzfunktionen, die bei schwierigen Spielabschnitten helfen können.</target>
+          <target state="final">Assistenzfunktionen, die bei schwierigen Spielabschnitten helfen können.</target>
         </trans-unit>
-        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
+        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview" approved="yes">
           <source>Track Preview</source>
-          <target>Track Vorschau</target>
+          <target state="final">Track Vorschau</target>
         </trans-unit>
-        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
+        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode" approved="yes">
           <source>Practice Mode</source>
-          <target>Übungsmodus</target>
+          <target state="final">Übungsmodus</target>
         </trans-unit>
-        <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats">
+        <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats" approved="yes">
           <source>Temporary Cheats...</source>
-          <target>Temporäre Cheats...</target>
+          <target state="final">Temporäre Cheats...</target>
         </trans-unit>
-        <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description">
+        <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="yes">
           <source>Repeatedly practice the current section with various assists.</source>
-          <target>Übe den aktuellen Abschnitt mehrmals mit verschiedenen Hilfen.</target>
+          <target state="final">Übe den aktuellen Abschnitt mehrmals mit verschiedenen Hilfen.</target>
         </trans-unit>
-        <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description">
+        <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="yes">
           <source>Allows you to scroll left and right to see the rest of the track.</source>
-          <target>Ermöglicht es einem, nach links und rechts zu scrollen, um den Rest des Tracks zu sehen.</target>
+          <target state="final">Ermöglicht es einem, nach links und rechts zu scrollen, um den Rest des Tracks zu sehen.</target>
         </trans-unit>
-        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description">
+        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="yes">
           <source>Options for making the current section easier.</source>
-          <target>Optionen um den aktuellen Abschnitt zu erleichtern.</target>
+          <target state="final">Optionen um den aktuellen Abschnitt zu erleichtern.</target>
         </trans-unit>
-        <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats">
+        <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats" approved="yes">
           <source>(These settings will reset after the current section is complete)</source>
-          <target>(Diese Einstellungen werden zurückgesetzt, wenn der aktuelle Abschnitt abgeschlossen ist)</target>
+          <target state="final">(Diese Einstellungen werden zurückgesetzt, wenn der aktuelle Abschnitt abgeschlossen ist)</target>
         </trans-unit>
-        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt">
+        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt" approved="yes">
           <source>It looks like you're having trouble with this section.
 Would you like to enable game assist features?</source>
-          <target>Es sieht so aus, als hättest du Probleme mit diesem Abschnitt.
+          <target state="final">Es sieht so aus, als hättest du Probleme mit diesem Abschnitt.
 Möchtest du die Spiel-Assistenzfunktionen aktivieren?</target>
         </trans-unit>
-        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="yes">
           <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target>Wenn Sie zu einem späteren Zeitpunkt Assists aktivieren möchten, kannst du dies im Menü „Mods und Assists“ tun.</target>
+          <target state="final">Wenn du zu einem späteren Zeitpunkt Assistenten aktivieren möchtest, kannst du dies im Menü „Mods und Assistenten“ tun.</target>
         </trans-unit>
-        <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
+        <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="yes">
           <source>Practice Mode Settings</source>
-          <target>Übungsmodus Einstellungen</target>
+          <target state="final">Übungsmodus-Einstellungen</target>
         </trans-unit>
-        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
+        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="yes">
           <source>Track Freezing</source>
-          <target>Track Freezing</target>
+          <target state="final">Track Freezing</target>
         </trans-unit>
-        <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride">
+        <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride" approved="yes">
           <source>(Unchanged)</source>
-          <target>(Unverändert)</target>
+          <target state="final">(Unverändert)</target>
         </trans-unit>
-        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="yes">
           <source>Piano Sonata No. 16 in C Major
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
-          <target>Klaviersonate Nr. 16 in C-Dur
+          <target state="final">Klaviersonate Nr. 16 in C-Dur
 I. Allegro
 von Wolfgang Amadeus Mozart</target>
         </trans-unit>
-        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="yes">
           <source>Eine kleine Nachtmusik
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
-          <target>Eine kleine Nachtmusik
+          <target state="final">Eine kleine Nachtmusik
 I. Allegro
 von Wolfgang Amadeus Mozart</target>
         </trans-unit>
-        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="yes">
           <source>Song of the Sea (Expert Mix)
 by DDRKirby(ISQ)</source>
-          <target>Song of the Sea (Expert Mix)
+          <target state="final">Song of the Sea (Expert Mix)
 von DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
+        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="yes">
           <source>Track freezing is disabled.</source>
-          <target>Track Freezing ist deaktiviert.</target>
+          <target state="final">Track Freezing ist deaktiviert.</target>
         </trans-unit>
-        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled">
+        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled" approved="yes">
           <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
-          <target>Track Freezing ist aktiviert. Level Scrollen wird automatisch angehalten, um auf die richtigen Eingaben zu warten.</target>
+          <target state="final">Track Freezing ist aktiviert. Level Scrollen wird automatisch angehalten, um auf die richtigen Eingaben zu warten.</target>
         </trans-unit>
-        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
+        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard" approved="yes">
           <source>Press &lt;- and -&gt; to scroll.
 Press Enter to return.</source>
-          <target>Drücke &lt;- und -&gt; zum Scrollen.
+          <target state="final">Drücke &lt;- und -&gt; zum Scrollen.
 Drücke Enter um zurückzukehren.</target>
         </trans-unit>
-        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
+        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse" approved="yes">
           <source>Click and drag to scroll left/right.</source>
-          <target>Klicke und ziehe, um nach links/rechts zu scrollen.</target>
+          <target state="final">Klicke und ziehe, um nach links/rechts zu scrollen.</target>
         </trans-unit>
-        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
+        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="yes">
           <source>Tap and drag to scroll left/right.</source>
-          <target>Tippe und ziehe, um nach links/rechts zu scrollen.</target>
+          <target state="final">Tippe und ziehe, um nach links/rechts zu scrollen.</target>
         </trans-unit>
-        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
+        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="yes">
           <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
 Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
-          <target>Nutze &lt;sprite name="controller_icons_45"&gt; zum Scrollen.
+          <target state="final">Nutze &lt;sprite name="controller_icons_45"&gt; zum Scrollen.
 Drücke &lt;sprite name="controller_icons_60"&gt; um zurückzukehren.</target>
         </trans-unit>
-        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
+        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox" approved="yes">
           <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
 Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
-          <target>Nutze &lt;sprite name="controller_icons_79"&gt; zum Scrollen.
+          <target state="final">Nutze &lt;sprite name="controller_icons_79"&gt; zum Scrollen.
 Drücke &lt;sprite name="controller_icons_100"&gt; um zurückzukehren.</target>
         </trans-unit>
-        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation">
+        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation" approved="yes">
           <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
 Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
-          <target>Nutze &lt;sprite name="controller_icons_16"&gt; zum Scrollen.
+          <target state="final">Nutze &lt;sprite name="controller_icons_16"&gt; zum Scrollen.
 Drücke &lt;sprite name="controller_icons_37"&gt; um zurückzukehren.</target>
         </trans-unit>
-        <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description">
+        <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="yes">
           <source>Adjust in-game controls.</source>
-          <target>Steuerung im Spiel anpassen.</target>
+          <target state="final">Steuerung im Spiel anpassen.</target>
         </trans-unit>
-        <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties">
+        <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties" approved="yes">
           <source>Properties</source>
-          <target>Eigenschaften</target>
+          <target state="final">Eigenschaften</target>
         </trans-unit>
-        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
+        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level" approved="yes">
           <source>Level...</source>
-          <target>Level...</target>
+          <target state="final">Level...</target>
         </trans-unit>
-        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
+        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame" approved="yes">
           <source>Controls...</source>
-          <target>Steuerung...</target>
+          <target state="final">Steuerung...</target>
         </trans-unit>
       </group>
+    </body>
+  </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="de" datatype="plaintext">
+    <body>
+      <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch" approved="yes">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
+        <target state="final">Übungsmodus
+Drücke &lt;sprite name="controller_icons_65"&gt; für Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine" approved="yes">
+        <source>Fine</source>
+        <target state="final">Fein</target>
+      </trans-unit>
+      <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="yes">
+        <source>Helpers</source>
+        <target state="final">Helfer</target>
+      </trans-unit>
+      <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled" approved="yes">
+        <source>Don't override settings for visual/audio aids.</source>
+        <target state="final">Einstellungen für visuelle/akustische Hilfsmittel nicht überschrieben.</target>
+      </trans-unit>
+      <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled" approved="yes">
+        <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+        <target state="final">Erzwingt die Aktivierung von visuellen/akustischen Hilfsmitteln wie Metronom und Eingabezeitleiste.</target>
+      </trans-unit>
+      <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode" approved="yes">
+        <source>Exit Practice</source>
+        <target state="final">Übungsmodus verlassen</target>
+      </trans-unit>
+      <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard" approved="yes">
+        <source>Practice Mode
+Press Esc for settings</source>
+        <target state="final">Übungsmodus
+Drucke ESC für Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse" approved="yes">
+        <source>Practice Mode</source>
+        <target state="final">Übungsmodus</target>
+      </trans-unit>
+      <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch" approved="yes">
+        <source>Practice Mode</source>
+        <target state="final">Übungsmodus</target>
+      </trans-unit>
+      <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="yes">
+        <source>Grid Snap</source>
+        <target state="final">Raster Snap</target>
+      </trans-unit>
+      <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="yes">
+        <source>Level 6-3
+Quantum Orbit</source>
+        <target state="final">Level 6-3
+Quanten Umlaufbahn</target>
+      </trans-unit>
+      <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="yes">
+        <source>Additional Settings...</source>
+        <target state="final">Zusätzliche Einstellungen...</target>
+      </trans-unit>
+      <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="yes">
+        <source>Coin Sfx</source>
+        <target state="final">Münz-SFX</target>
+      </trans-unit>
+      <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled" approved="yes">
+        <source>Coin collection is silent.</source>
+        <target state="final">Münz-Aufsammlung ist geräuschlos.</target>
+      </trans-unit>
+      <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch" approved="yes">
+        <source>Rumble...</source>
+        <target state="final">Rumble...</target>
+      </trans-unit>
+      <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch" approved="yes">
+        <source>Configure Controls...</source>
+        <target state="final">Steuerung konfigurieren...</target>
+      </trans-unit>
+      <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description" approved="yes">
+        <source>Configure controller bindings.</source>
+        <target state="final">Controller-Binds konfigurieren.</target>
+      </trans-unit>
+      <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch" approved="yes">
+        <source>Controller Config</source>
+        <target state="final">Controller Konfiguration</target>
+      </trans-unit>
+      <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default" approved="yes">
+        <source>Use default controller bindings.</source>
+        <target state="final">Standard Controller-Binds verwenden.</target>
+      </trans-unit>
+      <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom" approved="yes">
+        <source>Use custom controller bindings.</source>
+        <target state="final">Benutzerdefinierte Controller-Binds verwenden.</target>
+      </trans-unit>
+      <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="yes">
+        <source>Flower Fang (Expert Mix)
+by DDRKirby(ISQ)</source>
+        <target state="final">Flower Fang (Expert Mix)
+von DDRKirby(ISQ)</target>
+      </trans-unit>
+      <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="yes">
+        <source>Midnight Moon
+by DDRKirby(ISQ)</source>
+        <target state="final">Midnight Moon
+von DDRKirby(ISQ)</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="yes">
+        <source>Return to the main menu.</source>
+        <target state="final">Zurück zum Hauptmenü.</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="yes">
+        <source>Für Elise
+by Ludwig van Beethoven</source>
+        <target state="final">Für Elise
+von Ludwig van Beethoven</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="yes">
+        <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        <target state="final">Flight of the Bumblebee
+von Nikolai Rimsky-Korsakov</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="yes">
+        <source>Level 6-4
+Cosmic Conflux</source>
+        <target state="final">Level 6-4
+Kosmischer Rückfluss</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="yes">
+        <source>Skip Tutorial</source>
+        <target state="final">Tutorial überspringen</target>
+      </trans-unit>
+      <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings" approved="yes">
+        <source>Practice Settings</source>
+        <target state="final">Übungsmodus-Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox" approved="yes">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
+        <target state="final">Übungsmodus
+Drücke &lt;sprite name="controller_icons_97"&gt; für Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled" approved="yes">
+        <source>(Default) Plays a chime whenever a coin is collected.</source>
+        <target state="final">(Standard) Spielt einen Sound, wenn eine Münze eingesammelt wird.</target>
+      </trans-unit>
+      <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="yes">
+        <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11
+by Wolfgang Amadeus Mozart</source>
+        <target state="final">Turkish March (Rondo alla Turca)
+aus Piano Sonata No. 11
+von Wolfgang Amadeus Mozart</target>
+      </trans-unit>
+      <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation" approved="yes">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+        <target state="final">Übungsmodus
+Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description" approved="yes">
+        <source>Edit additional audio settings.</source>
+        <target state="final">Zusätzliche Audio-Einstellungen bearbeiten.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
