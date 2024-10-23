@@ -3067,8 +3067,8 @@ Check the code and try again.</target>
           <target>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</target>
         </trans-unit>
         <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
-          <source>Updating mod.iod mod profile...</source>
-          <target>Updating mod.iod mod profile...</target>
+          <source>Updating mod.io mod profile...</source>
+          <target>Updating mod.io mod profile...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Level 6-1
