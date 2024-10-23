@@ -3067,9 +3067,9 @@ Check the code and try again.</source>
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
           <target state="final">&lt;sprite name="fonticons_10"&gt; Angemeldet als {0}</target>
         </trans-unit>
-        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="yes">
           <source>Updating mod.io mod profile...</source>
-          <target state="needs-translation">mod.io Mod Profil aktualisieren...</target>
+          <target state="final">mod.io Mod Profil aktualisieren...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="yes">
           <source>Level 6-1
