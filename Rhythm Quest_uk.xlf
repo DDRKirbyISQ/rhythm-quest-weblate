@@ -3447,4 +3447,34 @@ by DDRKirby(ISQ)</source>
       </group>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="uk" datatype="plaintext">
+    <body>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
+        <source>Für Elise
+by Ludwig van Beethoven</source>
+        <target state="translated">Für Elise
+від Ludwig van Beethoven</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
+        <source>Level 6-4
+Cosmic Conflux</source>
+        <target state="translated">Рівень 6-4
+Космічне Злиття</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">Пропустити Туторіал</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Повернутися до головного меню.</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
+        <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        <target state="translated">Flight of the Bumblebee
+від Nikolai Rimsky-Korsakov</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
