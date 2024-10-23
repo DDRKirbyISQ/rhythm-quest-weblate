@@ -3060,9 +3060,9 @@ Verifique o código e tente novamente.</target>
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
           <target>&lt;sprite name="fonticons_10"&gt; Conectado como {0}</target>
         </trans-unit>
-        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
-          <source>Updating mod.iod mod profile...</source>
-          <target>Atualizando perfil de mod do mod.io...</target>
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
+          <source>Updating mod.io mod profile...</source>
+          <target state="needs-translation">Atualizando perfil de mod do mod.io...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Level 6-1
