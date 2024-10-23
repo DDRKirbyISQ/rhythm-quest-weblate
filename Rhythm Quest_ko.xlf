@@ -742,10 +742,11 @@ by DDRKirby(ISQ)</target>
           <source>Play</source>
           <target>플레이</target>
         </trans-unit>
-        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
           <source>What Lies Beneath
 by DDRKirby(ISQ)</source>
-          <target>What Lies Beneath</target>
+          <target state="translated">What Lies Beneath
+by DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>Level 1-5
@@ -921,9 +922,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Join the Discord</source>
           <target>Discord 참가</target>
         </trans-unit>
-        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="no">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target>Rhythm Quest 정식 버전은 6개의 월드에 걸쳐 30개의 레벨에 열어지는 보너스 스테이지 그리고 더 많은 게임 플레이 메커니즘이 들어갈 예정입니다!</target>
+          <target state="translated">Rhythm Quest 정식 버전은 6개의 월드에 걸쳐 30개의 레벨, 잠금 해제 가능한 보너스 스테이지, 그리고 더 많은 게임 플레이 메커니즘이 들어갈 예정입니다!</target>
         </trans-unit>
         <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
           <source>Next</source>
@@ -1559,9 +1560,9 @@ Speedy Starfield</target>
           <source>Use default keyboard bindings.</source>
           <target>기본 키보드 조작법 사용하기.</target>
         </trans-unit>
-        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom">
+        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom" approved="no">
           <source>Use custom keyboard bindings.</source>
-          <target>키보드 조작법 사용자 지정하기.</target>
+          <target state="translated">커스텀 키보드 조작법을 사용합니다.</target>
         </trans-unit>
         <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default">
           <source>Use default gamepad bindings.</source>
@@ -1851,17 +1852,17 @@ Click to insert purple 3-hit ghost enemies.</source>
           <source>Insert basic enemy at beat {0}</source>
           <target>기본 적 배치</target>
         </trans-unit>
-        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy">
+        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy" approved="no">
           <source>Insert double hit enemy at beat {0}</source>
-          <target>2회 타격 적 배치</target>
+          <target state="translated">{0} 박자에 2회 타격 적 배치</target>
         </trans-unit>
-        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy">
+        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy" approved="no">
           <source>Insert ghost enemy at beat {0}</source>
-          <target>다회 타격 적 배치</target>
+          <target state="translated">{0} 박자에 유령 적 배치</target>
         </trans-unit>
-        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint">
+        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint" approved="no">
           <source>Insert checkpoint at beat {0}</source>
-          <target>체크포인트 배치</target>
+          <target state="translated">{0} 박자에 체크포인트 배치</target>
         </trans-unit>
         <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description">
           <source>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
@@ -1869,9 +1870,9 @@ Click to insert checkpoints.</source>
           <target>&lt;color=#ffff00&gt;체크포인트&lt;/color&gt;
 클릭해 체크포인트를 배치합니다. 기존 체크포인트를 클릭해 속성을 수정합니다.</target>
         </trans-unit>
-        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump">
+        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump" approved="no">
           <source>Insert jump at beat {0}</source>
-          <target>점프 배치</target>
+          <target state="translated">{0} 박자에 점프 배치</target>
         </trans-unit>
         <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath">
           <source>Insert flight path from beat {0} to {1}</source>
@@ -2061,9 +2062,9 @@ Click on a checkpoint section to edit its scrolling speed.</source>
           <source>Load Music</source>
           <target>음악 불러오기</target>
         </trans-unit>
-        <trans-unit id="286257077416669184" xml:space="preserve" resname="editor_text_musicnotloaded">
+        <trans-unit id="286257077416669184" xml:space="preserve" resname="editor_text_musicnotloaded" approved="no">
           <source>Music not loaded!</source>
-          <target>음악 불러오지 않음!</target>
+          <target state="translated">음악 불러오지 않음!</target>
         </trans-unit>
         <trans-unit id="286257733451952128" xml:space="preserve" resname="editor_button_replacemusic">
           <source>Replace</source>
@@ -2591,13 +2592,13 @@ Green Grasslands (+ grass)</target>
           <source>Sfx Pitch...</source>
           <target>효과음 피치...</target>
         </trans-unit>
-        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription" approved="no">
           <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
-          <target>노래의 주가 되는 피치/음 을 선택하여주세요.
-노트: 동전 효과음은 완전5도에서 재생됩니다
-(에시: C의 음 - &gt; 코인 노트는 C 와 G가 됩니다)</target>
+          <target state="translated">노래의 주가 되는 피치/조성을 선택해주세요.
+주의: 동전 효과음은 완전5도로 재생됩니다
+(예: C의 조성 - &gt; 코인 노트는 C 와 G가 됩니다)</target>
         </trans-unit>
         <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
           <source>Palette: Section {0}</source>
@@ -2633,13 +2634,13 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Particles</source>
           <target>입자</target>
         </trans-unit>
-        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
+        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles" approved="no">
           <source>Change particle effects for section {0}</source>
-          <target>{0} 구획의 파티클 효과 수정</target>
+          <target state="translated">{0} 구가의 파티클 효과 수정</target>
         </trans-unit>
-        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
+        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title" approved="no">
           <source>Particles: Section {0}</source>
-          <target>파티클: 구획 {0}</target>
+          <target state="translated">파티클: {0}구간</target>
         </trans-unit>
         <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
           <source>None</source>
@@ -2855,9 +2856,9 @@ by DDRKirby(ISQ)</target>
           <source>This level has never been published to mod.io.</source>
           <target>이 레벨은 mod.io에 게시된 적이 없습니다.</target>
         </trans-unit>
-        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching">
+        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching" approved="no">
           <source>Retrieving level data from mod.io...</source>
-          <target>mod.io에서 레벨 정보 가져오는 중...</target>
+          <target state="translated">mod.io에서 레벨 정보를 가져오는 중...</target>
         </trans-unit>
         <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu">
           <source>Publish to mod.io...</source>
@@ -2923,9 +2924,9 @@ by DDRKirby(ISQ)</target>
           <source>Login/Register...</source>
           <target>로그인/회원가입...</target>
         </trans-unit>
-        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
+        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="no">
           <source>Packaging level data...</source>
-          <target>레벨 정보를 꾸러미에 싸는 중...</target>
+          <target state="needs-translation">레벨 정보를 꾸러미에 싸는 중...</target>
         </trans-unit>
         <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel">
           <source>Uploading level data...</source>
@@ -3029,21 +3030,21 @@ Spellbound Nebula</target>
           <source>Practice Mode Settings</source>
           <target>연습 모드 설정</target>
         </trans-unit>
-        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="no">
           <source>Piano Sonata No. 16 in C Major
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
-          <target>Piano Sonata No. 16 in C Major
-I. Allegro
-by Wolfgang Amadeus Mozart</target>
+          <target state="translated">피아노 소나타 16번
+1악장 Allegro
+by 볼프강 아마데우스 모차르트</target>
         </trans-unit>
-        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
           <source>Eine kleine Nachtmusik
 I. Allegro
 by Wolfgang Amadeus Mozart</source>
-          <target>Eine kleine Nachtmusik
-I. Allegro
-by Wolfgang Amadeus Mozart</target>
+          <target state="translated">아이네 클라이네 나흐트무지크
+1악장 Allegro
+by 볼프강 아마데우스 모차르트</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
           <source>Song of the Sea (Expert Mix)
@@ -3137,13 +3138,13 @@ by DDRKirby(ISQ)</source>
           <target>Flower Fang (Expert Mix)
 by DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11
 by Wolfgang Amadeus Mozart</source>
-          <target>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11
-by Wolfgang Amadeus Mozart</target>
+          <target state="translated">터키 행진곡
+from 피아노 소나타 11번
+by 볼프강 아마데우스 모차르트</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
@@ -3306,7 +3307,7 @@ Other enemies colored based on enemy type.</source>
       </trans-unit>
       <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="no">
         <source>Adjust in-game controls.</source>
-        <target state="translated">게임 내의 조작을 조정합니다.</target>
+        <target state="translated">게임 내의 조작 방법을 조정합니다.</target>
       </trans-unit>
       <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch" approved="no">
         <source>Controller Config</source>
@@ -3330,7 +3331,7 @@ Other enemies colored based on enemy type.</source>
 You need an account in order to publish levels to mod.io.</source>
         <target state="translated">&lt;sprite name="fonticons_8"&gt; mod.io에 로그인이 되어 있지 않습니다.
 
-mod.io로 레벨을 게시하기 위해서는 계정이 필요합니다.</target>
+mod.io에 레벨을 게시하기 위해서는 계정이 필요합니다.</target>
       </trans-unit>
       <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="no">
         <source>Options for making the current section easier.</source>
@@ -3351,6 +3352,130 @@ Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
 Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
         <target state="translated">&lt;sprite name="controller_icons_16"&gt;로 스크롤합니다.
 &lt;sprite name="controller_icons_37"&gt;을 눌러 돌아갑니다 .</target>
+      </trans-unit>
+      <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="no">
+        <source>Companions</source>
+        <target state="translated">동료</target>
+      </trans-unit>
+      <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="no">
+        <source>Got mod.io level ID: {0}</source>
+        <target state="translated">mod.io 레벨 ID 찾음: {0}</target>
+      </trans-unit>
+      <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction" approved="no">
+        <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
+
+Login or register an account to publish levels to mod.io.</source>
+        <target state="translated">mod.io는 Rhythm Quest 레벨을 주최하고 공유하기 위한 무료 서비스입니다.
+
+mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하세요.</target>
+      </trans-unit>
+      <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication" approved="no">
+        <source>Error passing Steam authentication to mod.io.</source>
+        <target state="translated">Steam 인증을 mod.io로 전송하는 도중 오류가 발생하였습니다.</target>
+      </trans-unit>
+      <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction" approved="no">
+        <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
+        <target state="translated">이 레벨을 mod.io에 게시해 다른 Rhythm Quest 플레이어들과 공유하세요!</target>
+      </trans-unit>
+      <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid" approved="no">
+        <source>Saving new level ID into .rqe file...</source>
+        <target state="translated">새 레벨 ID를 .rqe 파일에 저장하는 중...</target>
+      </trans-unit>
+      <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description" approved="no">
+        <source>Register/login to mod.io using the following active Steam account?</source>
+        <target state="needs-translation">다음 Steam 계정으로 mod.io에 등록/로그인하시겠습니까?</target>
+      </trans-unit>
+      <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="no">
+        <source>Fade out</source>
+        <target state="translated">페이드 아웃</target>
+      </trans-unit>
+      <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile" approved="no">
+        <source>Creating mod.io mod profile...</source>
+        <target state="needs-translation">mod.io 프로필 생성 중...</target>
+      </trans-unit>
+      <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
+        <source>Updating mod.iod mod profile...</source>
+        <target state="needs-translation">mod.io 프로필 갱신 중...</target>
+      </trans-unit>
+      <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="no">
+        <source>Tap and drag to scroll left/right.</source>
+        <target state="translated">탭하고 드래그해 왼쪽/오른쪽으로 스크롤합니다.</target>
+      </trans-unit>
+      <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="no">
+        <source>Fix</source>
+        <target state="needs-translation">고치기</target>
+      </trans-unit>
+      <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="no">
+        <source>(credit the song's artist)</source>
+        <target state="needs-translation">(음악의 작곡가)</target>
+      </trans-unit>
+      <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="no">
+        <source>(your name)</source>
+        <target state="needs-translation">(플레이어의 이름)</target>
+      </trans-unit>
+      <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="no">
+        <source>Export Checklist</source>
+        <target state="translated">내보내기 체크리스트</target>
+      </trans-unit>
+      <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride" approved="no">
+        <source>(Unchanged)</source>
+        <target state="translated">(변경 사항 없음)</target>
+      </trans-unit>
+      <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur" approved="no">
+        <source>Applies a blur effect to backdrops so they are less focused.</source>
+        <target state="translated">초점이 흐려지도록 배경에 흐림 효과를 적용합니다.</target>
+      </trans-unit>
+      <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="no">
+        <source>Track Freezing</source>
+        <target state="translated">채보 동결</target>
+      </trans-unit>
+      <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="no">
+        <source>Track freezing is disabled.</source>
+        <target state="translated">채보 동결이 비활성화되어 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled" approved="no">
+        <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
+        <target state="translated">채보 동결이 활성화되어 있습니다. 올바른 입력을 기다리기 위해 자동으로 레벨 스크롤링을 멈춥니다.</target>
+      </trans-unit>
+      <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled" approved="no">
+        <source>Don't override settings for visual/audio aids.</source>
+        <target state="translated">시각/오디오 보조 기능에 대한 설정을 덮어씌우지 않습니다.</target>
+      </trans-unit>
+      <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled" approved="no">
+        <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+        <target state="translated">메트로놈과 입력 타임라인과 같은 시각/오디오 보조 기능들을 강제로 활성화합니다.</target>
+      </trans-unit>
+      <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch" approved="no">
+        <source>Rumble...</source>
+        <target state="translated">진동...</target>
+      </trans-unit>
+      <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch" approved="no">
+        <source>Configure Controls...</source>
+        <target state="translated">조작 설정...</target>
+      </trans-unit>
+      <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled" approved="no">
+        <source>(Default) Plays a chime whenever a coin is collected.</source>
+        <target state="translated">(기본) 동전을 수집할 때마다 효과음을 재생합니다.</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
+        <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        <target state="translated">왕벌의 비행
+by 니콜라이 림스키코르사코프</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
+        <source>Für Elise
+by Ludwig van Beethoven</source>
+        <target state="translated">엘리제를 위하여
+by 루트비히 판 베토벤</target>
+      </trans-unit>
+      <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine" approved="no">
+        <source>Fine</source>
+        <target state="needs-translation">정교하게</target>
+      </trans-unit>
+      <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="no">
+        <source>Helpers</source>
+        <target state="needs-translation">도움</target>
       </trans-unit>
     </body>
   </file>
