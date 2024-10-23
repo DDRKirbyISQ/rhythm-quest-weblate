@@ -3170,6 +3170,188 @@ Other enemies colored based on enemy type.</source>
         <target state="translated">기본 적을 박자 오프셋에 맞춰 칠합니다.
 다른적들은 적 종류에 맞춰 칠해집니다.</target>
       </trans-unit>
+      <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description" approved="no">
+        <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
+        <target state="translated">모든 적이 액션 종류 (공격 vs 공격+점프)에 맞춰 빨간색/초록색으로 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset" approved="no">
+        <source>Beat Offset</source>
+        <target state="translated">박자 오프셋</target>
+      </trans-unit>
+      <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound" approved="no">
+        <source>This level has mod.io ID {0} but was not found on mod.io.</source>
+        <target state="translated">이 레벨은 mod.io ID {0}을 가지고 있지만 mod.io에서 찾을 수 없었습니다.</target>
+      </trans-unit>
+      <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription" approved="no">
+        <source>Level ID: {0}
+
+Author: {1}
+
+Last updated: {2}</source>
+        <target state="translated">레벨 ID: {0}
+
+제작자: {1}
+
+최근 갱신 시간: {2}</target>
+      </trans-unit>
+      <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description" approved="no">
+        <source>Rolling spikes are colored according to beat offset.</source>
+        <target state="translated">가시공이 박자 오프셋에 맞춰 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="no">
+        <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
+        <target state="translated">가시공이 액션 종류 (공격 vs 공격+점프)에 맞춰 파란색/초록색으로 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="no">
+        <source>All wings are colored based on beat offset.</source>
+        <target state="translated">모든 날개가 박자 오프셋에 맞춰 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
+        <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+        <target state="translated">모든 날개가 액션 종류 (공격 vs 공격+점프)에 맞춰 파란색/초록색으로 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="no">
+        <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_10"&gt; 이 계정은 mod.io에서 이 레벨의 제작자입니다.</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">튜토리얼 건너뛰기</target>
+      </trans-unit>
+      <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="no">
+        <source>Invalid security code.
+Check the code and try again.</source>
+        <target state="translated">보안 코드가 잘못되었습니다.
+코드를 확인하고 다시 시도해주세요.</target>
+      </trans-unit>
+      <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio" approved="no">
+        <source>Publishing to mod.io</source>
+        <target state="translated">mod.io로 게시하는 중</target>
+      </trans-unit>
+      <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
+        <source>Song name/artist and chart author needs to be filled out</source>
+        <target state="translated">음악 제목/작곡가와 채보 제작자가 작성되어야 합니다</target>
+      </trans-unit>
+      <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder" approved="no">
+        <source>(name of the music track)</source>
+        <target state="translated">(음악의 제목)</target>
+      </trans-unit>
+      <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder" approved="no">
+        <source>(enter notes or details about your level here)</source>
+        <target state="translated">(레벨에 관한 주석이나 세부사항을 여기에 입력하세요)</target>
+      </trans-unit>
+      <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats" approved="no">
+        <source>(These settings will reset after the current section is complete)</source>
+        <target state="translated">(이 설정들은 현재 구간을 완료하고 나면 초기화됩니다)</target>
+      </trans-unit>
+      <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats" approved="no">
+        <source>Temporary Cheats...</source>
+        <target state="translated">임시 치트...</target>
+      </trans-unit>
+      <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt" approved="no">
+        <source>It looks like you're having trouble with this section.
+Would you like to enable game assist features?</source>
+        <target state="translated">이 구간에 어려움이 있는 것 같습니다.
+게임 보조 기능을 활성화하시겠습니까?</target>
+      </trans-unit>
+      <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="no">
+        <source>Mods and Assists</source>
+        <target state="translated">변형 및 보조 기능</target>
+      </trans-unit>
+      <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="no">
+        <source>Grid Snap</source>
+        <target state="translated">격자 스냅</target>
+      </trans-unit>
+      <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="no">
+        <source>Coin Sfx</source>
+        <target state="translated">동전 효과음</target>
+      </trans-unit>
+      <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="no">
+        <source>Additional Settings...</source>
+        <target state="translated">추가 설정...</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">메인 메뉴로 돌아갑니다.</target>
+      </trans-unit>
+      <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description" approved="no">
+        <source>Edit additional audio settings.</source>
+        <target state="translated">추가 오디오 설정을 수정합니다.</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
+        <source>Level 6-4
+Cosmic Conflux</source>
+        <target state="translated">레벨 6-4
+Cosmic Conflux</target>
+      </trans-unit>
+      <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox" approved="no">
+        <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
+Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
+        <target state="translated">&lt;sprite name="controller_icons_79"&gt;로 스크롤합니다.
+&lt;sprite name="controller_icons_100"&gt;을 눌러 돌아갑니다 .</target>
+      </trans-unit>
+      <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="no">
+        <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
+Other enemies colored based on enemy type.</source>
+        <target state="translated">기본 적은 액션 종류 (공격 vs 공격+점프)에 맞춰 빨간색/초록색으로 칠해집니다.
+다른 적들은 적 종류에 맞춰 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; 이 계정은 mod.io에서 이 레벨의 제작자가 아닙니다.</target>
+      </trans-unit>
+      <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="no">
+        <source>Allows you to scroll left and right to see the rest of the track.</source>
+        <target state="translated">왼쪽과 오른쪽으로 스크롤해 트랙의 나머지 부분을 볼 수 있게 합니다.</target>
+      </trans-unit>
+      <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="no">
+        <source>Adjust in-game controls.</source>
+        <target state="translated">게임 내의 조작을 조정합니다.</target>
+      </trans-unit>
+      <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch" approved="no">
+        <source>Controller Config</source>
+        <target state="translated">컨트롤러 설정</target>
+      </trans-unit>
+      <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description" approved="no">
+        <source>All rolling spikes are colored blue.</source>
+        <target state="translated">모든 가시공이 파란색으로 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="no">
+        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        <target state="translated">공중 점프 날개는 파란색으로, 비행 길 날개는 초록색으로 칠해집니다.</target>
+      </trans-unit>
+      <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="no">
+        <source>Repeatedly practice the current section with various assists.</source>
+        <target state="translated">현재 구간을 다양한 보조 기능을 통해 반복적으로 연습합니다.</target>
+      </trans-unit>
+      <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
+
+You need an account in order to publish levels to mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; mod.io에 로그인이 되어 있지 않습니다.
+
+mod.io로 레벨을 게시하기 위해서는 계정이 필요합니다.</target>
+      </trans-unit>
+      <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="no">
+        <source>Options for making the current section easier.</source>
+        <target state="translated">현재 구간을 쉽게 만들기 위한 옵션.</target>
+      </trans-unit>
+      <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+        <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
+        <target state="translated">만일 보조 기능을 나중에 활성화하고 싶다면, "변형 및 보조 기능" 메뉴에서 할 수 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="no">
+        <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
+Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
+        <target state="translated">&lt;sprite name="controller_icons_45"&gt;로 스크롤합니다.
+&lt;sprite name="controller_icons_60"&gt;을 눌러 돌아갑니다 .</target>
+      </trans-unit>
+      <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation" approved="no">
+        <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
+Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
+        <target state="translated">&lt;sprite name="controller_icons_16"&gt;로 스크롤합니다.
+&lt;sprite name="controller_icons_37"&gt;을 눌러 돌아갑니다 .</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
