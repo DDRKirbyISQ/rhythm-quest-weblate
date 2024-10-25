@@ -12,13 +12,13 @@
           <source>Settings</source>
           <target>Настройки</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="no">
           <source>Start Game</source>
-          <target>Начать Игру</target>
+          <target state="translated">Начать игру</target>
         </trans-unit>
-        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="no">
           <source>Extras</source>
-          <target>Доп. Контент</target>
+          <target state="translated">Доп. контент</target>
         </trans-unit>
         <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
           <source>Quit</source>
@@ -28,9 +28,9 @@
           <source>Back</source>
           <target>Назад</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
           <source>Lag Calibration...</source>
-          <target>Калибровка Задержки...</target>
+          <target state="translated">Калибровка задержки...</target>
         </trans-unit>
         <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
           <source>Graphics</source>
@@ -40,41 +40,41 @@
           <source>Audio</source>
           <target>Аудио</target>
         </trans-unit>
-        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="no">
           <source>Interface Settings</source>
-          <target>Настройки Интерфейса</target>
+          <target state="translated">Настройки интерфейса</target>
         </trans-unit>
         <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
           <source>Controls</source>
           <target>Управление</target>
         </trans-unit>
-        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="no">
           <source>Accessibility</source>
-          <target>Спец. Возможности</target>
+          <target state="translated">Спец. возможности</target>
         </trans-unit>
-        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="no">
           <source>Scaling Mode</source>
-          <target>Сглаживание</target>
+          <target state="translated">Режим маштабирования</target>
         </trans-unit>
-        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="no">
           <source>Flexible</source>
-          <target>Гладко</target>
+          <target state="translated">Растягивающийся</target>
         </trans-unit>
-        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="no">
           <source>Pixel Perfect</source>
-          <target>Пиксельно</target>
+          <target state="translated">Пиксель-в-пиксель</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="no">
           <source>Screen Mode</source>
-          <target>Режим Окна</target>
+          <target state="translated">Режим окна</target>
         </trans-unit>
-        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="no">
           <source>Windowed</source>
-          <target>Оконный</target>
+          <target state="translated">В окне</target>
         </trans-unit>
-        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
+        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="no">
           <source>Maximized</source>
-          <target>Растянутый</target>
+          <target state="translated">Максимизированный</target>
         </trans-unit>
         <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
           <source>Fullscreen</source>
@@ -84,17 +84,17 @@
           <source>Game will be run in a window. Can be resized.</source>
           <target>Игра в отдельном, растягивающемся окне.</target>
         </trans-unit>
-        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="no">
           <source>Game will run in a maximized window.</source>
-          <target>Игра в окне во весь экран.</target>
+          <target state="translated">Игра в максимизированном окне.</target>
         </trans-unit>
-        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="no">
           <source>Game will run in exclusive fullscreen mode.</source>
-          <target>Игра в полном экране.</target>
+          <target state="translated">Игра в режиме полного экрана.</target>
         </trans-unit>
-        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="no">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
-          <target>Меню и камера растянуты по размеру экрана, может привести к не квадратным пикселям, особенно при малом разрешении.</target>
+          <target state="translated">Интерфейс и камера растянуты по размеру экрана. Может привести к неквадратным пикселям, особенно при низком разрешении.</target>
         </trans-unit>
         <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
@@ -2824,10 +2824,11 @@ by DDRKirby(ISQ)</source>
           <source>Basic Only</source>
           <target>Только Основные</target>
         </trans-unit>
-        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="no">
           <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
 Other enemies colored based on enemy type.</source>
-          <target>Основные враги будут иметь красный и зеленый цвет для атаки и атаки с прыжком соответственно.</target>
+          <target state="translated">Основные враги будут окрашены в красный и зеленый цвет для атаки и атаки с прыжком соответственно.
+Остальные враги будут окрашены в зависимости от их типа.</target>
         </trans-unit>
         <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
           <source>Basic enemies colored based on beat offset.
@@ -3067,7 +3068,7 @@ Check the code and try again.</source>
         </trans-unit>
         <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
           <source>Updating mod.io mod profile...</source>
-          <target state="needs-translation">Обновление профиля модификации mod.io...</target>
+          <target state="translated">Обновление профиля модификации mod.io...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Level 6-1
@@ -3432,6 +3433,50 @@ by DDRKirby(ISQ)</source>
           <target>Управление...</target>
         </trans-unit>
       </group>
+    </body>
+  </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="ru" datatype="plaintext">
+    <body>
+      <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
+        <source>Midnight Moon
+by DDRKirby(ISQ)</source>
+        <target state="translated">Полуночная луна
+Автор: DDRKirby(ISQ)</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
+        <source>Für Elise
+by Ludwig van Beethoven</source>
+        <target state="translated">К Элизе
+Автор: Людвиг ван Бетховен</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
+        <source>Flight of the Bumblebee
+by Nikolai Rimsky-Korsakov</source>
+        <target state="translated">Полёт шмеля
+Автор: Николай Римский-Корсаков</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
+        <source>Level 6-4
+Cosmic Conflux</source>
+        <target state="translated">Уровень 6-4
+Космическое слияние</target>
+      </trans-unit>
+      <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
+        <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11
+by Wolfgang Amadeus Mozart</source>
+        <target state="translated">Турецкий марш
+из Сонаты для клавира №11
+Автор: Вольфганг Амадей Моцарт</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Вернуться в главное меню.</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">Пропустить обучение</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
