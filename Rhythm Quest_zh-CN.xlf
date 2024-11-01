@@ -3024,9 +3024,9 @@ Check the code and try again.</source>
           <source>Creating mod.io mod profile...</source>
           <target>正在创建 mod.io mod 配置文件...</target>
         </trans-unit>
-        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid">
+        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="no">
           <source>Got mod.io level ID: {0}</source>
-          <target>当前 mod.io 关卡 ID: {0}</target>
+          <target state="translated">当前 mod.io 关卡 ID: {0}</target>
         </trans-unit>
         <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
           <source>Packaging level data...</source>
@@ -3062,7 +3062,7 @@ Check the code and try again.</source>
         </trans-unit>
         <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
           <source>Updating mod.io mod profile...</source>
-          <target state="needs-translation">正在更新 mod.io mod 配置文件...</target>
+          <target state="translated">正在更新 mod.io mod 配置文件...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Level 6-1
