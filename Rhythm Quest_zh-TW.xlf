@@ -2976,4 +2976,210 @@ Spellbound Nebula</source>
       </group>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="zh-TW" datatype="plaintext">
+    <body>
+      <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin" approved="no">
+        <source>You are logged into mod.io as:</source>
+        <target state="translated">您已登入 mod.io:</target>
+      </trans-unit>
+      <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="no">
+        <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_10"&gt; 此帳戶為當前關卡的作者。</target>
+      </trans-unit>
+      <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile" approved="no">
+        <source>View profile on web</source>
+        <target state="translated">在網站上查看個人檔案</target>
+      </trans-unit>
+      <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio" approved="no">
+        <source>View on mod.io</source>
+        <target state="translated">在 mod.io 上查看</target>
+      </trans-unit>
+      <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio" approved="no">
+        <source>Publish to mod.io</source>
+        <target state="translated">發布到 mod.io</target>
+      </trans-unit>
+      <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio" approved="no">
+        <source>Publish new version</source>
+        <target state="translated">發布新版本</target>
+      </trans-unit>
+      <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails" approved="no">
+        <source>Account details...</source>
+        <target state="translated">帳戶詳情...</target>
+      </trans-unit>
+      <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister" approved="no">
+        <source>Login/Register...</source>
+        <target state="translated">登入/註冊...</target>
+      </trans-unit>
+      <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="no">
+        <source>Invalid security code.
+Check the code and try again.</source>
+        <target state="translated">無效的安全碼。
+檢查代碼並重試。</target>
+      </trans-unit>
+      <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio" approved="no">
+        <source>Publishing to mod.io</source>
+        <target state="translated">正發布到 mod.io</target>
+      </trans-unit>
+      <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile" approved="no">
+        <source>Creating mod.io mod profile...</source>
+        <target state="translated">正建立 mod.io mod 配置文件...</target>
+      </trans-unit>
+      <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="no">
+        <source>Got mod.io level ID: {0}</source>
+        <target state="translated">已取得 mod.io 關卡 ID: {0}</target>
+      </trans-unit>
+      <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel" approved="no">
+        <source>Uploading level data...</source>
+        <target state="translated">正上傳關卡資料</target>
+      </trans-unit>
+      <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="no">
+        <source>Packaging level data...</source>
+        <target state="translated">正打包關卡資料...</target>
+      </trans-unit>
+      <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess" approved="no">
+        <source>Successfully published level!</source>
+        <target state="translated">發布關卡成功!</target>
+      </trans-unit>
+      <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess" approved="no">
+        <source>Successfully updated level!</source>
+        <target state="translated">更新關卡成功!</target>
+      </trans-unit>
+      <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction" approved="no">
+        <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
+        <target state="translated">將此關卡發布到 mod.io 與其他 Rhythm Quest 玩家分享！</target>
+      </trans-unit>
+      <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid" approved="no">
+        <source>Saving new level ID into .rqe file...</source>
+        <target state="translated">正將新關卡 ID 儲存到 .rqe 檔案...</target>
+      </trans-unit>
+      <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; 未登入</target>
+      </trans-unit>
+      <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines" approved="no">
+        <source>Coin Outlines</source>
+        <target state="translated">金幣輪廓</target>
+      </trans-unit>
+      <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled" approved="no">
+        <source>(Default) Already-collected coins do not show on respawn.</source>
+        <target state="translated">（預設）已收集的硬幣不會在重生時顯示。</target>
+      </trans-unit>
+      <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid" approved="no">
+        <source>Steam ID: {0}</source>
+        <target state="translated">Steam ID: {0}</target>
+      </trans-unit>
+      <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description" approved="no">
+        <source>Register/login to mod.io using the following active Steam account?</source>
+        <target state="translated">是否使用以下Steam 帳戶登入/註冊到 mod.io ?</target>
+      </trans-unit>
+      <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm" approved="no">
+        <source>Confirm</source>
+        <target state="translated">確認</target>
+      </trans-unit>
+      <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication" approved="no">
+        <source>Error passing Steam authentication to mod.io.</source>
+        <target state="translated">向 mod.io 傳遞 Steam 身分驗證時出錯。</target>
+      </trans-unit>
+      <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree" approved="no">
+        <source>I Agree</source>
+        <target state="translated">我同意</target>
+      </trans-unit>
+      <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio" approved="no">
+        <source>Visit mod.io page</source>
+        <target state="translated">造訪 mod.io 頁面</target>
+      </trans-unit>
+      <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="no">
+        <source>Fade out</source>
+        <target state="translated">淡出</target>
+      </trans-unit>
+      <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings" approved="no">
+        <source>Music Export Settings</source>
+        <target state="translated">音樂匯出設定</target>
+      </trans-unit>
+      <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="no">
+        <source>Fix</source>
+        <target state="translated">修復</target>
+      </trans-unit>
+      <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems" approved="no">
+        <source>No problems found!</source>
+        <target state="translated">沒有發現問題！</target>
+      </trans-unit>
+      <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
+        <source>Song name/artist and chart author needs to be filled out</source>
+        <target state="translated">需要填寫歌曲名稱/歌手和圖像作者</target>
+      </trans-unit>
+      <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription" approved="no">
+        <source>Level is missing a Description</source>
+        <target state="translated">關卡缺少描述</target>
+      </trans-unit>
+      <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic" approved="no">
+        <source>Level has no music audio</source>
+        <target state="translated">關卡沒有音樂</target>
+      </trans-unit>
+      <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded" approved="no">
+        <source>Music audio will not be included in export</source>
+        <target state="translated">音樂不會包含在匯出中</target>
+      </trans-unit>
+      <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder" approved="no">
+        <source>(name of the music track)</source>
+        <target state="translated">（音樂曲目的名稱）</target>
+      </trans-unit>
+      <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="no">
+        <source>(credit the song's artist)</source>
+        <target state="translated">（請標註歌曲的藝術家）</target>
+      </trans-unit>
+      <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">練習模式</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">跳過教學</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">返回到主選單。</target>
+      </trans-unit>
+      <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
+        <source>Updating mod.io mod profile...</source>
+        <target state="translated">正更新 mod.io mod 配置文件...</target>
+      </trans-unit>
+      <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
+
+You need an account in order to publish levels to mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; 您尚未登入 mod.io。
+
+您需要一個帳戶才能將關卡發布到 mod.io。</target>
+      </trans-unit>
+      <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; 此帳戶不是 mod.io 上當前關卡的作者。</target>
+      </trans-unit>
+      <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction" approved="no">
+        <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
+
+Login or register an account to publish levels to mod.io.</source>
+        <target state="translated">mod.io 是用於託管和分享 Rhythm Quest 關卡的免費服務。
+
+登入或註冊帳戶以將關卡發佈到 mod.io。</target>
+      </trans-unit>
+      <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin" approved="no">
+        <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
+        <target state="translated">&lt;sprite name="fonticons_10"&gt; 以 {0} 登入</target>
+      </trans-unit>
+      <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled" approved="no">
+        <source>Shows faint coin outlines on respawn for already-collected coins.</source>
+        <target state="translated">已收集的金幣在重生時會顯示淡化的金幣輪廓。</target>
+      </trans-unit>
+      <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement" approved="no">
+        <source>Music export options need to be set</source>
+        <target state="translated">需要設定音樂匯出選項</target>
+      </trans-unit>
+      <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="no">
+        <source>(your name)</source>
+        <target state="translated">你的名字</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
