@@ -3180,6 +3180,14 @@ Login or register an account to publish levels to mod.io.</source>
         <source>(your name)</source>
         <target state="translated">你的名字</target>
       </trans-unit>
+      <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder" approved="no">
+        <source>(enter notes or details about your level here)</source>
+        <target state="translated">在此鍵入關卡的記錄或信息</target>
+      </trans-unit>
+      <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="no">
+        <source>Export Checklist</source>
+        <target state="translated">匯出清單</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
