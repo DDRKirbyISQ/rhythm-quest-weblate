@@ -572,39 +572,39 @@ Tem certeza de que deseja continuar?</target>
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
           <target state="final">&lt;color=#{0}&gt;Toque na parte esquerda&lt;/color&gt; da tela para Atacar.</target>
         </trans-unit>
-        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop" approved="yes">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
-          <target>Você pode alterar esses controles no &lt;color=yellow&gt;menu principal&lt;/color&gt;.</target>
+          <target state="final">Você pode alterar esses controles no menu de &lt;color=yellow&gt;"Configurações"&lt;/color&gt;.</target>
         </trans-unit>
-        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
+        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile" approved="yes">
           <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
-          <target>&lt;color=yellow&gt;Pule&lt;/color&gt; e &lt;color=yellow&gt;Ataque&lt;/color&gt; junto à música para finalizar o resto do nível!</target>
+          <target state="final">&lt;color=yellow&gt;Pule&lt;/color&gt; e &lt;color=yellow&gt;Ataque&lt;/color&gt; com a música para terminar o resto do nível!</target>
         </trans-unit>
-        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped">
+        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Invertido</target>
+          <target state="final">Invertido</target>
         </trans-unit>
-        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="yes">
           <source>Calibration complete!</source>
-          <target>Calibração completa!</target>
+          <target state="final">Calibração concluída!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="yes">
           <source>The flashing squares should now match the beeps.
 Otherwise, adjust manually until synced.</source>
-          <target>Os quadrados piscantes devem agora coincidir com os bipes.
-Senão, ajuste manualmente até estar sincronizado.</target>
+          <target state="final">Os quadrados piscantes devem agora coincidir com os bipes.
+Caso contrário, ajuste-os manualmente até que se sincronizem.</target>
         </trans-unit>
-        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
-          <target>Latência de Áudio: {0}ms</target>
+          <target state="final">Latência de Áudio: {0}ms</target>
         </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
+        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title" approved="yes">
           <source>Audio Lag Calibration</source>
-          <target>Calibração do Atraso de Áudio</target>
+          <target state="final">Calibração de Atraso de Áudio</target>
         </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
+        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard" approved="yes">
           <source>Press any key or click in time with the beeps</source>
-          <target>Aperte qualquer tecla ou clique no mesmo tempo que os bipes</target>
+          <target state="final">Pressione qualquer tecla ou clique no mesmo tempo que os bipes</target>
         </trans-unit>
         <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
           <source>Press any key or click in time with the beeps</source>
