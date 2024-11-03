@@ -606,13 +606,13 @@ Caso contrário, ajuste-os manualmente até que se sincronizem.</target>
           <source>Press any key or click in time with the beeps</source>
           <target state="final">Pressione qualquer tecla ou clique no mesmo tempo que os bipes</target>
         </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
+        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse" approved="yes">
           <source>Press any key or click in time with the beeps</source>
-          <target>Clique junto aos bipes</target>
+          <target state="final">Pressione qualquer tecla ou clique ao mesmo tempo que os bipes</target>
         </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
+        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="yes">
           <source>Tap in time with the beeps</source>
-          <target>Toque no mesmo tempo que os bipes</target>
+          <target state="final">Toque ao mesmo tempo que os bipes</target>
         </trans-unit>
         <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
           <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
