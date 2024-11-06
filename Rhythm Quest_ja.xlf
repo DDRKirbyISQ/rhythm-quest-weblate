@@ -3471,7 +3471,7 @@ by N. リムスキー＝コルサコフ</target>
       </trans-unit>
       <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
         <source>Skip Tutorial</source>
-        <target state="translated">チュートリアルのスキップ</target>
+        <target state="translated">チュートリアルをスキップする</target>
       </trans-unit>
       <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
         <source>Updating mod.io mod profile...</source>
