@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="Assets/Localization/Main String Table_ru.asset" source-language="en" target-language="ru">
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Main String Table_ru.asset" source-language="en" datatype="plaintext" target-language="ru">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_ru.asset" uid="70eab19e494e9344995a75aae5074445"/>
+        <external-file href="Assets/Localization/Main String Table_ru.asset" uid="70eab19e494e9344995a75aae5074445" />
       </skl>
     </header>
     <body>
@@ -12,13 +12,13 @@
           <source>Settings</source>
           <target>Настройки</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="no">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
           <source>Start Game</source>
-          <target state="translated">Начать игру</target>
+          <target>Начать игру</target>
         </trans-unit>
-        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="no">
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
           <source>Extras</source>
-          <target state="translated">Доп. контент</target>
+          <target>Доп. контент</target>
         </trans-unit>
         <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
           <source>Quit</source>
@@ -28,9 +28,9 @@
           <source>Back</source>
           <target>Назад</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
           <source>Lag Calibration...</source>
-          <target state="translated">Калибровка задержки...</target>
+          <target>Калибровка задержки...</target>
         </trans-unit>
         <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
           <source>Graphics</source>
@@ -40,41 +40,41 @@
           <source>Audio</source>
           <target>Аудио</target>
         </trans-unit>
-        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="no">
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
           <source>Interface Settings</source>
-          <target state="translated">Настройки интерфейса</target>
+          <target>Настройки интерфейса</target>
         </trans-unit>
         <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
           <source>Controls</source>
           <target>Управление</target>
         </trans-unit>
-        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="no">
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
           <source>Accessibility</source>
-          <target state="translated">Спец. возможности</target>
+          <target>Спец. возможности</target>
         </trans-unit>
-        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="no">
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
           <source>Scaling Mode</source>
-          <target state="translated">Режим масштабирования</target>
+          <target>Режим масштабирования</target>
         </trans-unit>
-        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="no">
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
           <source>Flexible</source>
-          <target state="translated">Растягивающийся</target>
+          <target>Растягивающийся</target>
         </trans-unit>
-        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="no">
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
           <source>Pixel Perfect</source>
-          <target state="translated">Пиксель-в-пиксель</target>
+          <target>Пиксель-в-пиксель</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="no">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
           <source>Screen Mode</source>
-          <target state="translated">Режим окна</target>
+          <target>Режим окна</target>
         </trans-unit>
-        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="no">
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
           <source>Windowed</source>
-          <target state="translated">В окне</target>
+          <target>В окне</target>
         </trans-unit>
-        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="no">
+        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
           <source>Maximized</source>
-          <target state="translated">Максимизированный</target>
+          <target>Максимизированный</target>
         </trans-unit>
         <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
           <source>Fullscreen</source>
@@ -84,33 +84,33 @@
           <source>Game will be run in a window. Can be resized.</source>
           <target>Игра в отдельном, растягивающемся окне.</target>
         </trans-unit>
-        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="no">
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
           <source>Game will run in a maximized window.</source>
-          <target state="translated">Игра в максимизированном окне.</target>
+          <target>Игра в максимизированном окне.</target>
         </trans-unit>
-        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="no">
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
           <source>Game will run in exclusive fullscreen mode.</source>
-          <target state="translated">Игра в режиме полного экрана.</target>
+          <target>Игра в режиме полного экрана.</target>
         </trans-unit>
-        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="no">
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
-          <target state="translated">Интерфейс и камера растянуты по размеру экрана. Может привести к неквадратным пикселям, особенно при низком разрешении.</target>
+          <target>Интерфейс и камера растянуты по размеру экрана. Может привести к неквадратным пикселям, особенно при низком разрешении.</target>
         </trans-unit>
-        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="no">
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
-          <target state="translated">(По умолчанию) Интерфейс и камера растянуты только на целые значения. Правильно растягивает пиксели, но может быть меньших размеров.</target>
+          <target>(По умолчанию) Интерфейс и камера растянуты только на целые значения. Правильно растягивает пиксели, но может быть меньших размеров.</target>
         </trans-unit>
         <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
           <source>Resolution</source>
           <target>Разрешение</target>
         </trans-unit>
-        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="no">
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
           <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
-          <target state="translated">Поменять разрешение на определённые значения. (Нельзя изменить при полном экране)</target>
+          <target>Поменять разрешение на определённые значения. (Нельзя изменить при полном экране)</target>
         </trans-unit>
-        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="no">
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
           <source>Vertical Sync</source>
-          <target state="translated">Вертикальная синхронизация</target>
+          <target>Вертикальная синхронизация</target>
         </trans-unit>
         <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
@@ -128,17 +128,17 @@
           <source>Enabled</source>
           <target>Вкл.</target>
         </trans-unit>
-        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="no">
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
           <source>Scaling Settings...</source>
-          <target state="translated">Настройки масштабирования...</target>
+          <target>Настройки масштабирования...</target>
         </trans-unit>
         <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
           <source>Return to the previous menu.</source>
           <target>Вернуться в прошлое меню.</target>
         </trans-unit>
-        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="no">
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
           <source>Zoom Level</source>
-          <target state="translated">Уровень приближения</target>
+          <target>Уровень приближения</target>
         </trans-unit>
         <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
           <source>Default</source>
@@ -164,65 +164,65 @@
           <source>Forces a zoomed-in gameplay view.</source>
           <target>Использует приближенную камеру в игре.</target>
         </trans-unit>
-        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="no">
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
           <source>Music Volume</source>
-          <target state="translated">Громкость музыки</target>
+          <target>Громкость музыки</target>
         </trans-unit>
-        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="no">
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
           <source>Adjust the volume of the game music.</source>
-          <target state="translated">Изменить громкость игровой музыки.</target>
+          <target>Изменить громкость игровой музыки.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="no">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target state="translated">Изменить громкость звуковых эффектов.</target>
+          <target>Изменить громкость звуковых эффектов.</target>
         </trans-unit>
-        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="no">
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
           <source>Sfx Volume</source>
-          <target state="translated">Громкость звуков</target>
+          <target>Громкость звуков</target>
         </trans-unit>
-        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="no">
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
           <source>Effect Settings...</source>
-          <target state="translated">Настройки эффектов...</target>
+          <target>Настройки эффектов...</target>
         </trans-unit>
-        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake" approved="no">
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
           <source>Screen Shake</source>
-          <target state="translated">Тряска экрана</target>
+          <target>Тряска экрана</target>
         </trans-unit>
-        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="no">
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
           <source>Disables screen shake effects.</source>
-          <target state="translated">Выключает эффекты тряски экрана.</target>
+          <target>Выключает эффекты тряски экрана.</target>
         </trans-unit>
-        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="no">
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
           <source>Enables screen shake effects.</source>
-          <target state="translated">Включает эффекты тряски экрана.</target>
+          <target>Включает эффекты тряски экрана.</target>
         </trans-unit>
-        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="no">
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
           <source>Screen Flashes</source>
-          <target state="translated">Мерцание экрана</target>
+          <target>Мерцание экрана</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="no">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
           <source>Enables screen flash effects.</source>
-          <target state="translated">Включает эффекты мерцания экрана.</target>
+          <target>Включает эффекты мерцания экрана.</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="no">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
           <source>Disables screen flash effects.</source>
-          <target state="translated">Выключает эффекты мерцания экрана.</target>
+          <target>Выключает эффекты мерцания экрана.</target>
         </trans-unit>
-        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling" approved="no">
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
           <source>Sfx Prescheduling</source>
-          <target state="translated">Досрочное проигрывание звуков</target>
+          <target>Досрочное проигрывание звуков</target>
         </trans-unit>
         <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
           <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
           <target>Звуки будут проигрываться во время совершения действий. Рекомендуется только для малых задержек. Лишняя задержка звука может сбить с ритма.</target>
         </trans-unit>
-        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled" approved="no">
+        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled">
           <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
-          <target state="translated">(По умолчанию) Звуки действий будут проигрываться синхронно с музыкой, даже если действие пропущено.</target>
+          <target>(По умолчанию) Звуки действий будут проигрываться синхронно с музыкой, даже если действие пропущено.</target>
         </trans-unit>
-        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="no">
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
           <source>Audio Offset</source>
-          <target state="translated">Задержка звука</target>
+          <target>Задержка звука</target>
         </trans-unit>
         <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
           <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
@@ -236,9 +236,9 @@
           <source>Auto Play</source>
           <target>Самовоспроизведение</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="no">
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
           <source>Unlock All Levels</source>
-          <target state="translated">Открыть все уровни</target>
+          <target>Открыть все уровни</target>
         </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
@@ -252,37 +252,37 @@
           <source>Levels must be unlocked normally.</source>
           <target>Уровни должны быть открыты обычным способом.</target>
         </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="no">
+        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target state="translated">Все уровни изначально открыты. (Прогресс всё равно будет сохранён)</target>
+          <target>Все уровни изначально открыты. (Прогресс всё равно будет сохранён)</target>
         </trans-unit>
-        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="no">
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
           <source>Press Enter to Continue</source>
-          <target state="translated">Нажми Enter, чтобы продолжить</target>
+          <target>Нажми Enter, чтобы продолжить</target>
         </trans-unit>
-        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="no">
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
           <source>Click to Continue</source>
-          <target state="translated">Кликни, чтобы продолжить</target>
+          <target>Кликни, чтобы продолжить</target>
         </trans-unit>
-        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="no">
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
           <source>Tap to Continue</source>
-          <target state="translated">Нажми, чтобы продолжить</target>
+          <target>Нажми, чтобы продолжить</target>
         </trans-unit>
-        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="no">
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
-          <target state="translated">Нажми &lt;sprite name="controller_icons_100"&gt;, чтобы продолжить</target>
+          <target>Нажми &lt;sprite name="controller_icons_100"&gt;, чтобы продолжить</target>
         </trans-unit>
-        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="no">
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
           <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
-          <target state="translated">Нажми &lt;sprite name="controller_icons_37"&gt;, чтобы продолжить</target>
+          <target>Нажми &lt;sprite name="controller_icons_37"&gt;, чтобы продолжить</target>
         </trans-unit>
-        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="no">
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
-          <target state="translated">Нажми &lt;sprite name="controller_icons_60"&gt;, чтобы продолжить</target>
+          <target>Нажми &lt;sprite name="controller_icons_60"&gt;, чтобы продолжить</target>
         </trans-unit>
-        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="no">
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
           <source>Font Style</source>
-          <target state="translated">Стиль шрифта</target>
+          <target>Стиль шрифта</target>
         </trans-unit>
         <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
           <source>Pixel Font</source>
@@ -300,9 +300,9 @@
           <source>Use pixel-styled font for the interface.</source>
           <target>Использовать пиксельный шрифт для интерфейса.</target>
         </trans-unit>
-        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons" approved="no">
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
           <source>On-screen Buttons</source>
-          <target state="translated">Кнопки на экране</target>
+          <target>Кнопки на экране</target>
         </trans-unit>
         <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
           <source>Hide</source>
@@ -312,69 +312,69 @@
           <source>Show</source>
           <target>Отображать</target>
         </trans-unit>
-        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide" approved="no">
+        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
           <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
-          <target state="translated">Кнопки на экране будут скрыты. Нажимай на левую и правую стороны экрана во время игры.</target>
+          <target>Кнопки на экране будут скрыты. Нажимай на левую и правую стороны экрана во время игры.</target>
         </trans-unit>
-        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show" approved="no">
+        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show">
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
-          <target state="translated">Кнопки на экране будут видимы. (Необязательно нажимать точно на них)</target>
+          <target>Кнопки на экране будут видимы. (Необязательно нажимать точно на них)</target>
         </trans-unit>
         <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
           <source>Changelog</source>
           <target>Список изменений</target>
         </trans-unit>
-        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="no">
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
           <source>Green Grasslands</source>
-          <target state="translated">Зелёные луга</target>
+          <target>Зелёные луга</target>
         </trans-unit>
-        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="no">
+        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
           <source>Cloudy Courseway</source>
-          <target state="translated">Облачная тропа</target>
+          <target>Облачная тропа</target>
         </trans-unit>
-        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3" approved="no">
+        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
           <source>Retro Ridge</source>
-          <target state="translated">Ретро-раздолье</target>
+          <target>Ретро-раздолье</target>
         </trans-unit>
-        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="no">
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
           <source>Magical Metropolis</source>
-          <target state="translated">Магический мегаполис</target>
+          <target>Магический мегаполис</target>
         </trans-unit>
-        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="no">
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
           <source>Crystal Caverns</source>
-          <target state="translated">Хрустальные пещеры</target>
+          <target>Хрустальные пещеры</target>
         </trans-unit>
-        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="no">
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
           <source>Space Sojourn</source>
-          <target state="translated">Космическая прогулка</target>
+          <target>Космическая прогулка</target>
         </trans-unit>
-        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="no">
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
           <source>Sunrise Vista</source>
-          <target state="translated">Вид восхода</target>
+          <target>Вид восхода</target>
         </trans-unit>
-        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="no">
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
           <source>Raceway Plain</source>
-          <target state="translated">Гоночная равнина</target>
+          <target>Гоночная равнина</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="no">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
           <source>River Crossing</source>
-          <target state="translated">Речная переправа</target>
+          <target>Речная переправа</target>
         </trans-unit>
-        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="no">
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
           <source>Mystic Forest</source>
-          <target state="translated">Мистический лес</target>
+          <target>Мистический лес</target>
         </trans-unit>
-        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="no">
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
           <source>Skyward Summit</source>
-          <target state="translated">Небесная вершина</target>
+          <target>Небесная вершина</target>
         </trans-unit>
-        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="no">
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
           <source>Winged Airways</source>
-          <target state="translated">Крылатые пути</target>
+          <target>Крылатые пути</target>
         </trans-unit>
-        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="no">
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
           <source>Twilight Flight</source>
-          <target state="translated">Сумеречный взлёт</target>
+          <target>Сумеречный взлёт</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -408,9 +408,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Paused</source>
           <target>Пауза</target>
         </trans-unit>
-        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete" approved="no">
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
           <source>Level Complete</source>
-          <target state="translated">Уровень пройден</target>
+          <target>Уровень пройден</target>
         </trans-unit>
         <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
           <source>Language</source>
@@ -420,9 +420,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>(Locked)</source>
           <target>(Закрыто)</target>
         </trans-unit>
-        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols" approved="no">
+        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols">
           <source>Control Positioning</source>
-          <target state="translated">Стороны управления</target>
+          <target>Стороны управления</target>
         </trans-unit>
         <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
           <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
@@ -456,9 +456,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Resets key bindings to their defaults.</source>
           <target>Возвращает управление по умолчанию.</target>
         </trans-unit>
-        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols" approved="no">
+        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols">
           <source>Mouse Controls</source>
-          <target state="translated">Управление мышью</target>
+          <target>Управление мышью</target>
         </trans-unit>
         <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
           <source>Flipped</source>
@@ -468,22 +468,22 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
           <target>ЛКМ для &lt;Прыжка&gt;. ПКМ для &lt;Атаки&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled" approved="no">
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
           <source>In-game mouse controls are disabled.</source>
-          <target state="translated">Управление мышью во время игры отключено.</target>
+          <target>Управление мышью во время игры отключено.</target>
         </trans-unit>
         <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
           <target>ПКМ для &lt;Прыжка&gt;. ЛКМ для &lt;Атаки&gt;.</target>
         </trans-unit>
-        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata" approved="no">
+        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
           <source>Reset Game Data</source>
-          <target state="translated">Сбросить сохранение</target>
+          <target>Сбросить сохранение</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="no">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target state="translated">Вся игровая информация будет стёрта.
+          <target>Вся игровая информация будет стёрта.
 Вы уверены, что хотите продолжить?</target>
         </trans-unit>
         <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
@@ -502,9 +502,9 @@ Are you sure you want to proceed?</source>
           <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
           <target>В Rhythm Quest лучше всего играть с откалиброванной задержкой аудио.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled" approved="no">
+        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target state="translated">Вы всегда можете настроить калибровку в &lt;color=yellow&gt;настройках&lt;/color&gt;.</target>
+          <target>Вы всегда можете настроить калибровку в &lt;color=yellow&gt;настройках&lt;/color&gt;.</target>
         </trans-unit>
         <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
           <source>Done</source>
@@ -518,41 +518,41 @@ Are you sure you want to proceed?</source>
           <source>Do you want to calibrate audio lag now?</source>
           <target>Вы хотите откалибровать задержку аудио?</target>
         </trans-unit>
-        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump" approved="no">
+        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
-          <target state="translated">Нажмите  &lt;color=#{0}&gt;{1}&lt;/color&gt;  или &lt;sprite name="{2}" tint=1 color=#{0}&gt; для прыжка.</target>
+          <target>Нажмите  &lt;color=#{0}&gt;{1}&lt;/color&gt;  или &lt;sprite name="{2}" tint=1 color=#{0}&gt; для прыжка.</target>
         </trans-unit>
-        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="no">
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
           <source>How to Play</source>
-          <target state="translated">Как играть</target>
+          <target>Как играть</target>
         </trans-unit>
-        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack" approved="no">
+        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
-          <target state="translated">Нажмите  &lt;color=#{0}&gt;{1}&lt;/color&gt;  или &lt;sprite name="{2}" tint=1 color=#{0}&gt; для атаки.</target>
+          <target>Нажмите  &lt;color=#{0}&gt;{1}&lt;/color&gt;  или &lt;sprite name="{2}" tint=1 color=#{0}&gt; для атаки.</target>
         </trans-unit>
-        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal" approved="no">
+        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
-          <target state="translated">&lt;color=#{0}&gt;Нажми на левую строну&lt;/color&gt; экрана для прыжка.</target>
+          <target>&lt;color=#{0}&gt;Нажми на левую строну&lt;/color&gt; экрана для прыжка.</target>
         </trans-unit>
-        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped" approved="no">
+        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
-          <target state="translated">&lt;color=#{0}&gt;Нажми на правую строну&lt;/color&gt; экрана для прыжка.</target>
+          <target>&lt;color=#{0}&gt;Нажми на правую строну&lt;/color&gt; экрана для прыжка.</target>
         </trans-unit>
-        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal" approved="no">
+        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
-          <target state="translated">&lt;color=#{0}&gt;Нажми на правую строну&lt;/color&gt; экрана для атаки.</target>
+          <target>&lt;color=#{0}&gt;Нажми на правую строну&lt;/color&gt; экрана для атаки.</target>
         </trans-unit>
-        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped" approved="no">
+        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
-          <target state="translated">&lt;color=#{0}&gt;Нажми на левую строну&lt;/color&gt; экрана для атаки.</target>
+          <target>&lt;color=#{0}&gt;Нажми на левую строну&lt;/color&gt; экрана для атаки.</target>
         </trans-unit>
-        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop" approved="no">
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
-          <target state="translated">Изменить управление можно в &lt;color=yellow&gt;"настройках"&lt;/color&gt;.</target>
+          <target>Изменить управление можно в &lt;color=yellow&gt;"настройках"&lt;/color&gt;.</target>
         </trans-unit>
-        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile" approved="no">
+        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
           <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
-          <target state="translated">&lt;color=yellow&gt;Прыгай&lt;/color&gt; и &lt;color=yellow&gt;атакуй&lt;/color&gt; под музыку, чтобы пройти оставшуюся часть уровня!</target>
+          <target>&lt;color=yellow&gt;Прыгай&lt;/color&gt; и &lt;color=yellow&gt;атакуй&lt;/color&gt; под музыку, чтобы пройти оставшуюся часть уровня!</target>
         </trans-unit>
         <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped">
           <source>Flipped</source>
@@ -568,13 +568,13 @@ Otherwise, adjust manually until synced.</source>
           <target>Теперь вспышка должна происходить одновременно со звуком.
 Если это не так, откалибруйте вручную.</target>
         </trans-unit>
-        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="no">
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
-          <target state="translated">Задержка аудио: {0} мс</target>
+          <target>Задержка аудио: {0} мс</target>
         </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title" approved="no">
+        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
           <source>Audio Lag Calibration</source>
-          <target state="translated">Калибровка задержки звука</target>
+          <target>Калибровка задержки звука</target>
         </trans-unit>
         <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
           <source>Press any key or click in time with the beeps</source>
@@ -604,13 +604,13 @@ Otherwise, adjust manually until synced.</source>
           <source>Yes (Recommended)</source>
           <target>Да (Рекомендуется)</target>
         </trans-unit>
-        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="no">
+        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
-          <target state="translated">(Наведи на кнопку для более детальной информации)</target>
+          <target>(Наведи на кнопку для более детальной информации)</target>
         </trans-unit>
-        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1" approved="no">
+        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
           <source>Spiked Steppes</source>
-          <target state="translated">Колючие степи</target>
+          <target>Колючие степи</target>
         </trans-unit>
         <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
           <source>Redo</source>
@@ -624,31 +624,31 @@ Otherwise, adjust manually until synced.</source>
           <source>Unavailable</source>
           <target>Не доступно</target>
         </trans-unit>
-        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="no">
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
           <source>Perfect Clear!</source>
-          <target state="translated">Идеальное прохождение!</target>
+          <target>Идеальное прохождение!</target>
         </trans-unit>
         <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
           <source>Respawns: {0}</source>
           <target>Возрождений: {0}</target>
         </trans-unit>
-        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="no">
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
           <source>Haunted Prairie</source>
-          <target state="translated">Призрачная прерия</target>
+          <target>Призрачная прерия</target>
         </trans-unit>
-        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart" approved="no">
+        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
           <source>Restart Level</source>
-          <target state="translated">Перезапустить уровень</target>
+          <target>Перезапустить уровень</target>
         </trans-unit>
         <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
           <source>Cancel</source>
           <target>Отмена</target>
         </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed" approved="no">
+        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
           <source>Calibration failed -- try again!
 Focus on matching the sound of your tap to the beep.
 (green = good)</source>
-          <target state="translated">Калибровка не удалась -- попробуйте еще раз!
+          <target>Калибровка не удалась -- попробуйте еще раз!
 Сфокусируйтесь на звуке нажатия на экран в момент звука игры.
 (зелёный = хорошо)</target>
         </trans-unit>
@@ -656,9 +656,9 @@ Focus on matching the sound of your tap to the beep.
           <source>Your accuracy: {0}%</source>
           <target>Ваша точность: {0}%</target>
         </trans-unit>
-        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="no">
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
           <source>Quit to Menu</source>
-          <target state="translated">В меню</target>
+          <target>В меню</target>
         </trans-unit>
         <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
           <source>New</source>
@@ -672,9 +672,9 @@ Focus on matching the sound of your tap to the beep.
           <source>Characters</source>
           <target>Персонажи</target>
         </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="no">
+        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
           <source>Extra Levels</source>
-          <target state="translated">Доп. уровни</target>
+          <target>Доп. уровни</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:
@@ -714,37 +714,37 @@ Remaining:</source>
           <source>What Lies Beneath</source>
           <target>What Lies Beneath</target>
         </trans-unit>
-        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="no">
+        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
-          <target state="translated">Дождливый город</target>
+          <target>Дождливый город</target>
         </trans-unit>
-        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1" approved="no">
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
           <source>Enchanted Oasis</source>
-          <target state="translated">Зачарованный оазис</target>
+          <target>Зачарованный оазис</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer</source>
-          <target state="needs-translation">Gameplay Trailer</target>
+          <target>Gameplay Trailer</target>
         </trans-unit>
-        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="no">
+        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
-          <target state="translated">Снежная вершина</target>
+          <target>Снежная вершина</target>
         </trans-unit>
         <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
           <source>Stratosphere</source>
           <target>Стратосфера</target>
         </trans-unit>
-        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam" approved="no">
+        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
           <source>Wishlist on Steam</source>
-          <target state="translated">Добавить в желаемое Steam</target>
+          <target>Добавить в желаемое Steam</target>
         </trans-unit>
         <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
           <source>Start</source>
           <target>Начать</target>
         </trans-unit>
-        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked" approved="no">
+        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
           <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
-          <target state="translated">Этот контент доступен только в полной версии Rhythm Quest! (скоро)</target>
+          <target>Этот контент доступен только в полной версии Rhythm Quest! (скоро)</target>
         </trans-unit>
         <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
           <source>&lt; World {0}</source>
@@ -760,39 +760,39 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <target>Изменяет задержку аудио.
 Уменьши если аудио опережает картинку, увеличь если запаздывает.</target>
         </trans-unit>
-        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early" approved="no">
+        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
           <source>Too Early</source>
-          <target state="translated">Слишком рано</target>
+          <target>Слишком рано</target>
         </trans-unit>
-        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late" approved="no">
+        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late">
           <source>Too Late</source>
-          <target state="translated">Слишком поздно</target>
+          <target>Слишком поздно</target>
         </trans-unit>
-        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2" approved="no">
+        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
           <source>Twilight Tunnel</source>
-          <target state="translated">Сумеречный туннель</target>
+          <target>Сумеречный туннель</target>
         </trans-unit>
-        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4" approved="no">
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
           <source>Midnight Marathon</source>
-          <target state="translated">Полуночный марафон</target>
+          <target>Полуночный марафон</target>
         </trans-unit>
-        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5" approved="no">
+        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
           <source>Gearwheel Factory</source>
-          <target state="translated">Фабрика шестерень</target>
+          <target>Фабрика шестерень</target>
         </trans-unit>
-        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="no">
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
           <source>Outerworld Highway</source>
-          <target state="translated">Шоссе внешнего мира</target>
+          <target>Шоссе внешнего мира</target>
         </trans-unit>
-        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2" approved="no">
+        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
           <source>Misty Meadow</source>
-          <target state="translated">Туманный луг</target>
+          <target>Туманный луг</target>
         </trans-unit>
-        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation" approved="no">
+        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
           <source>Copy Protection Violation detected!</source>
-          <target state="translated">Обнаружено нарушение защиты от копирования!</target>
+          <target>Обнаружено нарушение защиты от копирования!</target>
         </trans-unit>
-        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions" approved="no">
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
           <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
 
 If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
@@ -807,7 +807,7 @@ If this doesn't work, I would suggest downloading and playing the offline build 
 
 Sorry about this!
                                                                 --DDRKirby(ISQ)</source>
-          <target state="translated">Для защиты от злонамеренных сайтов, которые хранят мою игру без разрешения, Rhythm Quest использует "ссылочный" HTTP заголовок для подтверждения, что игра хранится на разрешённых сайтах (rhythmquestgame.com, itch.io).
+          <target>Для защиты от злонамеренных сайтов, которые хранят мою игру без разрешения, Rhythm Quest использует "ссылочный" HTTP заголовок для подтверждения, что игра хранится на разрешённых сайтах (rhythmquestgame.com, itch.io).
 
 Если вы используете расширение, которое отключает ссылочную слежку, попробуйте его отключить и перезагрузить страницу, чтобы загрузить это демо.
 
@@ -822,9 +822,9 @@ Sorry about this!
 Приношу свои извинения!
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome" approved="no">
+        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome">
           <source>Welcome to the Rhythm Quest Demo!</source>
-          <target state="translated">Добро пожаловать в демо-версию Rhythm Quest!</target>
+          <target>Добро пожаловать в демо-версию Rhythm Quest!</target>
         </trans-unit>
         <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
@@ -840,7 +840,7 @@ Have fun, and thanks for playing!
 Веселитесь, и спасибо за то, что играете!
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="no">
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
           <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
 
 Please make sure hardware graphics acceleration is enabled for your browser for better performance.
@@ -848,7 +848,7 @@ Please make sure hardware graphics acceleration is enabled for your browser for 
 Save data is stored in your browser and may potentially not persist across version updates.
 
 For the best experience, feel free to try the standalone offline build instead!</source>
-          <target state="translated">Замечание: Вы играете в браузерную версию демо, поэтому возможны небольшие дёргания звуков и сниженная точность синхронизации.
+          <target>Замечание: Вы играете в браузерную версию демо, поэтому возможны небольшие дёргания звуков и сниженная точность синхронизации.
 
 Проверьте, что аппаратное ускорение графики включено для браузера для лучшей производительности.
 
@@ -860,17 +860,17 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
           <target>Вы дошли до конца демо Rhythm Quest - спасибо, что играли!</target>
         </trans-unit>
-        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite" approved="no">
+        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite">
           <source>Visit the Website</source>
-          <target state="translated">Посетить сайт</target>
+          <target>Посетить сайт</target>
         </trans-unit>
         <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
           <source>Join the Discord</source>
           <target>Присоединиться к серверу Discord</target>
         </trans-unit>
-        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="no">
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target state="translated">Полная версия Rhythm Quest будет содержать 30 уровней в шести мирах, бонусные уровни и еще больше игровых механик!</target>
+          <target>Полная версия Rhythm Quest будет содержать 30 уровней в шести мирах, бонусные уровни и еще больше игровых механик!</target>
         </trans-unit>
         <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
           <source>Next</source>
@@ -1358,57 +1358,57 @@ Would you like to enable screen reader mode?
           <source>Use original English text.</source>
           <target>Использовать оригинальный английский текст.</target>
         </trans-unit>
-        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES" approved="no">
+        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES">
           <source>Use Spanish translation by {0}.</source>
-          <target state="translated">Использовать Испанский перевод. Сделал {0}.</target>
+          <target>Использовать Испанский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de" approved="no">
+        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de">
           <source>Use German translation by {0}.</source>
-          <target state="translated">Использовать Немецкий перевод. Сделал {0}.</target>
+          <target>Использовать Немецкий перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr" approved="no">
+        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr">
           <source>Use French translation by {0}.</source>
-          <target state="translated">Использовать Французский перевод. Сделал {0}.</target>
+          <target>Использовать Французский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it" approved="no">
+        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it">
           <source>Use Italian translation by {0}.</source>
-          <target state="translated">Использовать Итальянский перевод. Сделал {0}.</target>
+          <target>Использовать Итальянский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja" approved="no">
+        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja">
           <source>Use Japanese translation by {0}.</source>
-          <target state="translated">Использовать Японский перевод. Сделал {0}.</target>
+          <target>Использовать Японский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko" approved="no">
+        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko">
           <source>Use Korean translation by {0}.</source>
-          <target state="translated">Использовать Корейский перевод. Сделал {0}.</target>
+          <target>Использовать Корейский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl" approved="no">
+        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl">
           <source>Use Polish translation by {0}.</source>
-          <target state="translated">Использовать Польский перевод. Сделал {0}.</target>
+          <target>Использовать Польский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR" approved="no">
+        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR">
           <source>Use Brazilian Portuguese translation by {0}.</source>
-          <target state="translated">Использовать Бразильский Португальский перевод. Сделал {0}.</target>
+          <target>Использовать Бразильский Португальский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru" approved="no">
+        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru">
           <source>Use Russian translation by {0}.</source>
-          <target state="translated">Использовать Русский перевод. Сделал {0}.</target>
+          <target>Использовать Русский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE" approved="no">
+        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE">
           <source>Use Swedish translation by {0}.</source>
-          <target state="translated">Использовать Шведский перевод. Сделал {0}.</target>
+          <target>Использовать Шведский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk" approved="no">
+        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk">
           <source>Use Ukrainian translation by {0}.</source>
-          <target state="translated">Использовать Украинский перевод. Сделал {0}.</target>
+          <target>Использовать Украинский перевод. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN" approved="no">
+        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN">
           <source>Use Chinese (Simplified) translation by {0}.</source>
-          <target state="translated">Использовать перевод на упрощенный Китайский. Сделал {0}.</target>
+          <target>Использовать перевод на упрощенный Китайский. Сделал {0}.</target>
         </trans-unit>
-        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW" approved="no">
+        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW">
           <source>Use Chinese (Traditional) translation by {0}.</source>
-          <target state="translated">Использовать перевод на традиционный Китайский. Сделал {0}.</target>
+          <target>Использовать перевод на традиционный Китайский. Сделал {0}.</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
           <source>Moonlit Mesa</source>
@@ -1426,9 +1426,9 @@ Would you like to enable screen reader mode?
           <source>Checkpoints behave normally.</source>
           <target>Чекпоинты работают как обычно.</target>
         </trans-unit>
-        <trans-unit id="194143242711511040" xml:space="preserve" resname="language_description_vi" approved="no">
+        <trans-unit id="194143242711511040" xml:space="preserve" resname="language_description_vi">
           <source>Use Vietnamese translation by {0}.</source>
-          <target state="translated">Использовать Вьетнамский перевод. Сделал {0}.</target>
+          <target>Использовать Вьетнамский перевод. Сделал {0}.</target>
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
           <source>Gleaming Glassway</source>
@@ -1620,9 +1620,9 @@ Please connect a supported gamepad device.</source>
           <source>Timing Mods...</source>
           <target>Модификаторы окна для нажатий...</target>
         </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods" approved="no">
+        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
           <source>Visual Mods...</source>
-          <target state="translated">Модификаторы визуала...</target>
+          <target>Модификаторы визуала...</target>
         </trans-unit>
         <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
           <source>Timing Windows</source>
@@ -1692,9 +1692,9 @@ Please connect a supported gamepad device.</source>
           <source>Normal</source>
           <target>Обычное</target>
         </trans-unit>
-        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other" approved="no">
+        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other">
           <source>Other</source>
-          <target state="translated">Прочее</target>
+          <target>Прочее</target>
         </trans-unit>
         <trans-unit id="269934069781671936" xml:space="preserve" resname="settings_runinbackground">
           <source>Run in Background</source>
@@ -1934,9 +1934,9 @@ Click to insert spike enemy jumps.</source>
           <source>Redo</source>
           <target>Вернуть</target>
         </trans-unit>
-        <trans-unit id="283389214276235264" xml:space="preserve" resname="menu_customlevels" approved="no">
+        <trans-unit id="283389214276235264" xml:space="preserve" resname="menu_customlevels">
           <source>Custom Levels</source>
-          <target state="translated">Пользовательские уровни</target>
+          <target>Пользовательские уровни</target>
         </trans-unit>
         <trans-unit id="283403272652107776" xml:space="preserve" resname="menu_customlevels_leveleditor">
           <source>Level Editor</source>
@@ -2738,10 +2738,10 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Basic Only</source>
           <target>Только Основные</target>
         </trans-unit>
-        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="no">
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
           <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
 Other enemies colored based on enemy type.</source>
-          <target state="translated">Основные враги будут окрашены в красный и зеленый цвет для атаки и атаки с прыжком соответственно.
+          <target>Основные враги будут окрашены в красный и зеленый цвет для атаки и атаки с прыжком соответственно.
 Остальные враги будут окрашены в зависимости от их типа.</target>
         </trans-unit>
         <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
@@ -2980,9 +2980,9 @@ Check the code and try again.</source>
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
           <target>&lt;sprite name="fonticons_10"&gt; Вошли как {0}</target>
         </trans-unit>
-        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
           <source>Updating mod.io mod profile...</source>
-          <target state="translated">Обновление профиля модификации mod.io...</target>
+          <target>Обновление профиля модификации mod.io...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Spellbound Nebula</source>
@@ -3000,9 +3000,9 @@ Check the code and try again.</source>
           <source>Shows faint coin outlines on respawn for already-collected coins.</source>
           <target>Показывает прозрачные силуэты для уже собранных монет.</target>
         </trans-unit>
-        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid" approved="no">
+        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
           <source>Steam ID: {0}</source>
-          <target state="translated">ID Steam: {0}</target>
+          <target>ID Steam: {0}</target>
         </trans-unit>
         <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description">
           <source>Register/login to mod.io using the following active Steam account?</source>
@@ -3330,45 +3330,56 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <source>Flower Fang (Expert Mix)</source>
           <target>Flower Fang (Expert Mix)</target>
         </trans-unit>
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+          <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11</source>
+          <target>Турецкий марш
+из Сонаты для клавира №11</target>
+        </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>Управление...</target>
         </trans-unit>
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+          <source>Midnight Moon</source>
+          <target>Полуночная луна</target>
+        </trans-unit>
+        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
+          <source>Return to the main menu.</source>
+          <target>Вернуться в главное меню.</target>
+        </trans-unit>
+        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
+          <source>Für Elise</source>
+          <target>К Элизе</target>
+        </trans-unit>
+        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
+          <source>Flight of the Bumblebee</source>
+          <target>Полёт шмеля</target>
+        </trans-unit>
+        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
+          <source>Cosmic Conflux</source>
+          <target>Космическое слияние</target>
+        </trans-unit>
+        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
+          <source>Skip Tutorial</source>
+          <target>Пропустить обучение</target>
+        </trans-unit>
+        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
+          <source>Song Select</source>
+        </trans-unit>
+        <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
+          <source>Level {0}</source>
+          <target>Уровень {0}</target>
+        </trans-unit>
+        <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
+          <source>by {0}</source>
+          <target>Автор: {0}</target>
+        </trans-unit>
+        <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber">
+          <source>World {0}</source>
+          <target>Мир {0}</target>
+        </trans-unit>
       </group>
-    </body>
-  </file>
-  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="ru" datatype="plaintext">
-    <body>
-      <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
-        <source>Midnight Moon</source>
-        <target state="translated">Полуночная луна</target>
-      </trans-unit>
-      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
-        <source>Für Elise</source>
-        <target state="translated">К Элизе</target>
-      </trans-unit>
-      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
-        <source>Flight of the Bumblebee</source>
-        <target state="translated">Полёт шмеля</target>
-      </trans-unit>
-      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
-        <source>Cosmic Conflux</source>
-        <target state="translated">Космическое слияние</target>
-      </trans-unit>
-      <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
-        <source>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11</source>
-        <target state="translated">Турецкий марш
-из Сонаты для клавира №11</target>
-      </trans-unit>
-      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
-        <source>Return to the main menu.</source>
-        <target state="translated">Вернуться в главное меню.</target>
-      </trans-unit>
-      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
-        <source>Skip Tutorial</source>
-        <target state="translated">Пропустить обучение</target>
-      </trans-unit>
     </body>
   </file>
 </xliff>

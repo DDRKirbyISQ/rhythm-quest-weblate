@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="Assets/Localization/Main String Table_ja.asset" source-language="en" target-language="ja">
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Main String Table_ja.asset" source-language="en" datatype="plaintext" target-language="ja">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_ja.asset" uid="d3222fb439ed51944946382acfd70d3d"/>
+        <external-file href="Assets/Localization/Main String Table_ja.asset" uid="d3222fb439ed51944946382acfd70d3d" />
       </skl>
     </header>
     <body>
@@ -244,9 +244,9 @@
           <source>Auto play is disabled.</source>
           <target>オートプレイモードが無効になっています。</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target state="translated">オートプレイモードが有効です。プレイヤーの入力が無くても自動でレベルを進めます。（進行状況は保存されます。）</target>
+          <target>オートプレイモードが有効です。プレイヤーの入力が無くても自動でレベルを進めます。（進行状況は保存されます。）</target>
         </trans-unit>
         <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
           <source>Levels must be unlocked normally.</source>
@@ -256,29 +256,29 @@
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
           <target>最初から全てのレベルで遊ぶことができます。（進行状況は保存されます。）</target>
         </trans-unit>
-        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="no">
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
           <source>Press Enter to Continue</source>
-          <target state="translated">続けるにはEnterを押してください</target>
+          <target>続けるにはEnterを押してください</target>
         </trans-unit>
-        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="no">
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
           <source>Click to Continue</source>
-          <target state="translated">続けるにはクリックしてください</target>
+          <target>続けるにはクリックしてください</target>
         </trans-unit>
-        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="no">
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
           <source>Tap to Continue</source>
-          <target state="translated">続けるにはタップしてください</target>
+          <target>続けるにはタップしてください</target>
         </trans-unit>
-        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="no">
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
-          <target state="translated">続けるには&lt;sprite name="controller_icons_100"&gt;を押してください</target>
+          <target>続けるには&lt;sprite name="controller_icons_100"&gt;を押してください</target>
         </trans-unit>
-        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="no">
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
           <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
-          <target state="translated">続けるには&lt;sprite name="controller_icons_37"&gt;を押してください</target>
+          <target>続けるには&lt;sprite name="controller_icons_37"&gt;を押してください</target>
         </trans-unit>
-        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="no">
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
-          <target state="translated">続けるには&lt;sprite name="controller_icons_60"&gt;を押してください</target>
+          <target>続けるには&lt;sprite name="controller_icons_60"&gt;を押してください</target>
         </trans-unit>
         <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
           <source>Font Style</source>
@@ -324,29 +324,29 @@
           <source>Changelog</source>
           <target>更新履歴</target>
         </trans-unit>
-        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="no">
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
           <source>Green Grasslands</source>
-          <target state="translated">緑の草原</target>
+          <target>緑の草原</target>
         </trans-unit>
-        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="no">
+        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
           <source>Cloudy Courseway</source>
-          <target state="translated">雲間の道</target>
+          <target>雲間の道</target>
         </trans-unit>
         <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
           <source>Retro Ridge</source>
           <target>悠久の山岳</target>
         </trans-unit>
-        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="no">
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
           <source>Magical Metropolis</source>
-          <target state="translated">魔法の都</target>
+          <target>魔法の都</target>
         </trans-unit>
-        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="no">
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
           <source>Crystal Caverns</source>
-          <target state="translated">水晶の洞窟</target>
+          <target>水晶の洞窟</target>
         </trans-unit>
-        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="no">
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
           <source>Space Sojourn</source>
-          <target state="translated">星の旅路</target>
+          <target>星の旅路</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
           <source>Sunrise Vista</source>
@@ -372,21 +372,21 @@
           <source>Winged Airways</source>
           <target>空中散歩</target>
         </trans-unit>
-        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="no">
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
           <source>Twilight Flight</source>
-          <target state="translated">黄昏飛行</target>
+          <target>黄昏飛行</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
           <target>制作：DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2" approved="no">
+        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
           <source>Programming: DDRKirby(ISQ)
 Design: DDRKirby(ISQ)
 Music: DDRKirby(ISQ)
 Sfx: DDRKirby(ISQ)
 Graphics: DDRKirby(ISQ)</source>
-          <target state="translated">プログラミング：DDRKirby(ISQ)
+          <target>プログラミング：DDRKirby(ISQ)
 デザイン：DDRKirby(ISQ)
 音楽：DDRKirby(ISQ)
 効果音：DDRKirby(ISQ)
@@ -408,9 +408,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Paused</source>
           <target>一時停止中</target>
         </trans-unit>
-        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete" approved="no">
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
           <source>Level Complete</source>
-          <target state="translated">レベル クリア</target>
+          <target>レベル クリア</target>
         </trans-unit>
         <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
           <source>Language</source>
@@ -440,9 +440,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Attack</source>
           <target>攻撃</target>
         </trans-unit>
-        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="no">
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
           <source>Press a key</source>
-          <target state="translated">キーを押してください</target>
+          <target>キーを押してください</target>
         </trans-unit>
         <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
           <source>Select a key to use for &lt;Attack&gt;.</source>
@@ -480,10 +480,10 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Reset Game Data</source>
           <target>ゲームデータリセット</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="no">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target state="translated">保存されたゲームデータが全て消去されます。
+          <target>保存されたゲームデータが全て消去されます。
 本当によろしいですか？</target>
         </trans-unit>
         <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
@@ -576,29 +576,29 @@ Otherwise, adjust manually until synced.</source>
           <source>Audio Lag Calibration</source>
           <target>オーディオ遅延の校正</target>
         </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard" approved="no">
+        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
           <source>Press any key or click in time with the beeps</source>
-          <target state="translated">ピー音に合わせてSpaceを押してください</target>
+          <target>ピー音に合わせてSpaceを押してください</target>
         </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse" approved="no">
+        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
           <source>Press any key or click in time with the beeps</source>
-          <target state="translated">ピー音に合わせてクリックしてください</target>
+          <target>ピー音に合わせてクリックしてください</target>
         </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="no">
+        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
           <source>Tap in time with the beeps</source>
-          <target state="translated">ピー音に合わせてタップしてください</target>
+          <target>ピー音に合わせてタップしてください</target>
         </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox" approved="no">
+        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
           <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target state="translated">ピー音に合わせて &lt;sprite name="controller_icons_100"&gt; を押してください</target>
+          <target>ピー音に合わせて &lt;sprite name="controller_icons_100"&gt; を押してください</target>
         </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation" approved="no">
+        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
           <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target state="translated">ピー音に合わせて &lt;sprite name="controller_icons_37"&gt; を押してください</target>
+          <target>ピー音に合わせて &lt;sprite name="controller_icons_37"&gt; を押してください</target>
         </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch" approved="no">
+        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
           <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target state="translated">ピー音に合わせて &lt;sprite name="controller_icons_60"&gt; を押してください</target>
+          <target>ピー音に合わせて &lt;sprite name="controller_icons_60"&gt; を押してください</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
           <source>Yes (Recommended)</source>
@@ -624,9 +624,9 @@ Otherwise, adjust manually until synced.</source>
           <source>Unavailable</source>
           <target>利用不可</target>
         </trans-unit>
-        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="no">
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
           <source>Perfect Clear!</source>
-          <target state="translated">パーフェクト クリア！</target>
+          <target>パーフェクト クリア！</target>
         </trans-unit>
         <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
           <source>Respawns: {0}</source>
@@ -644,11 +644,11 @@ Otherwise, adjust manually until synced.</source>
           <source>Cancel</source>
           <target>キャンセル</target>
         </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed" approved="no">
+        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
           <source>Calibration failed -- try again!
 Focus on matching the sound of your tap to the beep.
 (green = good)</source>
-          <target state="translated">校正に失敗しました。もう一回！
+          <target>校正に失敗しました。もう一回！
 ビー音とタップ音を合わせることを意識してください。
 （緑＝good）</target>
         </trans-unit>
@@ -694,9 +694,9 @@ Remaining:</source>
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
           <target>&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} で購入しますか?</target>
         </trans-unit>
-        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
           <source>Take It to the Limit</source>
-          <target state="translated">Take It to the Limit</target>
+          <target>Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -710,9 +710,9 @@ Remaining:</source>
           <source>Play</source>
           <target>プレイ</target>
         </trans-unit>
-        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
           <source>What Lies Beneath</source>
-          <target state="translated">What Lies Beneath</target>
+          <target>What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -722,17 +722,17 @@ Remaining:</source>
           <source>Enchanted Oasis</source>
           <target>魔法のオアシス</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer</source>
-          <target state="translated">ゲームプレイトレーラー</target>
+          <target>ゲームプレイトレーラー</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
           <target>白銀の嶺</target>
         </trans-unit>
-        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5" approved="no">
+        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
           <source>Stratosphere</source>
-          <target state="translated">成層圏へ</target>
+          <target>成層圏へ</target>
         </trans-unit>
         <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
           <source>Wishlist on Steam</source>
@@ -754,10 +754,10 @@ Remaining:</source>
           <source>World {0} &gt;</source>
           <target>World {0} &gt;</target>
         </trans-unit>
-        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame" approved="no">
+        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
           <source>Adjusts audio latency calibration.
 Lower if audio is too early. Raise if audio is too late.</source>
-          <target state="translated">オーディオの遅延を調整します。
+          <target>オーディオの遅延を調整します。
 オーディオが早い場合は下げ、遅い場合は上げてください。</target>
         </trans-unit>
         <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
@@ -780,17 +780,17 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <source>Gearwheel Factory</source>
           <target>歯車工場</target>
         </trans-unit>
-        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="no">
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
           <source>Outerworld Highway</source>
-          <target state="translated">異界のハイウェイ</target>
+          <target>異界のハイウェイ</target>
         </trans-unit>
         <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
           <source>Misty Meadow</source>
           <target>霧の草地</target>
         </trans-unit>
-        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation" approved="no">
+        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
           <source>Copy Protection Violation detected!</source>
-          <target state="translated">コピープロテクト違反が検出されました！</target>
+          <target>コピープロテクト違反が検出されました！</target>
         </trans-unit>
         <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
           <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
@@ -826,14 +826,14 @@ Firefoxの場合、refererヘッダーの設定を確認することもできま
           <source>Welcome to the Rhythm Quest Demo!</source>
           <target>Rhythm Quest Demo へようこそ！</target>
         </trans-unit>
-        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice" approved="no">
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
 
 If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Have fun, and thanks for playing!
                                                                 --DDRKirby(ISQ)</source>
-          <target state="translated">これは Rhythm Quest の初期のデモビルドです。そのため一部のレベルのみ遊ぶことができます。また、ゲーム内の全ては変更される可能性があります。
+          <target>これは Rhythm Quest の初期のデモビルドです。そのため一部のレベルのみ遊ぶことができます。また、ゲーム内の全ては変更される可能性があります。
 
 Steamのウィッシュリストに追加、メーリングリストやDiscordの登録は&lt;u&gt;rhythmquestgame.com&lt;/u&gt;にアクセスして確認してください。
 
@@ -880,25 +880,25 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Wishlist and follow Rhythm Quest online for future updates!</source>
           <target>ウィッシュリストに追加して Rhythm Quest をフォローし、今後のアップデートをお待ちください！</target>
         </trans-unit>
-        <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description" approved="no">
+        <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description">
           <source>Resolution and screen mode settings.</source>
-          <target state="translated">解像度とスクリーンモードの設定。</target>
+          <target>解像度とスクリーンモードの設定。</target>
         </trans-unit>
-        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description" approved="no">
+        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description">
           <source>Zoom and scale settings.</source>
-          <target state="translated">ズームと縮尺の設定。</target>
+          <target>ズームと縮尺の設定。</target>
         </trans-unit>
-        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects" approved="no">
+        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects">
           <source>Visual effects and readability settings.</source>
-          <target state="translated">視覚効果と可読性の設定。</target>
+          <target>視覚効果と可読性の設定。</target>
         </trans-unit>
         <trans-unit id="123203967791181824" xml:space="preserve" resname="menu_settings_resolution">
           <source>Resolution Settings...</source>
           <target>解像度設定...</target>
         </trans-unit>
-        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata" approved="no">
+        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata">
           <source>Data Reset...</source>
-          <target state="translated">データリセット...</target>
+          <target>データリセット...</target>
         </trans-unit>
         <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description">
           <source>Resets settings to default values.</source>
@@ -958,13 +958,13 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
           <target>音楽とゲームプレイが同期するように遅延を校正します。</target>
         </trans-unit>
-        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack" approved="no">
+        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack">
           <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
-          <target state="translated">&lt;sprite name="{0}" tint=1 color=#{2}&gt; か &lt;sprite name="{1}" tint=1 color=#{2}&gt; で攻撃します。</target>
+          <target>&lt;sprite name="{0}" tint=1 color=#{2}&gt; か &lt;sprite name="{1}" tint=1 color=#{2}&gt; で攻撃します。</target>
         </trans-unit>
-        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump" approved="no">
+        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump">
           <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</source>
-          <target state="translated">&lt;sprite name="{0}" tint=1 color=#{2}&gt; か &lt;sprite name="{1}" tint=1 color=#{2}&gt; でジャンプします。</target>
+          <target>&lt;sprite name="{0}" tint=1 color=#{2}&gt; か &lt;sprite name="{1}" tint=1 color=#{2}&gt; でジャンプします。</target>
         </trans-unit>
         <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics">
           <source>Haptic Feedback Settings...</source>
@@ -1006,9 +1006,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Enables vibration for ui elements.</source>
           <target>UIによる振動を有効にします。</target>
         </trans-unit>
-        <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description" approved="no">
+        <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
-          <target state="translated">触覚振動フィードバックの設定。</target>
+          <target>触覚振動フィードバックの設定。</target>
         </trans-unit>
         <trans-unit id="126828106082988032" xml:space="preserve" resname="settings_menu_audiocues_description">
           <source>Adjust audio-based cues for the blind and visually impaired.</source>
@@ -1106,9 +1106,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Read Only</source>
           <target>読み上げのみ</target>
         </trans-unit>
-        <trans-unit id="134460336959696896" xml:space="preserve" resname="settings_screenreadermode_full" approved="no">
+        <trans-unit id="134460336959696896" xml:space="preserve" resname="settings_screenreadermode_full">
           <source>Full</source>
-          <target state="translated">全て</target>
+          <target>全て</target>
         </trans-unit>
         <trans-unit id="134464696317947904" xml:space="preserve" resname="settings_menu_screenreadermode_description">
           <source>Control screenreader functionality and navigation.</source>
@@ -1154,13 +1154,13 @@ Would you like to enable screen reader mode?
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
           <target>目の不自由な方向けの、音声合図を有効にします。</target>
         </trans-unit>
-        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_desktop_attack_uap" approved="no">
+        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_desktop_attack_uap">
           <source>Press {0} or {1} to Attack.</source>
-          <target state="translated">{0} か {1} を押すと攻撃します。</target>
+          <target>{0} か {1} を押すと攻撃します。</target>
         </trans-unit>
-        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_desktop_jump_uap" approved="no">
+        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_desktop_jump_uap">
           <source>Press {0} or {1} to Jump.</source>
-          <target state="translated">{0} か {1} を押すとジャンプします。</target>
+          <target>{0} か {1} を押すとジャンプします。</target>
         </trans-unit>
         <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button">
           <source>right mouse button</source>
@@ -1202,21 +1202,21 @@ Would you like to enable screen reader mode?
           <source>square</source>
           <target>四角</target>
         </trans-unit>
-        <trans-unit id="138033177714012160" xml:space="preserve" resname="tutorial_mobile_jump_normal_uap" approved="no">
+        <trans-unit id="138033177714012160" xml:space="preserve" resname="tutorial_mobile_jump_normal_uap">
           <source>Tap the left side of the screen to Jump.</source>
-          <target state="translated">画面の左半分をタップしてジャンプ。</target>
+          <target>画面の左半分をタップしてジャンプ。</target>
         </trans-unit>
-        <trans-unit id="138033286258405376" xml:space="preserve" resname="tutorial_mobile_jump_flipped_uap" approved="no">
+        <trans-unit id="138033286258405376" xml:space="preserve" resname="tutorial_mobile_jump_flipped_uap">
           <source>Tap the right side of the screen to Jump.</source>
-          <target state="translated">画面の右半分をタップしてジャンプ。</target>
+          <target>画面の右半分をタップしてジャンプ。</target>
         </trans-unit>
-        <trans-unit id="138033288263282688" xml:space="preserve" resname="tutorial_mobile_attack_normal_uap" approved="no">
+        <trans-unit id="138033288263282688" xml:space="preserve" resname="tutorial_mobile_attack_normal_uap">
           <source>Tap the right side of the screen to Attack.</source>
-          <target state="translated">画面の右半分をタップして攻撃。</target>
+          <target>画面の右半分をタップして攻撃。</target>
         </trans-unit>
-        <trans-unit id="138033289026646016" xml:space="preserve" resname="tutorial_mobile_attack_flipped_uap" approved="no">
+        <trans-unit id="138033289026646016" xml:space="preserve" resname="tutorial_mobile_attack_flipped_uap">
           <source>Tap the left side of the screen to Attack.</source>
-          <target state="translated">画面の左半分をタップして攻撃。</target>
+          <target>画面の左半分をタップして攻撃。</target>
         </trans-unit>
         <trans-unit id="138034608860868608" xml:space="preserve" resname="controller_sr">
           <source>SR</source>
@@ -1258,17 +1258,17 @@ Would you like to enable screen reader mode?
           <source>Always</source>
           <target>非表示</target>
         </trans-unit>
-        <trans-unit id="157189963332444160" xml:space="preserve" resname="settings_hidecursor_description_never" approved="no">
+        <trans-unit id="157189963332444160" xml:space="preserve" resname="settings_hidecursor_description_never">
           <source>Never hide mouse cursor.</source>
-          <target state="translated">マウスカーソルを常に表示します。</target>
+          <target>マウスカーソルを常に表示します。</target>
         </trans-unit>
-        <trans-unit id="157189966771773440" xml:space="preserve" resname="settings_hidecursor_description_in_game" approved="no">
+        <trans-unit id="157189966771773440" xml:space="preserve" resname="settings_hidecursor_description_in_game">
           <source>Hide mouse cursor during gameplay.</source>
-          <target state="translated">ゲームをプレイしている間、マウスカーソルを非表示にします。</target>
+          <target>ゲームをプレイしている間、マウスカーソルを非表示にします。</target>
         </trans-unit>
-        <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always" approved="no">
+        <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always">
           <source>Always hide mouse cursor.</source>
-          <target state="translated">マウスカーソルを常に非表示します。</target>
+          <target>マウスカーソルを常に非表示します。</target>
         </trans-unit>
         <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor">
           <source>Hide Cursor</source>
@@ -1434,25 +1434,25 @@ Would you like to enable screen reader mode?
           <source>Gleaming Glassway</source>
           <target>キラキラガラスロード</target>
         </trans-unit>
-        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2" approved="no">
+        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
           <source>Sunken Street</source>
-          <target state="translated">沈んだ街道</target>
+          <target>沈んだ街道</target>
         </trans-unit>
-        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3" approved="no">
+        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
           <source>Crossway Corridor</source>
-          <target state="translated">交差する回廊</target>
+          <target>交差する回廊</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
           <source>Planar Puzzle</source>
-          <target state="translated">幾何学のパズル</target>
+          <target>幾何学のパズル</target>
         </trans-unit>
-        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="no">
+        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
           <source>Brilliant Boulevard</source>
-          <target state="translated">煌びやかな大通り</target>
+          <target>煌びやかな大通り</target>
         </trans-unit>
-        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2" approved="no">
+        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
           <source>Speedy Starfield</source>
-          <target state="translated">加速する星空</target>
+          <target>加速する星空</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -1486,21 +1486,21 @@ Would you like to enable screen reader mode?
           <source>Gamepad Config</source>
           <target>ゲームパッド設定</target>
         </trans-unit>
-        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default" approved="no">
+        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default">
           <source>Use default keyboard bindings.</source>
-          <target state="translated">デフォルトのキーボードバインディングを使用する。</target>
+          <target>デフォルトのキーボードバインディングを使用する。</target>
         </trans-unit>
-        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom" approved="no">
+        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom">
           <source>Use custom keyboard bindings.</source>
-          <target state="translated">カスタムキーボードバインディングを使用する。</target>
+          <target>カスタムキーボードバインディングを使用する。</target>
         </trans-unit>
-        <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default" approved="no">
+        <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default">
           <source>Use default gamepad bindings.</source>
-          <target state="translated">デフォルトのゲームパッドバインディングを使用する。</target>
+          <target>デフォルトのゲームパッドバインディングを使用する。</target>
         </trans-unit>
-        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom" approved="no">
+        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom">
           <source>Use custom gamepad bindings.</source>
-          <target state="translated">カスタムゲームパッドバインディングを使用する。</target>
+          <target>カスタムゲームパッドバインディングを使用する。</target>
         </trans-unit>
         <trans-unit id="249848469561061376" xml:space="preserve" resname="released_early">
           <source>Released Early</source>
@@ -1536,9 +1536,9 @@ Please connect a supported gamepad device.</source>
           <source>Reduces some background effects to improve framerate.</source>
           <target>フレームレートを向上させるために背景エフェクトを一部減らす。</target>
         </trans-unit>
-        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal" approved="no">
+        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal">
           <source>Full graphics quality.</source>
-          <target state="translated">フルグラフィック品質。</target>
+          <target>フルグラフィック品質。</target>
         </trans-unit>
         <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality">
           <source>Graphics Quality</source>
@@ -1708,9 +1708,9 @@ Please connect a supported gamepad device.</source>
           <source>Game will continue running when unfocused.</source>
           <target>フォーカスが外れてもゲームは続行されます。</target>
         </trans-unit>
-        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description" approved="no">
+        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description">
           <source>Manage and reset save data.</source>
-          <target state="translated">セーブデータの管理とリセット。</target>
+          <target>セーブデータの管理とリセット。</target>
         </trans-unit>
         <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete">
           <source>Delete</source>
@@ -1724,10 +1724,10 @@ Please connect a supported gamepad device.</source>
           <source>Adds a timeline display for expected inputs.</source>
           <target>タイムラインに入力のタイミング表示を挿入する。</target>
         </trans-unit>
-        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description" approved="no">
+        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description">
           <source>&lt;color=#ffff00&gt;Basic Enemies&lt;/color&gt;
 Click to insert red or green basic enemies.</source>
-          <target state="translated">&lt;color=#ffff00&gt;ベーシックな敵&lt;/color&gt;
+          <target>&lt;color=#ffff00&gt;ベーシックな敵&lt;/color&gt;
 クリックで赤または緑のベーシックな敵を挿入します。</target>
         </trans-unit>
         <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description">
@@ -1778,21 +1778,21 @@ Click to insert purple 3-hit ghost enemies.</source>
           <target>&lt;color=#ffff00&gt;お化けの敵&lt;/color&gt;
 クリックで紫の３回攻撃する敵を挿入します。</target>
         </trans-unit>
-        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy" approved="no">
+        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy">
           <source>Insert basic enemy at beat {0}</source>
-          <target state="translated">ビート {0} にベーシックな敵を挿入する</target>
+          <target>ビート {0} にベーシックな敵を挿入する</target>
         </trans-unit>
-        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy" approved="no">
+        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy">
           <source>Insert double hit enemy at beat {0}</source>
-          <target state="translated">ビート {0} に２回攻撃する敵を挿入する</target>
+          <target>ビート {0} に２回攻撃する敵を挿入する</target>
         </trans-unit>
-        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy" approved="no">
+        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy">
           <source>Insert ghost enemy at beat {0}</source>
-          <target state="translated">ビート {0} にお化けの敵を挿入する</target>
+          <target>ビート {0} にお化けの敵を挿入する</target>
         </trans-unit>
-        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint" approved="no">
+        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint">
           <source>Insert checkpoint at beat {0}</source>
-          <target state="translated">ビート {0} にチェックポイントを挿入する</target>
+          <target>ビート {0} にチェックポイントを挿入する</target>
         </trans-unit>
         <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description">
           <source>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
@@ -1800,25 +1800,25 @@ Click to insert checkpoints.</source>
           <target>&lt;color=#ffff00&gt;チェックポイント&lt;/color&gt;
 クリックしてチェックポイントを挿入します。チェックポイントをクリックするとプロパティを編集できます。</target>
         </trans-unit>
-        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump" approved="no">
+        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump">
           <source>Insert jump at beat {0}</source>
-          <target state="translated">ビート {0} にジャンプを挿入する</target>
+          <target>ビート {0} にジャンプを挿入する</target>
         </trans-unit>
-        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath" approved="no">
+        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath">
           <source>Insert flight path from beat {0} to {1}</source>
-          <target state="translated">ビート {0} から {1} に飛行経路を挿入する</target>
+          <target>ビート {0} から {1} に飛行経路を挿入する</target>
         </trans-unit>
-        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp" approved="no">
+        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp">
           <source>Edit ramp from beat {0} to {1}</source>
-          <target state="translated">ビート {0} から {1} の傾きを編集する</target>
+          <target>ビート {0} から {1} の傾きを編集する</target>
         </trans-unit>
-        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor" approved="no">
+        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor">
           <source>Insert floor at beat {0}</source>
-          <target state="translated">ビート {0} にセクションを挿入する</target>
+          <target>ビート {0} にセクションを挿入する</target>
         </trans-unit>
-        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor" approved="no">
+        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor">
           <source>Delete floor from beat {0} to {1}</source>
-          <target state="translated">ビート {0} から {1} のセクションを削除する</target>
+          <target>ビート {0} から {1} のセクションを削除する</target>
         </trans-unit>
         <trans-unit id="277028911993106432" xml:space="preserve" resname="editor_undo">
           <source>Undo: {0}</source>
@@ -1828,17 +1828,17 @@ Click to insert checkpoints.</source>
           <source>Redo: {0}</source>
           <target>やり直す： {0}</target>
         </trans-unit>
-        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete" approved="no">
+        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete">
           <source>Delete {0} at beat {1}</source>
-          <target state="translated">ビート{1} の {0} を削除する</target>
+          <target>ビート{1} の {0} を削除する</target>
         </trans-unit>
-        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone" approved="no">
+        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone">
           <source>Insert water zone from beat {0} to {1}</source>
-          <target state="translated">ビート {0} から {1} に水域を挿入する</target>
+          <target>ビート {0} から {1} に水域を挿入する</target>
         </trans-unit>
-        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone" approved="no">
+        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone">
           <source>Insert speed zone from beat {0} to {1}</source>
-          <target state="translated">ビート {0} から {1} にスピードゾーンを挿入する</target>
+          <target>ビート {0} から {1} にスピードゾーンを挿入する</target>
         </trans-unit>
         <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
           <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
@@ -1856,13 +1856,13 @@ Click and drag to insert speed zones.</source>
           <source>Scroll speed: Section {0}</source>
           <target>スクロール速度：セクション {0}</target>
         </trans-unit>
-        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed" approved="no">
+        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed">
           <source>Change scroll speed for section {0}</source>
-          <target state="translated">セクション {0} のスクロール速度を変更する</target>
+          <target>セクション {0} のスクロール速度を変更する</target>
         </trans-unit>
-        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy" approved="no">
+        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy">
           <source>Insert spike enemy at beat {0}</source>
-          <target state="translated">ビート {0} にトゲの敵を挿入する</target>
+          <target>ビート {0} にトゲの敵を挿入する</target>
         </trans-unit>
         <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description">
           <source>&lt;color=#ffff00&gt;Spike Enemies&lt;/color&gt;
@@ -1870,9 +1870,9 @@ Click to insert spike enemy jumps.</source>
           <target>&lt;color=#ffff00&gt;トゲの敵&lt;/color&gt;
 クリックしてトゲの敵を挿入します。</target>
         </trans-unit>
-        <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy" approved="no">
+        <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy">
           <source>Basic Enemies</source>
-          <target state="translated">ベーシックな敵</target>
+          <target>ベーシックな敵</target>
         </trans-unit>
         <trans-unit id="283376598619303936" xml:space="preserve" resname="editor_tooltip_flightpath">
           <source>Flight Paths</source>
@@ -2018,9 +2018,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>First beat time:</source>
           <target>最初の拍子:</target>
         </trans-unit>
-        <trans-unit id="287731443216199680" xml:space="preserve" resname="editor_input_bpm" approved="no">
+        <trans-unit id="287731443216199680" xml:space="preserve" resname="editor_input_bpm">
           <source>Beats per minute:</source>
-          <target state="translated">1 分あたりの拍数 (BPM)：</target>
+          <target>1 分あたりの拍数 (BPM)：</target>
         </trans-unit>
         <trans-unit id="287740139530924032" xml:space="preserve" resname="editor_button_musicautodetect">
           <source>Auto-detect</source>
@@ -2038,9 +2038,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>Filesize: {0}</source>
           <target>ファイルサイズ: {0}</target>
         </trans-unit>
-        <trans-unit id="287815658003804160" xml:space="preserve" resname="editor_input_beatspermeasure" approved="no">
+        <trans-unit id="287815658003804160" xml:space="preserve" resname="editor_input_beatspermeasure">
           <source>Beats per measure:</source>
-          <target state="translated">1 小節あたりの拍数：</target>
+          <target>1 小節あたりの拍数：</target>
         </trans-unit>
         <trans-unit id="299037457861357568" xml:space="preserve" resname="editor_button_loadlevel">
           <source>Load</source>
@@ -2070,9 +2070,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>New level created</source>
           <target>新しいレベルを作成しました</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="no">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
           <source>File...</source>
-          <target state="translated">ファイル...</target>
+          <target>ファイル...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2102,10 +2102,10 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>Edit level metadata</source>
           <target>レベルのメタデータを編集</target>
         </trans-unit>
-        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges" approved="no">
+        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges">
           <source>You have unsaved changes!
 Do you want to save them first?</source>
-          <target state="translated">保存されていない変更があります！
+          <target>保存されていない変更があります！
 保存しますか？</target>
         </trans-unit>
         <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges">
@@ -2116,9 +2116,9 @@ Do you want to save them first?</source>
           <source>Don't Save</source>
           <target>保存しない</target>
         </trans-unit>
-        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings" approved="no">
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
           <source>Settings...</source>
-          <target state="translated">設定...</target>
+          <target>設定...</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -2160,9 +2160,9 @@ Do you want to save them first?</source>
           <source>jump (down)</source>
           <target>ジャンプ(下)</target>
         </trans-unit>
-        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy" approved="no">
+        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy">
           <source>basic enemy</source>
-          <target state="translated">ベーシックな敵</target>
+          <target>ベーシックな敵</target>
         </trans-unit>
         <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone">
           <source>speed zone</source>
@@ -2314,9 +2314,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Open levels folder</source>
           <target>レベルフォルダを開く</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot" approved="no">
+        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot">
           <source>Back to (All Levels)</source>
-          <target state="translated">(全てのレベル) に戻る</target>
+          <target>(全てのレベル) に戻る</target>
         </trans-unit>
         <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
           <source>Back to {0}</source>
@@ -2354,1021 +2354,1032 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>by {0}</source>
           <target>作成者： {0}</target>
         </trans-unit>
-        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="no">
-          <source>Spellbound Nebula</source>
-          <target state="translated">星雲に誘われて</target>
+        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
+          <source>Export</source>
+          <target>書き出し</target>
         </trans-unit>
-        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
-          <source>Controls...</source>
-          <target>コントロール...</target>
+        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export">
+          <source>Level exported: {0}</source>
+          <target>レベルが書き出されました：{0}</target>
         </trans-unit>
-      </group>
-    </body>
-  </file>
-  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="ja" datatype="plaintext">
-    <body>
-      <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing" approved="no">
-        <source>Couldn't find music for this level</source>
-        <target state="translated">このレベルの音楽が見つかりませんでした</target>
-      </trans-unit>
-      <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth" approved="no">
-        <source>fast ghost enemy</source>
-        <target state="translated">速いお化けの敵</target>
-      </trans-unit>
-      <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth" approved="no">
-        <source>Insert fast ghost enemy at beat {0}</source>
-        <target state="translated">ビート {0} に速いお化けの敵を挿入する</target>
-      </trans-unit>
-      <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header" approved="no">
-        <source>Jump to Checkpoint</source>
-        <target state="translated">チェックポイントにジャンプする</target>
-      </trans-unit>
-      <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip" approved="no">
-        <source>Preview Clip...</source>
-        <target state="translated">クリップのプレビュー...</target>
-      </trans-unit>
-      <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime" approved="no">
-        <source>Preview start time:</source>
-        <target state="translated">プレビューの開始時間：</target>
-      </trans-unit>
-      <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime" approved="no">
-        <source>Preview end time:</source>
-        <target state="translated">プレビューの終了時間：</target>
-      </trans-unit>
-      <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview" approved="no">
-        <source>Play Preview</source>
-        <target state="translated">プレビューのプレイ</target>
-      </trans-unit>
-      <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration" approved="no">
-        <source>Preview Duration: {0} seconds</source>
-        <target state="translated">プレビュー時間：{0}秒</target>
-      </trans-unit>
-      <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount" approved="no">
-        <source>({0} Levels)</source>
-        <target state="translated">（{0}レベル）</target>
-      </trans-unit>
-      <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported" approved="no">
-        <source>Already in custom level directory</source>
-        <target state="translated">すでにカスタムレベルディレクトリに存在します</target>
-      </trans-unit>
-      <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading" approved="no">
-        <source>Downloading...</source>
-        <target state="translated">ダウンロード中...</target>
-      </trans-unit>
-      <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile" approved="no">
-        <source>Missing {0} file</source>
-        <target state="translated">{0}個のファイルが見つかりません</target>
-      </trans-unit>
-      <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists" approved="no">
-        <source>File already exists:</source>
-        <target state="translated">ファイルが既に存在しています：</target>
-      </trans-unit>
-      <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting" approved="no">
-        <source>Extracting...</source>
-        <target state="translated">抽出中...</target>
-      </trans-unit>
-      <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded" approved="no">
-        <source>No music included</source>
-        <target state="translated">音楽が含まれていません</target>
-      </trans-unit>
-      <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success" approved="no">
-        <source>Success</source>
-        <target state="translated">成功</target>
-      </trans-unit>
-      <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse" approved="no">
-        <source>Browse from disk</source>
-        <target state="translated">ディスクから参照</target>
-      </trans-unit>
-      <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop" approved="no">
-        <source>Drag .rqzip files here</source>
-        <target state="translated">.rqzipファイルをここにドラッグしてください</target>
-      </trans-unit>
-      <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or" approved="no">
-        <source>or</source>
-        <target state="translated">もしくは</target>
-      </trans-unit>
-      <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio" approved="no">
-        <source>Browse custom levels on mod.io</source>
-        <target state="translated">mod.io でカスタムレベルをブラウズ</target>
-      </trans-unit>
-      <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput" approved="no">
-        <source>Enter one or more URL(s) to .rqzip files to download:
-(place each URL on a separate line)</source>
-        <target state="translated">ダウンロードする.rqzipファイルのURLを1つ以上入力してください：
-（各URLは改行で区切ってください）</target>
-      </trans-unit>
-      <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth" approved="no">
-        <source>Fast Ghost Enemies</source>
-        <target state="translated">速いお化けの敵</target>
-      </trans-unit>
-      <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics" approved="no">
-        <source>Graphics</source>
-        <target state="translated">グラフィック</target>
-      </trans-unit>
-      <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata" approved="no">
-        <source>Edit level graphics</source>
-        <target state="translated">レベルグラフィックの編集</target>
-      </trans-unit>
-      <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset" approved="no">
-        <source>Tile Set</source>
-        <target state="translated">タイルセット</target>
-      </trans-unit>
-      <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset" approved="no">
-        <source>Backdrop Set</source>
-        <target state="translated">背景セット</target>
-      </trans-unit>
-      <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass" approved="no">
-        <source>Green Grasslands (+ grass)</source>
-        <target state="translated">緑の草原（+ 草）</target>
-      </trans-unit>
-      <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch" approved="no">
-        <source>Sfx Pitch...</source>
-        <target state="translated">効果音のピッチ...</target>
-      </trans-unit>
-      <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description" approved="no">
-        <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
-Click on a checkpoint section to edit its color palette.</source>
-        <target state="translated">&lt;color=#ffff00&gt;パレット&lt;/color&gt;
-チェックポイントをクリックして、カラーパレットを編集します。</target>
-      </trans-unit>
-      <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette" approved="no">
-        <source>Palettes</source>
-        <target state="translated">パレット</target>
-      </trans-unit>
-      <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="no">
-        <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
-Click on a checkpoint section to edit its particle effects.</source>
-        <target state="translated">&lt;color=#ffff00&gt;パーティクル&lt;/color&gt;
-チェックポイントをクリックして、パーティクルエフェクトを編集します。</target>
-      </trans-unit>
-      <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles" approved="no">
-        <source>Particles</source>
-        <target state="translated">パーティクル</target>
-      </trans-unit>
-      <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title" approved="no">
-        <source>Particles: Section {0}</source>
-        <target state="translated">パーティクル：セクション {0}</target>
-      </trans-unit>
-      <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title" approved="no">
-        <source>Palette: Section {0}</source>
-        <target state="translated">パレット：セクション {0}</target>
-      </trans-unit>
-      <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles" approved="no">
-        <source>Change particle effects for section {0}</source>
-        <target state="translated">セクション {0} のパーティクルエフェクトの変更</target>
-      </trans-unit>
-      <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none" approved="no">
-        <source>None</source>
-        <target state="translated">無し</target>
-      </trans-unit>
-      <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves" approved="no">
-        <source>Leaves</source>
-        <target state="translated">葉っぱ</target>
-      </trans-unit>
-      <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds" approved="no">
-        <source>Diamonds</source>
-        <target state="translated">ダイヤモンド</target>
-      </trans-unit>
-      <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow" approved="no">
-        <source>Snow</source>
-        <target state="translated">雪</target>
-      </trans-unit>
-      <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots" approved="no">
-        <source>Dots</source>
-        <target state="translated">ドット</target>
-      </trans-unit>
-      <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars" approved="no">
-        <source>Stars</source>
-        <target state="translated">星</target>
-      </trans-unit>
-      <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals" approved="no">
-        <source>Petals</source>
-        <target state="translated">花びら</target>
-      </trans-unit>
-      <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails" approved="no">
-        <source>Trails</source>
-        <target state="translated">トレイル</target>
-      </trans-unit>
-      <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain" approved="no">
-        <source>Rain</source>
-        <target state="translated">雨</target>
-      </trans-unit>
-      <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="no">
-        <source>Violet Hyperwave</source>
-        <target state="translated">Violet Hyperwave</target>
-      </trans-unit>
-      <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="no">
-        <source>A Single Leaf Flutters in the Wind</source>
-        <target state="translated">A Single Leaf Flutters in the Wind</target>
-      </trans-unit>
-      <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
-        <source>Super Mega Zero</source>
-        <target state="translated">Super Mega Zero</target>
-      </trans-unit>
-      <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="no">
-        <source>Colors</source>
-        <target state="translated">色</target>
-      </trans-unit>
-      <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls" approved="no">
-        <source>As the Cherry Blossom Falls</source>
-        <target state="translated">As the Cherry Blossom Falls</target>
-      </trans-unit>
-      <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description" approved="no">
-        <source>Adjust the visual position of enemies relative to the beat.</source>
-        <target state="translated">ビートに合わせて敵の表示位置を調整します。</target>
-      </trans-unit>
-      <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing" approved="no">
-        <source>Enemy Spacing</source>
-        <target state="translated">敵の配置</target>
-      </trans-unit>
-      <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure" approved="no">
-        <source>Let's Have an Adventure!</source>
-        <target state="translated">Let's Have an Adventure!</target>
-      </trans-unit>
-      <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows" approved="no">
-        <source>Scaling Windows</source>
-        <target state="translated">タイミングウィンドウのスケール</target>
-      </trans-unit>
-      <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled" approved="no">
-        <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
-        <target state="translated">音楽の速度設定に合わせてタイミングウィンドウの視覚的な幅を調整し、長さを一定に保ちます。高速または低速では、予期せぬ結果が生じる場合があります！</target>
-      </trans-unit>
-      <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls" approved="no">
-        <source>Crimson Halls</source>
-        <target state="translated">Crimson Halls</target>
-      </trans-unit>
-      <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
-        <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-        <target state="translated">障害物の色を変更して、パターンを読みやすくします。</target>
-      </trans-unit>
-      <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="no">
-        <source>Beat Grid</source>
-        <target state="translated">ビートグリッド</target>
-      </trans-unit>
-      <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
-        <source>Color Skins...</source>
-        <target state="translated">色の設定...</target>
-      </trans-unit>
-      <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes" approved="no">
-        <source>Spikes</source>
-        <target state="translated">トゲ</target>
-      </trans-unit>
-      <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings" approved="no">
-        <source>Wings</source>
-        <target state="translated">羽</target>
-      </trans-unit>
-      <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description" approved="no">
-        <source>Change the color of enemies.</source>
-        <target state="translated">敵の色を変更します。</target>
-      </trans-unit>
-      <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description" approved="no">
-        <source>Tweak obstacle color palettes.</source>
-        <target state="translated">障害物のカラーパレットを調整します。</target>
-      </trans-unit>
-      <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits" approved="no">
-        <source>Actions Only</source>
-        <target state="translated">操作のみ</target>
-      </trans-unit>
-      <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all" approved="no">
-        <source>All</source>
-        <target state="translated">全て</target>
-      </trans-unit>
-      <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype" approved="no">
-        <source>Action Type</source>
-        <target state="translated">アクションタイプ</target>
-      </trans-unit>
-      <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly" approved="no">
-        <source>Basic Only</source>
-        <target state="translated">ベーシックのみ</target>
-      </trans-unit>
-      <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset" approved="no">
-        <source>Beat Offset</source>
-        <target state="translated">ビートオフセット</target>
-      </trans-unit>
-      <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description" approved="no">
-        <source>All rolling spikes are colored blue.</source>
-        <target state="translated">全ての転がるトゲを青色にします。</target>
-      </trans-unit>
-      <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description" approved="no">
-        <source>All beat grid markers will be colored according to beat offset.</source>
-        <target state="translated">全てのビートグリッドマーカーを、ビートオフセットに応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description" approved="no">
-        <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
-        <target state="translated">ビートグリッドマーカーを、アクションの種類（ジャンプ/攻撃/両方）に応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="no">
-        <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
-Other enemies colored based on enemy type.</source>
-        <target state="translated">ベーシックな敵を、アクションの種類（攻撃/攻撃+ジャンプ）に応じて赤と緑で色付けします。
-その他の敵は、敵の種類に応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description" approved="no">
-        <source>All enemies colored based on beat offset.</source>
-        <target state="translated">全ての敵を、ビートオフセットに応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description" approved="no">
-        <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
-        <target state="translated">全ての敵を、アクションの種類（攻撃/攻撃+ジャンプ）に応じて赤と緑で色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="no">
-        <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
-        <target state="translated">転がるトゲを、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="no">
-        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-        <target state="translated">空中ジャンプの羽を青色に、飛行経路の羽を緑色にします。</target>
-      </trans-unit>
-      <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description" approved="no">
-        <source>Change the color of floating wings.</source>
-        <target state="translated">浮いている羽の色を変更します。</target>
-      </trans-unit>
-      <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
-        <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-        <target state="translated">全ての羽を、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen" approved="no">
-        <source>Alternate Green</source>
-        <target state="translated">代替の緑</target>
-      </trans-unit>
-      <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description" approved="no">
-        <source>Use default color scheme for obstacles.</source>
-        <target state="translated">障害物のデフォルトカラーパターンを使用します。</target>
-      </trans-unit>
-      <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description" approved="no">
-        <source>Use alternate green color (less blue tinted).</source>
-        <target state="translated">青みが少ない代替の緑色を使用します。</target>
-      </trans-unit>
-      <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing" approved="no">
-        <source>Enemy Spacing...</source>
-        <target state="translated">敵の配置...</target>
-      </trans-unit>
-      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
-        <source>Cosmic Conflux</source>
-        <target state="translated">星々の調和</target>
-      </trans-unit>
-      <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel" approved="no">
-        <source>Export</source>
-        <target state="translated">書き出し</target>
-      </trans-unit>
-      <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export" approved="no">
-        <source>Level exported: {0}</source>
-        <target state="translated">レベルが書き出されました：{0}</target>
-      </trans-unit>
-      <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description" approved="no">
-        <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
+        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing">
+          <source>Couldn't find music for this level</source>
+          <target>このレベルの音楽が見つかりませんでした</target>
+        </trans-unit>
+        <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth">
+          <source>fast ghost enemy</source>
+          <target>速いお化けの敵</target>
+        </trans-unit>
+        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description">
+          <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
 Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
-        <target state="translated">&lt;color=#ffff00&gt;速いお化けの敵&lt;/color&gt;
+          <target>&lt;color=#ffff00&gt;速いお化けの敵&lt;/color&gt;
 クリックで黄色い「付点八分音符」リズムのお化けの敵を挿入します。</target>
-      </trans-unit>
-      <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels" approved="no">
-        <source>Import New Levels</source>
-        <target state="translated">新しいレベルの読み込み</target>
-      </trans-unit>
-      <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload" approved="no">
-        <source>Download failed</source>
-        <target state="translated">ダウンロードに失敗しました</target>
-      </trans-unit>
-      <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu" approved="no">
-        <source>Download from URL(s)</source>
-        <target state="translated">URLからダウンロード</target>
-      </trans-unit>
-      <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels" approved="no">
-        <source>Import new custom levels.
+        </trans-unit>
+        <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth">
+          <source>Insert fast ghost enemy at beat {0}</source>
+          <target>ビート {0} に速いお化けの敵を挿入する</target>
+        </trans-unit>
+        <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth">
+          <source>Fast Ghost Enemies</source>
+          <target>速いお化けの敵</target>
+        </trans-unit>
+        <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header">
+          <source>Jump to Checkpoint</source>
+          <target>チェックポイントにジャンプする</target>
+        </trans-unit>
+        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip">
+          <source>Preview Clip...</source>
+          <target>クリップのプレビュー...</target>
+        </trans-unit>
+        <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime">
+          <source>Preview start time:</source>
+          <target>プレビューの開始時間：</target>
+        </trans-unit>
+        <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime">
+          <source>Preview end time:</source>
+          <target>プレビューの終了時間：</target>
+        </trans-unit>
+        <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview">
+          <source>Play Preview</source>
+          <target>プレビューのプレイ</target>
+        </trans-unit>
+        <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration">
+          <source>Preview Duration: {0} seconds</source>
+          <target>プレビュー時間：{0}秒</target>
+        </trans-unit>
+        <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels">
+          <source>Import New Levels</source>
+          <target>新しいレベルの読み込み</target>
+        </trans-unit>
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+          <source>({0} Levels)</source>
+          <target>（{0}レベル）</target>
+        </trans-unit>
+        <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
+          <source>Already in custom level directory</source>
+          <target>すでにカスタムレベルディレクトリに存在します</target>
+        </trans-unit>
+        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading">
+          <source>Downloading...</source>
+          <target>ダウンロード中...</target>
+        </trans-unit>
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+          <source>Download failed</source>
+          <target>ダウンロードに失敗しました</target>
+        </trans-unit>
+        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
+          <source>Missing {0} file</source>
+          <target>{0}個のファイルが見つかりません</target>
+        </trans-unit>
+        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists">
+          <source>File already exists:</source>
+          <target>ファイルが既に存在しています：</target>
+        </trans-unit>
+        <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting">
+          <source>Extracting...</source>
+          <target>抽出中...</target>
+        </trans-unit>
+        <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded">
+          <source>No music included</source>
+          <target>音楽が含まれていません</target>
+        </trans-unit>
+        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success">
+          <source>Success</source>
+          <target>成功</target>
+        </trans-unit>
+        <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse">
+          <source>Browse from disk</source>
+          <target>ディスクから参照</target>
+        </trans-unit>
+        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu">
+          <source>Download from URL(s)</source>
+          <target>URLからダウンロード</target>
+        </trans-unit>
+        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
+          <source>Drag .rqzip files here</source>
+          <target>.rqzipファイルをここにドラッグしてください</target>
+        </trans-unit>
+        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
+          <source>or</source>
+          <target>もしくは</target>
+        </trans-unit>
+        <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
+          <source>Browse custom levels on mod.io</source>
+          <target>mod.io でカスタムレベルをブラウズ</target>
+        </trans-unit>
+        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
+          <source>Import new custom levels.
 
 You can import levels from:
 - Locally-saved ".rqzip" files
 - Public ".rqzip" URL downloads
 - Fan creations in Steam Workshop</source>
-        <target state="translated">新しいレベルを読みこみます。
+          <target>新しいレベルを読みこみます。
 
 レベルは以下の方法で読みこむことができます：
 - ローカルに保存された.rqzipファイル
 - 公開された.rqzipのURLからダウンロード
 - Steamワークショップ内のファン作品</target>
-      </trans-unit>
-      <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download" approved="no">
-        <source>Download</source>
-        <target state="translated">ダウンロード</target>
-      </trans-unit>
-      <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard" approved="no">
-        <source>Paste from Clipboard</source>
-        <target state="translated">クリップボードから貼り付け</target>
-      </trans-unit>
-      <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription" approved="no">
-        <source>Select the main pitch/key of your song.
+        </trans-unit>
+        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
+          <source>Enter one or more URL(s) to .rqzip files to download:
+(place each URL on a separate line)</source>
+          <target>ダウンロードする.rqzipファイルのURLを1つ以上入力してください：
+（各URLは改行で区切ってください）</target>
+        </trans-unit>
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+          <source>Download</source>
+          <target>ダウンロード</target>
+        </trans-unit>
+        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
+          <source>Paste from Clipboard</source>
+          <target>クリップボードから貼り付け</target>
+        </trans-unit>
+        <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics">
+          <source>Graphics</source>
+          <target>グラフィック</target>
+        </trans-unit>
+        <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata">
+          <source>Edit level graphics</source>
+          <target>レベルグラフィックの編集</target>
+        </trans-unit>
+        <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset">
+          <source>Tile Set</source>
+          <target>タイルセット</target>
+        </trans-unit>
+        <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset">
+          <source>Backdrop Set</source>
+          <target>背景セット</target>
+        </trans-unit>
+        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
+          <source>Green Grasslands (+ grass)</source>
+          <target>緑の草原（+ 草）</target>
+        </trans-unit>
+        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
+          <source>Sfx Pitch...</source>
+          <target>効果音のピッチ...</target>
+        </trans-unit>
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+          <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
-        <target state="translated">曲のメインのピッチ/キーを入力してください。
+          <target>曲のメインのピッチ/キーを入力してください。
 注意： コインの効果音は完全5度で再生されます
 （例：キーがCのとき、コインの音はCとGになります）</target>
-      </trans-unit>
-      <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="no">
-        <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
+        </trans-unit>
+        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
+          <source>Palette: Section {0}</source>
+          <target>パレット：セクション {0}</target>
+        </trans-unit>
+        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
+          <source>Change color palette for section {0}</source>
+          <target>セクション {0} のカラーパレットの変更</target>
+        </trans-unit>
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+          <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
+Click on a checkpoint section to edit its color palette.</source>
+          <target>&lt;color=#ffff00&gt;パレット&lt;/color&gt;
+チェックポイントをクリックして、カラーパレットを編集します。</target>
+        </trans-unit>
+        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
+          <source>Palettes</source>
+          <target>パレット</target>
+        </trans-unit>
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
 Do you still want to continue?</source>
-        <target state="translated">Rhythm Quest のレベルエディターは、現在マウスまたはその他のポインティングデバイスでのみ遊ぶことができます。
+          <target>Rhythm Quest のレベルエディターは、現在マウスまたはその他のポインティングデバイスでのみ遊ぶことができます。
 それでも続行しますか？</target>
-      </trans-unit>
-      <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette" approved="no">
-        <source>Change color palette for section {0}</source>
-        <target state="translated">セクション {0} のカラーパレットの変更</target>
-      </trans-unit>
-      <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="no">
-        <source>Standing Here Alone (Expert Mix)</source>
-        <target state="translated">Standing Here Alone (Expert Mix)</target>
-      </trans-unit>
-      <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description" approved="no">
-        <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
-        <target state="translated">敵の表示位置を調整します（ビートのタイミングウィンドウには影響しません）。</target>
-      </trans-unit>
-      <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled" approved="no">
-        <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
-        <target state="translated">（デフォルト）タイミングウィンドウは視覚的な間隔と一致します。音楽の速度が速いほど、ウィンドウは短くなります。</target>
-      </trans-unit>
-      <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies" approved="no">
-        <source>Enemies</source>
-        <target state="translated">敵</target>
-      </trans-unit>
-      <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description" approved="no">
-        <source>Change the color of floor beat markers.</source>
-        <target state="translated">床のビートマーカーの色を変更します。</target>
-      </trans-unit>
-      <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description" approved="no">
-        <source>Change the color of rolling spike obstacles.</source>
-        <target state="translated">転がるトゲの色を変更します。</target>
-      </trans-unit>
-      <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description" approved="no">
-        <source>Floor beat grid markers match level background colors.</source>
-        <target state="translated">床のビートグリッドマーカーの色をレベルの背景色に合わせます。</target>
-      </trans-unit>
-      <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description" approved="no">
-        <source>Rolling spikes are colored according to beat offset.</source>
-        <target state="translated">転がるトゲをビートオフセットに応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description" approved="no">
-        <source>Beat grid markers with obstacles will be colored according beat offset.</source>
-        <target state="translated">ビートグリッドマーカーに障害物がある場合、ビートオフセットに応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="no">
-        <source>Basic enemies colored based on beat offset.
+        </trans-unit>
+        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
+          <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
+Click on a checkpoint section to edit its particle effects.</source>
+          <target>&lt;color=#ffff00&gt;パーティクル&lt;/color&gt;
+チェックポイントをクリックして、パーティクルエフェクトを編集します。</target>
+        </trans-unit>
+        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
+          <source>Particles</source>
+          <target>パーティクル</target>
+        </trans-unit>
+        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
+          <source>Change particle effects for section {0}</source>
+          <target>セクション {0} のパーティクルエフェクトの変更</target>
+        </trans-unit>
+        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
+          <source>Particles: Section {0}</source>
+          <target>パーティクル：セクション {0}</target>
+        </trans-unit>
+        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
+          <source>None</source>
+          <target>無し</target>
+        </trans-unit>
+        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
+          <source>Leaves</source>
+          <target>葉っぱ</target>
+        </trans-unit>
+        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
+          <source>Diamonds</source>
+          <target>ダイヤモンド</target>
+        </trans-unit>
+        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
+          <source>Snow</source>
+          <target>雪</target>
+        </trans-unit>
+        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
+          <source>Dots</source>
+          <target>ドット</target>
+        </trans-unit>
+        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
+          <source>Stars</source>
+          <target>星</target>
+        </trans-unit>
+        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
+          <source>Petals</source>
+          <target>花びら</target>
+        </trans-unit>
+        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails">
+          <source>Trails</source>
+          <target>トレイル</target>
+        </trans-unit>
+        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain">
+          <source>Rain</source>
+          <target>雨</target>
+        </trans-unit>
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+          <source>Violet Hyperwave</source>
+          <target>Violet Hyperwave</target>
+        </trans-unit>
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+          <source>A Single Leaf Flutters in the Wind</source>
+          <target>A Single Leaf Flutters in the Wind</target>
+        </trans-unit>
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+          <source>Standing Here Alone (Expert Mix)</source>
+          <target>Standing Here Alone (Expert Mix)</target>
+        </trans-unit>
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
+          <source>Super Mega Zero</source>
+          <target>Super Mega Zero</target>
+        </trans-unit>
+        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
+          <source>Colors</source>
+          <target>色</target>
+        </trans-unit>
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+          <source>As the Cherry Blossom Falls</source>
+          <target>As the Cherry Blossom Falls</target>
+        </trans-unit>
+        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
+          <source>Adjust the visual position of enemies relative to the beat.</source>
+          <target>ビートに合わせて敵の表示位置を調整します。</target>
+        </trans-unit>
+        <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
+          <source>Enemy Spacing</source>
+          <target>敵の配置</target>
+        </trans-unit>
+        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description">
+          <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
+          <target>敵の表示位置を調整します（ビートのタイミングウィンドウには影響しません）。</target>
+        </trans-unit>
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+          <source>Let's Have an Adventure!</source>
+          <target>Let's Have an Adventure!</target>
+        </trans-unit>
+        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
+          <source>Scaling Windows</source>
+          <target>タイミングウィンドウのスケール</target>
+        </trans-unit>
+        <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled">
+          <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
+          <target>（デフォルト）タイミングウィンドウは視覚的な間隔と一致します。音楽の速度が速いほど、ウィンドウは短くなります。</target>
+        </trans-unit>
+        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled">
+          <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
+          <target>音楽の速度設定に合わせてタイミングウィンドウの視覚的な幅を調整し、長さを一定に保ちます。高速または低速では、予期せぬ結果が生じる場合があります！</target>
+        </trans-unit>
+        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
+          <source>Crimson Halls</source>
+          <target>Crimson Halls</target>
+        </trans-unit>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
+          <source>Color Skins...</source>
+          <target>色の設定...</target>
+        </trans-unit>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
+          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
+          <target>障害物の色を変更して、パターンを読みやすくします。</target>
+        </trans-unit>
+        <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
+          <source>Beat Grid</source>
+          <target>ビートグリッド</target>
+        </trans-unit>
+        <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies">
+          <source>Enemies</source>
+          <target>敵</target>
+        </trans-unit>
+        <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings">
+          <source>Wings</source>
+          <target>羽</target>
+        </trans-unit>
+        <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes">
+          <source>Spikes</source>
+          <target>トゲ</target>
+        </trans-unit>
+        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description">
+          <source>Change the color of floor beat markers.</source>
+          <target>床のビートマーカーの色を変更します。</target>
+        </trans-unit>
+        <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description">
+          <source>Change the color of enemies.</source>
+          <target>敵の色を変更します。</target>
+        </trans-unit>
+        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description">
+          <source>Change the color of rolling spike obstacles.</source>
+          <target>転がるトゲの色を変更します。</target>
+        </trans-unit>
+        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
+          <source>Tweak obstacle color palettes.</source>
+          <target>障害物のカラーパレットを調整します。</target>
+        </trans-unit>
+        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
+          <source>Change the color of floating wings.</source>
+          <target>浮いている羽の色を変更します。</target>
+        </trans-unit>
+        <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits">
+          <source>Actions Only</source>
+          <target>操作のみ</target>
+        </trans-unit>
+        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all">
+          <source>All</source>
+          <target>全て</target>
+        </trans-unit>
+        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
+          <source>Action Type</source>
+          <target>アクションタイプ</target>
+        </trans-unit>
+        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description">
+          <source>Floor beat grid markers match level background colors.</source>
+          <target>床のビートグリッドマーカーの色をレベルの背景色に合わせます。</target>
+        </trans-unit>
+        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
+          <source>Beat grid markers with obstacles will be colored according beat offset.</source>
+          <target>ビートグリッドマーカーに障害物がある場合、ビートオフセットに応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description">
+          <source>All beat grid markers will be colored according to beat offset.</source>
+          <target>全てのビートグリッドマーカーを、ビートオフセットに応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description">
+          <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
+          <target>ビートグリッドマーカーを、アクションの種類（ジャンプ/攻撃/両方）に応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly">
+          <source>Basic Only</source>
+          <target>ベーシックのみ</target>
+        </trans-unit>
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
+          <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
 Other enemies colored based on enemy type.</source>
-        <target state="translated">ベーシックな敵を、ビートオフセットに応じて色付けします。
+          <target>ベーシックな敵を、アクションの種類（攻撃/攻撃+ジャンプ）に応じて赤と緑で色付けします。
 その他の敵は、敵の種類に応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="no">
-        <source>All wings are colored based on beat offset.</source>
-        <target state="translated">全ての羽を、ビートオフセットに応じて色付けします。</target>
-      </trans-unit>
-      <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="no">
-        <source>Quantum Orbit</source>
-        <target state="translated">量子軌道</target>
-      </trans-unit>
-      <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published" approved="no">
-        <source>This level has previously been published on mod.io.</source>
-        <target state="translated">このレベルは以前に mod.io で公開されていました。</target>
-      </trans-unit>
-      <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout" approved="no">
-        <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
-
-You need an account in order to publish levels to mod.io.</source>
-        <target state="translated">&lt;sprite name="fonticons_8"&gt; mod.io にログインしていません。
-
-mod.io にレベルを公開するには、アカウントが必要です。</target>
-      </trans-unit>
-      <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="no">
-        <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
-        <target state="translated">&lt;sprite name="fonticons_10"&gt; このアカウントは、 mod.io 上で現在のレベルの作成者です。</target>
-      </trans-unit>
-      <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction" approved="no">
-        <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
-
-Login or register an account to publish levels to mod.io.</source>
-        <target state="translated">mod.io は、Rhythm Quest のレベルを公開し共有するための無料のサービスです。
-
-mod.io にレベルを公開するには、ログインまたはアカウントの登録を行ってください。</target>
-      </trans-unit>
-      <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction" approved="no">
-        <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
-        <target state="translated">このレベルを mod.io に公開して、他の Rhythm Quest プレイヤーと共有しよう！</target>
-      </trans-unit>
-      <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled" approved="no">
-        <source>(Default) Already-collected coins do not show on respawn.</source>
-        <target state="translated">（デフォルト）リスポーン時に、取得済みのコインは表示されません。</target>
-      </trans-unit>
-      <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="no">
-        <source>Fade out</source>
-        <target state="translated">フェードアウト</target>
-      </trans-unit>
-      <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings" approved="no">
-        <source>Music Export Settings</source>
-        <target state="translated">音楽の書き出し設定</target>
-      </trans-unit>
-      <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
-        <source>Song name/artist and chart author needs to be filled out</source>
-        <target state="translated">曲名/アーティスト名と譜面の作成者を入力してください</target>
-      </trans-unit>
-      <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded" approved="no">
-        <source>Music audio will not be included in export</source>
-        <target state="translated">書き出しには音楽が含まれません</target>
-      </trans-unit>
-      <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage" approved="no">
-        <source>No banner image provided, default will be used</source>
-        <target state="translated">バナー画像が設定されていないため、デフォルトの画像が使用されます</target>
-      </trans-unit>
-      <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats" approved="no">
-        <source>Temporary Cheats...</source>
-        <target state="translated">一時的なチート...</target>
-      </trans-unit>
-      <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="no">
-        <source>Allows you to scroll left and right to see the rest of the track.</source>
-        <target state="translated">左右にスクロールして、曲の残りの部分を見る。</target>
-      </trans-unit>
-      <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt" approved="no">
-        <source>It looks like you're having trouble with this section.
-Would you like to enable game assist features?</source>
-        <target state="translated">このセクションで問題が発生しています。
-ゲームアシスト機能を有効にしますか？</target>
-      </trans-unit>
-      <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled" approved="no">
-        <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
-        <target state="translated">トラックの停止は有効です。レベルのスクロールは、正しい入力を待つために自動的に停止されます。</target>
-      </trans-unit>
-      <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="no">
-        <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
-Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
-        <target state="translated">&lt;sprite name="controller_icons_45"&gt; を使用してスクロールします。
-戻るには &lt;sprite name="controller_icons_60"&gt; を押してください。</target>
-      </trans-unit>
-      <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="no">
-        <source>Adjust in-game controls.</source>
-        <target state="translated">ゲーム内の操作方法を調整します。</target>
-      </trans-unit>
-      <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled" approved="no">
-        <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
-        <target state="translated">メトロノームや入力タイムラインなどの視覚/聴覚補助機能を強制的に有効化します。</target>
-      </trans-unit>
-      <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation" approved="no">
-        <source>Practice Mode
-Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
-        <target state="translated">練習モード
-設定するには &lt;sprite name="controller_icons_100"&gt; を押してください</target>
-      </trans-unit>
-      <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled" approved="no">
-        <source>(Default) Plays a chime whenever a coin is collected.</source>
-        <target state="translated">（デフォルト）コインを取得するたびに、チャイムが鳴ります。</target>
-      </trans-unit>
-      <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom" approved="no">
-        <source>Use custom controller bindings.</source>
-        <target state="translated">カスタムコントローラーバインディングを使用します。</target>
-      </trans-unit>
-      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
-        <source>Für Elise</source>
-        <target state="translated">エリーゼのために</target>
-      </trans-unit>
-      <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="no">
-        <source>Piano Sonata No. 16 in C Major
-I. Allegro</source>
-        <target state="translated">ピアノ・ソナタ 第16番 ハ長調
-第１楽章 アレグロ</target>
-      </trans-unit>
-      <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
-        <source>Eine kleine Nachtmusik
-I. Allegro</source>
-        <target state="translated">アイネ・クライネ・ナハトムジーク
-第１楽章 アレグロ</target>
-      </trans-unit>
-      <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="no">
-        <source>Companions</source>
-        <target state="translated">コンパニオン</target>
-      </trans-unit>
-      <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username" approved="no">
-        <source>Username: {0}</source>
-        <target state="translated">ユーザー名： {0}</target>
-      </trans-unit>
-      <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid" approved="no">
-        <source>User ID: {0}</source>
-        <target state="translated">ユーザーID： {0}</target>
-      </trans-unit>
-      <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat" approved="no">
-        <source>Invalid email format. Please enter a valid email address.</source>
-        <target state="translated">メールアドレスの形式が正しくありません。有効なメールアドレスを入力してください。</target>
-      </trans-unit>
-      <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription" approved="no">
-        <source>Level ID: {0}
+        </trans-unit>
+        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
+          <source>Basic enemies colored based on beat offset.
+Other enemies colored based on enemy type.</source>
+          <target>ベーシックな敵を、ビートオフセットに応じて色付けします。
+その他の敵は、敵の種類に応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description">
+          <source>All enemies colored based on beat offset.</source>
+          <target>全ての敵を、ビートオフセットに応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description">
+          <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
+          <target>全ての敵を、アクションの種類（攻撃/攻撃+ジャンプ）に応じて赤と緑で色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset">
+          <source>Beat Offset</source>
+          <target>ビートオフセット</target>
+        </trans-unit>
+        <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description">
+          <source>All rolling spikes are colored blue.</source>
+          <target>全ての転がるトゲを青色にします。</target>
+        </trans-unit>
+        <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description">
+          <source>Rolling spikes are colored according to beat offset.</source>
+          <target>転がるトゲをビートオフセットに応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
+          <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
+          <target>転がるトゲを、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
+          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+          <target>空中ジャンプの羽を青色に、飛行経路の羽を緑色にします。</target>
+        </trans-unit>
+        <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
+          <source>All wings are colored based on beat offset.</source>
+          <target>全ての羽を、ビートオフセットに応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
+          <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+          <target>全ての羽を、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて色付けします。</target>
+        </trans-unit>
+        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
+          <source>Alternate Green</source>
+          <target>代替の緑</target>
+        </trans-unit>
+        <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description">
+          <source>Use default color scheme for obstacles.</source>
+          <target>障害物のデフォルトカラーパターンを使用します。</target>
+        </trans-unit>
+        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description">
+          <source>Use alternate green color (less blue tinted).</source>
+          <target>青みが少ない代替の緑色を使用します。</target>
+        </trans-unit>
+        <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing">
+          <source>Enemy Spacing...</source>
+          <target>敵の配置...</target>
+        </trans-unit>
+        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions">
+          <source>Companions</source>
+          <target>コンパニオン</target>
+        </trans-unit>
+        <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username">
+          <source>Username: {0}</source>
+          <target>ユーザー名： {0}</target>
+        </trans-unit>
+        <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid">
+          <source>User ID: {0}</source>
+          <target>ユーザーID： {0}</target>
+        </trans-unit>
+        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat">
+          <source>Invalid email format. Please enter a valid email address.</source>
+          <target>メールアドレスの形式が正しくありません。有効なメールアドレスを入力してください。</target>
+        </trans-unit>
+        <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished">
+          <source>This level has never been published to mod.io.</source>
+          <target>このレベルは mod.io に公開されたことがありません。</target>
+        </trans-unit>
+        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching">
+          <source>Retrieving level data from mod.io...</source>
+          <target>mod.io からレベルデータを取得中...</target>
+        </trans-unit>
+        <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound">
+          <source>This level has mod.io ID {0} but was not found on mod.io.</source>
+          <target>このレベルは mod.io ID {0} を持っていますが、mod.io では見つかりませんでした。</target>
+        </trans-unit>
+        <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription">
+          <source>Level ID: {0}
 
 Author: {1}
 
 Last updated: {2}</source>
-        <target state="translated">レベルID： {0}
+          <target>レベルID： {0}
 
 作成者： {1}
 
 最終更新： {2}</target>
-      </trans-unit>
-      <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile" approved="no">
-        <source>Export as .rqzip</source>
-        <target state="translated">.rqzip として書き出し</target>
-      </trans-unit>
-      <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished" approved="no">
-        <source>This level has never been published to mod.io.</source>
-        <target state="translated">このレベルは mod.io に公開されたことがありません。</target>
-      </trans-unit>
-      <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching" approved="no">
-        <source>Retrieving level data from mod.io...</source>
-        <target state="translated">mod.io からレベルデータを取得中...</target>
-      </trans-unit>
-      <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound" approved="no">
-        <source>This level has mod.io ID {0} but was not found on mod.io.</source>
-        <target state="translated">このレベルは mod.io ID {0} を持っていますが、mod.io では見つかりませんでした。</target>
-      </trans-unit>
-      <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu" approved="no">
-        <source>Publish to mod.io...</source>
-        <target state="translated">mod.io に公開中...</target>
-      </trans-unit>
-      <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail" approved="no">
-        <source>Login/Register with Email</source>
-        <target state="translated">メールアドレスでログイン/登録</target>
-      </trans-unit>
-      <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam" approved="no">
-        <source>Login/Register with Steam</source>
-        <target state="translated">Steamでログイン/登録</target>
-      </trans-unit>
-      <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout" approved="no">
-        <source>Logout</source>
-        <target state="translated">ログアウト</target>
-      </trans-unit>
-      <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit" approved="no">
-        <source>Submit</source>
-        <target state="translated">送信</target>
-      </trans-unit>
-      <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description" approved="no">
-        <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
-        <target state="translated">メールアドレスを入力すると、mod.io アカウントの作成またはログイン用のセキュリティコードが送信されます。</target>
-      </trans-unit>
-      <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description" approved="no">
-        <source>Enter the security code that was sent to {0}.</source>
-        <target state="translated">{0} に送信されたセキュリティコードを入力してください。</target>
-      </trans-unit>
-      <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin" approved="no">
-        <source>You are logged into mod.io as:</source>
-        <target state="translated">mod.io にログイン中：</target>
-      </trans-unit>
-      <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount" approved="no">
-        <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
-        <target state="translated">&lt;sprite name="fonticons_8"&gt; このアカウントは、mod.io 上で現在のレベルの作成者ではありません。</target>
-      </trans-unit>
-      <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio" approved="no">
-        <source>View on mod.io</source>
-        <target state="translated">mod.io で表示</target>
-      </trans-unit>
-      <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile" approved="no">
-        <source>View profile on web</source>
-        <target state="translated">ブラウザでプロフィールを表示</target>
-      </trans-unit>
-      <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio" approved="no">
-        <source>Publish to mod.io</source>
-        <target state="translated">mod.io に公開</target>
-      </trans-unit>
-      <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio" approved="no">
-        <source>Publish new version</source>
-        <target state="translated">新しいバージョンを公開</target>
-      </trans-unit>
-      <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails" approved="no">
-        <source>Account details...</source>
-        <target state="translated">アカウントの詳細...</target>
-      </trans-unit>
-      <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister" approved="no">
-        <source>Login/Register...</source>
-        <target state="translated">ログイン/登録...</target>
-      </trans-unit>
-      <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="no">
-        <source>Invalid security code.
+        </trans-unit>
+        <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu">
+          <source>Publish to mod.io...</source>
+          <target>mod.io に公開中...</target>
+        </trans-unit>
+        <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile">
+          <source>Export as .rqzip</source>
+          <target>.rqzip として書き出し</target>
+        </trans-unit>
+        <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail">
+          <source>Login/Register with Email</source>
+          <target>メールアドレスでログイン/登録</target>
+        </trans-unit>
+        <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam">
+          <source>Login/Register with Steam</source>
+          <target>Steamでログイン/登録</target>
+        </trans-unit>
+        <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout">
+          <source>Logout</source>
+          <target>ログアウト</target>
+        </trans-unit>
+        <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit">
+          <source>Submit</source>
+          <target>送信</target>
+        </trans-unit>
+        <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published">
+          <source>This level has previously been published on mod.io.</source>
+          <target>このレベルは以前に mod.io で公開されていました。</target>
+        </trans-unit>
+        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description">
+          <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
+          <target>メールアドレスを入力すると、mod.io アカウントの作成またはログイン用のセキュリティコードが送信されます。</target>
+        </trans-unit>
+        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description">
+          <source>Enter the security code that was sent to {0}.</source>
+          <target>{0} に送信されたセキュリティコードを入力してください。</target>
+        </trans-unit>
+        <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout">
+          <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
+
+You need an account in order to publish levels to mod.io.</source>
+          <target>&lt;sprite name="fonticons_8"&gt; mod.io にログインしていません。
+
+mod.io にレベルを公開するには、アカウントが必要です。</target>
+        </trans-unit>
+        <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin">
+          <source>You are logged into mod.io as:</source>
+          <target>mod.io にログイン中：</target>
+        </trans-unit>
+        <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount">
+          <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
+          <target>&lt;sprite name="fonticons_8"&gt; このアカウントは、mod.io 上で現在のレベルの作成者ではありません。</target>
+        </trans-unit>
+        <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount">
+          <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
+          <target>&lt;sprite name="fonticons_10"&gt; このアカウントは、 mod.io 上で現在のレベルの作成者です。</target>
+        </trans-unit>
+        <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile">
+          <source>View profile on web</source>
+          <target>ブラウザでプロフィールを表示</target>
+        </trans-unit>
+        <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio">
+          <source>View on mod.io</source>
+          <target>mod.io で表示</target>
+        </trans-unit>
+        <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio">
+          <source>Publish to mod.io</source>
+          <target>mod.io に公開</target>
+        </trans-unit>
+        <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio">
+          <source>Publish new version</source>
+          <target>新しいバージョンを公開</target>
+        </trans-unit>
+        <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails">
+          <source>Account details...</source>
+          <target>アカウントの詳細...</target>
+        </trans-unit>
+        <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister">
+          <source>Login/Register...</source>
+          <target>ログイン/登録...</target>
+        </trans-unit>
+        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction">
+          <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
+
+Login or register an account to publish levels to mod.io.</source>
+          <target>mod.io は、Rhythm Quest のレベルを公開し共有するための無料のサービスです。
+
+mod.io にレベルを公開するには、ログインまたはアカウントの登録を行ってください。</target>
+        </trans-unit>
+        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode">
+          <source>Invalid security code.
 Check the code and try again.</source>
-        <target state="translated">無効なセキュリティコードです。
+          <target>無効なセキュリティコードです。
 コードを確認して、もう一度試してください。</target>
-      </trans-unit>
-      <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio" approved="no">
-        <source>Publishing to mod.io</source>
-        <target state="translated">mod.io に公開</target>
-      </trans-unit>
-      <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="no">
-        <source>Got mod.io level ID: {0}</source>
-        <target state="translated">mod.io レベルID {0} を取得しました</target>
-      </trans-unit>
-      <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="no">
-        <source>Packaging level data...</source>
-        <target state="translated">レベルデータをパッケージング中...</target>
-      </trans-unit>
-      <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel" approved="no">
-        <source>Uploading level data...</source>
-        <target state="translated">レベルデータをアップロード中...</target>
-      </trans-unit>
-      <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess" approved="no">
-        <source>Successfully published level!</source>
-        <target state="translated">レベルを公開しました！</target>
-      </trans-unit>
-      <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess" approved="no">
-        <source>Successfully updated level!</source>
-        <target state="translated">レベルを更新しました！</target>
-      </trans-unit>
-      <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid" approved="no">
-        <source>Saving new level ID into .rqe file...</source>
-        <target state="translated">新しいレベルIDを .rqeファイルに保存中...</target>
-      </trans-unit>
-      <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout" approved="no">
-        <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
-        <target state="translated">&lt;sprite name="fonticons_8"&gt; 未ログイン</target>
-      </trans-unit>
-      <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin" approved="no">
-        <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
-        <target state="translated">&lt;sprite name="fonticons_10"&gt; {0} としてログイン中</target>
-      </trans-unit>
-      <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile" approved="no">
-        <source>Creating mod.io mod profile...</source>
-        <target state="translated">mod.io の modプロフィールを作成中...</target>
-      </trans-unit>
-      <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines" approved="no">
-        <source>Coin Outlines</source>
-        <target state="translated">コインの輪郭</target>
-      </trans-unit>
-      <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid" approved="no">
-        <source>Steam ID: {0}</source>
-        <target state="translated">Steam ID：{0}</target>
-      </trans-unit>
-      <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description" approved="no">
-        <source>Register/login to mod.io using the following active Steam account?</source>
-        <target state="translated">以下の Steamアカウントを使用して、mod.io に登録/ログインしますか？</target>
-      </trans-unit>
-      <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm" approved="no">
-        <source>Confirm</source>
-        <target state="translated">確認</target>
-      </trans-unit>
-      <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication" approved="no">
-        <source>Error passing Steam authentication to mod.io.</source>
-        <target state="translated">Steam認証を mod.io に渡す際にエラーが発生しました。</target>
-      </trans-unit>
-      <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree" approved="no">
-        <source>I Agree</source>
-        <target state="translated">同意します</target>
-      </trans-unit>
-      <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio" approved="no">
-        <source>Visit mod.io page</source>
-        <target state="translated">mod.io ページを訪問</target>
-      </trans-unit>
-      <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled" approved="no">
-        <source>Shows faint coin outlines on respawn for already-collected coins.</source>
-        <target state="translated">リスポーン時に、取得済みのコインは薄く表示されます。</target>
-      </trans-unit>
-      <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="no">
-        <source>Fix</source>
-        <target state="translated">決定</target>
-      </trans-unit>
-      <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems" approved="no">
-        <source>No problems found!</source>
-        <target state="translated">問題ありません！</target>
-      </trans-unit>
-      <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription" approved="no">
-        <source>Level is missing a Description</source>
-        <target state="translated">レベルの説明がありません</target>
-      </trans-unit>
-      <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic" approved="no">
-        <source>Level has no music audio</source>
-        <target state="translated">レベルに音楽が含まれていません</target>
-      </trans-unit>
-      <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement" approved="no">
-        <source>Music export options need to be set</source>
-        <target state="translated">音楽の書き出しオプションを設定してください</target>
-      </trans-unit>
-      <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder" approved="no">
-        <source>(name of the music track)</source>
-        <target state="translated">（曲名）</target>
-      </trans-unit>
-      <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="no">
-        <source>(credit the song's artist)</source>
-        <target state="translated">（アーティスト名）</target>
-      </trans-unit>
-      <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="no">
-        <source>(your name)</source>
-        <target state="translated">（あなたの名前）</target>
-      </trans-unit>
-      <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder" approved="no">
-        <source>(enter notes or details about your level here)</source>
-        <target state="translated">（レベルに関するメモや詳細をここに入力してください）</target>
-      </trans-unit>
-      <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="no">
-        <source>Export Checklist</source>
-        <target state="translated">書き出しチェックリスト</target>
-      </trans-unit>
-      <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur" approved="no">
-        <source>Applies a blur effect to backdrops so they are less focused.</source>
-        <target state="translated">背景にぼかし効果を適用し、ピントの合う範囲を狭めます。</target>
-      </trans-unit>
-      <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="no">
-        <source>Mods and Assists</source>
-        <target state="translated">Mod とアシスト</target>
-      </trans-unit>
-      <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists" approved="no">
-        <source>Assists...</source>
-        <target state="translated">アシスト...</target>
-      </trans-unit>
-      <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description" approved="no">
-        <source>Assist features that can help with difficult gameplay sections.</source>
-        <target state="translated">難しいゲームプレイのセクションをサポートする機能。</target>
-      </trans-unit>
-      <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview" approved="no">
-        <source>Track Preview</source>
-        <target state="translated">トラックのプレビュー</target>
-      </trans-unit>
-      <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="no">
-        <source>Repeatedly practice the current section with various assists.</source>
-        <target state="translated">様々なアシストを使用して、現在のセクションを繰り返し練習する。</target>
-      </trans-unit>
-      <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="no">
-        <source>Options for making the current section easier.</source>
-        <target state="translated">現在のセクションを簡単に作成するための設定。</target>
-      </trans-unit>
-      <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats" approved="no">
-        <source>(These settings will reset after the current section is complete)</source>
-        <target state="translated">（これらの設定は、現在のセクションが完了するとリセットされます）</target>
-      </trans-unit>
-      <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
-        <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-        <target state="translated">後からアシストを有効にしたい場合は、「Mod とアシスト」メニューで設定できます。</target>
-      </trans-unit>
-      <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="no">
-        <source>Track Freezing</source>
-        <target state="translated">トラックの停止</target>
-      </trans-unit>
-      <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride" approved="no">
-        <source>(Unchanged)</source>
-        <target state="translated">（変更なし）</target>
-      </trans-unit>
-      <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="no">
-        <source>Song of the Sea (Expert Mix)</source>
-        <target state="translated">Song of the Sea (Expert Mix)</target>
-      </trans-unit>
-      <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="no">
-        <source>Track freezing is disabled.</source>
-        <target state="translated">トラックの停止は無効になっています。</target>
-      </trans-unit>
-      <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard" approved="no">
-        <source>Press &lt;- and -&gt; to scroll.
+        </trans-unit>
+        <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio">
+          <source>Publishing to mod.io</source>
+          <target>mod.io に公開</target>
+        </trans-unit>
+        <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile">
+          <source>Creating mod.io mod profile...</source>
+          <target>mod.io の modプロフィールを作成中...</target>
+        </trans-unit>
+        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid">
+          <source>Got mod.io level ID: {0}</source>
+          <target>mod.io レベルID {0} を取得しました</target>
+        </trans-unit>
+        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
+          <source>Packaging level data...</source>
+          <target>レベルデータをパッケージング中...</target>
+        </trans-unit>
+        <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel">
+          <source>Uploading level data...</source>
+          <target>レベルデータをアップロード中...</target>
+        </trans-unit>
+        <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess">
+          <source>Successfully published level!</source>
+          <target>レベルを公開しました！</target>
+        </trans-unit>
+        <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess">
+          <source>Successfully updated level!</source>
+          <target>レベルを更新しました！</target>
+        </trans-unit>
+        <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction">
+          <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
+          <target>このレベルを mod.io に公開して、他の Rhythm Quest プレイヤーと共有しよう！</target>
+        </trans-unit>
+        <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid">
+          <source>Saving new level ID into .rqe file...</source>
+          <target>新しいレベルIDを .rqeファイルに保存中...</target>
+        </trans-unit>
+        <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout">
+          <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
+          <target>&lt;sprite name="fonticons_8"&gt; 未ログイン</target>
+        </trans-unit>
+        <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin">
+          <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
+          <target>&lt;sprite name="fonticons_10"&gt; {0} としてログイン中</target>
+        </trans-unit>
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
+          <source>Updating mod.io mod profile...</source>
+          <target>mod.io の modプロフィール を更新中...</target>
+        </trans-unit>
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+          <source>Spellbound Nebula</source>
+          <target>星雲に誘われて</target>
+        </trans-unit>
+        <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
+          <source>Coin Outlines</source>
+          <target>コインの輪郭</target>
+        </trans-unit>
+        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled">
+          <source>(Default) Already-collected coins do not show on respawn.</source>
+          <target>（デフォルト）リスポーン時に、取得済みのコインは表示されません。</target>
+        </trans-unit>
+        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled">
+          <source>Shows faint coin outlines on respawn for already-collected coins.</source>
+          <target>リスポーン時に、取得済みのコインは薄く表示されます。</target>
+        </trans-unit>
+        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
+          <source>Steam ID: {0}</source>
+          <target>Steam ID：{0}</target>
+        </trans-unit>
+        <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description">
+          <source>Register/login to mod.io using the following active Steam account?</source>
+          <target>以下の Steamアカウントを使用して、mod.io に登録/ログインしますか？</target>
+        </trans-unit>
+        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm">
+          <source>Confirm</source>
+          <target>確認</target>
+        </trans-unit>
+        <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication">
+          <source>Error passing Steam authentication to mod.io.</source>
+          <target>Steam認証を mod.io に渡す際にエラーが発生しました。</target>
+        </trans-unit>
+        <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree">
+          <source>I Agree</source>
+          <target>同意します</target>
+        </trans-unit>
+        <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio">
+          <source>Visit mod.io page</source>
+          <target>mod.io ページを訪問</target>
+        </trans-unit>
+        <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade">
+          <source>Fade out</source>
+          <target>フェードアウト</target>
+        </trans-unit>
+        <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings">
+          <source>Music Export Settings</source>
+          <target>音楽の書き出し設定</target>
+        </trans-unit>
+        <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem">
+          <source>Fix</source>
+          <target>決定</target>
+        </trans-unit>
+        <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems">
+          <source>No problems found!</source>
+          <target>問題ありません！</target>
+        </trans-unit>
+        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
+          <source>Song name/artist and chart author needs to be filled out</source>
+          <target>曲名/アーティスト名と譜面の作成者を入力してください</target>
+        </trans-unit>
+        <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
+          <source>Level is missing a Description</source>
+          <target>レベルの説明がありません</target>
+        </trans-unit>
+        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
+          <source>Level has no music audio</source>
+          <target>レベルに音楽が含まれていません</target>
+        </trans-unit>
+        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
+          <source>Music export options need to be set</source>
+          <target>音楽の書き出しオプションを設定してください</target>
+        </trans-unit>
+        <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
+          <source>Music audio will not be included in export</source>
+          <target>書き出しには音楽が含まれません</target>
+        </trans-unit>
+        <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder">
+          <source>(name of the music track)</source>
+          <target>（曲名）</target>
+        </trans-unit>
+        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder">
+          <source>(credit the song's artist)</source>
+          <target>（アーティスト名）</target>
+        </trans-unit>
+        <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder">
+          <source>(your name)</source>
+          <target>（あなたの名前）</target>
+        </trans-unit>
+        <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder">
+          <source>(enter notes or details about your level here)</source>
+          <target>（レベルに関するメモや詳細をここに入力してください）</target>
+        </trans-unit>
+        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist">
+          <source>Export Checklist</source>
+          <target>書き出しチェックリスト</target>
+        </trans-unit>
+        <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
+          <source>No banner image provided, default will be used</source>
+          <target>バナー画像が設定されていないため、デフォルトの画像が使用されます</target>
+        </trans-unit>
+        <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
+          <source>Applies a blur effect to backdrops so they are less focused.</source>
+          <target>背景にぼかし効果を適用し、ピントの合う範囲を狭めます。</target>
+        </trans-unit>
+        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
+          <source>Mods and Assists</source>
+          <target>Mod とアシスト</target>
+        </trans-unit>
+        <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
+          <source>Assists...</source>
+          <target>アシスト...</target>
+        </trans-unit>
+        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
+          <source>Assist features that can help with difficult gameplay sections.</source>
+          <target>難しいゲームプレイのセクションをサポートする機能。</target>
+        </trans-unit>
+        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
+          <source>Track Preview</source>
+          <target>トラックのプレビュー</target>
+        </trans-unit>
+        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
+          <source>Practice Mode</source>
+          <target>練習モード</target>
+        </trans-unit>
+        <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats">
+          <source>Temporary Cheats...</source>
+          <target>一時的なチート...</target>
+        </trans-unit>
+        <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description">
+          <source>Repeatedly practice the current section with various assists.</source>
+          <target>様々なアシストを使用して、現在のセクションを繰り返し練習する。</target>
+        </trans-unit>
+        <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description">
+          <source>Allows you to scroll left and right to see the rest of the track.</source>
+          <target>左右にスクロールして、曲の残りの部分を見る。</target>
+        </trans-unit>
+        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description">
+          <source>Options for making the current section easier.</source>
+          <target>現在のセクションを簡単に作成するための設定。</target>
+        </trans-unit>
+        <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats">
+          <source>(These settings will reset after the current section is complete)</source>
+          <target>（これらの設定は、現在のセクションが完了するとリセットされます）</target>
+        </trans-unit>
+        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt">
+          <source>It looks like you're having trouble with this section.
+Would you like to enable game assist features?</source>
+          <target>このセクションで問題が発生しています。
+ゲームアシスト機能を有効にしますか？</target>
+        </trans-unit>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
+          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
+          <target>後からアシストを有効にしたい場合は、「Mod とアシスト」メニューで設定できます。</target>
+        </trans-unit>
+        <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
+          <source>Practice Mode Settings</source>
+          <target>練習モード設定</target>
+        </trans-unit>
+        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
+          <source>Track Freezing</source>
+          <target>トラックの停止</target>
+        </trans-unit>
+        <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride">
+          <source>(Unchanged)</source>
+          <target>（変更なし）</target>
+        </trans-unit>
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+          <source>Piano Sonata No. 16 in C Major
+I. Allegro</source>
+          <target>ピアノ・ソナタ 第16番 ハ長調
+第１楽章 アレグロ</target>
+        </trans-unit>
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+          <source>Eine kleine Nachtmusik
+I. Allegro</source>
+          <target>アイネ・クライネ・ナハトムジーク
+第１楽章 アレグロ</target>
+        </trans-unit>
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
+          <source>Song of the Sea (Expert Mix)</source>
+          <target>Song of the Sea (Expert Mix)</target>
+        </trans-unit>
+        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
+          <source>Track freezing is disabled.</source>
+          <target>トラックの停止は無効になっています。</target>
+        </trans-unit>
+        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled">
+          <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
+          <target>トラックの停止は有効です。レベルのスクロールは、正しい入力を待つために自動的に停止されます。</target>
+        </trans-unit>
+        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
+          <source>Press &lt;- and -&gt; to scroll.
 Press Enter to return.</source>
-        <target state="translated">&lt;- と -&gt; を押してスクロールします。
+          <target>&lt;- と -&gt; を押してスクロールします。
 戻るにはEnterキーを押してください。</target>
-      </trans-unit>
-      <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse" approved="no">
-        <source>Click and drag to scroll left/right.</source>
-        <target state="translated">クリックしてドラッグすると、左右にスクロールします。</target>
-      </trans-unit>
-      <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="no">
-        <source>Tap and drag to scroll left/right.</source>
-        <target state="translated">タップしてドラッグすると、左右にスクロールします。</target>
-      </trans-unit>
-      <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox" approved="no">
-        <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
+        </trans-unit>
+        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
+          <source>Click and drag to scroll left/right.</source>
+          <target>クリックしてドラッグすると、左右にスクロールします。</target>
+        </trans-unit>
+        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
+          <source>Tap and drag to scroll left/right.</source>
+          <target>タップしてドラッグすると、左右にスクロールします。</target>
+        </trans-unit>
+        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
+          <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
+Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
+          <target>&lt;sprite name="controller_icons_45"&gt; を使用してスクロールします。
+戻るには &lt;sprite name="controller_icons_60"&gt; を押してください。</target>
+        </trans-unit>
+        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
+          <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
 Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
-        <target state="translated">&lt;sprite name="controller_icons_79"&gt; を使用してスクロールします。
+          <target>&lt;sprite name="controller_icons_79"&gt; を使用してスクロールします。
 戻るには &lt;sprite name="controller_icons_100"&gt; を押してください。</target>
-      </trans-unit>
-      <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation" approved="no">
-        <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
+        </trans-unit>
+        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation">
+          <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
 Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
-        <target state="translated">&lt;sprite name="controller_icons_16"&gt; を使用してスクロールします。
+          <target>&lt;sprite name="controller_icons_16"&gt; を使用してスクロールします。
 戻るには &lt;sprite name="controller_icons_37"&gt; を押してください。</target>
-      </trans-unit>
-      <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode" approved="no">
-        <source>Practice Mode</source>
-        <target state="translated">練習モード</target>
-      </trans-unit>
-      <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="no">
-        <source>Practice Mode Settings</source>
-        <target state="translated">練習モード設定</target>
-      </trans-unit>
-      <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties" approved="no">
-        <source>Properties</source>
-        <target state="translated">プロパティ</target>
-      </trans-unit>
-      <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level" approved="no">
-        <source>Level...</source>
-        <target state="translated">レベル...</target>
-      </trans-unit>
-      <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="no">
-        <source>Grid Snap</source>
-        <target state="translated">グリッドスナップ</target>
-      </trans-unit>
-      <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine" approved="no">
-        <source>Fine</source>
-        <target state="translated">Fine</target>
-      </trans-unit>
-      <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="no">
-        <source>Helpers</source>
-        <target state="translated">ヘルパー</target>
-      </trans-unit>
-      <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled" approved="no">
-        <source>Don't override settings for visual/audio aids.</source>
-        <target state="translated">視覚/聴覚補助の設定を上書きしません。</target>
-      </trans-unit>
-      <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode" approved="no">
-        <source>Exit Practice</source>
-        <target state="translated">練習をやめる</target>
-      </trans-unit>
-      <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard" approved="no">
-        <source>Practice Mode
+        </trans-unit>
+        <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description">
+          <source>Adjust in-game controls.</source>
+          <target>ゲーム内の操作方法を調整します。</target>
+        </trans-unit>
+        <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties">
+          <source>Properties</source>
+          <target>プロパティ</target>
+        </trans-unit>
+        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
+          <source>Level...</source>
+          <target>レベル...</target>
+        </trans-unit>
+        <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
+          <source>Grid Snap</source>
+          <target>グリッドスナップ</target>
+        </trans-unit>
+        <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine">
+          <source>Fine</source>
+          <target>Fine</target>
+        </trans-unit>
+        <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers">
+          <source>Helpers</source>
+          <target>ヘルパー</target>
+        </trans-unit>
+        <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled">
+          <source>Don't override settings for visual/audio aids.</source>
+          <target>視覚/聴覚補助の設定を上書きしません。</target>
+        </trans-unit>
+        <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled">
+          <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+          <target>メトロノームや入力タイムラインなどの視覚/聴覚補助機能を強制的に有効化します。</target>
+        </trans-unit>
+        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
+          <source>Exit Practice</source>
+          <target>練習をやめる</target>
+        </trans-unit>
+        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
+          <source>Practice Mode
 Press Esc for settings</source>
-        <target state="translated">練習モード
+          <target>練習モード
 設定するにはEscキーを押してください</target>
-      </trans-unit>
-      <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse" approved="no">
-        <source>Practice Mode</source>
-        <target state="translated">練習モード</target>
-      </trans-unit>
-      <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch" approved="no">
-        <source>Practice Mode</source>
-        <target state="translated">練習モード</target>
-      </trans-unit>
-      <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch" approved="no">
-        <source>Practice Mode
+        </trans-unit>
+        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
+          <source>Practice Mode</source>
+          <target>練習モード</target>
+        </trans-unit>
+        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
+          <source>Practice Mode</source>
+          <target>練習モード</target>
+        </trans-unit>
+        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
+          <source>Practice Mode
+Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+          <target>練習モード
+設定するには &lt;sprite name="controller_icons_100"&gt; を押してください</target>
+        </trans-unit>
+        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
+          <source>Practice Mode
 Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
-        <target state="translated">練習モード
+          <target>練習モード
 設定するには &lt;sprite name="controller_icons_65"&gt; を押してください</target>
-      </trans-unit>
-      <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox" approved="no">
-        <source>Practice Mode
+        </trans-unit>
+        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
+          <source>Practice Mode
 Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
-        <target state="translated">練習モード
+          <target>練習モード
 設定するには &lt;sprite name="controller_icons_97"&gt; を押してください</target>
-      </trans-unit>
-      <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings" approved="no">
-        <source>Practice Settings</source>
-        <target state="translated">練習設定</target>
-      </trans-unit>
-      <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description" approved="no">
-        <source>Edit additional audio settings.</source>
-        <target state="translated">その他のオーディオ設定を編集する。</target>
-      </trans-unit>
-      <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="no">
-        <source>Additional Settings...</source>
-        <target state="translated">その他の設定...</target>
-      </trans-unit>
-      <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="no">
-        <source>Coin Sfx</source>
-        <target state="translated">コインの効果音</target>
-      </trans-unit>
-      <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled" approved="no">
-        <source>Coin collection is silent.</source>
-        <target state="translated">コインの取得音を無音にします。</target>
-      </trans-unit>
-      <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch" approved="no">
-        <source>Rumble...</source>
-        <target state="translated">ゴロゴロ...</target>
-      </trans-unit>
-      <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch" approved="no">
-        <source>Configure Controls...</source>
-        <target state="translated">コントロール設定...</target>
-      </trans-unit>
-      <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description" approved="no">
-        <source>Configure controller bindings.</source>
-        <target state="translated">コントローラーのバインドを設定します。</target>
-      </trans-unit>
-      <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch" approved="no">
-        <source>Controller Config</source>
-        <target state="translated">コントローラー設定</target>
-      </trans-unit>
-      <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default" approved="no">
-        <source>Use default controller bindings.</source>
-        <target state="translated">デフォルトのコントローラーバインディングを使用します。</target>
-      </trans-unit>
-      <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="no">
-        <source>Flower Fang (Expert Mix)</source>
-        <target state="translated">Flower Fang (Expert Mix)</target>
-      </trans-unit>
-      <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
-        <source>Midnight Moon</source>
-        <target state="translated">Midnight Moon</target>
-      </trans-unit>
-      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
-        <source>Return to the main menu.</source>
-        <target state="translated">メインメニューに戻ります。</target>
-      </trans-unit>
-      <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
-        <source>Turkish March (Rondo alla Turca)
+        </trans-unit>
+        <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
+          <source>Practice Settings</source>
+          <target>練習設定</target>
+        </trans-unit>
+        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
+          <source>Quantum Orbit</source>
+          <target>量子軌道</target>
+        </trans-unit>
+        <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
+          <source>Additional Settings...</source>
+          <target>その他の設定...</target>
+        </trans-unit>
+        <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description">
+          <source>Edit additional audio settings.</source>
+          <target>その他のオーディオ設定を編集する。</target>
+        </trans-unit>
+        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx">
+          <source>Coin Sfx</source>
+          <target>コインの効果音</target>
+        </trans-unit>
+        <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
+          <source>Coin collection is silent.</source>
+          <target>コインの取得音を無音にします。</target>
+        </trans-unit>
+        <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled">
+          <source>(Default) Plays a chime whenever a coin is collected.</source>
+          <target>（デフォルト）コインを取得するたびに、チャイムが鳴ります。</target>
+        </trans-unit>
+        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch">
+          <source>Rumble...</source>
+          <target>ゴロゴロ...</target>
+        </trans-unit>
+        <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch">
+          <source>Configure Controls...</source>
+          <target>コントロール設定...</target>
+        </trans-unit>
+        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
+          <source>Configure controller bindings.</source>
+          <target>コントローラーのバインドを設定します。</target>
+        </trans-unit>
+        <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
+          <source>Controller Config</source>
+          <target>コントローラー設定</target>
+        </trans-unit>
+        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
+          <source>Use default controller bindings.</source>
+          <target>デフォルトのコントローラーバインディングを使用します。</target>
+        </trans-unit>
+        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
+          <source>Use custom controller bindings.</source>
+          <target>カスタムコントローラーバインディングを使用します。</target>
+        </trans-unit>
+        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
+          <source>Flower Fang (Expert Mix)</source>
+          <target>Flower Fang (Expert Mix)</target>
+        </trans-unit>
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+          <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11</source>
-        <target state="translated">ピアノソナタ第11番より
+          <target>ピアノソナタ第11番より
 トルコ行進曲</target>
-      </trans-unit>
-      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
-        <source>Flight of the Bumblebee</source>
-        <target state="translated">熊蜂の飛行</target>
-      </trans-unit>
-      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
-        <source>Skip Tutorial</source>
-        <target state="translated">チュートリアルをスキップする</target>
-      </trans-unit>
-      <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
-        <source>Updating mod.io mod profile...</source>
-        <target state="translated">mod.io の modプロフィール を更新中...</target>
-      </trans-unit>
+        </trans-unit>
+        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
+          <source>Controls...</source>
+          <target>コントロール...</target>
+        </trans-unit>
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+          <source>Midnight Moon</source>
+          <target>Midnight Moon</target>
+        </trans-unit>
+        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
+          <source>Return to the main menu.</source>
+          <target>メインメニューに戻ります。</target>
+        </trans-unit>
+        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
+          <source>Für Elise</source>
+          <target>エリーゼのために</target>
+        </trans-unit>
+        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
+          <source>Flight of the Bumblebee</source>
+          <target>熊蜂の飛行</target>
+        </trans-unit>
+        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
+          <source>Cosmic Conflux</source>
+          <target>星々の調和</target>
+        </trans-unit>
+        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
+          <source>Skip Tutorial</source>
+          <target>チュートリアルをスキップする</target>
+        </trans-unit>
+        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
+          <source>Song Select</source>
+        </trans-unit>
+        <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
+          <source>Level {0}</source>
+          <target>レベル{0}</target>
+        </trans-unit>
+        <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
+          <source>by {0}</source>
+          <target>by {0}</target>
+        </trans-unit>
+        <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber">
+          <source>World {0}</source>
+          <target>ワールド{0}</target>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
