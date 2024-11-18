@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="Assets/Localization/Main String Table_zh-CN.asset" source-language="en" datatype="plaintext" target-language="zh-CN">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Assets/Localization/Main String Table_zh-CN.asset" source-language="en" target-language="zh-CN">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_zh-CN.asset" uid="fdd3f1044375e411099a25afdec130f4" />
+        <external-file href="Assets/Localization/Main String Table_zh-CN.asset" uid="fdd3f1044375e411099a25afdec130f4"/>
       </skl>
     </header>
     <body>
@@ -16,9 +16,9 @@
           <source>Start Game</source>
           <target>开始游戏</target>
         </trans-unit>
-        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="no">
           <source>Extras</source>
-          <target>附加内容</target>
+          <target state="translated">附加内容</target>
         </trans-unit>
         <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
           <source>Quit</source>
@@ -132,9 +132,9 @@
           <source>Scaling Settings...</source>
           <target>缩放设定...</target>
         </trans-unit>
-        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="no">
           <source>Return to the previous menu.</source>
-          <target>返回上级菜单。</target>
+          <target state="translated">返回上级菜单。</target>
         </trans-unit>
         <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
           <source>Zoom Level</source>
@@ -440,9 +440,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Attack</source>
           <target>攻击</target>
         </trans-unit>
-        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="no">
           <source>Press a key</source>
-          <target>请按任意键</target>
+          <target state="translated">请按任意键</target>
         </trans-unit>
         <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
           <source>Select a key to use for &lt;Attack&gt;.</source>
@@ -694,9 +694,9 @@ Remaining:</source>
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
           <target>以  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} 购买？</target>
         </trans-unit>
-        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
           <source>Take It to the Limit</source>
-          <target>Take It to the Limit</target>
+          <target state="translated">Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -710,9 +710,9 @@ Remaining:</source>
           <source>Play</source>
           <target>游玩</target>
         </trans-unit>
-        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
           <source>What Lies Beneath</source>
-          <target>What Lies Beneath</target>
+          <target state="translated">What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -722,9 +722,9 @@ Remaining:</source>
           <source>Enchanted Oasis</source>
           <target>魔力绿洲</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
-          <target>Gameplay Trailer</target>
+          <target state="translated">Gameplay Trailer</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -840,7 +840,7 @@ Have fun, and thanks for playing!
 感谢你玩我的游戏，祝你玩得愉快！
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="no">
           <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
 
 Please make sure hardware graphics acceleration is enabled for your browser for better performance.
@@ -848,7 +848,7 @@ Please make sure hardware graphics acceleration is enabled for your browser for 
 Save data is stored in your browser and may potentially not persist across version updates.
 
 For the best experience, feel free to try the standalone offline build instead!</source>
-          <target>备注：你正在游玩试玩版的浏览器版本，所以可能会出现少许音频问题，游戏元素和音乐节拍同步的精确度也会降低。
+          <target state="translated">备注：你正在游玩试玩版的浏览器版本，所以可能会出现少许音频问题，游戏元素和音乐节拍同步的精确度也会降低。
 
 为了你的游戏体验，请在浏览器设置里启用图形硬件加速。
 
@@ -1094,9 +1094,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Screenreader is disabled.</source>
           <target>禁用屏幕朗读。</target>
         </trans-unit>
-        <trans-unit id="134459976639623168" xml:space="preserve" resname="settings_screenreadermode_description_enabled">
+        <trans-unit id="134459976639623168" xml:space="preserve" resname="settings_screenreadermode_description_enabled" approved="no">
           <source>Enables full screenreader navigation. Normal navigation is disabled.</source>
-          <target>全面开启萤幕朗读浏览模式。停用普通的UI界面浏览模式。</target>
+          <target state="translated">全面开启萤幕朗读浏览模式。停用普通的UI界面浏览模式。</target>
         </trans-unit>
         <trans-unit id="134459977423958016" xml:space="preserve" resname="settings_screenreadermode_description_readonly">
           <source>Retains normal UI navigation, but reads out selected button.</source>
@@ -2102,10 +2102,10 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>Edit level metadata</source>
           <target>编辑关卡元数据</target>
         </trans-unit>
-        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges">
+        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges" approved="no">
           <source>You have unsaved changes!
 Do you want to save them first?</source>
-          <target>您有未保存的更改项！
+          <target state="translated">您有未保存的更改项！
 您想要先保存一下吗？</target>
         </trans-unit>
         <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges">
@@ -2942,9 +2942,9 @@ Check the code and try again.</source>
           <source>Creating mod.io mod profile...</source>
           <target>正在创建 mod.io mod 配置文件...</target>
         </trans-unit>
-        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid">
+        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="no">
           <source>Got mod.io level ID: {0}</source>
-          <target>当前 mod.io 关卡 ID: {0}</target>
+          <target state="translated">当前 mod.io 关卡 ID: {0}</target>
         </trans-unit>
         <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
           <source>Packaging level data...</source>
@@ -2978,9 +2978,9 @@ Check the code and try again.</source>
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
           <target>&lt;sprite name="fonticons_10"&gt; 以 {0} 登录</target>
         </trans-unit>
-        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
           <source>Updating mod.io mod profile...</source>
-          <target>正在更新 mod.io mod 配置文件...</target>
+          <target state="translated">正在更新 mod.io mod 配置文件...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Spellbound Nebula</source>
@@ -3342,42 +3342,31 @@ from Piano Sonata No. 11</target>
           <source>Midnight Moon</source>
           <target>Midnight Moon</target>
         </trans-unit>
-        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
-          <source>Return to the main menu.</source>
-          <target>返回主菜单。</target>
-        </trans-unit>
-        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
-          <source>Für Elise</source>
-          <target>Für Elise</target>
-        </trans-unit>
-        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
-          <source>Flight of the Bumblebee</source>
-          <target>Flight of the Bumblebee</target>
-        </trans-unit>
-        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
-          <source>Cosmic Conflux</source>
-          <target>宇宙汇流</target>
-        </trans-unit>
-        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
-          <source>Skip Tutorial</source>
-          <target>略过教程</target>
-        </trans-unit>
-        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
-          <source>Song Select</source>
-        </trans-unit>
-        <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
-          <source>Level {0}</source>
-          <target> 	关卡{0}</target>
-        </trans-unit>
-        <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
-          <source>by {0}</source>
-          <target>by {0}</target>
-        </trans-unit>
-        <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber">
-          <source>World {0}</source>
-          <target>世界{0}</target>
-        </trans-unit>
       </group>
+    </body>
+  </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="zh-CN" datatype="plaintext">
+    <body>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">返回主菜单。</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
+        <source>Für Elise</source>
+        <target state="translated">Für Elise</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">略过教程</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
+        <source>Cosmic Conflux</source>
+        <target state="translated">宇宙汇流</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
+        <source>Flight of the Bumblebee</source>
+        <target state="translated">Flight of the Bumblebee</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

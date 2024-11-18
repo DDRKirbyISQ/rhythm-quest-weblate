@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="Assets/Localization/Main String Table_lt.asset" source-language="en" datatype="plaintext" target-language="lt">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Assets/Localization/Main String Table_lt.asset" source-language="en" target-language="lt">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_lt.asset" uid="7053a3764b6e9fe4fb4f99ab9ec619e7" />
+        <external-file href="Assets/Localization/Main String Table_lt.asset" uid="7053a3764b6e9fe4fb4f99ab9ec619e7"/>
       </skl>
     </header>
     <body>
@@ -2983,9 +2983,9 @@ Patikrinkite jį ir bandykite iš naujo.</target>
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
           <target>&lt;sprite name="fonticons_10"&gt; Prisijungta kaip {0}</target>
         </trans-unit>
-        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
           <source>Updating mod.io mod profile...</source>
-          <target>Atnaujinamas mod.iod modo profilis...</target>
+          <target state="needs-translation">Atnaujinamas mod.iod modo profilis...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Spellbound Nebula</source>
@@ -3346,36 +3346,6 @@ from Piano Sonata No. 11"</target>
         <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
           <source>Midnight Moon</source>
           <target>"Midnight Moon"</target>
-        </trans-unit>
-        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
-          <source>Return to the main menu.</source>
-        </trans-unit>
-        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
-          <source>Für Elise</source>
-        </trans-unit>
-        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
-          <source>Flight of the Bumblebee</source>
-        </trans-unit>
-        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
-          <source>Cosmic Conflux</source>
-        </trans-unit>
-        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
-          <source>Skip Tutorial</source>
-        </trans-unit>
-        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
-          <source>Song Select</source>
-        </trans-unit>
-        <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
-          <source>Level {0}</source>
-          <target>Lygis {0}</target>
-        </trans-unit>
-        <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
-          <source>by {0}</source>
-          <target>sukurta {0}</target>
-        </trans-unit>
-        <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber">
-          <source>World {0}</source>
-          <target>Pasaulis {0}</target>
         </trans-unit>
       </group>
     </body>
