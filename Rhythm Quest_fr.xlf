@@ -12,9 +12,9 @@
           <source>Settings</source>
           <target state="final">Paramètres</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="yes">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="no">
           <source>Start Game</source>
-          <target state="final">Débuter</target>
+          <target state="translated">Commencer</target>
         </trans-unit>
         <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="yes">
           <source>Extras</source>
@@ -42,7 +42,7 @@
         </trans-unit>
         <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="yes">
           <source>Interface Settings</source>
-          <target state="final">Paramètres de l'interface</target>
+          <target state="final">Paramètres de l'Interface</target>
         </trans-unit>
         <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls" approved="yes">
           <source>Controls</source>
@@ -64,9 +64,9 @@
           <source>Pixel Perfect</source>
           <target state="final">Au Pixel Près</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="yes">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="no">
           <source>Screen Mode</source>
-          <target state="final">Mode de Fenêtre</target>
+          <target state="translated">Mode d'affichage</target>
         </trans-unit>
         <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="yes">
           <source>Windowed</source>
@@ -138,11 +138,11 @@
         </trans-unit>
         <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="yes">
           <source>Zoom Level</source>
-          <target state="final">Niveau de zoom</target>
+          <target state="final">Niveau de Zoom</target>
         </trans-unit>
         <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
           <source>Default</source>
-          <target state="final">Par défaut</target>
+          <target state="final">Par Défaut</target>
         </trans-unit>
         <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="yes">
           <source>Far</source>
@@ -166,7 +166,7 @@
         </trans-unit>
         <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="yes">
           <source>Music Volume</source>
-          <target state="final">Volume de la musique</target>
+          <target state="final">Volume de la Musique</target>
         </trans-unit>
         <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="yes">
           <source>Adjust the volume of the game music.</source>
@@ -178,7 +178,7 @@
         </trans-unit>
         <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="yes">
           <source>Sfx Volume</source>
-          <target state="final">Volume des effets</target>
+          <target state="final">Volume des Effets</target>
         </trans-unit>
         <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="yes">
           <source>Effect Settings...</source>
@@ -202,11 +202,11 @@
         </trans-unit>
         <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="yes">
           <source>Enables screen flash effects.</source>
-          <target state="final">Active les effets de flashs lumineux.</target>
+          <target state="final">Active les effets de flashs lumineux de l'écran.</target>
         </trans-unit>
         <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="yes">
           <source>Disables screen flash effects.</source>
-          <target state="final">Désactive les effets de flashs lumineux.</target>
+          <target state="final">Désactive les effets de flashs lumineux de l'écran.</target>
         </trans-unit>
         <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling" approved="yes">
           <source>Sfx Prescheduling</source>
@@ -232,9 +232,9 @@
           <source>Cheats</source>
           <target state="final">Triches</target>
         </trans-unit>
-        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="yes">
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="no">
           <source>Auto Play</source>
-          <target state="final">Jeu Automatique</target>
+          <target state="needs-translation">Jeu Automatique</target>
         </trans-unit>
         <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
@@ -246,7 +246,7 @@
         </trans-unit>
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target state="final">Le mode jeu automatique est activé. Les niveaux se joueront tout seuls sans besoin du joueur. (La progression sera sauvegardée)</target>
+          <target state="final">Le mode jeu automatique est activé. Les niveaux se joueront tout seuls sans besoin du joueur. (La progression sera toujours sauvegardée)</target>
         </trans-unit>
         <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
           <source>Levels must be unlocked normally.</source>
@@ -254,7 +254,7 @@
         </trans-unit>
         <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="yes">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target state="final">Tous les niveaux sont immédiatement débloqués. (La progression sera sauvegardée)</target>
+          <target state="final">Tous les niveaux sont immédiatement débloqués. (La progression sera toujours sauvegardée)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
@@ -304,17 +304,17 @@
           <source>On-screen Buttons</source>
           <target state="final">Boutons à l'Écran</target>
         </trans-unit>
-        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
+        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide" approved="yes">
           <source>Hide</source>
-          <target>Cachés</target>
+          <target state="final">Cachés</target>
         </trans-unit>
-        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show">
+        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show" approved="yes">
           <source>Show</source>
-          <target>Visibles</target>
+          <target state="final">Visibles</target>
         </trans-unit>
-        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
+        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide" approved="yes">
           <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
-          <target>Les boutons ne seront pas montrés à l'écran. Toucher la gauche et la droite de l'écran pour jouer.</target>
+          <target state="final">Les boutons ne seront pas montrés à l'écran. Toucher la gauche et la droite de l'écran pour jouer.</target>
         </trans-unit>
         <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show" approved="yes">
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
@@ -432,45 +432,45 @@ Graphismes : DDRKirby(ISQ)</target>
           <source>Tap left half of screen to attack, tap right half to jump.</source>
           <target state="final">Toucher à gauche pour attaquer et à droite pour sauter.</target>
         </trans-unit>
-        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="yes">
           <source>Jump</source>
-          <target>Sauter</target>
+          <target state="final">Sauter</target>
         </trans-unit>
-        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack" approved="yes">
           <source>Attack</source>
-          <target>Attaquer</target>
+          <target state="final">Attaquer</target>
         </trans-unit>
-        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="yes">
           <source>Press a key</source>
-          <target>Appuyez sur une touche</target>
+          <target state="final">Appuyez sur une touche</target>
         </trans-unit>
-        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description" approved="yes">
           <source>Select a key to use for &lt;Attack&gt;.</source>
-          <target>Choisissez la touche à utiliser pour &lt;Attaquer&gt;.</target>
+          <target state="final">Choisissez la touche à utiliser pour &lt;Attaquer&gt;.</target>
         </trans-unit>
-        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description" approved="yes">
           <source>Select a key to use for &lt;Jump&gt;.</source>
-          <target>Choisissez la touche à utiliser pour &lt;Sauter&gt;.</target>
+          <target state="final">Choisissez la touche à utiliser pour &lt;Sauter&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
+        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description" approved="yes">
           <source>Resets key bindings to their defaults.</source>
-          <target>Réinitialiser les touches par défaut.</target>
+          <target state="final">Réinitialiser les touches par défaut.</target>
         </trans-unit>
-        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols">
+        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols" approved="yes">
           <source>Mouse Controls</source>
-          <target>Contrôle via Souris</target>
+          <target state="final">Contrôles via Souris</target>
         </trans-unit>
-        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
+        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Inversé</target>
+          <target state="final">Inversé</target>
         </trans-unit>
-        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="yes">
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
-          <target>Clic gauche pour &lt;Sauter&gt;. Clic droit pour &lt;Attaquer&gt;.</target>
+          <target state="final">Clic gauche pour &lt;Sauter&gt;. Clic droit pour &lt;Attaquer&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled" approved="yes">
           <source>In-game mouse controls are disabled.</source>
-          <target>La souris n'a pas d'effet en jeu.</target>
+          <target state="final">La souris n'aura pas d'effet en jeu.</target>
         </trans-unit>
         <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
@@ -3349,6 +3349,10 @@ de la Sonate pour piano n°11</target>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="fr" datatype="plaintext">
     <body>
+      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="no">
+        <source>Song Select</source>
+        <target state="translated">Sélectionner Musique</target>
+      </trans-unit>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="yes">
         <source>Flight of the Bumblebee</source>
         <target state="final">Le Vol du Bourdon</target>
