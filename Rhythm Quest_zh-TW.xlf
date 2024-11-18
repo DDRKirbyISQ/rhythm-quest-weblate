@@ -325,82 +325,56 @@
           <target>更新日誌</target>
         </trans-unit>
         <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
-          <source>World 1
-Green Grasslands</source>
-          <target>世界1
-綠色草原</target>
+          <source>Green Grasslands</source>
+          <target>綠色草原</target>
         </trans-unit>
         <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
-          <source>World 2
-Cloudy Courseway</source>
-          <target>世界2
-雲端航道</target>
+          <source>Cloudy Courseway</source>
+          <target>雲端航道</target>
         </trans-unit>
         <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
-          <source>World 3
-Retro Ridge</source>
-          <target>世界3
-復古山嶺</target>
+          <source>Retro Ridge</source>
+          <target>復古山嶺</target>
         </trans-unit>
         <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
-          <source>World 4
-Magical Metropolis</source>
-          <target>世界4
-魔法之都</target>
+          <source>Magical Metropolis</source>
+          <target>魔法之都</target>
         </trans-unit>
         <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
-          <source>World 5
-Crystal Caverns</source>
-          <target>世界5
-太空旅居</target>
+          <source>Crystal Caverns</source>
+          <target>太空旅居</target>
         </trans-unit>
         <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
-          <source>World 6
-Space Sojourn</source>
-          <target>世界6
-徘徊宇宙</target>
+          <source>Space Sojourn</source>
+          <target>徘徊宇宙</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
-          <source>Level 1-1
-Sunrise Vista</source>
-          <target>關卡1-1
-旭日遠景</target>
+          <source>Sunrise Vista</source>
+          <target>旭日遠景</target>
         </trans-unit>
         <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
-          <source>Level 1-2
-Raceway Plain</source>
-          <target>關卡1-2
-跑道平原</target>
+          <source>Raceway Plain</source>
+          <target>跑道平原</target>
         </trans-unit>
         <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
-          <source>Level 1-3
-River Crossing</source>
-          <target>關卡1-3
-渡河途中</target>
+          <source>River Crossing</source>
+          <target>渡河途中</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
-          <source>Level 1-4
-Mystic Forest</source>
-          <target>關卡1-4
-秘境之森</target>
+          <source>Mystic Forest</source>
+          <target>秘境之森</target>
         </trans-unit>
         <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
-          <source>Level 2-1
-Skyward Summit</source>
-          <target>關卡2-1
-天際之巔</target>
+          <source>Skyward Summit</source>
+          <target>天際之巔</target>
         </trans-unit>
         <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
-          <source>Level 2-2
-Winged Airways</source>
-          <target>關卡2-2
-飛翼航線</target>
+          <source>Winged Airways</source>
+          <target>飛翼航線</target>
         </trans-unit>
         <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
-          <source>Level 2-3
-Twilight Flight</source>
-          <target>關卡2-3
-暮光飛翔</target>
+          <source>Twilight Flight</source>
+          <target>暮光飛翔</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -635,10 +609,8 @@ Otherwise, adjust manually until synced.</source>
           <target>（選擇一個選項以查看更多詳細訊息）</target>
         </trans-unit>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
-          <source>Level 3-1
-Spiked Steppes</source>
-          <target>關卡3-1
-尖刺草原</target>
+          <source>Spiked Steppes</source>
+          <target>尖刺草原</target>
         </trans-unit>
         <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
           <source>Redo</source>
@@ -661,10 +633,8 @@ Spiked Steppes</source>
           <target>復活次數：{0}</target>
         </trans-unit>
         <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
-          <source>Level 3-3
-Haunted Prairie</source>
-          <target>關卡3-3
-幽魂草坪</target>
+          <source>Haunted Prairie</source>
+          <target>幽魂草坪</target>
         </trans-unit>
         <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
           <source>Restart Level</source>
@@ -749,16 +719,12 @@ by DDRKirby(ISQ)</source>
 由DDRKirby(ISQ)製作</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
-          <source>Level 1-5
-City in the Rain</source>
-          <target>關卡1-5
-雨中城市</target>
+          <source>City in the Rain</source>
+          <target>雨中城市</target>
         </trans-unit>
         <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
-          <source>Level 4-1
-Enchanted Oasis</source>
-          <target>關卡4-1
-魔力綠洲</target>
+          <source>Enchanted Oasis</source>
+          <target>魔力綠洲</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer
@@ -767,16 +733,12 @@ by DDRKirby(ISQ)</source>
 由DDRKirby(ISQ)製作</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
-          <source>Level 2-4
-Snowy Peak</source>
-          <target>關卡2-4
-皚皚頂峰</target>
+          <source>Snowy Peak</source>
+          <target>皚皚頂峰</target>
         </trans-unit>
         <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
-          <source>Level 2-5
-Stratosphere</source>
-          <target>關卡2-5
-空中漫步</target>
+          <source>Stratosphere</source>
+          <target>空中漫步</target>
         </trans-unit>
         <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
           <source>Wishlist on Steam</source>
@@ -812,34 +774,24 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <target>慢了</target>
         </trans-unit>
         <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
-          <source>Level 3-2
-Twilight Tunnel</source>
-          <target>關卡3-2
-暮光隧道</target>
+          <source>Twilight Tunnel</source>
+          <target>暮光隧道</target>
         </trans-unit>
         <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
-          <source>Level 3-4
-Midnight Marathon</source>
-          <target>關卡3-4
-午夜馬拉松</target>
+          <source>Midnight Marathon</source>
+          <target>午夜馬拉松</target>
         </trans-unit>
         <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
-          <source>Level 3-5
-Gearwheel Factory</source>
-          <target>關卡3-5
-齒輪工廠</target>
+          <source>Gearwheel Factory</source>
+          <target>齒輪工廠</target>
         </trans-unit>
         <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
-          <source>Level 4-3
-Outerworld Highway</source>
-          <target>關卡4-3
-天外公路</target>
+          <source>Outerworld Highway</source>
+          <target>天外公路</target>
         </trans-unit>
         <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
-          <source>Level 4-2
-Misty Meadow</source>
-          <target>關卡4-2
-迷霧草甸</target>
+          <source>Misty Meadow</source>
+          <target>迷霧草甸</target>
         </trans-unit>
         <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
           <source>Copy Protection Violation detected!</source>
@@ -1340,10 +1292,8 @@ Would you like to enable screen reader mode?
           <target>在介面使用像素風格字體。&lt;color=red&gt;[在此解析度下不可用]&lt;/color&gt;</target>
         </trans-unit>
         <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
-          <source>Level 4-4
-Soaring Skyline</source>
-          <target>關卡4-4
-翱翔天際</target>
+          <source>Soaring Skyline</source>
+          <target>翱翔天際</target>
         </trans-unit>
         <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
           <source>English</source>
@@ -1466,10 +1416,8 @@ Soaring Skyline</source>
           <target>使用{0}製作的中文（繁體）翻譯。</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
-          <source>Level 4-5
-Moonlit Mesa</source>
-          <target>關卡4-5
-月夜台地</target>
+          <source>Moonlit Mesa</source>
+          <target>月夜台地</target>
         </trans-unit>
         <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
           <source>Promotional Art: Kat Jia</source>
@@ -1488,40 +1436,28 @@ Moonlit Mesa</source>
           <target>使用{0}製作的越南文翻譯。</target>
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
-          <source>Level 5-1
-Gleaming Glassway</source>
-          <target>關卡5-1
-琉璃耀道</target>
+          <source>Gleaming Glassway</source>
+          <target>琉璃耀道</target>
         </trans-unit>
         <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
-          <source>Level 5-2
-Sunken Street</source>
-          <target>關卡5-2
-沉沒街區</target>
+          <source>Sunken Street</source>
+          <target>沉沒街區</target>
         </trans-unit>
         <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
-          <source>Level 5-3
-Crossway Corridor</source>
-          <target>關卡5-3
-縱橫長廊</target>
+          <source>Crossway Corridor</source>
+          <target>縱橫長廊</target>
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Level 5-4
-Planar Puzzle</source>
-          <target>關卡5-4
-平面迷陣</target>
+          <source>Planar Puzzle</source>
+          <target>平面迷陣</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
-          <source>Level 5-5
-Brilliant Boulevard</source>
-          <target>關卡5-5
-輝煌大道</target>
+          <source>Brilliant Boulevard</source>
+          <target>輝煌大道</target>
         </trans-unit>
         <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
-          <source>Level 6-2
-Speedy Starfield</source>
-          <target>關卡6-2
-飛馳星空</target>
+          <source>Speedy Starfield</source>
+          <target>飛馳星空</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -2582,10 +2518,8 @@ You can import levels from:
           <target>背景集</target>
         </trans-unit>
         <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
-          <source>World 1
-Green Grasslands (+ grass)</source>
-          <target>世界1
-綠色草原（+草）</target>
+          <source>Green Grasslands (+ grass)</source>
+          <target>綠色草原（+草）</target>
         </trans-unit>
         <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
           <source>Sfx Pitch...</source>
@@ -2964,10 +2898,8 @@ Last updated: {2}</source>
           <target>輸入發送到{0}的驗證碼。</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
-          <source>Level 6-1
-Spellbound Nebula</source>
-          <target>關卡6-1
-迷茫星雲</target>
+          <source>Spellbound Nebula</source>
+          <target>迷茫星雲</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>

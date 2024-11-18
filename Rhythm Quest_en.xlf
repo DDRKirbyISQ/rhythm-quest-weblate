@@ -325,82 +325,56 @@
           <target>Changelog</target>
         </trans-unit>
         <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
-          <source>World 1
-Green Grasslands</source>
-          <target>World 1
-Green Grasslands</target>
+          <source>Green Grasslands</source>
+          <target>Green Grasslands</target>
         </trans-unit>
         <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
-          <source>World 2
-Cloudy Courseway</source>
-          <target>World 2
-Cloudy Courseway</target>
+          <source>Cloudy Courseway</source>
+          <target>Cloudy Courseway</target>
         </trans-unit>
         <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
-          <source>World 3
-Retro Ridge</source>
-          <target>World 3
-Retro Ridge</target>
+          <source>Retro Ridge</source>
+          <target>Retro Ridge</target>
         </trans-unit>
         <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
-          <source>World 4
-Magical Metropolis</source>
-          <target>World 4
-Magical Metropolis</target>
+          <source>Magical Metropolis</source>
+          <target>Magical Metropolis</target>
         </trans-unit>
         <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
-          <source>World 5
-Crystal Caverns</source>
-          <target>World 5
-Crystal Caverns</target>
+          <source>Crystal Caverns</source>
+          <target>Crystal Caverns</target>
         </trans-unit>
         <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
-          <source>World 6
-Space Sojourn</source>
-          <target>World 6
-Space Sojourn</target>
+          <source>Space Sojourn</source>
+          <target>Space Sojourn</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
-          <source>Level 1-1
-Sunrise Vista</source>
-          <target>Level 1-1
-Sunrise Vista</target>
+          <source>Sunrise Vista</source>
+          <target>Sunrise Vista</target>
         </trans-unit>
         <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
-          <source>Level 1-2
-Raceway Plain</source>
-          <target>Level 1-2
-Raceway Plain</target>
+          <source>Raceway Plain</source>
+          <target>Raceway Plain</target>
         </trans-unit>
         <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
-          <source>Level 1-3
-River Crossing</source>
-          <target>Level 1-3
-River Crossing</target>
+          <source>River Crossing</source>
+          <target>River Crossing</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
-          <source>Level 1-4
-Mystic Forest</source>
-          <target>Level 1-4
-Mystic Forest</target>
+          <source>Mystic Forest</source>
+          <target>Mystic Forest</target>
         </trans-unit>
         <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
-          <source>Level 2-1
-Skyward Summit</source>
-          <target>Level 2-1
-Skyward Summit</target>
+          <source>Skyward Summit</source>
+          <target>Skyward Summit</target>
         </trans-unit>
         <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
-          <source>Level 2-2
-Winged Airways</source>
-          <target>Level 2-2
-Winged Airways</target>
+          <source>Winged Airways</source>
+          <target>Winged Airways</target>
         </trans-unit>
         <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
-          <source>Level 2-3
-Twilight Flight</source>
-          <target>Level 2-3
-Twilight Flight</target>
+          <source>Twilight Flight</source>
+          <target>Twilight Flight</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -635,10 +609,8 @@ Otherwise, adjust manually until synced.</target>
           <target>(Select an option to view more details)</target>
         </trans-unit>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
-          <source>Level 3-1
-Spiked Steppes</source>
-          <target>Level 3-1
-Spiked Steppes</target>
+          <source>Spiked Steppes</source>
+          <target>Spiked Steppes</target>
         </trans-unit>
         <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
           <source>Redo</source>
@@ -661,10 +633,8 @@ Spiked Steppes</target>
           <target>Respawns: {0}</target>
         </trans-unit>
         <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
-          <source>Level 3-3
-Haunted Prairie</source>
-          <target>Level 3-3
-Haunted Prairie</target>
+          <source>Haunted Prairie</source>
+          <target>Haunted Prairie</target>
         </trans-unit>
         <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
           <source>Restart Level</source>
@@ -749,16 +719,12 @@ by DDRKirby(ISQ)</source>
 by DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
-          <source>Level 1-5
-City in the Rain</source>
-          <target>Level 1-5
-City in the Rain</target>
+          <source>City in the Rain</source>
+          <target>City in the Rain</target>
         </trans-unit>
         <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
-          <source>Level 4-1
-Enchanted Oasis</source>
-          <target>Level 4-1
-Enchanted Oasis</target>
+          <source>Enchanted Oasis</source>
+          <target>Enchanted Oasis</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer
@@ -767,16 +733,12 @@ by DDRKirby(ISQ)</source>
 by DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
-          <source>Level 2-4
-Snowy Peak</source>
-          <target>Level 2-4
-Snowy Peak</target>
+          <source>Snowy Peak</source>
+          <target>Snowy Peak</target>
         </trans-unit>
         <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
-          <source>Level 2-5
-Stratosphere</source>
-          <target>Level 2-5
-Stratosphere</target>
+          <source>Stratosphere</source>
+          <target>Stratosphere</target>
         </trans-unit>
         <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
           <source>Wishlist on Steam</source>
@@ -813,34 +775,24 @@ Lower if audio is too early. Raise if audio is too late.</target>
           <target>Too Late</target>
         </trans-unit>
         <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
-          <source>Level 3-2
-Twilight Tunnel</source>
-          <target>Level 3-2
-Twilight Tunnel</target>
+          <source>Twilight Tunnel</source>
+          <target>Twilight Tunnel</target>
         </trans-unit>
         <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
-          <source>Level 3-4
-Midnight Marathon</source>
-          <target>Level 3-4
-Midnight Marathon</target>
+          <source>Midnight Marathon</source>
+          <target>Midnight Marathon</target>
         </trans-unit>
         <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
-          <source>Level 3-5
-Gearwheel Factory</source>
-          <target>Level 3-5
-Gearwheel Factory</target>
+          <source>Gearwheel Factory</source>
+          <target>Gearwheel Factory</target>
         </trans-unit>
         <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
-          <source>Level 4-3
-Outerworld Highway</source>
-          <target>Level 4-3
-Outerworld Highway</target>
+          <source>Outerworld Highway</source>
+          <target>Outerworld Highway</target>
         </trans-unit>
         <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
-          <source>Level 4-2
-Misty Meadow</source>
-          <target>Level 4-2
-Misty Meadow</target>
+          <source>Misty Meadow</source>
+          <target>Misty Meadow</target>
         </trans-unit>
         <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
           <source>Copy Protection Violation detected!</source>
@@ -1341,10 +1293,8 @@ Would you like to enable screen reader mode?
           <target>Use pixel-styled font for the interface. &lt;color=red&gt;[Unavailable at this resolution]&lt;/color&gt;</target>
         </trans-unit>
         <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
-          <source>Level 4-4
-Soaring Skyline</source>
-          <target>Level 4-4
-Soaring Skyline</target>
+          <source>Soaring Skyline</source>
+          <target>Soaring Skyline</target>
         </trans-unit>
         <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
           <source>English</source>
@@ -1467,10 +1417,8 @@ Soaring Skyline</target>
           <target>Use Chinese (Traditional) translation by {0}.</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
-          <source>Level 4-5
-Moonlit Mesa</source>
-          <target>Level 4-5
-Moonlit Mesa</target>
+          <source>Moonlit Mesa</source>
+          <target>Moonlit Mesa</target>
         </trans-unit>
         <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
           <source>Promotional Art: Kat Jia</source>
@@ -1489,40 +1437,28 @@ Moonlit Mesa</target>
           <target>Use Vietnamese translation by {0}.</target>
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
-          <source>Level 5-1
-Gleaming Glassway</source>
-          <target>Level 5-1
-Gleaming Glassway</target>
+          <source>Gleaming Glassway</source>
+          <target>Gleaming Glassway</target>
         </trans-unit>
         <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
-          <source>Level 5-2
-Sunken Street</source>
-          <target>Level 5-2
-Sunken Street</target>
+          <source>Sunken Street</source>
+          <target>Sunken Street</target>
         </trans-unit>
         <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
-          <source>Level 5-3
-Crossway Corridor</source>
-          <target>Level 5-3
-Crossway Corridor</target>
+          <source>Crossway Corridor</source>
+          <target>Crossway Corridor</target>
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Level 5-4
-Planar Puzzle</source>
-          <target>Level 5-4
-Planar Puzzle</target>
+          <source>Planar Puzzle</source>
+          <target>Planar Puzzle</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
-          <source>Level 5-5
-Brilliant Boulevard</source>
-          <target>Level 5-5
-Brilliant Boulevard</target>
+          <source>Brilliant Boulevard</source>
+          <target>Brilliant Boulevard</target>
         </trans-unit>
         <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
-          <source>Level 6-2
-Speedy Starfield</source>
-          <target>Level 6-2
-Speedy Starfield</target>
+          <source>Speedy Starfield</source>
+          <target>Speedy Starfield</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -2583,10 +2519,8 @@ You can import levels from:
           <target>Backdrop Set</target>
         </trans-unit>
         <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
-          <source>World 1
-Green Grasslands (+ grass)</source>
-          <target>World 1
-Green Grasslands (+ grass)</target>
+          <source>Green Grasslands (+ grass)</source>
+          <target>Green Grasslands (+ grass)</target>
         </trans-unit>
         <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
           <source>Sfx Pitch...</source>
@@ -3071,10 +3005,8 @@ Check the code and try again.</target>
           <target>Updating mod.io mod profile...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
-          <source>Level 6-1
-Spellbound Nebula</source>
-          <target>Level 6-1
-Spellbound Nebula</target>
+          <source>Spellbound Nebula</source>
+          <target>Spellbound Nebula</target>
         </trans-unit>
         <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
           <source>Coin Outlines</source>
@@ -3373,10 +3305,8 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</target>
           <target>Practice Settings</target>
         </trans-unit>
         <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
-          <source>Level 6-3
-Quantum Orbit</source>
-          <target>Level 6-3
-Quantum Orbit</target>
+          <source>Quantum Orbit</source>
+          <target>Quantum Orbit</target>
         </trans-unit>
         <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
           <source>Additional Settings...</source>
@@ -3463,10 +3393,8 @@ by Nikolai Rimsky-Korsakov</source>
 by Nikolai Rimsky-Korsakov</target>
         </trans-unit>
         <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
-          <source>Level 6-4
-Cosmic Conflux</source>
-          <target>Level 6-4
-Cosmic Conflux</target>
+          <source>Cosmic Conflux</source>
+          <target>Cosmic Conflux</target>
         </trans-unit>
         <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
           <source>Skip Tutorial</source>

@@ -325,82 +325,56 @@
           <target>Nhật ký thay đổi</target>
         </trans-unit>
         <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
-          <source>World 1
-Green Grasslands</source>
-          <target>Thế giới 1
-Green Grasslands</target>
+          <source>Green Grasslands</source>
+          <target>Green Grasslands</target>
         </trans-unit>
         <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
-          <source>World 2
-Cloudy Courseway</source>
-          <target>Thế giới 2
-Cloudy Courseway</target>
+          <source>Cloudy Courseway</source>
+          <target>Cloudy Courseway</target>
         </trans-unit>
         <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
-          <source>World 3
-Retro Ridge</source>
-          <target>Thế giới 3
-Retro Ridge</target>
+          <source>Retro Ridge</source>
+          <target>Retro Ridge</target>
         </trans-unit>
         <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
-          <source>World 4
-Magical Metropolis</source>
-          <target>Thế giới 4
-Magical Metropolis</target>
+          <source>Magical Metropolis</source>
+          <target>Magical Metropolis</target>
         </trans-unit>
         <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
-          <source>World 5
-Crystal Caverns</source>
-          <target>Thế giới 5
-Crystal Caverns</target>
+          <source>Crystal Caverns</source>
+          <target>Crystal Caverns</target>
         </trans-unit>
         <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
-          <source>World 6
-Space Sojourn</source>
-          <target>Thế giới 6
-Space Sojourn</target>
+          <source>Space Sojourn</source>
+          <target>Space Sojourn</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
-          <source>Level 1-1
-Sunrise Vista</source>
-          <target>Màn 1-1
-Sunrise Vista</target>
+          <source>Sunrise Vista</source>
+          <target>Sunrise Vista</target>
         </trans-unit>
         <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
-          <source>Level 1-2
-Raceway Plain</source>
-          <target>Màn 1-2
-Raceway Plain</target>
+          <source>Raceway Plain</source>
+          <target>Raceway Plain</target>
         </trans-unit>
         <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
-          <source>Level 1-3
-River Crossing</source>
-          <target>Màn 1-3
-River Crossing</target>
+          <source>River Crossing</source>
+          <target>River Crossing</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
-          <source>Level 1-4
-Mystic Forest</source>
-          <target>Màn 1-4
-Mystic Forest</target>
+          <source>Mystic Forest</source>
+          <target>Mystic Forest</target>
         </trans-unit>
         <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
-          <source>Level 2-1
-Skyward Summit</source>
-          <target>Màn 2-1
-Skyward Summit</target>
+          <source>Skyward Summit</source>
+          <target>Skyward Summit</target>
         </trans-unit>
         <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
-          <source>Level 2-2
-Winged Airways</source>
-          <target>Màn 2-2
-Winged Airways</target>
+          <source>Winged Airways</source>
+          <target>Winged Airways</target>
         </trans-unit>
         <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
-          <source>Level 2-3
-Twilight Flight</source>
-          <target>Màn 2-3
-Twilight Flight</target>
+          <source>Twilight Flight</source>
+          <target>Twilight Flight</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -635,10 +609,8 @@ Nếu không, tự điều chỉnh đến khi phù hợp.</target>
           <target>(Lựa chọn để xem chi tiết)</target>
         </trans-unit>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
-          <source>Level 3-1
-Spiked Steppes</source>
-          <target>Màn 3-1
-Spiked Steppes</target>
+          <source>Spiked Steppes</source>
+          <target>Spiked Steppes</target>
         </trans-unit>
         <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
           <source>Redo</source>
@@ -661,10 +633,8 @@ Spiked Steppes</target>
           <target>Lần hồi sinh: {0}</target>
         </trans-unit>
         <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
-          <source>Level 3-3
-Haunted Prairie</source>
-          <target>Màn 3-3
-Haunted Prairie</target>
+          <source>Haunted Prairie</source>
+          <target>Haunted Prairie</target>
         </trans-unit>
         <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
           <source>Restart Level</source>
@@ -747,16 +717,12 @@ by DDRKirby(ISQ)</source>
           <target>What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
-          <source>Level 1-5
-City in the Rain</source>
-          <target>Màn 1-5
-City in the Rain</target>
+          <source>City in the Rain</source>
+          <target>City in the Rain</target>
         </trans-unit>
         <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
-          <source>Level 4-1
-Enchanted Oasis</source>
-          <target>Màn 4-1
-Enchanted Oasis</target>
+          <source>Enchanted Oasis</source>
+          <target>Enchanted Oasis</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer
@@ -764,16 +730,12 @@ by DDRKirby(ISQ)</source>
           <target>Giới thiệu trò chơi</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
-          <source>Level 2-4
-Snowy Peak</source>
-          <target>Màn 2-4
-Snowy Peak</target>
+          <source>Snowy Peak</source>
+          <target>Snowy Peak</target>
         </trans-unit>
         <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
-          <source>Level 2-5
-Stratosphere</source>
-          <target>Màn 2-5
-Stratosphere</target>
+          <source>Stratosphere</source>
+          <target>Stratosphere</target>
         </trans-unit>
         <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
           <source>Wishlist on Steam</source>
@@ -810,34 +772,24 @@ Giảm xuống nếu âm thanh quá sớm. Tăng lên nếu âm thanh quá trễ
           <target>Quá Trễ</target>
         </trans-unit>
         <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
-          <source>Level 3-2
-Twilight Tunnel</source>
-          <target>Màn 3-2
-Twilight Tunnel</target>
+          <source>Twilight Tunnel</source>
+          <target>Twilight Tunnel</target>
         </trans-unit>
         <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
-          <source>Level 3-4
-Midnight Marathon</source>
-          <target>Màn 3-4
-Midnight Marathon</target>
+          <source>Midnight Marathon</source>
+          <target>Midnight Marathon</target>
         </trans-unit>
         <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
-          <source>Level 3-5
-Gearwheel Factory</source>
-          <target>Màn 3-5
-Gearwheel Factory</target>
+          <source>Gearwheel Factory</source>
+          <target>Gearwheel Factory</target>
         </trans-unit>
         <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
-          <source>Level 4-3
-Outerworld Highway</source>
-          <target>Màn 4-3
-Outerworld Highway</target>
+          <source>Outerworld Highway</source>
+          <target>Outerworld Highway</target>
         </trans-unit>
         <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
-          <source>Level 4-2
-Misty Meadow</source>
-          <target>Màn 4-2
-Misty Meadow</target>
+          <source>Misty Meadow</source>
+          <target>Misty Meadow</target>
         </trans-unit>
         <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
           <source>Copy Protection Violation detected!</source>
@@ -1338,10 +1290,8 @@ Bạn có muốn bật chế độ đọc màn hình không?
           <target>Sử dụng phông pixel cho giao diện. &lt;color=red&gt;[Không khả dụng ở độ phân giải này]&lt;/color&gt;</target>
         </trans-unit>
         <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
-          <source>Level 4-4
-Soaring Skyline</source>
-          <target>Màn 4-4
-Soaring Skyline</target>
+          <source>Soaring Skyline</source>
+          <target>Soaring Skyline</target>
         </trans-unit>
         <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
           <source>English</source>
@@ -1464,10 +1414,8 @@ Soaring Skyline</target>
           <target>Sử dụng bản dịch tiếng Trung (Phồn thể) bởi {0}.</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
-          <source>Level 4-5
-Moonlit Mesa</source>
-          <target>Màn 4-5
-Moonlit Mesa</target>
+          <source>Moonlit Mesa</source>
+          <target>Moonlit Mesa</target>
         </trans-unit>
         <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
           <source>Promotional Art: Kat Jia</source>
@@ -1486,40 +1434,28 @@ Moonlit Mesa</target>
           <target>Sử dụng bản dịch tiếng Việt bởi {0}.</target>
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
-          <source>Level 5-1
-Gleaming Glassway</source>
-          <target>Màn 5-1
-Gleaming Glassway</target>
+          <source>Gleaming Glassway</source>
+          <target>Gleaming Glassway</target>
         </trans-unit>
         <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
-          <source>Level 5-2
-Sunken Street</source>
-          <target>Màn 5-2
-Sunken Street</target>
+          <source>Sunken Street</source>
+          <target>Sunken Street</target>
         </trans-unit>
         <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
-          <source>Level 5-3
-Crossway Corridor</source>
-          <target>Màn 5-3
-Crossway Corridor</target>
+          <source>Crossway Corridor</source>
+          <target>Crossway Corridor</target>
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Level 5-4
-Planar Puzzle</source>
-          <target>Màn 5-4
-Planar Puzzle</target>
+          <source>Planar Puzzle</source>
+          <target>Planar Puzzle</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
-          <source>Level 5-5
-Brilliant Boulevard</source>
-          <target>Màn 5-5
-Brilliant Boulevard</target>
+          <source>Brilliant Boulevard</source>
+          <target>Brilliant Boulevard</target>
         </trans-unit>
         <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
-          <source>Level 6-2
-Speedy Starfield</source>
-          <target>Màn 6-1
-Speedy Starfield</target>
+          <source>Speedy Starfield</source>
+          <target>Speedy Starfield</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -1792,10 +1728,8 @@ Hãy cắm một thiết bị gamepad được hỗ trợ.</target>
           <target>Thêm dòng thời gian cho các đầu vào cần nhấn.</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
-          <source>Level 6-1
-Spellbound Nebula</source>
-          <target>Màn 6-1
-Speedy Starfield</target>
+          <source>Spellbound Nebula</source>
+          <target>Speedy Starfield</target>
         </trans-unit>
       </group>
     </body>

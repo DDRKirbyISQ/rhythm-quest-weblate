@@ -325,82 +325,56 @@
           <target>Список изменений</target>
         </trans-unit>
         <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="no">
-          <source>World 1
-Green Grasslands</source>
-          <target state="translated">Мир 1
-Зелёные луга</target>
+          <source>Green Grasslands</source>
+          <target state="translated">Зелёные луга</target>
         </trans-unit>
         <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="no">
-          <source>World 2
-Cloudy Courseway</source>
-          <target state="translated">Мир 2
-Облачная тропа</target>
+          <source>Cloudy Courseway</source>
+          <target state="translated">Облачная тропа</target>
         </trans-unit>
         <trans-unit id="744201462046720" xml:space="preserve" resname="world_3" approved="no">
-          <source>World 3
-Retro Ridge</source>
-          <target state="translated">Мир 3
-Ретро-раздолье</target>
+          <source>Retro Ridge</source>
+          <target state="translated">Ретро-раздолье</target>
         </trans-unit>
         <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="no">
-          <source>World 4
-Magical Metropolis</source>
-          <target state="translated">Мир 4
-Магический мегаполис</target>
+          <source>Magical Metropolis</source>
+          <target state="translated">Магический мегаполис</target>
         </trans-unit>
         <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="no">
-          <source>World 5
-Crystal Caverns</source>
-          <target state="translated">Мир 5
-Хрустальные пещеры</target>
+          <source>Crystal Caverns</source>
+          <target state="translated">Хрустальные пещеры</target>
         </trans-unit>
         <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="no">
-          <source>World 6
-Space Sojourn</source>
-          <target state="translated">Мир 6
-Космическая прогулка</target>
+          <source>Space Sojourn</source>
+          <target state="translated">Космическая прогулка</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="no">
-          <source>Level 1-1
-Sunrise Vista</source>
-          <target state="translated">Уровень 1-1
-Вид восхода</target>
+          <source>Sunrise Vista</source>
+          <target state="translated">Вид восхода</target>
         </trans-unit>
         <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="no">
-          <source>Level 1-2
-Raceway Plain</source>
-          <target state="translated">Уровень 1-2
-Гоночная равнина</target>
+          <source>Raceway Plain</source>
+          <target state="translated">Гоночная равнина</target>
         </trans-unit>
         <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="no">
-          <source>Level 1-3
-River Crossing</source>
-          <target state="translated">Уровень 1-3
-Речная переправа</target>
+          <source>River Crossing</source>
+          <target state="translated">Речная переправа</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="no">
-          <source>Level 1-4
-Mystic Forest</source>
-          <target state="translated">Уровень 1-4
-Мистический лес</target>
+          <source>Mystic Forest</source>
+          <target state="translated">Мистический лес</target>
         </trans-unit>
         <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="no">
-          <source>Level 2-1
-Skyward Summit</source>
-          <target state="translated">Уровень 2-1
-Небесная вершина</target>
+          <source>Skyward Summit</source>
+          <target state="translated">Небесная вершина</target>
         </trans-unit>
         <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="no">
-          <source>Level 2-2
-Winged Airways</source>
-          <target state="translated">Уровень 2-2
-Крылатые пути</target>
+          <source>Winged Airways</source>
+          <target state="translated">Крылатые пути</target>
         </trans-unit>
         <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="no">
-          <source>Level 2-3
-Twilight Flight</source>
-          <target state="translated">Уровень 2-3
-Сумеречный взлёт</target>
+          <source>Twilight Flight</source>
+          <target state="translated">Сумеречный взлёт</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -635,10 +609,8 @@ Otherwise, adjust manually until synced.</source>
           <target state="translated">(Наведи на кнопку для более детальной информации)</target>
         </trans-unit>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1" approved="no">
-          <source>Level 3-1
-Spiked Steppes</source>
-          <target state="translated">Уровень 3-1
-Колючие степи</target>
+          <source>Spiked Steppes</source>
+          <target state="translated">Колючие степи</target>
         </trans-unit>
         <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
           <source>Redo</source>
@@ -661,10 +633,8 @@ Spiked Steppes</source>
           <target>Возрождений: {0}</target>
         </trans-unit>
         <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="no">
-          <source>Level 3-3
-Haunted Prairie</source>
-          <target state="translated">Уровень 3-3
-Призрачная прерия</target>
+          <source>Haunted Prairie</source>
+          <target state="translated">Призрачная прерия</target>
         </trans-unit>
         <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart" approved="no">
           <source>Restart Level</source>
@@ -749,16 +719,12 @@ by DDRKirby(ISQ)</source>
 Автор: DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="no">
-          <source>Level 1-5
-City in the Rain</source>
-          <target state="translated">Уровень 1-5
-Дождливый город</target>
+          <source>City in the Rain</source>
+          <target state="translated">Дождливый город</target>
         </trans-unit>
         <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1" approved="no">
-          <source>Level 4-1
-Enchanted Oasis</source>
-          <target state="translated">Уровень 4-1
-Зачарованный оазис</target>
+          <source>Enchanted Oasis</source>
+          <target state="translated">Зачарованный оазис</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer
@@ -767,16 +733,12 @@ by DDRKirby(ISQ)</source>
 Автор: DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="no">
-          <source>Level 2-4
-Snowy Peak</source>
-          <target state="translated">Уровень 2-4
-Снежная вершина</target>
+          <source>Snowy Peak</source>
+          <target state="translated">Снежная вершина</target>
         </trans-unit>
         <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
-          <source>Level 2-5
-Stratosphere</source>
-          <target>Уровень 2-5
-Стратосфера</target>
+          <source>Stratosphere</source>
+          <target>Стратосфера</target>
         </trans-unit>
         <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam" approved="no">
           <source>Wishlist on Steam</source>
@@ -813,34 +775,24 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <target state="translated">Слишком поздно</target>
         </trans-unit>
         <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2" approved="no">
-          <source>Level 3-2
-Twilight Tunnel</source>
-          <target state="translated">Уровень 3-2
-Сумеречный туннель</target>
+          <source>Twilight Tunnel</source>
+          <target state="translated">Сумеречный туннель</target>
         </trans-unit>
         <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4" approved="no">
-          <source>Level 3-4
-Midnight Marathon</source>
-          <target state="translated">Уровень 3-4
-Полуночный марафон</target>
+          <source>Midnight Marathon</source>
+          <target state="translated">Полуночный марафон</target>
         </trans-unit>
         <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5" approved="no">
-          <source>Level 3-5
-Gearwheel Factory</source>
-          <target state="translated">Уровень 3-5
-Фабрика шестерень</target>
+          <source>Gearwheel Factory</source>
+          <target state="translated">Фабрика шестерень</target>
         </trans-unit>
         <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="no">
-          <source>Level 4-3
-Outerworld Highway</source>
-          <target state="translated">Уровень 4-3
-Шоссе внешнего мира</target>
+          <source>Outerworld Highway</source>
+          <target state="translated">Шоссе внешнего мира</target>
         </trans-unit>
         <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2" approved="no">
-          <source>Level 4-2
-Misty Meadow</source>
-          <target state="translated">Уровень 4-2
-Туманный луг</target>
+          <source>Misty Meadow</source>
+          <target state="translated">Туманный луг</target>
         </trans-unit>
         <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation" approved="no">
           <source>Copy Protection Violation detected!</source>
@@ -1341,10 +1293,8 @@ Would you like to enable screen reader mode?
           <target>Использовать пиксельный шрифт для интерфейса. &lt;color=red&gt;[Недоступно при этом разрешении]&lt;/color&gt;</target>
         </trans-unit>
         <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
-          <source>Level 4-4
-Soaring Skyline</source>
-          <target>Уровень 4-4
-Возвышающийся Горизонт</target>
+          <source>Soaring Skyline</source>
+          <target>Возвышающийся Горизонт</target>
         </trans-unit>
         <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
           <source>English</source>
@@ -1467,10 +1417,8 @@ Soaring Skyline</source>
           <target state="translated">Использовать перевод на традиционный Китайский. Сделал {0}.</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
-          <source>Level 4-5
-Moonlit Mesa</source>
-          <target>Уровень 4-5
-Лунная Гора</target>
+          <source>Moonlit Mesa</source>
+          <target>Лунная Гора</target>
         </trans-unit>
         <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
           <source>Promotional Art: Kat Jia</source>
@@ -1489,40 +1437,28 @@ Moonlit Mesa</source>
           <target state="translated">Использовать Вьетнамский перевод. Сделал {0}.</target>
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
-          <source>Level 5-1
-Gleaming Glassway</source>
-          <target>Уровень 5-1
-Хрупкий Переход</target>
+          <source>Gleaming Glassway</source>
+          <target>Хрупкий Переход</target>
         </trans-unit>
         <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
-          <source>Level 5-2
-Sunken Street</source>
-          <target>Уровень 5-2
-Затопленный Переулок</target>
+          <source>Sunken Street</source>
+          <target>Затопленный Переулок</target>
         </trans-unit>
         <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
-          <source>Level 5-3
-Crossway Corridor</source>
-          <target>Уровень 5-3
-Длинный Перекресток</target>
+          <source>Crossway Corridor</source>
+          <target>Длинный Перекресток</target>
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Level 5-4
-Planar Puzzle</source>
-          <target>Уровень 5-4
-Простая Головоломка</target>
+          <source>Planar Puzzle</source>
+          <target>Простая Головоломка</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
-          <source>Level 5-5
-Brilliant Boulevard</source>
-          <target>Уровень 5-5
-Бриллиантовый Бульвар</target>
+          <source>Brilliant Boulevard</source>
+          <target>Бриллиантовый Бульвар</target>
         </trans-unit>
         <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
-          <source>Level 6-2
-Speedy Starfield</source>
-          <target>Уровень 6-2
-Скоростное Поле Звезд</target>
+          <source>Speedy Starfield</source>
+          <target>Скоростное Поле Звезд</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -2583,10 +2519,8 @@ You can import levels from:
           <target>Фоновое изображение</target>
         </trans-unit>
         <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
-          <source>World 1
-Green Grasslands (+ grass)</source>
-          <target>Мир 1
-Зеленые Земли (+ трава)</target>
+          <source>Green Grasslands (+ grass)</source>
+          <target>Зеленые Земли (+ трава)</target>
         </trans-unit>
         <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
           <source>Sfx Pitch...</source>
@@ -3071,10 +3005,8 @@ Check the code and try again.</source>
           <target state="translated">Обновление профиля модификации mod.io...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
-          <source>Level 6-1
-Spellbound Nebula</source>
-          <target>Уровень 6-1
-Завораживающая Туманность</target>
+          <source>Spellbound Nebula</source>
+          <target>Завораживающая Туманность</target>
         </trans-unit>
         <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
           <source>Coin Outlines</source>
@@ -3373,10 +3305,8 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <target>Настройки Режима Практики</target>
         </trans-unit>
         <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
-          <source>Level 6-3
-Quantum Orbit</source>
-          <target>Уровень 6-3
-Квантовая Орбита</target>
+          <source>Quantum Orbit</source>
+          <target>Квантовая Орбита</target>
         </trans-unit>
         <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
           <source>Additional Settings...</source>
@@ -3456,10 +3386,8 @@ by Nikolai Rimsky-Korsakov</source>
 Автор: Николай Римский-Корсаков</target>
       </trans-unit>
       <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
-        <source>Level 6-4
-Cosmic Conflux</source>
-        <target state="translated">Уровень 6-4
-Космическое слияние</target>
+        <source>Cosmic Conflux</source>
+        <target state="translated">Космическое слияние</target>
       </trans-unit>
       <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
         <source>Turkish March (Rondo alla Turca)

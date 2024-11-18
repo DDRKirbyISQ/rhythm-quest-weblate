@@ -325,82 +325,56 @@
           <target>Pakeitimų istorija</target>
         </trans-unit>
         <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
-          <source>World 1
-Green Grasslands</source>
-          <target>Pasaulis 1
-Žaliosios pievos</target>
+          <source>Green Grasslands</source>
+          <target>Žaliosios pievos</target>
         </trans-unit>
         <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
-          <source>World 2
-Cloudy Courseway</source>
-          <target>Pasaulis 2
-Debesuotas takas</target>
+          <source>Cloudy Courseway</source>
+          <target>Debesuotas takas</target>
         </trans-unit>
         <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
-          <source>World 3
-Retro Ridge</source>
-          <target>Pasaulis 3
-"Retro“ keteros</target>
+          <source>Retro Ridge</source>
+          <target>"Retro“ keteros</target>
         </trans-unit>
         <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
-          <source>World 4
-Magical Metropolis</source>
-          <target>Pasaulis 4
-Magiškas metropolis</target>
+          <source>Magical Metropolis</source>
+          <target>Magiškas metropolis</target>
         </trans-unit>
         <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
-          <source>World 5
-Crystal Caverns</source>
-          <target>Pasaulis 5
-Kristalų urvai</target>
+          <source>Crystal Caverns</source>
+          <target>Kristalų urvai</target>
         </trans-unit>
         <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
-          <source>World 6
-Space Sojourn</source>
-          <target>Pasaulis 6
-Kosmoso viešnagė</target>
+          <source>Space Sojourn</source>
+          <target>Kosmoso viešnagė</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
-          <source>Level 1-1
-Sunrise Vista</source>
-          <target>Lygis 1-1
-Saulėtekio vista</target>
+          <source>Sunrise Vista</source>
+          <target>Saulėtekio vista</target>
         </trans-unit>
         <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
-          <source>Level 1-2
-Raceway Plain</source>
-          <target>Lygis 1-2
-Lenktynių lyguma</target>
+          <source>Raceway Plain</source>
+          <target>Lenktynių lyguma</target>
         </trans-unit>
         <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
-          <source>Level 1-3
-River Crossing</source>
-          <target>Lygis 1-3
-Upės kirtimas</target>
+          <source>River Crossing</source>
+          <target>Upės kirtimas</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
-          <source>Level 1-4
-Mystic Forest</source>
-          <target>Lygis 1-4
-Paslaptingas miškas</target>
+          <source>Mystic Forest</source>
+          <target>Paslaptingas miškas</target>
         </trans-unit>
         <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
-          <source>Level 2-1
-Skyward Summit</source>
-          <target>Lygis 2-1
-Dangaus viršūnė</target>
+          <source>Skyward Summit</source>
+          <target>Dangaus viršūnė</target>
         </trans-unit>
         <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
-          <source>Level 2-2
-Winged Airways</source>
-          <target>Lygis 2-2
-Sparnuoti dangaus takai</target>
+          <source>Winged Airways</source>
+          <target>Sparnuoti dangaus takai</target>
         </trans-unit>
         <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
-          <source>Level 2-3
-Twilight Flight</source>
-          <target>Lygis 2-3
-Saulėlydžio skrydis</target>
+          <source>Twilight Flight</source>
+          <target>Saulėlydžio skrydis</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -635,10 +609,8 @@ Jei ne, keiskite rankiniu būdu, kol sutaps.</target>
           <target>(Pasirinkite parinktį, kad rodyti detaliau)</target>
         </trans-unit>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
-          <source>Level 3-1
-Spiked Steppes</source>
-          <target>Lygis 3-1
-Spygliuotos stepės</target>
+          <source>Spiked Steppes</source>
+          <target>Spygliuotos stepės</target>
         </trans-unit>
         <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
           <source>Redo</source>
@@ -661,10 +633,8 @@ Spygliuotos stepės</target>
           <target>Gyvybės: {0}</target>
         </trans-unit>
         <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
-          <source>Level 3-3
-Haunted Prairie</source>
-          <target>Lygis 3-3
-Apleistos prerijos</target>
+          <source>Haunted Prairie</source>
+          <target>Apleistos prerijos</target>
         </trans-unit>
         <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
           <source>Restart Level</source>
@@ -749,16 +719,12 @@ by DDRKirby(ISQ)</source>
 sukurta DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
-          <source>Level 1-5
-City in the Rain</source>
-          <target>Lygis 1-5
-Lietaus miestas</target>
+          <source>City in the Rain</source>
+          <target>Lietaus miestas</target>
         </trans-unit>
         <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
-          <source>Level 4-1
-Enchanted Oasis</source>
-          <target>Lygis 4-1
-Užburta oazė</target>
+          <source>Enchanted Oasis</source>
+          <target>Užburta oazė</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer
@@ -767,16 +733,12 @@ by DDRKirby(ISQ)</source>
 sukurta DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
-          <source>Level 2-4
-Snowy Peak</source>
-          <target>Lygis 2-4
-Snieguota viršūnė</target>
+          <source>Snowy Peak</source>
+          <target>Snieguota viršūnė</target>
         </trans-unit>
         <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
-          <source>Level 2-5
-Stratosphere</source>
-          <target>Lygis 2-5
-Stratosfera</target>
+          <source>Stratosphere</source>
+          <target>Stratosfera</target>
         </trans-unit>
         <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
           <source>Wishlist on Steam</source>
@@ -813,34 +775,24 @@ Sumažinkite, jei garsas skamba per anksti. Padidinkite, jei garsas yra per vėl
           <target>Per vėlai</target>
         </trans-unit>
         <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
-          <source>Level 3-2
-Twilight Tunnel</source>
-          <target>Lygis 3-2
-Saulėlydžio tunelis</target>
+          <source>Twilight Tunnel</source>
+          <target>Saulėlydžio tunelis</target>
         </trans-unit>
         <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
-          <source>Level 3-4
-Midnight Marathon</source>
-          <target>Lygis 3-4
-Vidurnakčio maratonas</target>
+          <source>Midnight Marathon</source>
+          <target>Vidurnakčio maratonas</target>
         </trans-unit>
         <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
-          <source>Level 3-5
-Gearwheel Factory</source>
-          <target>Lygis 3-5
-Krumpliaračių gamykla</target>
+          <source>Gearwheel Factory</source>
+          <target>Krumpliaračių gamykla</target>
         </trans-unit>
         <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
-          <source>Level 4-3
-Outerworld Highway</source>
-          <target>Lygis 4-3
-Išorinio pasaulio greitkelis</target>
+          <source>Outerworld Highway</source>
+          <target>Išorinio pasaulio greitkelis</target>
         </trans-unit>
         <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
-          <source>Level 4-2
-Misty Meadow</source>
-          <target>Lygis 4-2
-Miglota pieva</target>
+          <source>Misty Meadow</source>
+          <target>Miglota pieva</target>
         </trans-unit>
         <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
           <source>Copy Protection Violation detected!</source>
@@ -1343,10 +1295,8 @@ Ar norėtumėte įjungti ekrano skaitymo režimą?
 &lt;/color&gt;</target>
         </trans-unit>
         <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
-          <source>Level 4-4
-Soaring Skyline</source>
-          <target>Lygis 4-4
-Nustelbianti panorama</target>
+          <source>Soaring Skyline</source>
+          <target>Nustelbianti panorama</target>
         </trans-unit>
         <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
           <source>English</source>
@@ -1469,10 +1419,8 @@ Nustelbianti panorama</target>
           <target>Naudoti kinų (tradicinį) vertimą, sukurtą {0}.</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
-          <source>Level 4-5
-Moonlit Mesa</source>
-          <target>Lygis 4-5
-Mėnulio apšviesta kalva</target>
+          <source>Moonlit Mesa</source>
+          <target>Mėnulio apšviesta kalva</target>
         </trans-unit>
         <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
           <source>Promotional Art: Kat Jia</source>
@@ -1492,40 +1440,28 @@ Monetų/atsiradimų kiekis irgi atstatomas iš naujo.</target>
           <target>Naudoti vietnamiečių vertimą, sukurtą {0}.</target>
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
-          <source>Level 5-1
-Gleaming Glassway</source>
-          <target>Lygis 5-1
-Spindintis stiklo takas</target>
+          <source>Gleaming Glassway</source>
+          <target>Spindintis stiklo takas</target>
         </trans-unit>
         <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
-          <source>Level 5-2
-Sunken Street</source>
-          <target>Lygis 5-2 
-Paskendusi gatvė</target>
+          <source>Sunken Street</source>
+          <target>Paskendusi gatvė</target>
         </trans-unit>
         <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
-          <source>Level 5-3
-Crossway Corridor</source>
-          <target>Lygis 5-3
-Kryžkelių koridorius</target>
+          <source>Crossway Corridor</source>
+          <target>Kryžkelių koridorius</target>
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Level 5-4
-Planar Puzzle</source>
-          <target>Lygis 5-4
-Planarinė dėlionė</target>
+          <source>Planar Puzzle</source>
+          <target>Planarinė dėlionė</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
-          <source>Level 5-5
-Brilliant Boulevard</source>
-          <target>Lygis 5-5
-Briliantinis bulvaras</target>
+          <source>Brilliant Boulevard</source>
+          <target>Briliantinis bulvaras</target>
         </trans-unit>
         <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
-          <source>Level 6-2
-Speedy Starfield</source>
-          <target>Lygis 6-2
-Spartus žvaigždynas</target>
+          <source>Speedy Starfield</source>
+          <target>Spartus žvaigždynas</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -2586,10 +2522,8 @@ Galima importuoti lygius iš:
           <target>Fono rinkinys</target>
         </trans-unit>
         <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
-          <source>World 1
-Green Grasslands (+ grass)</source>
-          <target>Pasaulis 1
-Žaliosios pievos (+ žolė)</target>
+          <source>Green Grasslands (+ grass)</source>
+          <target>Žaliosios pievos (+ žolė)</target>
         </trans-unit>
         <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
           <source>Sfx Pitch...</source>
@@ -3074,10 +3008,8 @@ Patikrinkite jį ir bandykite iš naujo.</target>
           <target state="needs-translation">Atnaujinamas mod.iod modo profilis...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
-          <source>Level 6-1
-Spellbound Nebula</source>
-          <target>Lygis 6-1
-Spartus žvaigždynas</target>
+          <source>Spellbound Nebula</source>
+          <target>Spartus žvaigždynas</target>
         </trans-unit>
         <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
           <source>Coin Outlines</source>
@@ -3376,10 +3308,8 @@ Spauskite &lt;sprite name="controller_icons_97"&gt; nustatymams</target>
           <target>Praktikos režimo nustatymai</target>
         </trans-unit>
         <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
-          <source>Level 6-3
-Quantum Orbit</source>
-          <target>Lygis 6-3
-Kvantinė orbita</target>
+          <source>Quantum Orbit</source>
+          <target>Kvantinė orbita</target>
         </trans-unit>
         <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
           <source>Additional Settings...</source>
