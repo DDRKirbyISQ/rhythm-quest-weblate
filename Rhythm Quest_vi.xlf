@@ -694,9 +694,9 @@ Còn lại:</target>
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
           <target>Mua với &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</target>
         </trans-unit>
-        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
           <source>Take It to the Limit</source>
-          <target>Take It to the Limit</target>
+          <target state="needs-translation">Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -710,9 +710,9 @@ Còn lại:</target>
           <source>Play</source>
           <target>Chơi</target>
         </trans-unit>
-        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
           <source>What Lies Beneath</source>
-          <target>What Lies Beneath</target>
+          <target state="needs-translation">What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -722,9 +722,9 @@ Còn lại:</target>
           <source>Enchanted Oasis</source>
           <target>Enchanted Oasis</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
-          <target>Giới thiệu trò chơi</target>
+          <target state="needs-translation">Giới thiệu trò chơi</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
