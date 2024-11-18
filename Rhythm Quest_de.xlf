@@ -3372,4 +3372,12 @@ Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
       </trans-unit>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="de" datatype="plaintext">
+    <body>
+      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="yes">
+        <source>Song Select</source>
+        <target state="final">Song Auswahl</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
