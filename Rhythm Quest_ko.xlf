@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file original="Assets/Localization/Main String Table_ko.asset" source-language="en" datatype="plaintext" target-language="ko">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_ko.asset" uid="8cf0b7ced8cb54749bbf0eb54bc75a66"/>
+        <external-file href="Assets/Localization/Main String Table_ko.asset" uid="8cf0b7ced8cb54749bbf0eb54bc75a66" />
       </skl>
     </header>
     <body>
@@ -3364,10 +3364,12 @@ from 피아노 소나타 11번</target>
           <source>Skip Tutorial</source>
           <target>튜토리얼 건너뛰기</target>
         </trans-unit>
+        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
+          <source>Song Select</source>
+        </trans-unit>
         <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
           <source>Level {0}</source>
-          <target> 	
-레벨 {0}</target>
+          <target> 	레벨 {0}</target>
         </trans-unit>
         <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
           <source>by {0}</source>

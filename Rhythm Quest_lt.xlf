@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file original="Assets/Localization/Main String Table_lt.asset" source-language="en" datatype="plaintext" target-language="lt">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_lt.asset" uid="7053a3764b6e9fe4fb4f99ab9ec619e7"/>
+        <external-file href="Assets/Localization/Main String Table_lt.asset" uid="7053a3764b6e9fe4fb4f99ab9ec619e7" />
       </skl>
     </header>
     <body>
@@ -3347,14 +3347,31 @@ from Piano Sonata No. 11"</target>
           <source>Midnight Moon</source>
           <target>"Midnight Moon"</target>
         </trans-unit>
+        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
+          <source>Return to the main menu.</source>
+        </trans-unit>
+        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
+          <source>Für Elise</source>
+        </trans-unit>
+        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
+          <source>Flight of the Bumblebee</source>
+        </trans-unit>
+        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
+          <source>Cosmic Conflux</source>
+        </trans-unit>
+        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
+          <source>Skip Tutorial</source>
+        </trans-unit>
+        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
+          <source>Song Select</source>
+        </trans-unit>
         <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
           <source>Level {0}</source>
           <target>Lygis {0}</target>
         </trans-unit>
         <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
           <source>by {0}</source>
-          <target>sukurta {0}
-</target>
+          <target>sukurta {0}</target>
         </trans-unit>
         <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber">
           <source>World {0}</source>
