@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Assets/Localization/Main String Table_ja.asset" source-language="en" datatype="plaintext" target-language="ja">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_ja.asset" uid="d3222fb439ed51944946382acfd70d3d" />
+        <external-file href="Assets/Localization/Main String Table_ja.asset" uid="d3222fb439ed51944946382acfd70d3d"/>
       </skl>
     </header>
     <body>
@@ -3363,9 +3363,6 @@ from Piano Sonata No. 11</source>
         <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
           <source>Skip Tutorial</source>
           <target>チュートリアルをスキップする</target>
-        </trans-unit>
-        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
-          <source>Song Select</source>
         </trans-unit>
         <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
           <source>Level {0}</source>

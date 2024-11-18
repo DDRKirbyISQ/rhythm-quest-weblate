@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Assets/Localization/Main String Table_de.asset" source-language="en" datatype="plaintext" target-language="de">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_de.asset" uid="33591246d8ccf5a4f97c9a43a4f7d778" />
+        <external-file href="Assets/Localization/Main String Table_de.asset" uid="33591246d8ccf5a4f97c9a43a4f7d778"/>
       </skl>
     </header>
     <body>
@@ -3365,16 +3365,15 @@ aus Piano Sonata No. 11</target>
           <source>Skip Tutorial</source>
           <target>Tutorial überspringen</target>
         </trans-unit>
-        <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect">
-          <source>Song Select</source>
-        </trans-unit>
         <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
           <source>Level {0}</source>
-          <target> 	Level {0}</target>
+          <target> 	
+Level {0}</target>
         </trans-unit>
         <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
           <source>by {0}</source>
-          <target>von {0}</target>
+          <target>von {0}
+</target>
         </trans-unit>
         <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber">
           <source>World {0}</source>
