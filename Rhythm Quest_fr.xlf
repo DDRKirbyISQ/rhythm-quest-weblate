@@ -695,10 +695,8 @@ Restantes :</target>
           <target>Acheter pour {0}&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt; ?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
-          <source>Take It to the Limit
-by DDRKirby(ISQ)</source>
-          <target>Take it to the Limit
-par DDRKirby(ISQ)</target>
+          <source>Take It to the Limit</source>
+          <target>Take it to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -713,10 +711,8 @@ par DDRKirby(ISQ)</target>
           <target>Jouer</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
-          <source>What Lies Beneath
-by DDRKirby(ISQ)</source>
-          <target>What Lies Beneath
-par DDRKirby(ISQ)</target>
+          <source>What Lies Beneath</source>
+          <target>What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -727,10 +723,8 @@ par DDRKirby(ISQ)</target>
           <target>Oasis Enchantée</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
-          <source>Gameplay Trailer
-by DDRKirby(ISQ)</source>
-          <target>Bande-annonce Gameplay
-par DDRKirby(ISQ)</target>
+          <source>Gameplay Trailer</source>
+          <target>Bande-annonce Gameplay</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -2613,38 +2607,28 @@ Cliquez sur une section de point de passage pour modifier ses effets de particul
           <target>Pluie</target>
         </trans-unit>
         <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
-          <source>Violet Hyperwave
-by DDRKirby(ISQ)</source>
-          <target>Violet Hyperwave
-par DDRKirby(ISQ)</target>
+          <source>Violet Hyperwave</source>
+          <target>Violet Hyperwave</target>
         </trans-unit>
         <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
-          <source>A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</source>
-          <target>A Single Leaf Flutters in the Wind
-par DDRKirby(ISQ)</target>
+          <source>A Single Leaf Flutters in the Wind</source>
+          <target>A Single Leaf Flutters in the Wind</target>
         </trans-unit>
         <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
-          <source>Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Standing Here Alone (Mix Expert)
-par DDRKirby(ISQ)</target>
+          <source>Standing Here Alone (Expert Mix)</source>
+          <target>Standing Here Alone (Mix Expert)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero
-by DDRKirby(ISQ)</source>
-          <target>Super Mega Zero
-par DDRKirby(ISQ)</target>
+          <source>Super Mega Zero</source>
+          <target>Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
           <target>Couleurs</target>
         </trans-unit>
         <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
-          <source>As the Cherry Blossom Falls
-by DDRKirby(ISQ)</source>
-          <target>As the Cherry Blossom Falls
-par DDRKirby(ISQ)</target>
+          <source>As the Cherry Blossom Falls</source>
+          <target>As the Cherry Blossom Falls</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2659,10 +2643,8 @@ par DDRKirby(ISQ)</target>
           <target>Ajuste visuellement la position des ennemis (n'affecte pas la fenêtre des actions par rapport aux battements).</target>
         </trans-unit>
         <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
-          <source>Let's Have an Adventure!
-by DDRKirby(ISQ)</source>
-          <target>Let's Have an Adventure!
-par DDRKirby(ISQ)</target>
+          <source>Let's Have an Adventure!</source>
+          <target>Let's Have an Adventure!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
@@ -2677,10 +2659,8 @@ par DDRKirby(ISQ)</target>
           <target>Change visuellement la taille des fenêtres d'action en fonction du paramètre de vitesse de la musique pour préserver leurs durées. Peut causer des effets inattendus à très haute ou basse vitesse !</target>
         </trans-unit>
         <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
-          <source>Crimson Halls
-by DDRKirby(ISQ)</source>
-          <target>Crimson Halls (Couloirs Carmins)
-par DDRKirby(ISQ)</target>
+          <source>Crimson Halls</source>
+          <target>Crimson Halls (Couloirs Carmins)</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>
@@ -3172,25 +3152,19 @@ Souhaitez-vous activer des fonctionnalités d'aide ?</target>
         </trans-unit>
         <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
           <source>Piano Sonata No. 16 in C Major
-I. Allegro
-by Wolfgang Amadeus Mozart</source>
+I. Allegro</source>
           <target>Sonate pour piano n°16 en do majeur
-I. Allegro
-par Wolfgang Amadeus Mozart</target>
+I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
           <source>Eine kleine Nachtmusik
-I. Allegro
-by Wolfgang Amadeus Mozart</source>
+I. Allegro</source>
           <target>Une petite musique de nuit
-I. Allegro
-par Wolfgang Amadeus Mozart</target>
+I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
-          <source>Song of the Sea (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Song of the Sea (Expert Mix)
-par DDRKirby(ISQ)</target>
+          <source>Song of the Sea (Expert Mix)</source>
+          <target>Song of the Sea (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
           <source>Track freezing is disabled.</source>
@@ -3353,28 +3327,22 @@ Appuyez sur &lt;sprite name="controller_icons_97"&gt; pour paramétrer</target>
           <target>Utiliser des boutons de manette personnalisés.</target>
         </trans-unit>
         <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
-          <source>Flower Fang (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Flower Fang (Expert Mix)
-par DDRKirby(ISQ)</target>
+          <source>Flower Fang (Expert Mix)</source>
+          <target>Flower Fang (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
           <source>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11
-by Wolfgang Amadeus Mozart</source>
+from Piano Sonata No. 11</source>
           <target>Marche turque (Rondo alla Turca)
-de la Sonate pour piano n°11
-par Wolfgang Amadeus Mozart</target>
+de la Sonate pour piano n°11</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>Contrôles...</target>
         </trans-unit>
         <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
-          <source>Midnight Moon
-by DDRKirby(ISQ)</source>
-          <target>Lune de Minuit
-par DDRKirby(ISQ)</target>
+          <source>Midnight Moon</source>
+          <target>Lune de Minuit</target>
         </trans-unit>
       </group>
     </body>
@@ -3382,10 +3350,8 @@ par DDRKirby(ISQ)</target>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="fr" datatype="plaintext">
     <body>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="yes">
-        <source>Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</source>
-        <target state="final">Le Vol du Bourdon
-par Nikolai Rimsky-Korsakov</target>
+        <source>Flight of the Bumblebee</source>
+        <target state="final">Le Vol du Bourdon</target>
       </trans-unit>
       <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="yes">
         <source>Cosmic Conflux</source>
@@ -3400,10 +3366,8 @@ par Nikolai Rimsky-Korsakov</target>
         <target state="final">Retourner au menu principal.</target>
       </trans-unit>
       <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="yes">
-        <source>Für Elise
-by Ludwig van Beethoven</source>
-        <target state="final">La Lettre à Elise
-par Ludwig van Beethoven</target>
+        <source>Für Elise</source>
+        <target state="final">La Lettre à Elise</target>
       </trans-unit>
     </body>
   </file>

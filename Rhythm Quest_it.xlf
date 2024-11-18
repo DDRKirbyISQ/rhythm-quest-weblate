@@ -695,8 +695,7 @@ Rimanenti:</target>
           <target>Acquistare per  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0}?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
-          <source>Take It to the Limit
-by DDRKirby(ISQ)</source>
+          <source>Take It to the Limit</source>
           <target>Fino al limite</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
@@ -712,8 +711,7 @@ by DDRKirby(ISQ)</source>
           <target>Gioca</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
-          <source>What Lies Beneath
-by DDRKirby(ISQ)</source>
+          <source>What Lies Beneath</source>
           <target>Cosa si cela oltre</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
@@ -725,8 +723,7 @@ by DDRKirby(ISQ)</source>
           <target>Oasi Incantata</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
-          <source>Gameplay Trailer
-by DDRKirby(ISQ)</source>
+          <source>Gameplay Trailer</source>
           <target>Trailer di gioco</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">

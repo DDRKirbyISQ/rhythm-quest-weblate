@@ -695,10 +695,8 @@ Pozostałe:</target>
           <target>Kup za &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
-          <source>Take It to the Limit
-by DDRKirby(ISQ)</source>
-          <target>Do Samych Granic
-przez DDRKirby(ISQ)</target>
+          <source>Take It to the Limit</source>
+          <target>Do Samych Granic</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -713,10 +711,8 @@ przez DDRKirby(ISQ)</target>
           <target>Graj</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
-          <source>What Lies Beneath
-by DDRKirby(ISQ)</source>
-          <target>Ukryte Pod Powierzchnią
-przez DDRKirby(ISQ)</target>
+          <source>What Lies Beneath</source>
+          <target>Ukryte Pod Powierzchnią</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -727,10 +723,8 @@ przez DDRKirby(ISQ)</target>
           <target>Zaklęta Oaza</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
-          <source>Gameplay Trailer
-by DDRKirby(ISQ)</source>
-          <target>Zwiastun Gry
-przez DDRKirby(ISQ)</target>
+          <source>Gameplay Trailer</source>
+          <target>Zwiastun Gry</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -2609,38 +2603,28 @@ Kliknij punkt zapisu sekcji, aby zmienić jej drobinki.</target>
           <target>Deszcz</target>
         </trans-unit>
         <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
-          <source>Violet Hyperwave
-by DDRKirby(ISQ)</source>
-          <target>Fioletowa Hiperfala
-przez DDRKirby(ISQ)</target>
+          <source>Violet Hyperwave</source>
+          <target>Fioletowa Hiperfala</target>
         </trans-unit>
         <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
-          <source>A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</source>
-          <target>Pojedynczy Liść na Wietrze
-przez DDRKirby(ISQ)</target>
+          <source>A Single Leaf Flutters in the Wind</source>
+          <target>Pojedynczy Liść na Wietrze</target>
         </trans-unit>
         <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
-          <source>Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Samotnie Tu Stojąc (Expert Mix)
-przez DDRKirby(ISQ)</target>
+          <source>Standing Here Alone (Expert Mix)</source>
+          <target>Samotnie Tu Stojąc (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero
-by DDRKirby(ISQ)</source>
-          <target>Super Mega Zero
-przez DDRKirby(ISQ)</target>
+          <source>Super Mega Zero</source>
+          <target>Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
           <target>Kolory</target>
         </trans-unit>
         <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
-          <source>As the Cherry Blossom Falls
-by DDRKirby(ISQ)</source>
-          <target>Jak Spadające Płatki Wiśni
-przez DDRKirby(ISQ)</target>
+          <source>As the Cherry Blossom Falls</source>
+          <target>Jak Spadające Płatki Wiśni</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2655,10 +2639,8 @@ przez DDRKirby(ISQ)</target>
           <target>Dostosuj pozycję wizualną wrogów (nie wpływa na okno czasowe względem rytmu).</target>
         </trans-unit>
         <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
-          <source>Let's Have an Adventure!
-by DDRKirby(ISQ)</source>
-          <target>Miejmy Przygodę!
-przez DDRKirby(ISQ)</target>
+          <source>Let's Have an Adventure!</source>
+          <target>Miejmy Przygodę!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
@@ -2673,10 +2655,8 @@ przez DDRKirby(ISQ)</target>
           <target>Skaluje wizualną szerokość okien czasowych przez ustawienie prędkości muzyki, tak aby czas trwania był stały. Może powodować niespodziewane skutki przy dużych lub niskich prędkościach!</target>
         </trans-unit>
         <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
-          <source>Crimson Halls
-by DDRKirby(ISQ)</source>
-          <target>Karmazynowe Sienie
-przez DDRKirby(ISQ)</target>
+          <source>Crimson Halls</source>
+          <target>Karmazynowe Sienie</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>

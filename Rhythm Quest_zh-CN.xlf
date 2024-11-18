@@ -695,10 +695,8 @@ Remaining:</source>
           <target>以  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} 购买？</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
-          <source>Take It to the Limit
-by DDRKirby(ISQ)</source>
-          <target state="translated">Take It to the Limit
-by DDRKirby(ISQ)</target>
+          <source>Take It to the Limit</source>
+          <target state="translated">Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -713,10 +711,8 @@ by DDRKirby(ISQ)</target>
           <target>游玩</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
-          <source>What Lies Beneath
-by DDRKirby(ISQ)</source>
-          <target state="translated">What Lies Beneath
-by DDRKirby(ISQ)</target>
+          <source>What Lies Beneath</source>
+          <target state="translated">What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -727,10 +723,8 @@ by DDRKirby(ISQ)</target>
           <target>魔力绿洲</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
-          <source>Gameplay Trailer
-by DDRKirby(ISQ)</source>
-          <target state="translated">Gameplay Trailer
-by DDRKirby(ISQ)</target>
+          <source>Gameplay Trailer</source>
+          <target state="translated">Gameplay Trailer</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -2613,38 +2607,28 @@ Click on a checkpoint section to edit its particle effects.</source>
           <target>雨滴</target>
         </trans-unit>
         <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
-          <source>Violet Hyperwave
-by DDRKirby(ISQ)</source>
-          <target>Violet Hyperwave
-by DDRKirby(ISQ)</target>
+          <source>Violet Hyperwave</source>
+          <target>Violet Hyperwave</target>
         </trans-unit>
         <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
-          <source>A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</source>
-          <target>A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</target>
+          <source>A Single Leaf Flutters in the Wind</source>
+          <target>A Single Leaf Flutters in the Wind</target>
         </trans-unit>
         <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
-          <source>Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</target>
+          <source>Standing Here Alone (Expert Mix)</source>
+          <target>Standing Here Alone (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero
-by DDRKirby(ISQ)</source>
-          <target>Super Mega Zero
-by DDRKirby(ISQ)</target>
+          <source>Super Mega Zero</source>
+          <target>Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
           <target>颜色</target>
         </trans-unit>
         <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
-          <source>As the Cherry Blossom Falls
-by DDRKirby(ISQ)</source>
-          <target>As the Cherry Blossom Falls
-by DDRKirby(ISQ)</target>
+          <source>As the Cherry Blossom Falls</source>
+          <target>As the Cherry Blossom Falls</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2659,10 +2643,8 @@ by DDRKirby(ISQ)</target>
           <target>调整敌人的视觉位置 (不影响判定区域)。</target>
         </trans-unit>
         <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
-          <source>Let's Have an Adventure!
-by DDRKirby(ISQ)</source>
-          <target>Let's Have an Adventure!
-by DDRKirby(ISQ)</target>
+          <source>Let's Have an Adventure!</source>
+          <target>Let's Have an Adventure!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
@@ -2677,10 +2659,8 @@ by DDRKirby(ISQ)</target>
           <target>随音乐速度改变判定窗口以保证判定范围恒定。在较高或较低速度时可能产生预期之外的视觉效果。</target>
         </trans-unit>
         <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
-          <source>Crimson Halls
-by DDRKirby(ISQ)</source>
-          <target>Crimson Halls
-by DDRKirby(ISQ)</target>
+          <source>Crimson Halls</source>
+          <target>Crimson Halls</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>
@@ -3170,25 +3150,19 @@ Would you like to enable game assist features?</source>
         </trans-unit>
         <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
           <source>Piano Sonata No. 16 in C Major
-I. Allegro
-by Wolfgang Amadeus Mozart</source>
+I. Allegro</source>
           <target>Piano Sonata No. 16 in C Major
-I. Allegro
-by Wolfgang Amadeus Mozart</target>
+I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
           <source>Eine kleine Nachtmusik
-I. Allegro
-by Wolfgang Amadeus Mozart</source>
+I. Allegro</source>
           <target>Eine kleine Nachtmusik
-I. Allegro
-by Wolfgang Amadeus Mozart</target>
+I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
-          <source>Song of the Sea (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Song of the Sea (Expert Mix)
-by DDRKirby(ISQ)</target>
+          <source>Song of the Sea (Expert Mix)</source>
+          <target>Song of the Sea (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
           <source>Track freezing is disabled.</source>
@@ -3351,28 +3325,22 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <target>使用自定义控制器绑定。</target>
         </trans-unit>
         <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
-          <source>Flower Fang (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Flower Fang (Expert Mix)
-by DDRKirby(ISQ)</target>
+          <source>Flower Fang (Expert Mix)</source>
+          <target>Flower Fang (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
           <source>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11
-by Wolfgang Amadeus Mozart</source>
+from Piano Sonata No. 11</source>
           <target>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11
-by Wolfgang Amadeus Mozart</target>
+from Piano Sonata No. 11</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>控制...</target>
         </trans-unit>
         <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
-          <source>Midnight Moon
-by DDRKirby(ISQ)</source>
-          <target>Midnight Moon
-by DDRKirby(ISQ)</target>
+          <source>Midnight Moon</source>
+          <target>Midnight Moon</target>
         </trans-unit>
       </group>
     </body>
@@ -3384,10 +3352,8 @@ by DDRKirby(ISQ)</target>
         <target state="translated">返回主菜单。</target>
       </trans-unit>
       <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
-        <source>Für Elise
-by Ludwig van Beethoven</source>
-        <target state="translated">Für Elise
-by Ludwig van Beethoven</target>
+        <source>Für Elise</source>
+        <target state="translated">Für Elise</target>
       </trans-unit>
       <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
         <source>Skip Tutorial</source>
@@ -3398,10 +3364,8 @@ by Ludwig van Beethoven</target>
         <target state="translated">宇宙汇流</target>
       </trans-unit>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
-        <source>Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</source>
-        <target state="translated">Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</target>
+        <source>Flight of the Bumblebee</source>
+        <target state="translated">Flight of the Bumblebee</target>
       </trans-unit>
     </body>
   </file>

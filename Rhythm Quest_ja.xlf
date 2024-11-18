@@ -695,10 +695,8 @@ Remaining:</source>
           <target>&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} で購入しますか?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
-          <source>Take It to the Limit
-by DDRKirby(ISQ)</source>
-          <target state="translated">Take It to the Limit
-by DDRKirby(ISQ)</target>
+          <source>Take It to the Limit</source>
+          <target state="translated">Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -713,10 +711,8 @@ by DDRKirby(ISQ)</target>
           <target>プレイ</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
-          <source>What Lies Beneath
-by DDRKirby(ISQ)</source>
-          <target state="translated">What Lies Beneath
-by DDRKirby(ISQ)</target>
+          <source>What Lies Beneath</source>
+          <target state="translated">What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -727,10 +723,8 @@ by DDRKirby(ISQ)</target>
           <target>魔法のオアシス</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
-          <source>Gameplay Trailer
-by DDRKirby(ISQ)</source>
-          <target state="translated">ゲームプレイトレーラー
-by DDRKirby(ISQ)</target>
+          <source>Gameplay Trailer</source>
+          <target state="translated">ゲームプレイトレーラー</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -2560,32 +2554,24 @@ Click on a checkpoint section to edit its particle effects.</source>
         <target state="translated">雨</target>
       </trans-unit>
       <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="no">
-        <source>Violet Hyperwave
-by DDRKirby(ISQ)</source>
-        <target state="translated">Violet Hyperwave
-by DDRKirby(ISQ)</target>
+        <source>Violet Hyperwave</source>
+        <target state="translated">Violet Hyperwave</target>
       </trans-unit>
       <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="no">
-        <source>A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</source>
-        <target state="translated">A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</target>
+        <source>A Single Leaf Flutters in the Wind</source>
+        <target state="translated">A Single Leaf Flutters in the Wind</target>
       </trans-unit>
       <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
-        <source>Super Mega Zero
-by DDRKirby(ISQ)</source>
-        <target state="translated">Super Mega Zero
-by DDRKirby(ISQ)</target>
+        <source>Super Mega Zero</source>
+        <target state="translated">Super Mega Zero</target>
       </trans-unit>
       <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="no">
         <source>Colors</source>
         <target state="translated">色</target>
       </trans-unit>
       <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls" approved="no">
-        <source>As the Cherry Blossom Falls
-by DDRKirby(ISQ)</source>
-        <target state="translated">As the Cherry Blossom Falls
-by DDRKirby(ISQ)</target>
+        <source>As the Cherry Blossom Falls</source>
+        <target state="translated">As the Cherry Blossom Falls</target>
       </trans-unit>
       <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description" approved="no">
         <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2596,10 +2582,8 @@ by DDRKirby(ISQ)</target>
         <target state="translated">敵の配置</target>
       </trans-unit>
       <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure" approved="no">
-        <source>Let's Have an Adventure!
-by DDRKirby(ISQ)</source>
-        <target state="translated">Let's Have an Adventure!
-by DDRKirby(ISQ)</target>
+        <source>Let's Have an Adventure!</source>
+        <target state="translated">Let's Have an Adventure!</target>
       </trans-unit>
       <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows" approved="no">
         <source>Scaling Windows</source>
@@ -2610,10 +2594,8 @@ by DDRKirby(ISQ)</target>
         <target state="translated">音楽の速度設定に合わせてタイミングウィンドウの視覚的な幅を調整し、長さを一定に保ちます。高速または低速では、予期せぬ結果が生じる場合があります！</target>
       </trans-unit>
       <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls" approved="no">
-        <source>Crimson Halls
-by DDRKirby(ISQ)</source>
-        <target state="translated">Crimson Halls
-by DDRKirby(ISQ)</target>
+        <source>Crimson Halls</source>
+        <target state="translated">Crimson Halls</target>
       </trans-unit>
       <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
         <source>Modify the coloration of obstacles to make patterns easier to read.</source>
@@ -2792,10 +2774,8 @@ Do you still want to continue?</source>
         <target state="translated">セクション {0} のカラーパレットの変更</target>
       </trans-unit>
       <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="no">
-        <source>Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</source>
-        <target state="translated">Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</target>
+        <source>Standing Here Alone (Expert Mix)</source>
+        <target state="translated">Standing Here Alone (Expert Mix)</target>
       </trans-unit>
       <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description" approved="no">
         <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
@@ -2942,26 +2922,20 @@ Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
         <target state="translated">カスタムコントローラーバインディングを使用します。</target>
       </trans-unit>
       <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
-        <source>Für Elise
-by Ludwig van Beethoven</source>
-        <target state="translated">エリーゼのために
-by L.v. ベートーヴェン</target>
+        <source>Für Elise</source>
+        <target state="translated">エリーゼのために</target>
       </trans-unit>
       <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="no">
         <source>Piano Sonata No. 16 in C Major
-I. Allegro
-by Wolfgang Amadeus Mozart</source>
+I. Allegro</source>
         <target state="translated">ピアノ・ソナタ 第16番 ハ長調
-第１楽章 アレグロ
-by W.A.モーツァルト</target>
+第１楽章 アレグロ</target>
       </trans-unit>
       <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
         <source>Eine kleine Nachtmusik
-I. Allegro
-by Wolfgang Amadeus Mozart</source>
+I. Allegro</source>
         <target state="translated">アイネ・クライネ・ナハトムジーク
-第１楽章 アレグロ
-by W.A.モーツァルト</target>
+第１楽章 アレグロ</target>
       </trans-unit>
       <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="no">
         <source>Companions</source>
@@ -3230,10 +3204,8 @@ Check the code and try again.</source>
         <target state="translated">（変更なし）</target>
       </trans-unit>
       <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="no">
-        <source>Song of the Sea (Expert Mix)
-by DDRKirby(ISQ)</source>
-        <target state="translated">Song of the Sea (Expert Mix)
-by DDRKirby(ISQ)</target>
+        <source>Song of the Sea (Expert Mix)</source>
+        <target state="translated">Song of the Sea (Expert Mix)</target>
       </trans-unit>
       <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="no">
         <source>Track freezing is disabled.</source>
@@ -3368,16 +3340,12 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
         <target state="translated">デフォルトのコントローラーバインディングを使用します。</target>
       </trans-unit>
       <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="no">
-        <source>Flower Fang (Expert Mix)
-by DDRKirby(ISQ)</source>
-        <target state="translated">Flower Fang (Expert Mix)
-by DDRKirby(ISQ)</target>
+        <source>Flower Fang (Expert Mix)</source>
+        <target state="translated">Flower Fang (Expert Mix)</target>
       </trans-unit>
       <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
-        <source>Midnight Moon
-by DDRKirby(ISQ)</source>
-        <target state="translated">Midnight Moon
-by DDRKirby(ISQ)</target>
+        <source>Midnight Moon</source>
+        <target state="translated">Midnight Moon</target>
       </trans-unit>
       <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
         <source>Return to the main menu.</source>
@@ -3385,17 +3353,13 @@ by DDRKirby(ISQ)</target>
       </trans-unit>
       <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
         <source>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11
-by Wolfgang Amadeus Mozart</source>
+from Piano Sonata No. 11</source>
         <target state="translated">ピアノソナタ第11番より
-トルコ行進曲
-by W.A.モーツァルト</target>
+トルコ行進曲</target>
       </trans-unit>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
-        <source>Flight of the Bumblebee
-by Nikolai Rimsky-Korsakov</source>
-        <target state="translated">熊蜂の飛行
-by N. リムスキー＝コルサコフ</target>
+        <source>Flight of the Bumblebee</source>
+        <target state="translated">熊蜂の飛行</target>
       </trans-unit>
       <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
         <source>Skip Tutorial</source>

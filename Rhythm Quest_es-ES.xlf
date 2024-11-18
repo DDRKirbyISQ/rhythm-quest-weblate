@@ -695,10 +695,8 @@ Restantes:</target>
           <target>¿Comprar por  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
-          <source>Take It to the Limit
-by DDRKirby(ISQ)</source>
-          <target>Llévalo hasta el Límite
-por DDRKirby(ISQ)</target>
+          <source>Take It to the Limit</source>
+          <target>Llévalo hasta el Límite</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -713,10 +711,8 @@ por DDRKirby(ISQ)</target>
           <target>Jugar</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
-          <source>What Lies Beneath
-by DDRKirby(ISQ)</source>
-          <target>Lo que Yace Debajo
-DDRKirby(ISQ)</target>
+          <source>What Lies Beneath</source>
+          <target>Lo que Yace Debajo</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -727,10 +723,8 @@ DDRKirby(ISQ)</target>
           <target>Oasis Encantado</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
-          <source>Gameplay Trailer
-by DDRKirby(ISQ)</source>
-          <target>Tráiler del Juego
-por DDRKirby(ISQ)</target>
+          <source>Gameplay Trailer</source>
+          <target>Tráiler del Juego</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -2605,38 +2599,28 @@ Haz click en una sección de punto de control para editar su efecto de partícul
           <target>Lluvia</target>
         </trans-unit>
         <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
-          <source>Violet Hyperwave
-by DDRKirby(ISQ)</source>
-          <target>Hyperonda Violeta
-por DDRKirby(ISQ)</target>
+          <source>Violet Hyperwave</source>
+          <target>Hyperonda Violeta</target>
         </trans-unit>
         <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
-          <source>A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</source>
-          <target>Una Única Hoja Aletea en el Viento
-por DDRKirby(ISQ)</target>
+          <source>A Single Leaf Flutters in the Wind</source>
+          <target>Una Única Hoja Aletea en el Viento</target>
         </trans-unit>
         <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
-          <source>Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Aquí Solo De pie (Mix de Experto)
-por DDRKirby(ISQ)</target>
+          <source>Standing Here Alone (Expert Mix)</source>
+          <target>Aquí Solo De pie (Mix de Experto)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero
-by DDRKirby(ISQ)</source>
-          <target>Super Mega Cero
-por DDRKirby(ISQ)</target>
+          <source>Super Mega Zero</source>
+          <target>Super Mega Cero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
           <target>Colores</target>
         </trans-unit>
         <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
-          <source>As the Cherry Blossom Falls
-by DDRKirby(ISQ)</source>
-          <target>Mientras la Flor de Cerezo Cae
-por DDRKirby(ISQ)</target>
+          <source>As the Cherry Blossom Falls</source>
+          <target>Mientras la Flor de Cerezo Cae</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2651,10 +2635,8 @@ por DDRKirby(ISQ)</target>
           <target>Ajustar la posición visual de los enemigos (no afecta la ventana de precisión relativa al beat).</target>
         </trans-unit>
         <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
-          <source>Let's Have an Adventure!
-by DDRKirby(ISQ)</source>
-          <target>¡Tengamos una Aventura!
-por DDRKirby(ISQ)</target>
+          <source>Let's Have an Adventure!</source>
+          <target>¡Tengamos una Aventura!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
@@ -2669,10 +2651,8 @@ por DDRKirby(ISQ)</target>
           <target>Escala el ancho visual de las ventanas de tiempo por la velocidad de la música para que la duración sea constante. ¡Puede causar efectos inesperados a velocidades altas o bajas!</target>
         </trans-unit>
         <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
-          <source>Crimson Halls
-by DDRKirby(ISQ)</source>
-          <target>Salas de Crimson
-por DDRKirby(ISQ)</target>
+          <source>Crimson Halls</source>
+          <target>Salas de Crimson</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>

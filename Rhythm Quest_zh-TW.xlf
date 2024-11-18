@@ -695,10 +695,8 @@ Remaining:</source>
           <target>確定以&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0}購買？</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
-          <source>Take It to the Limit
-by DDRKirby(ISQ)</source>
-          <target>Take It to the Limit
-由DDRKirby(ISQ)製作</target>
+          <source>Take It to the Limit</source>
+          <target>Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -713,10 +711,8 @@ by DDRKirby(ISQ)</source>
           <target>遊玩</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
-          <source>What Lies Beneath
-by DDRKirby(ISQ)</source>
-          <target>What Lies Beneath
-由DDRKirby(ISQ)製作</target>
+          <source>What Lies Beneath</source>
+          <target>What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -727,10 +723,8 @@ by DDRKirby(ISQ)</source>
           <target>魔力綠洲</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
-          <source>Gameplay Trailer
-by DDRKirby(ISQ)</source>
-          <target>遊玩方法預告片
-由DDRKirby(ISQ)製作</target>
+          <source>Gameplay Trailer</source>
+          <target>遊玩方法預告片</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -2612,38 +2606,28 @@ Click on a checkpoint section to edit its particle effects.</source>
           <target>雨</target>
         </trans-unit>
         <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
-          <source>Violet Hyperwave
-by DDRKirby(ISQ)</source>
-          <target>Violet Hyperwave
-由DDRKirby(ISQ)製作</target>
+          <source>Violet Hyperwave</source>
+          <target>Violet Hyperwave</target>
         </trans-unit>
         <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
-          <source>A Single Leaf Flutters in the Wind
-by DDRKirby(ISQ)</source>
-          <target>A Single Leaf Flutters in the Wind
-由DDRKirby(ISQ)製作</target>
+          <source>A Single Leaf Flutters in the Wind</source>
+          <target>A Single Leaf Flutters in the Wind</target>
         </trans-unit>
         <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
-          <source>Standing Here Alone (Expert Mix)
-by DDRKirby(ISQ)</source>
-          <target>Standing Here Alone (Expert Mix)
-由DDRKirby(ISQ)製作</target>
+          <source>Standing Here Alone (Expert Mix)</source>
+          <target>Standing Here Alone (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero
-by DDRKirby(ISQ)</source>
-          <target>Super Mega Zero
-由DDRKirby(ISQ)製作</target>
+          <source>Super Mega Zero</source>
+          <target>Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
           <target>顏色</target>
         </trans-unit>
         <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
-          <source>As the Cherry Blossom Falls
-by DDRKirby(ISQ)</source>
-          <target>As the Cherry Blossom Falls
-由DDRKirby(ISQ)製作</target>
+          <source>As the Cherry Blossom Falls</source>
+          <target>As the Cherry Blossom Falls</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2658,10 +2642,8 @@ by DDRKirby(ISQ)</source>
           <target>調整敵人的顯示位置（不影響相對於節拍的判定區域）。</target>
         </trans-unit>
         <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
-          <source>Let's Have an Adventure!
-by DDRKirby(ISQ)</source>
-          <target>Let's Have an Adventure!
-由DDRKirby(ISQ)製作</target>
+          <source>Let's Have an Adventure!</source>
+          <target>Let's Have an Adventure!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
@@ -2676,10 +2658,8 @@ by DDRKirby(ISQ)</source>
           <target>隨音樂速度改變判定視窗以確保判定範圍恆定。在較高或較低速度時可能產生預期之外的效果！</target>
         </trans-unit>
         <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
-          <source>Crimson Halls
-by DDRKirby(ISQ)</source>
-          <target>Crimson Halls
-由DDRKirby(ISQ)製作</target>
+          <source>Crimson Halls</source>
+          <target>Crimson Halls</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>
