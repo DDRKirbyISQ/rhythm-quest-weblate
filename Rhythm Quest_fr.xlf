@@ -12,9 +12,9 @@
           <source>Settings</source>
           <target state="final">Paramètres</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="no">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="yes">
           <source>Start Game</source>
-          <target state="translated">Commencer</target>
+          <target state="final">Commencer</target>
         </trans-unit>
         <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="yes">
           <source>Extras</source>
@@ -64,9 +64,9 @@
           <source>Pixel Perfect</source>
           <target state="final">Au Pixel Près</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="no">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="yes">
           <source>Screen Mode</source>
-          <target state="translated">Mode d'affichage</target>
+          <target state="final">Mode d'affichage</target>
         </trans-unit>
         <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="yes">
           <source>Windowed</source>
@@ -232,9 +232,9 @@
           <source>Cheats</source>
           <target state="final">Triches</target>
         </trans-unit>
-        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="no">
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="yes">
           <source>Auto Play</source>
-          <target state="needs-translation">Jeu Automatique</target>
+          <target state="final">Jeu Automatique</target>
         </trans-unit>
         <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
@@ -472,133 +472,133 @@ Graphismes : DDRKirby(ISQ)</target>
           <source>In-game mouse controls are disabled.</source>
           <target state="final">La souris n'aura pas d'effet en jeu.</target>
         </trans-unit>
-        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled" approved="yes">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
-          <target>Clic gauche pour &lt;Attaquer&gt;. Clic droit pour &lt;Sauter&gt;.</target>
+          <target state="final">Clic gauche pour &lt;Attaquer&gt;. Clic droit pour &lt;Sauter&gt;.</target>
         </trans-unit>
-        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
+        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata" approved="yes">
           <source>Reset Game Data</source>
-          <target>Réinitialiser Sauvegarde</target>
+          <target state="final">Réinitialiser Sauvegarde</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="yes">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target>Toutes vos données sauvegardées seront supprimées. 
-Êtes-vous certain de vouloir continuer ?</target>
+          <target state="final">Toutes vos données sauvegardées seront supprimées. 
+Êtes-vous certain de vouloir continuer ?</target>
         </trans-unit>
-        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="yes">
           <source>Yes</source>
-          <target>Oui</target>
+          <target state="final">Oui</target>
         </trans-unit>
-        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="yes">
           <source>No</source>
-          <target>Non</target>
+          <target state="final">Non</target>
         </trans-unit>
-        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
+        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed" approved="yes">
           <source>Game data has successfully been erased.</source>
-          <target>Les données ont été supprimées avec succès.</target>
+          <target state="final">Les données ont été supprimées avec succès.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
+        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt" approved="yes">
           <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target>Rhythm Quest est plus agréable avec une synchronisation audio bien calibrée.</target>
+          <target state="final">Rhythm Quest est plus agréable avec une synchronisation audio bien étalonnée.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
+        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled" approved="yes">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target>Si vous souhaitez faire la calibration plus tard elle se trouve dans le menu &lt;color=yellow&gt;Paramètres&lt;/color&gt;.</target>
+          <target state="final">Si vous souhaitez faire l'étalonnage plus tard, l'option se trouve dans le menu &lt;color=yellow&gt;Paramètres&lt;/color&gt;.</target>
         </trans-unit>
-        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
+        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="yes">
           <source>Done</source>
-          <target>Terminé</target>
+          <target state="final">Terminé</target>
         </trans-unit>
-        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
+        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="yes">
           <source>Continue</source>
-          <target>Continuer</target>
+          <target state="final">Continuer</target>
         </trans-unit>
-        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
+        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2" approved="yes">
           <source>Do you want to calibrate audio lag now?</source>
-          <target>Voulez-vous calibrer la latence audio maintenant ?</target>
+          <target state="final">Voulez-vous étalonner la latence audio maintenant ?</target>
         </trans-unit>
-        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
+        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump" approved="yes">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
-          <target>Appuyer sur &lt;color=#{0}&gt;{1}&lt;/color&gt; ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; pour Sauter.</target>
+          <target state="final">Appuyer sur  &lt;color=#{0}&gt;{1}&lt;/color&gt;  ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; pour Sauter.</target>
         </trans-unit>
-        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>
-          <target>Comment Jouer</target>
+          <target state="final">Comment Jouer</target>
         </trans-unit>
-        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack">
+        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack" approved="yes">
           <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
-          <target>Appuyer sur &lt;color=#{0}&gt;{1}&lt;/color&gt; ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; pour Attaquer.</target>
+          <target state="final">Appuyer sur  &lt;color=#{0}&gt;{1}&lt;/color&gt;  ou &lt;sprite name="{2}" tint=1 color=#{0}&gt; pour Attaquer.</target>
         </trans-unit>
-        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
+        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
-          <target>Toucher &lt;color=#{0}&gt;le côté gauche&lt;/color&gt; de l'écran pour Sauter.</target>
+          <target state="final">&lt;color=#{0}&gt;Toucher le côté gauche&lt;/color&gt; de l'écran pour Sauter.</target>
         </trans-unit>
-        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped">
+        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
-          <target>Toucher &lt;color=#{0}&gt;le côté droit&lt;/color&gt; de l'écran pour Sauter.</target>
+          <target state="final">&lt;color=#{0}&gt;Toucher le côté droit&lt;/color&gt; de l'écran pour Sauter.</target>
         </trans-unit>
-        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal">
+        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
-          <target>Toucher &lt;color=#{0}&gt;le côté gauche&lt;/color&gt; de l'écran pour Attaquer.</target>
+          <target state="final">&lt;color=#{0}&gt;Toucher le côté droit&lt;/color&gt; de l'écran pour Attaquer.</target>
         </trans-unit>
-        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped">
+        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
-          <target>Toucher &lt;color=#{0}&gt;le côté droit&lt;/color&gt; de l'écran pour Attaquer.</target>
+          <target state="final">&lt;color=#{0}&gt;Toucher le côté gauche&lt;/color&gt; de l'écran pour Attaquer.</target>
         </trans-unit>
-        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop" approved="yes">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
-          <target>Vous pouvez changer ces contrôles dans le menu &lt;color=yellow&gt;"Paramètres"&lt;/color&gt;.</target>
+          <target state="final">Vous pouvez changer ces contrôles dans le menu &lt;color=yellow&gt;"Paramètres"&lt;/color&gt;.</target>
         </trans-unit>
-        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
+        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile" approved="yes">
           <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
-          <target>&lt;color=yellow&gt;Saute&lt;/color&gt; et &lt;color=yellow&gt;Attaque&lt;/color&gt; en rythme pour finir le reste du niveau !</target>
+          <target state="final">&lt;color=yellow&gt;Saute&lt;/color&gt; et &lt;color=yellow&gt;Attaque&lt;/color&gt; en rythme pour finir le reste du niveau !</target>
         </trans-unit>
-        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped">
+        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Inversé</target>
+          <target state="final">Inversé</target>
         </trans-unit>
-        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="yes">
           <source>Calibration complete!</source>
-          <target>Calibration Terminée !</target>
+          <target state="final">Étalonnage Terminée !</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="yes">
           <source>The flashing squares should now match the beeps.
 Otherwise, adjust manually until synced.</source>
-          <target>Les clignotements des carrés doivent être synchronisés avec les bips sonores. 
+          <target state="final">Les clignotements des carrés doivent être synchronisés avec les bips sonores.
 Sinon, ajustez les manuellement afin qu'ils le soient.</target>
         </trans-unit>
-        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
-          <target>Latence Audio : {0}ms</target>
+          <target state="final">Latence Audio : {0}ms</target>
         </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
+        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title" approved="yes">
           <source>Audio Lag Calibration</source>
-          <target>Calibration de la Latence Audio</target>
+          <target state="final">Étalonnage de la Latence Audio</target>
         </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
+        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard" approved="yes">
           <source>Press any key or click in time with the beeps</source>
-          <target>Appuyez sur une touche ou cliquez en rythme avec les bips</target>
+          <target state="final">Appuyez sur une touche ou cliquez en rythme avec les bips</target>
         </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
+        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse" approved="yes">
           <source>Press any key or click in time with the beeps</source>
-          <target>Appuyez sur une touche ou cliquez en rythme avec les bips</target>
+          <target state="final">Appuyez sur une touche ou cliquez en rythme avec les bips</target>
         </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
+        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="yes">
           <source>Tap in time with the beeps</source>
-          <target>Touchez en rythme avec les bips</target>
+          <target state="final">Touchez en rythme avec les bips</target>
         </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
+        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox" approved="yes">
           <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target>Appuyez sur &lt;sprite name="controller_icons_100"&gt; en rythme avec les bips</target>
+          <target state="final">Appuyez sur &lt;sprite name="controller_icons_100"&gt; en rythme avec les bips</target>
         </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
+        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation" approved="yes">
           <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target>Appuyez sur &lt;sprite name="controller_icons_37"&gt; en rythme avec les bips</target>
+          <target state="final">Appuyez sur &lt;sprite name="controller_icons_37"&gt; en rythme avec les bips</target>
         </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
+        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch" approved="yes">
           <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target>Appuyez sur &lt;sprite name="controller_icons_60"&gt; en rythme avec les bips</target>
+          <target state="final">Appuyez sur &lt;sprite name="controller_icons_60"&gt; en rythme avec les bips</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
           <source>Yes (Recommended)</source>
@@ -612,9 +612,9 @@ Sinon, ajustez les manuellement afin qu'ils le soient.</target>
           <source>Spiked Steppes</source>
           <target>Steppes Inégales</target>
         </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
+        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo" approved="yes">
           <source>Redo</source>
-          <target>Recommencer</target>
+          <target state="final">Recommencer</target>
         </trans-unit>
         <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
           <source>Resets all game progress.</source>
@@ -644,17 +644,17 @@ Sinon, ajustez les manuellement afin qu'ils le soient.</target>
           <source>Cancel</source>
           <target state="final">Annuler</target>
         </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
+        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed" approved="yes">
           <source>Calibration failed -- try again!
 Focus on matching the sound of your tap to the beep.
 (green = good)</source>
-          <target>Échec de la calibration -- réessayez ! 
-Concentrez-vous sur la synchronisation du son de vos appuis avec les bips. 
-(vert = correct)</target>
+          <target state="final">Échec de l'étalonnage -- réessayez !
+Concentrez-vous sur la synchronisation du son de vos appuis avec les bips.
+(vert = bien)</target>
         </trans-unit>
-        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
+        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy" approved="yes">
           <source>Your accuracy: {0}%</source>
-          <target>Votre précision : {0}%</target>
+          <target state="final">Votre précision : {0}%</target>
         </trans-unit>
         <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
           <source>Quit to Menu</source>
@@ -710,9 +710,9 @@ Restantes :</target>
           <source>Play</source>
           <target>Jouer</target>
         </trans-unit>
-        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="yes">
           <source>What Lies Beneath</source>
-          <target>What Lies Beneath</target>
+          <target state="final">What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -754,10 +754,10 @@ Restantes :</target>
           <source>World {0} &gt;</source>
           <target>Monde {0} &gt;</target>
         </trans-unit>
-        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
+        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame" approved="yes">
           <source>Adjusts audio latency calibration.
 Lower if audio is too early. Raise if audio is too late.</source>
-          <target>Ajuster la calibration de latence audio.
+          <target state="final">Ajuster l'étalonnage de la latence audio.
 Baisser if l'audio est en avance sur l'image. Monter si l'audio est en retard sur l'image.</target>
         </trans-unit>
         <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
@@ -868,9 +868,9 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !</t
           <source>Join the Discord</source>
           <target>Rejoindre le Discord</target>
         </trans-unit>
-        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="yes">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target>La version complète de Rhythm Quest sera composée de 30 niveaux dans 6 mondes différents et aura des niveaux bonus déblocables, et encore plus d'éléments de jeu !</target>
+          <target state="final">La version complète de Rhythm Quest sera composée de 30 niveaux dans 6 mondes différents, des niveaux bonus à débloquer, et encore plus d'éléments de jeu !</target>
         </trans-unit>
         <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
           <source>Next</source>
@@ -904,11 +904,11 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !</t
           <source>Resets settings to default values.</source>
           <target>Réinitialise les paramètres par défaut.</target>
         </trans-unit>
-        <trans-unit id="123208891287515136" xml:space="preserve" resname="resetprefs_confirmed">
+        <trans-unit id="123208891287515136" xml:space="preserve" resname="resetprefs_confirmed" approved="yes">
           <source>Settings have been reset to default values.
 (Audio recalibration is recommended)</source>
-          <target>Les paramètres ont été réinitialisés à leur valeur par défaut. 
-(Un calibrage audio est recommandé)</target>
+          <target state="final">Les paramètres ont été réinitialisés à leur valeur par défaut.
+(Un étalonnage audio est recommandé)</target>
         </trans-unit>
         <trans-unit id="123210343288451072" xml:space="preserve" resname="settings_resetprefs">
           <source>Reset Preferences</source>
@@ -2606,29 +2606,29 @@ Cliquez sur une section de point de passage pour modifier ses effets de particul
           <source>Rain</source>
           <target>Pluie</target>
         </trans-unit>
-        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="yes">
           <source>Violet Hyperwave</source>
-          <target>Violet Hyperwave</target>
+          <target state="final">Violet Hyperwave</target>
         </trans-unit>
-        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="yes">
           <source>A Single Leaf Flutters in the Wind</source>
-          <target>A Single Leaf Flutters in the Wind</target>
+          <target state="final">A Single Leaf Flutters in the Wind</target>
         </trans-unit>
         <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
           <source>Standing Here Alone (Expert Mix)</source>
           <target>Standing Here Alone (Mix Expert)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
           <source>Super Mega Zero</source>
-          <target>Super Mega Zero</target>
+          <target state="final">Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
           <target>Couleurs</target>
         </trans-unit>
-        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls" approved="yes">
           <source>As the Cherry Blossom Falls</source>
-          <target>As the Cherry Blossom Falls</target>
+          <target state="final">As the Cherry Blossom Falls</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2642,9 +2642,9 @@ Cliquez sur une section de point de passage pour modifier ses effets de particul
           <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
           <target>Ajuste visuellement la position des ennemis (n'affecte pas la fenêtre des actions par rapport aux battements).</target>
         </trans-unit>
-        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure" approved="yes">
           <source>Let's Have an Adventure!</source>
-          <target>Let's Have an Adventure!</target>
+          <target state="final">Let's Have an Adventure!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
@@ -3162,9 +3162,9 @@ I. Allegro</source>
           <target>Une petite musique de nuit
 I. Allegro</target>
         </trans-unit>
-        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="yes">
           <source>Song of the Sea (Expert Mix)</source>
-          <target>Song of the Sea (Expert Mix)</target>
+          <target state="final">Song of the Sea (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
           <source>Track freezing is disabled.</source>
@@ -3326,9 +3326,9 @@ Appuyez sur &lt;sprite name="controller_icons_97"&gt; pour paramétrer</target>
           <source>Use custom controller bindings.</source>
           <target>Utiliser des boutons de manette personnalisés.</target>
         </trans-unit>
-        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
+        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="yes">
           <source>Flower Fang (Expert Mix)</source>
-          <target>Flower Fang (Expert Mix)</target>
+          <target state="final">Flower Fang (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
           <source>Turkish March (Rondo alla Turca)
@@ -3372,6 +3372,18 @@ de la Sonate pour piano n°11</target>
       <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="yes">
         <source>Für Elise</source>
         <target state="final">La Lettre à Elise</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+        <source>Level {0}</source>
+        <target state="translated">Niveau {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
+        <source>by {0}</source>
+        <target state="translated">par {0}</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="yes">
+        <source>World {0}</source>
+        <target state="final">Monde {0}</target>
       </trans-unit>
     </body>
   </file>
