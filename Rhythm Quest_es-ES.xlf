@@ -28,9 +28,9 @@
           <source>Back</source>
           <target>Atrás</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
           <source>Lag Calibration...</source>
-          <target>Calibración de lag</target>
+          <target state="translated">Calibración de lag...</target>
         </trans-unit>
         <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
           <source>Graphics</source>
@@ -2727,6 +2727,226 @@ Haz click en una sección de punto de control para editar su efecto de partícul
           <target>Controles...</target>
         </trans-unit>
       </group>
+    </body>
+  </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="no">
+        <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
+Other enemies colored based on enemy type.</source>
+        <target state="translated">Enemigos basicos coloreados rojo/verde segun el tipo de accion (atacar vs atacar+salto)
+Otros enemigos coloreados segun el tipo de enemigo.</target>
+      </trans-unit>
+      <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description" approved="no">
+        <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
+        <target state="translated">Todos los enemigos coloreados rojo/verde basado en el tipo de accion (atacar vs atacar+salto).</target>
+      </trans-unit>
+      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="no">
+        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        <target state="translated">Alas de salto en el aire son coloreadas azul, alas de trayecto de vuelo son coloreadas verde.</target>
+      </trans-unit>
+      <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="no">
+        <source>All wings are colored based on beat offset.</source>
+        <target state="translated">Todas las alas son coloreadas segun el offset del pulso.</target>
+      </trans-unit>
+      <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
+        <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+        <target state="translated">Todas las alas son coloreadas azul/verde segun el tipo de accion (salto vs salto + atacar).</target>
+      </trans-unit>
+      <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat" approved="no">
+        <source>Invalid email format. Please enter a valid email address.</source>
+        <target state="translated">Formato de correo electronico Invalido. Por favor ingrese una direccion de correo electronico valida.</target>
+      </trans-unit>
+      <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail" approved="no">
+        <source>Login/Register with Email</source>
+        <target state="translated">Iniciar Sesion/Registar con Correo Electronico</target>
+      </trans-unit>
+      <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description" approved="no">
+        <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
+        <target state="translated">Ingresa tu correo electronico y un codigo de seguridad sera enviado para crear o iniciar sesion a tu cuenta de mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; Esta cuenta no es el autor del nivel actual en mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin" approved="no">
+        <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
+        <target state="translated">&lt;sprite name="fonticons_10"&gt; Sesion iniciada como {0}</target>
+      </trans-unit>
+      <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset" approved="no">
+        <source>Tile Set</source>
+        <target state="translated">Tipo de Piso</target>
+      </trans-unit>
+      <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset" approved="no">
+        <source>Backdrop Set</source>
+        <target state="translated">Tipo de Fondo</target>
+      </trans-unit>
+      <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description" approved="no">
+        <source>All beat grid markers will be colored according to beat offset.</source>
+        <target state="translated">Todos los marcadores de pulso en la red seran coloreados acorde al offset del pulso.</target>
+      </trans-unit>
+      <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description" approved="no">
+        <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
+        <target state="translated">Los marcadores de pulso en la red seran coloreados acorde al tipo de accion (saltar/atacar/ambos).</target>
+      </trans-unit>
+      <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly" approved="no">
+        <source>Basic Only</source>
+        <target state="translated">Solo Basico</target>
+      </trans-unit>
+      <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="no">
+        <source>Basic enemies colored based on beat offset.
+Other enemies colored based on enemy type.</source>
+        <target state="translated">Enemigos basicos coloreados segun el offset del pulso.
+Otros enemigos coloreados segun el tipo de enemigo.</target>
+      </trans-unit>
+      <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description" approved="no">
+        <source>All enemies colored based on beat offset.</source>
+        <target state="translated">Todos los enemigos coloreados segun el offset del pulso.</target>
+      </trans-unit>
+      <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset" approved="no">
+        <source>Beat Offset</source>
+        <target state="translated">Offset del Pulso</target>
+      </trans-unit>
+      <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description" approved="no">
+        <source>All rolling spikes are colored blue.</source>
+        <target state="translated">Todos los pinchos rodantes son coloreados azul.</target>
+      </trans-unit>
+      <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description" approved="no">
+        <source>Rolling spikes are colored according to beat offset.</source>
+        <target state="translated">Pinchos rodantes son coloreados acorde al offset del pulso.</target>
+      </trans-unit>
+      <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="no">
+        <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
+        <target state="translated">Pinchos rodantes son coloreados azul/verde segun el tipo de accion (salto vs salto + atacar).</target>
+      </trans-unit>
+      <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen" approved="no">
+        <source>Alternate Green</source>
+        <target state="translated">Verde Alternativo</target>
+      </trans-unit>
+      <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description" approved="no">
+        <source>Use default color scheme for obstacles.</source>
+        <target state="translated">Usar el esquema de color para obstaculos por defecto.</target>
+      </trans-unit>
+      <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description" approved="no">
+        <source>Use alternate green color (less blue tinted).</source>
+        <target state="translated">Usar esquema de color verde alternativo (menor tinte azul).</target>
+      </trans-unit>
+      <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing" approved="no">
+        <source>Enemy Spacing...</source>
+        <target state="translated">Distancia de Enemigos...</target>
+      </trans-unit>
+      <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="no">
+        <source>Companions</source>
+        <target state="translated">Acompañantes</target>
+      </trans-unit>
+      <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username" approved="no">
+        <source>Username: {0}</source>
+        <target state="translated">Nombre de Usuario: {0}</target>
+      </trans-unit>
+      <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid" approved="no">
+        <source>User ID: {0}</source>
+        <target state="translated">ID de Usuario: {0}</target>
+      </trans-unit>
+      <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished" approved="no">
+        <source>This level has never been published to mod.io.</source>
+        <target state="translated">Este nivel nunca ha sido publicado a mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching" approved="no">
+        <source>Retrieving level data from mod.io...</source>
+        <target state="translated">Consiguiendo informacion de nivel por mod.io...</target>
+      </trans-unit>
+      <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound" approved="no">
+        <source>This level has mod.io ID {0} but was not found on mod.io.</source>
+        <target state="translated">Este nivel tiene mod.io ID {0} pero no ha sido encontrado en mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription" approved="no">
+        <source>Level ID: {0}
+
+Author: {1}
+
+Last updated: {2}</source>
+        <target state="translated">ID de Nivel: {0}
+
+Autor: {1}
+
+Ultima Actualizacion: {0}</target>
+      </trans-unit>
+      <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu" approved="no">
+        <source>Publish to mod.io...</source>
+        <target state="translated">Publicar a mod.io...</target>
+      </trans-unit>
+      <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile" approved="no">
+        <source>Export as .rqzip</source>
+        <target state="translated">Exportar como .rqzip</target>
+      </trans-unit>
+      <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam" approved="no">
+        <source>Login/Register with Steam</source>
+        <target state="translated">Iniciar Sesion/Registrar con Steam</target>
+      </trans-unit>
+      <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout" approved="no">
+        <source>Logout</source>
+        <target state="translated">Cerrar Sesion</target>
+      </trans-unit>
+      <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit" approved="no">
+        <source>Submit</source>
+        <target state="translated">Ingresar</target>
+      </trans-unit>
+      <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published" approved="no">
+        <source>This level has previously been published on mod.io.</source>
+        <target state="translated">Este nivel ha sido previamente publicado en mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description" approved="no">
+        <source>Enter the security code that was sent to {0}.</source>
+        <target state="translated">Ingrese el codigo de seguridad que ha sido enviado a {0}.</target>
+      </trans-unit>
+      <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
+
+You need an account in order to publish levels to mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; No has iniciado sesion en mod.io.
+
+Necesitas una cuenta en orden para publicar niveles a mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin" approved="no">
+        <source>You are logged into mod.io as:</source>
+        <target state="translated">Has iniciado sesion en mod.io como:</target>
+      </trans-unit>
+      <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="no">
+        <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_10"&gt; Esta cuenta es el autor del nivel actual en mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile" approved="no">
+        <source>View profile on web</source>
+        <target state="translated">Mirar perfil en la web</target>
+      </trans-unit>
+      <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio" approved="no">
+        <source>View on mod.io</source>
+        <target state="translated">Ver en mod.io</target>
+      </trans-unit>
+      <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio" approved="no">
+        <source>Publish to mod.io</source>
+        <target state="translated">Publicar a mod.io</target>
+      </trans-unit>
+      <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio" approved="no">
+        <source>Publish new version</source>
+        <target state="translated">Publicar nueva version</target>
+      </trans-unit>
+      <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails" approved="no">
+        <source>Account details...</source>
+        <target state="translated">Detalles de cuenta...</target>
+      </trans-unit>
+      <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister" approved="no">
+        <source>Login/Register...</source>
+        <target state="translated">Inciar sesion/Registar...</target>
+      </trans-unit>
+      <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines" approved="no">
+        <source>Coin Outlines</source>
+        <target state="translated">Trazado de Monedas</target>
+      </trans-unit>
+      <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
+        <source>Updating mod.io mod profile...</source>
+        <target state="translated">Actualizando perfil de mod de mod.io...</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
