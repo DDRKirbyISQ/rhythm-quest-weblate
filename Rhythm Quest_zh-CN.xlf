@@ -724,7 +724,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
-          <target state="translated">Gameplay Trailer</target>
+          <target state="translated">游戏玩法预告片</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -2654,9 +2654,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
           <target>(默认) 判定窗口匹配预期的视觉尺寸。判定范围随音乐加快而缩小。</target>
         </trans-unit>
-        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled">
+        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled" approved="no">
           <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
-          <target>随音乐速度改变判定窗口以保证判定范围恒定。在较高或较低速度时可能产生预期之外的视觉效果。</target>
+          <target state="translated">随音乐速度改变判定窗口以保证判定范围恒定。在较高或较低速度时可能产生预期之外的视觉效果！</target>
         </trans-unit>
         <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
           <source>Crimson Halls</source>
@@ -2738,15 +2738,17 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Basic Only</source>
           <target>仅基本的</target>
         </trans-unit>
-        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="no">
           <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
 Other enemies colored based on enemy type.</source>
-          <target>基本敌人将根据操作类型 (攻击/攻击+跳跃) 以 红/绿 着色。其他敌人根据敌人类型着色。</target>
+          <target state="translated">基本敌人将根据操作类型 (攻击/攻击+跳跃) 以 红/绿 着色。
+其他敌人根据敌人类型着色。</target>
         </trans-unit>
-        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
+        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="no">
           <source>Basic enemies colored based on beat offset.
 Other enemies colored based on enemy type.</source>
-          <target>基本敌人根据节拍偏移着色。其他敌人根据敌人类型着色。</target>
+          <target state="translated">基本敌人根据节拍偏移着色。
+其他敌人根据敌人类型着色。</target>
         </trans-unit>
         <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description">
           <source>All enemies colored based on beat offset.</source>
@@ -2792,9 +2794,9 @@ Other enemies colored based on enemy type.</source>
           <source>Use default color scheme for obstacles.</source>
           <target>对障碍使用默认配色方案。</target>
         </trans-unit>
-        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description">
+        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description" approved="no">
           <source>Use alternate green color (less blue tinted).</source>
-          <target>使用备用绿色(减少蓝色)</target>
+          <target state="translated">使用备用绿色(减少蓝色)。</target>
         </trans-unit>
         <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing">
           <source>Enemy Spacing...</source>
@@ -3148,16 +3150,16 @@ Would you like to enable game assist features?</source>
           <source>(Unchanged)</source>
           <target>(未更改)</target>
         </trans-unit>
-        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="no">
           <source>Piano Sonata No. 16 in C Major
 I. Allegro</source>
-          <target>Piano Sonata No. 16 in C Major
+          <target state="translated">C 大调第 16 号钢琴奏鸣曲
 I. Allegro</target>
         </trans-unit>
-        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
           <source>Eine kleine Nachtmusik
 I. Allegro</source>
-          <target>Eine kleine Nachtmusik
+          <target state="translated">G 大调弦乐小夜曲
 I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
@@ -3288,9 +3290,9 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <source>Edit additional audio settings.</source>
           <target>编辑额外的音频设置。</target>
         </trans-unit>
-        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx">
+        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="no">
           <source>Coin Sfx</source>
-          <target>金币 Sfx</target>
+          <target state="translated">金币音效</target>
         </trans-unit>
         <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
           <source>Coin collection is silent.</source>
@@ -3328,19 +3330,19 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <source>Flower Fang (Expert Mix)</source>
           <target>Flower Fang (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11</source>
-          <target>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11</target>
+          <target state="translated">土耳其进行曲 (Rondo alla Turca)
+来自第 11 号钢琴奏鸣曲</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
           <target>控制...</target>
         </trans-unit>
-        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
           <source>Midnight Moon</source>
-          <target>Midnight Moon</target>
+          <target state="translated">午夜之月</target>
         </trans-unit>
       </group>
     </body>
@@ -3353,7 +3355,7 @@ from Piano Sonata No. 11</target>
       </trans-unit>
       <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
         <source>Für Elise</source>
-        <target state="translated">Für Elise</target>
+        <target state="translated">致爱丽丝</target>
       </trans-unit>
       <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
         <source>Skip Tutorial</source>
@@ -3365,7 +3367,23 @@ from Piano Sonata No. 11</target>
       </trans-unit>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
         <source>Flight of the Bumblebee</source>
-        <target state="translated">Flight of the Bumblebee</target>
+        <target state="translated">野蜂飞舞</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+        <source>Level {0}</source>
+        <target state="translated">关卡 {0}</target>
+      </trans-unit>
+      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="no">
+        <source>Song Select</source>
+        <target state="translated">歌曲选择</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
+        <source>by {0}</source>
+        <target state="translated">作者 {0}</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+        <source>World {0}</source>
+        <target state="translated">世界 {0}</target>
       </trans-unit>
     </body>
   </file>
