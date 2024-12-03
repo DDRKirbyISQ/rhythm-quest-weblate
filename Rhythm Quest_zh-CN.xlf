@@ -2070,9 +2070,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>New level created</source>
           <target>新关卡已创建</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="no">
           <source>File...</source>
-          <target>文件</target>
+          <target state="translated">文件...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
