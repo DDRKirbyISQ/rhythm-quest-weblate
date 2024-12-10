@@ -772,27 +772,27 @@ Reduza se estiver muito adiantado. Aumente se estiver muito atrasado.</target>
           <source>Twilight Tunnel</source>
           <target state="final">Túnel do Crepúsculo</target>
         </trans-unit>
-        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4" approved="yes">
           <source>Midnight Marathon</source>
-          <target>Maratona à Meia-Noite</target>
+          <target state="final">Maratona da Meia-Noite</target>
         </trans-unit>
-        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
+        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5" approved="yes">
           <source>Gearwheel Factory</source>
-          <target>Fábrica de Engrenagens</target>
+          <target state="final">Fábrica de Engrenagens</target>
         </trans-unit>
-        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="yes">
           <source>Outerworld Highway</source>
-          <target>Rodovia de outro Mundo</target>
+          <target state="final">Rodovia de Outro Mundo</target>
         </trans-unit>
-        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
+        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2" approved="yes">
           <source>Misty Meadow</source>
-          <target>Prado Nevoado</target>
+          <target state="final">Prado Nublado</target>
         </trans-unit>
-        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
+        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation" approved="yes">
           <source>Copy Protection Violation detected!</source>
-          <target>Violação de proteção contra cópia detectada!</target>
+          <target state="final">Violação de proteção contra cópia detectada!</target>
         </trans-unit>
-        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions" approved="yes">
           <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
 
 If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
@@ -807,40 +807,40 @@ If this doesn't work, I would suggest downloading and playing the offline build 
 
 Sorry about this!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Para evitar ser roubado por sites maliciosos que hospedariam meu jogo sem minha permisão, Rhythm Quest depende do HTTP ""referer  reader"" para verificar se está hospedado em um site permitido (rhythmquestgame.com, itch.io).
+          <target state="final">Para evitar ser roubado por sites maliciosos que hospedariam meu jogo sem minha permissão, o Rhythm Quest depende do HTTP "referer header" para verificar se está hospedado em um site permitido (rhythmquestgame.com, itch.io).
 
-Se você tem uma extensão de navegador que desativa o rastreamento de "referer", tente desativá-la e recarregá-la para carregar a demo.
+Se você tem uma extensão de navegador que desativa o rastreamento de "referer", tente desativá-la e recarregar a página para carregar a demo.
 
-Para o Firefox, você pode checar as configurações de "referer reader":
-- Navegue até ""about:config"" na barra de URL
-- Caso solicitado, clique no botão para aceitar o aviso
-- Procure pela preferência ""network.http.sendRefererHeader""
-- Defina o valor para ""2"" (o padrão) a qual irá ativar o "referer header"
+Para o Firefox, você pode checar as configurações de "referer header":
+- Navegue até "about:config" na barra de URL
+- Se solicitado, clique no botão para aceitar o aviso
+- Procure pela preferência "network.http.sendRefererHeader"
+- Defina o valor para "2" (o padrão) que ativará o "referer header"
 
-Caso não funcione, como alternativa, eu sugeriria baixar e jogar versão offline!
+Se isso não funcionar, sugiro baixar e jogar a versão offline!
 
-Desculpe-me sobre isso!
+Desculpe-me por isso!
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome">
+        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome" approved="yes">
           <source>Welcome to the Rhythm Quest Demo!</source>
-          <target>Bem-vindo à demo de Rhythm Quest!</target>
+          <target state="final">Bem-vindo à demo do Rhythm Quest!</target>
         </trans-unit>
-        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice" approved="yes">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
 
 If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Have fun, and thanks for playing!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Esta é uma versão inicial de Rhythm Quest, então apenas alguns níveis estão disponíveis, e tudo no jogo está submetido à mudanças!
+          <target state="final">Esta é uma versão inicial de demonstração do Rhythm Quest, portanto, apenas alguns níveis estão acessíveis, e tudo no jogo está sujeito a mudanças!
 
-Se você quiser adicionar à lista de desejos no Steam, inscrever-se na lista de correspondência ou o Discord para ser notificado(a) quando o jogo completo será lançado, por favor visite &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
+Se você quiser adicionar o jogo à sua lista de desejos no Steam, inscrever-se na lista de correspondência ou no Discord para ser notificado(a) quando o jogo completo for lançado, por favor visite &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Divirta-se e obrigado por jogar!
-								--DDRKirby(ISQ)</target>
+                                                                --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="yes">
           <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
 
 Please make sure hardware graphics acceleration is enabled for your browser for better performance.
@@ -848,17 +848,17 @@ Please make sure hardware graphics acceleration is enabled for your browser for 
 Save data is stored in your browser and may potentially not persist across version updates.
 
 For the best experience, feel free to try the standalone offline build instead!</source>
-          <target>Nota: Você está jogando a versão de navegador da demo, talvez você experiêncie alguns engasgos de áudio e redução de precisão na sincronização.
+          <target state="final">Nota: Você está jogando a versão de navegador da demo, portanto é possível que você experimente alguns engasgos de áudio e redução de precisão na sincronização.
 
-Certifique-se de que a aceleração de hardware está ativado no seu navegador para um desempenho melhor.
+Para um desempenho melhor, certifique-se de que a aceleração de hardware está ativada no seu navegador.
 
-Dados salvos estão armazenados no seu navegador, e podem não persistir entre atualizações de versões.
+Os dados salvos estão armazenados no seu navegador e podem não persistir entre atualizações de versões.
 
-Para obter a melhor experiência, sinta-se a vontade para testar a versão offline!</target>
+Para obter a melhor experiência, sinta-se à vontade para testar a versão offline!</target>
         </trans-unit>
-        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
+        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend" approved="yes">
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
-          <target>Você alcançou ao final da demo de Rhythm Quest - obrigado por jogar!</target>
+          <target state="final">Você chegou ao final da demo do Rhythm Quest - obrigado por jogar!</target>
         </trans-unit>
         <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite">
           <source>Visit the Website</source>
