@@ -2138,571 +2138,571 @@ Ar norėtumėte juos pirma išsaugoti?</target>
           <source>double hit enemy</source>
           <target state="final">dvigubo smūgio priešas</target>
         </trans-unit>
-        <trans-unit id="302756131201921024" xml:space="preserve" resname="editor_type_flightpath">
+        <trans-unit id="302756131201921024" xml:space="preserve" resname="editor_type_flightpath" approved="yes">
           <source>flight path</source>
-          <target>skrydžio takas</target>
+          <target state="final">skrydžio takas</target>
         </trans-unit>
-        <trans-unit id="302756236906770432" xml:space="preserve" resname="editor_type_levelend">
+        <trans-unit id="302756236906770432" xml:space="preserve" resname="editor_type_levelend" approved="yes">
           <source>level end</source>
-          <target>lygio pabaiga</target>
+          <target state="final">lygio pabaiga</target>
         </trans-unit>
-        <trans-unit id="302756238425108480" xml:space="preserve" resname="editor_type_multihitenemy">
+        <trans-unit id="302756238425108480" xml:space="preserve" resname="editor_type_multihitenemy" approved="yes">
           <source>ghost enemy</source>
-          <target>priešas vaiduoklis</target>
+          <target state="final">priešas vaiduoklis</target>
         </trans-unit>
-        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump">
+        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump" approved="yes">
           <source>jump</source>
-          <target>šokti</target>
+          <target state="final">šokti</target>
         </trans-unit>
-        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup">
+        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup" approved="yes">
           <source>jump (up)</source>
-          <target>šokti (į viršų)</target>
+          <target state="final">šokti (į viršų)</target>
         </trans-unit>
-        <trans-unit id="302756293387268096" xml:space="preserve" resname="editor_type_jumpdown">
+        <trans-unit id="302756293387268096" xml:space="preserve" resname="editor_type_jumpdown" approved="yes">
           <source>jump (down)</source>
-          <target>šokti (žemyn)</target>
+          <target state="final">šokti (žemyn)</target>
         </trans-unit>
-        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy">
+        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy" approved="yes">
           <source>basic enemy</source>
-          <target>paprastas priešas</target>
+          <target state="final">paprastas priešas</target>
         </trans-unit>
-        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone">
+        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone" approved="yes">
           <source>speed zone</source>
-          <target>greičio zona</target>
+          <target state="final">greičio zona</target>
         </trans-unit>
-        <trans-unit id="302756394008621056" xml:space="preserve" resname="editor_type_spikeenemy">
+        <trans-unit id="302756394008621056" xml:space="preserve" resname="editor_type_spikeenemy" approved="yes">
           <source>spike enemy</source>
-          <target>priešas spyglys</target>
+          <target state="final">priešas spyglys</target>
         </trans-unit>
-        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone">
+        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone" approved="yes">
           <source>water zone</source>
-          <target>vandens zona</target>
+          <target state="final">vandens zona</target>
         </trans-unit>
-        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move">
+        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move" approved="yes">
           <source>Move {0} from {1} to {2}</source>
-          <target>Judinti {0} iš {1} į {2}</target>
+          <target state="final">Judinti {0} iš {1} į {2}</target>
         </trans-unit>
-        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend">
+        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend" approved="yes">
           <source>speed zone end</source>
-          <target>greičio zonos pabaiga</target>
+          <target state="final">greičio zonos pabaiga</target>
         </trans-unit>
-        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend">
+        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend" approved="yes">
           <source>water zone end</source>
-          <target>vandens zonos pabaiga</target>
+          <target state="final">vandens zonos pabaiga</target>
         </trans-unit>
-        <trans-unit id="302761730312548352" xml:space="preserve" resname="editor_type_flightpathend">
+        <trans-unit id="302761730312548352" xml:space="preserve" resname="editor_type_flightpathend" approved="yes">
           <source>flight path end</source>
-          <target>skridimo tako pabaiga</target>
+          <target state="final">skridimo tako pabaiga</target>
         </trans-unit>
-        <trans-unit id="302761932066959360" xml:space="preserve" resname="editor_tooltip_move">
+        <trans-unit id="302761932066959360" xml:space="preserve" resname="editor_tooltip_move" approved="yes">
           <source>Move</source>
-          <target>Perkelti</target>
+          <target state="final">Perkelti</target>
         </trans-unit>
-        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description">
+        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Move&lt;/color&gt;
 Click and drag objects to move them.</source>
-          <target>&lt;color=#ffff00&gt;Perkelti&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Perkelti&lt;/color&gt;
 Spauskite ir tempkite objektus, kad juos perkelti.</target>
         </trans-unit>
-        <trans-unit id="303377087901511680" xml:space="preserve" resname="editor_invalid_checkpoint">
+        <trans-unit id="303377087901511680" xml:space="preserve" resname="editor_invalid_checkpoint" approved="yes">
           <source>Checkpoint #{0} does not exist!</source>
-          <target>Kontrolinis taškas #{0} neegzistuoja!</target>
+          <target state="final">Kontrolinis taškas #{0} neegzistuoja!</target>
         </trans-unit>
-        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description">
+        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Normal)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Šuoliai (įprasti)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Šuoliai (įprasti)&lt;/color&gt;
 Spauskite kad pridėti šuolius ar sparnuotus oro šuolius. Kai įmanoma, naudokite įprastus šuolius.</target>
         </trans-unit>
-        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description">
+        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Up)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded rising jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Šuoliai (į viršų)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Šuoliai (į viršų)&lt;/color&gt;
 Spauskite kad pridėti šuolius ar sparnuotus oro šuolius. Kai įmanoma naudokite įprastus kylančius šuolius.</target>
         </trans-unit>
-        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description">
+        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Down)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded falling jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Šuoliai (žemyn)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Šuoliai (žemyn)&lt;/color&gt;
 Spauskite kad pridėti šuolius arba sparnuotus oro šuolius. Kai įmanoma naudokite įprastus krentančius šuolius.</target>
         </trans-unit>
-        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
+        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Air)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Šuoliai (oro)&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Šuoliai (oro)&lt;/color&gt;
 Spauskite kad pridėti šuolius ar sparnuotus oro šuolius. Kai įmanoma naudokite sparnuotus oro šuolius.</target>
         </trans-unit>
-        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal">
+        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal" approved="yes">
           <source>Jumps (Normal)</source>
-          <target>Šuoliai (įprasti)</target>
+          <target state="final">Šuoliai (įprasti)</target>
         </trans-unit>
-        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup">
+        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup" approved="yes">
           <source>Jumps (Up)</source>
-          <target>Šuoliai (į viršų)</target>
+          <target state="final">Šuoliai (į viršų)</target>
         </trans-unit>
-        <trans-unit id="306241843503083520" xml:space="preserve" resname="editor_tooltip_jumpdown">
+        <trans-unit id="306241843503083520" xml:space="preserve" resname="editor_tooltip_jumpdown" approved="yes">
           <source>Jumps (Down)</source>
-          <target>Šuoliai (žemyn)</target>
+          <target state="final">Šuoliai (žemyn)</target>
         </trans-unit>
-        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair">
+        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair" approved="yes">
           <source>Jumps (Air)</source>
-          <target>Šuoliai (oro)</target>
+          <target state="final">Šuoliai (oro)</target>
         </trans-unit>
-        <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations">
+        <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations" approved="yes">
           <source>Congratulations!</source>
-          <target>Sveikiname!</target>
+          <target state="final">Sveikiname!</target>
         </trans-unit>
-        <trans-unit id="306547645476548608" xml:space="preserve" resname="menu_customlevels_playcustomlevels">
+        <trans-unit id="306547645476548608" xml:space="preserve" resname="menu_customlevels_playcustomlevels" approved="yes">
           <source>Play Custom Levels</source>
-          <target>Žaisti pridėtus lygius</target>
+          <target state="final">Žaisti pridėtus lygius</target>
         </trans-unit>
-        <trans-unit id="306547814062403584" xml:space="preserve" resname="menu_customlevels_opencustomlevelfolder">
+        <trans-unit id="306547814062403584" xml:space="preserve" resname="menu_customlevels_opencustomlevelfolder" approved="yes">
           <source>Open Custom Level Folder</source>
-          <target>Atidaryti pridėtų lygių aplanką</target>
+          <target state="final">Atidaryti pridėtų lygių aplanką</target>
         </trans-unit>
-        <trans-unit id="306723067694723072" xml:space="preserve" resname="error_parsecustomlevel">
+        <trans-unit id="306723067694723072" xml:space="preserve" resname="error_parsecustomlevel" approved="yes">
           <source>Error reading level</source>
-          <target>Klaida nuskaitant lygį</target>
+          <target state="final">Klaida nuskaitant lygį</target>
         </trans-unit>
-        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description">
+        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description" approved="yes">
           <source>Description:</source>
-          <target>Aprašymas:</target>
+          <target state="final">Aprašymas:</target>
         </trans-unit>
-        <trans-unit id="307087429873741824" xml:space="preserve" resname="editor_label_banner">
+        <trans-unit id="307087429873741824" xml:space="preserve" resname="editor_label_banner" approved="yes">
           <source>Banner (cropped to 4:1 aspect ratio):</source>
-          <target>Skydelis (sumažintas iki 4:1 vaizdo santykio):</target>
+          <target state="final">Skydelis (sumažintas iki 4:1 vaizdo santykio):</target>
         </trans-unit>
-        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19">
+        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19" approved="yes">
           <source>(Easy)</source>
-          <target>(Lengva)</target>
+          <target state="final">(Lengva)</target>
         </trans-unit>
-        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39">
+        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39" approved="yes">
           <source>(Medium)</source>
-          <target>(Vidutiniška)</target>
+          <target state="final">(Vidutiniška)</target>
         </trans-unit>
-        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59">
+        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59" approved="yes">
           <source>(Hard)</source>
-          <target>(Sunku)</target>
+          <target state="final">(Sunku)</target>
         </trans-unit>
-        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79">
+        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79" approved="yes">
           <source>(Expert)</source>
-          <target>(Eksperto lygio)</target>
+          <target state="final">(Eksperto lygio)</target>
         </trans-unit>
-        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100">
+        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100" approved="yes">
           <source>(Impossible)</source>
-          <target>(Neįmanoma)</target>
+          <target state="final">(Neįmanoma)</target>
         </trans-unit>
-        <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
+        <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage" approved="yes">
           <source>Load Image</source>
-          <target>Užkrauti paveikslėlį</target>
+          <target state="final">Užkrauti paveikslėlį</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
+        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage" approved="yes">
           <source>Replace Image</source>
-          <target>Pakeisti paveikslėlį</target>
+          <target state="final">Pakeisti paveikslėlį</target>
         </trans-unit>
-        <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
+        <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty" approved="yes">
           <source>Estimated Difficulty: {0}</source>
-          <target>Numatomas sunkumas: {0}</target>
+          <target state="final">Numatomas sunkumas: {0}</target>
         </trans-unit>
-        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize">
+        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize" approved="yes">
           <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
-          <target>Nuotraukos failo dydis per didelis! ({0} MB) Pasirinkite nuotrauką mažesnę už {1} MB.</target>
+          <target state="final">Nuotraukos failo dydis per didelis! ({0} MB) Pasirinkite nuotrauką mažesnę už {1} MB.</target>
         </trans-unit>
-        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay">
+        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay" approved="yes">
           <source>Chart by {0}</source>
-          <target>Grafikas sukurtas {0}</target>
+          <target state="final">Grafikas sukurtas {0}</target>
         </trans-unit>
-        <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder">
+        <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder" approved="yes">
           <source>Open levels folder</source>
-          <target>Atidaryti lygių aplanką</target>
+          <target state="final">Atidaryti lygių aplanką</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot">
+        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot" approved="yes">
           <source>Back to (All Levels)</source>
-          <target>Grįžti į (visus lygius)</target>
+          <target state="final">Grįžti į (visus lygius)</target>
         </trans-unit>
-        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
+        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder" approved="yes">
           <source>Back to {0}</source>
-          <target>Grįžti į {0}</target>
+          <target state="final">Grįžti į {0}</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="yes">
           <source>Back to menu</source>
-          <target>Grįžti į meniu</target>
+          <target state="final">Grįžti į meniu</target>
         </trans-unit>
-        <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
+        <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror" approved="yes">
           <source>Error loading level</source>
-          <target>Klaida kraunant lygį</target>
+          <target state="final">Klaida kraunant lygį</target>
         </trans-unit>
-        <trans-unit id="307819786427740160" xml:space="preserve" resname="menu_description_opencustomlevelfolder">
+        <trans-unit id="307819786427740160" xml:space="preserve" resname="menu_description_opencustomlevelfolder" approved="yes">
           <source>Opens the directory where custom levels are stored.</source>
-          <target>Atidaro vietą kur laikomi pridėti lygiai.</target>
+          <target state="final">Atidaro vietą kur laikomi pridėti lygiai.</target>
         </trans-unit>
-        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder">
+        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder" approved="yes">
           <source>Return to the previous folder. ({0})</source>
-          <target>Grįžti į praeitą aplanką. ({0})</target>
+          <target state="final">Grįžti į praeitą aplanką. ({0})</target>
         </trans-unit>
-        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot">
+        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot" approved="yes">
           <source>Return to the main custom levels directory.</source>
-          <target>Grįžti į pagrindinę pridėtų lygių vietą.</target>
+          <target state="final">Grįžti į pagrindinę pridėtų lygių vietą.</target>
         </trans-unit>
-        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu">
+        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu" approved="yes">
           <source>Return to the main custom levels menu.</source>
-          <target>Grįžti į pagrindinį pridėtų lygių meniu.</target>
+          <target state="final">Grįžti į pagrindinį pridėtų lygių meniu.</target>
         </trans-unit>
-        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
+        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm" approved="yes">
           <source>{0} BPM</source>
-          <target>{0} BPM</target>
+          <target state="final">{0} BPM</target>
         </trans-unit>
-        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist">
+        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist" approved="yes">
           <source>by {0}</source>
-          <target>sukurtas {0}</target>
+          <target state="final">sukurtas {0}</target>
         </trans-unit>
-        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
+        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel" approved="yes">
           <source>Export</source>
-          <target>Eksportuoti</target>
+          <target state="final">Eksportuoti</target>
         </trans-unit>
-        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export">
+        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export" approved="yes">
           <source>Level exported: {0}</source>
-          <target>Lygis eksportuotas: {0}</target>
+          <target state="final">Lygis eksportuotas: {0}</target>
         </trans-unit>
-        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing">
+        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing" approved="yes">
           <source>Couldn't find music for this level</source>
-          <target>Muzika šiam lygiui nerasta</target>
+          <target state="final">Muzika šiam lygiui nerasta</target>
         </trans-unit>
-        <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth">
+        <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth" approved="yes">
           <source>fast ghost enemy</source>
-          <target>netikras priešas vaiduoklis</target>
+          <target state="final">netikras priešas vaiduoklis</target>
         </trans-unit>
-        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description">
+        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
 Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
-          <target>&lt;color=#ffff00&gt;Greiti priešai vaiduokliai&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Greiti priešai vaiduokliai&lt;/color&gt;
 Spauskite, kad įterpti geltonus "punktyrinio aštuntadalio" ritmo priešus vaiduoklius.</target>
         </trans-unit>
-        <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth">
+        <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth" approved="yes">
           <source>Insert fast ghost enemy at beat {0}</source>
-          <target>Įterpti greitą priešą vaiduoklį ties {0} taktu</target>
+          <target state="final">Įterpti greitą priešą vaiduoklį ties {0} taktu</target>
         </trans-unit>
-        <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth">
+        <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth" approved="yes">
           <source>Fast Ghost Enemies</source>
-          <target>Greiti priešai vaiduokliai</target>
+          <target state="final">Greiti priešai vaiduokliai</target>
         </trans-unit>
-        <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header">
+        <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header" approved="yes">
           <source>Jump to Checkpoint</source>
-          <target>Grįžti į kontrolinį tašką</target>
+          <target state="final">Grįžti į kontrolinį tašką</target>
         </trans-unit>
-        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip">
+        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip" approved="yes">
           <source>Preview Clip...</source>
-          <target>Peržiūros klipas...</target>
+          <target state="final">Peržiūros klipas...</target>
         </trans-unit>
-        <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime">
+        <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime" approved="yes">
           <source>Preview start time:</source>
-          <target>Peržiūros pradžios laikas:</target>
+          <target state="final">Peržiūros pradžios laikas:</target>
         </trans-unit>
-        <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime">
+        <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime" approved="yes">
           <source>Preview end time:</source>
-          <target>Peržiūros pabaigos laikas:</target>
+          <target state="final">Peržiūros pabaigos laikas:</target>
         </trans-unit>
-        <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview">
+        <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview" approved="yes">
           <source>Play Preview</source>
-          <target>Paleisti peržiūrą</target>
+          <target state="final">Paleisti peržiūrą</target>
         </trans-unit>
-        <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration">
+        <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration" approved="yes">
           <source>Preview Duration: {0} seconds</source>
-          <target>Peržiūros trukmė: {0} sekundės</target>
+          <target state="final">Peržiūros trukmė: {0} sekundės</target>
         </trans-unit>
-        <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels">
+        <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels" approved="yes">
           <source>Import New Levels</source>
-          <target>Importuoti naujus lygius</target>
+          <target state="final">Importuoti naujus lygius</target>
         </trans-unit>
-        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount" approved="yes">
           <source>({0} Levels)</source>
-          <target>({0} lygiai)</target>
+          <target state="final">({0} lygiai)</target>
         </trans-unit>
-        <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
+        <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported" approved="yes">
           <source>Already in custom level directory</source>
-          <target>Jau yra pridėtų lygių aplankale</target>
+          <target state="final">Jau yra pridėtų lygių aplankale</target>
         </trans-unit>
-        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading">
+        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading" approved="yes">
           <source>Downloading...</source>
-          <target>Siunčiama...</target>
+          <target state="final">Siunčiama...</target>
         </trans-unit>
-        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload" approved="yes">
           <source>Download failed</source>
-          <target>Siuntimas nepavyko</target>
+          <target state="final">Siuntimas nepavyko</target>
         </trans-unit>
-        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
+        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile" approved="yes">
           <source>Missing {0} file</source>
-          <target>Trūksta {0} failo</target>
+          <target state="final">Trūksta {0} failo</target>
         </trans-unit>
-        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists">
+        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists" approved="yes">
           <source>File already exists:</source>
-          <target>Failas jau egzistuoja:</target>
+          <target state="final">Failas jau egzistuoja:</target>
         </trans-unit>
-        <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting">
+        <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting" approved="yes">
           <source>Extracting...</source>
-          <target>Išskleidžiama...</target>
+          <target state="final">Išskleidžiama...</target>
         </trans-unit>
-        <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded">
+        <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded" approved="yes">
           <source>No music included</source>
-          <target>Nėra įtrauktos muzikos</target>
+          <target state="final">Nėra įtrauktos muzikos</target>
         </trans-unit>
-        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success">
+        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success" approved="yes">
           <source>Success</source>
-          <target>Pavyko</target>
+          <target state="final">Pavyko</target>
         </trans-unit>
-        <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse">
+        <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse" approved="yes">
           <source>Browse from disk</source>
-          <target>Naršyti iš disko</target>
+          <target state="final">Naršyti iš disko</target>
         </trans-unit>
-        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu">
+        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu" approved="yes">
           <source>Download from URL(s)</source>
-          <target>Siųstis iš nuorodos(-ų)</target>
+          <target state="final">Siųstis iš nuorodos(-ų)</target>
         </trans-unit>
-        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
+        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop" approved="yes">
           <source>Drag .rqzip files here</source>
-          <target>Tempkite .rqzip failus čia</target>
+          <target state="final">Tempkite .rqzip failus čia</target>
         </trans-unit>
-        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
+        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or" approved="yes">
           <source>or</source>
-          <target>arba</target>
+          <target state="final">arba</target>
         </trans-unit>
-        <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
+        <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio" approved="yes">
           <source>Browse custom levels on mod.io</source>
-          <target>Ieškokite pridėtinių lygių mod.io puslapyje</target>
+          <target state="final">Ieškokite pridėtinių lygių mod.io puslapyje</target>
         </trans-unit>
-        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
+        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels" approved="yes">
           <source>Import new custom levels.
 
 You can import levels from:
 - Locally-saved ".rqzip" files
 - Public ".rqzip" URL downloads
 - Fan creations in Steam Workshop</source>
-          <target>Importuoti naujus pridėtinius lygius.
+          <target state="final">Importuoti naujus pridėtinius lygius.
 
 Galima importuoti lygius iš:
-- Lokaliai parsiųstų ".rqzip" failų
-- Viešų ".rqzip" failų nuorodų
-- Fanų sukurtų lygių "Steam Workshop" platformoje</target>
+- Lokaliai parsiųstų „.rqzip“ failų
+- Viešų „.rqzip“ failų nuorodų
+- Fanų sukurtų lygių „Steam Workshop“ platformoje</target>
         </trans-unit>
-        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
+        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput" approved="yes">
           <source>Enter one or more URL(s) to .rqzip files to download:
 (place each URL on a separate line)</source>
-          <target>Įveskite vieną ar daugiau URL nuorodų, kuriais siųsti .rqzip failus:
+          <target state="final">Įveskite vieną ar daugiau URL nuorodų, kuriais siųsti .rqzip failus:
 (kiekvieną URL įrašykite į atskirą eilutę)</target>
         </trans-unit>
-        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download" approved="yes">
           <source>Download</source>
-          <target>Atsisiųsti</target>
+          <target state="final">Atsisiųsti</target>
         </trans-unit>
-        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
+        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard" approved="yes">
           <source>Paste from Clipboard</source>
-          <target>Įklijuoti iš iškarpinės</target>
+          <target state="final">Įklijuoti iš iškarpinės</target>
         </trans-unit>
-        <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics">
+        <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics" approved="yes">
           <source>Graphics</source>
-          <target>Grafika</target>
+          <target state="final">Grafika</target>
         </trans-unit>
-        <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata">
+        <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata" approved="yes">
           <source>Edit level graphics</source>
-          <target>Redaguoti lygio grafiką</target>
+          <target state="final">Redaguoti lygio grafiką</target>
         </trans-unit>
-        <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset">
+        <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset" approved="yes">
           <source>Tile Set</source>
-          <target>Plokštelių rinkinys</target>
+          <target state="final">Plokštelių rinkinys</target>
         </trans-unit>
-        <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset">
+        <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset" approved="yes">
           <source>Backdrop Set</source>
-          <target>Fono rinkinys</target>
+          <target state="final">Fono rinkinys</target>
         </trans-unit>
-        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
+        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass" approved="yes">
           <source>Green Grasslands (+ grass)</source>
-          <target>Žaliosios pievos (+ žolė)</target>
+          <target state="final">Žaliosios pievos (+ žolė)</target>
         </trans-unit>
-        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
+        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch" approved="yes">
           <source>Sfx Pitch...</source>
-          <target>Garso efektų aukštis...</target>
+          <target state="final">Garso efektų aukštis...</target>
         </trans-unit>
-        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription" approved="yes">
           <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
-          <target>Pasirinkite pagrindinį dainos garso aukštį / klavišą.
-Pastaba: "Coin Sfx" groja tobulomis kvintomis
+          <target state="final">Pasirinkite pagrindinį dainos garso aukštį / klavišą.
+Pastaba: „Coin Sfx“ groja tobulomis kvintomis
 (Pavyzdys: C klavišas -&gt; monetų natos bus C ir G)</target>
         </trans-unit>
-        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
+        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title" approved="yes">
           <source>Palette: Section {0}</source>
-          <target>Paletė: Sekcija {0}</target>
+          <target state="final">Paletė: Sekcija {0}</target>
         </trans-unit>
-        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
+        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette" approved="yes">
           <source>Change color palette for section {0}</source>
-          <target>Keisti spalvų paletę {0} sekcijai</target>
+          <target state="final">Keisti spalvų paletę {0} sekcijai</target>
         </trans-unit>
-        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
 Click on a checkpoint section to edit its color palette.</source>
-          <target>&lt;color=#ffff00&gt;Paletės&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Paletės&lt;/color&gt;
 Spauskite ant kontrolinio taško sekcijos, norėdami redaguoti jos spalvų paletę.</target>
         </trans-unit>
-        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
+        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette" approved="yes">
           <source>Palettes</source>
-          <target>Paletės</target>
+          <target state="final">Paletės</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="yes">
           <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
 Do you still want to continue?</source>
-          <target>"Rhythm Quest" lygių redaktorius šiuo metu palaiko tik pelę arba kitus panašius įrenginius.
+          <target state="final">„Rhythm Quest“ lygių redaktorius šiuo metu palaiko tik pelę arba kitus panašius įrenginius.
 Ar norite tęsti?</target>
         </trans-unit>
-        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
+        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
-          <target>&lt;color=#ffff00&gt;Dalelės&lt;/color&gt;
+          <target state="final">&lt;color=#ffff00&gt;Dalelės&lt;/color&gt;
 Spauskite ant kontrolinio taško sekcijos, norėdami redaguoti jos dalelių efektus.</target>
         </trans-unit>
-        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
+        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles" approved="yes">
           <source>Particles</source>
-          <target>Dalelės</target>
+          <target state="final">Dalelės</target>
         </trans-unit>
-        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
+        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles" approved="yes">
           <source>Change particle effects for section {0}</source>
-          <target>Keisti dalelių efektus {0} sekcijai</target>
+          <target state="final">Keisti dalelių efektus {0} sekcijai</target>
         </trans-unit>
-        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
+        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title" approved="yes">
           <source>Particles: Section {0}</source>
-          <target>Dalelės: Sekcija {0}</target>
+          <target state="final">Dalelės: Sekcija {0}</target>
         </trans-unit>
-        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
+        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none" approved="yes">
           <source>None</source>
-          <target>Nėra</target>
+          <target state="final">Nėra</target>
         </trans-unit>
-        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
+        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves" approved="yes">
           <source>Leaves</source>
-          <target>Lapai</target>
+          <target state="final">Lapai</target>
         </trans-unit>
-        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
+        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds" approved="yes">
           <source>Diamonds</source>
-          <target>Deimantai</target>
+          <target state="final">Deimantai</target>
         </trans-unit>
-        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
+        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow" approved="yes">
           <source>Snow</source>
-          <target>Sniegas</target>
+          <target state="final">Sniegas</target>
         </trans-unit>
-        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
+        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots" approved="yes">
           <source>Dots</source>
-          <target>Taškai</target>
+          <target state="final">Taškai</target>
         </trans-unit>
-        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
+        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars" approved="yes">
           <source>Stars</source>
-          <target>Žvaigždutės</target>
+          <target state="final">Žvaigždutės</target>
         </trans-unit>
-        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
+        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals" approved="yes">
           <source>Petals</source>
-          <target>Žiedlapiai</target>
+          <target state="final">Žiedlapiai</target>
         </trans-unit>
-        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails">
+        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails" approved="yes">
           <source>Trails</source>
-          <target>Takeliai</target>
+          <target state="final">Takeliai</target>
         </trans-unit>
-        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain">
+        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain" approved="yes">
           <source>Rain</source>
-          <target>Lietus</target>
+          <target state="final">Lietus</target>
         </trans-unit>
-        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="yes">
           <source>Violet Hyperwave</source>
-          <target>"Violet Hyperwave"</target>
+          <target state="final">„Violet Hyperwave“</target>
         </trans-unit>
-        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="yes">
           <source>A Single Leaf Flutters in the Wind</source>
-          <target>"A Single Leaf Flutters in the Wind"</target>
+          <target state="final">„A Single Leaf Flutters in the Wind“</target>
         </trans-unit>
-        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="yes">
           <source>Standing Here Alone (Expert Mix)</source>
-          <target>"Standing Here Alone (Expert Mix)"</target>
+          <target state="final">„Standing Here Alone (Expert Mix)“</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
           <source>Super Mega Zero</source>
-          <target>"Super Mega Zero"</target>
+          <target state="final">„Super Mega Zero“</target>
         </trans-unit>
-        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
+        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="yes">
           <source>Colors</source>
-          <target>Spalvos</target>
+          <target state="final">Spalvos</target>
         </trans-unit>
-        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls" approved="yes">
           <source>As the Cherry Blossom Falls</source>
-          <target>"As the Cherry Blossom Falls"</target>
+          <target state="final">„As the Cherry Blossom Falls“</target>
         </trans-unit>
-        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
+        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description" approved="yes">
           <source>Adjust the visual position of enemies relative to the beat.</source>
-          <target>Sureguliuoti vaizdinę priešų padėtį ritmo atžvilgiu.</target>
+          <target state="final">Sureguliuoti vaizdinę priešų padėtį ritmo atžvilgiu.</target>
         </trans-unit>
-        <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
+        <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing" approved="yes">
           <source>Enemy Spacing</source>
-          <target>Atstumas tarp priešų</target>
+          <target state="final">Atstumas tarp priešų</target>
         </trans-unit>
-        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description">
+        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description" approved="yes">
           <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
-          <target>Sureguliuoti vaizdinę priešų padėtį (neturi įtakos ritmui).</target>
+          <target state="final">Sureguliuoti vaizdinę priešų padėtį (neturi įtakos ritmui).</target>
         </trans-unit>
-        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure" approved="yes">
           <source>Let's Have an Adventure!</source>
-          <target>"Let's Have an Adventure!"</target>
+          <target state="final">„Let's Have an Adventure!“</target>
         </trans-unit>
-        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
+        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows" approved="yes">
           <source>Scaling Windows</source>
-          <target>Mastelio tarpai</target>
+          <target state="final">Mastelio tarpai</target>
         </trans-unit>
-        <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled">
+        <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled" approved="yes">
           <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
-          <target>(Numatyta) Pataikymo tarpai atitinka numatomus vaizdinius atstumus. Muzikai būnant greitesnei, pataikymo tarpai trumpesni.</target>
+          <target state="final">(Numatyta) Pataikymo tarpai atitinka numatomus vaizdinius atstumus. Muzikai būnant greitesnei, pataikymo tarpai trumpesni.</target>
         </trans-unit>
-        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled">
+        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled" approved="yes">
           <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
-          <target>Keičia pataikymo tarpus pagal muzikos greičio nustatymą, jog trukmė būtų pastovi. Gali sukelti netikėtų efektų esant dideliam arba mažam greičiui!</target>
+          <target state="final">Keičia pataikymo tarpus pagal muzikos greičio nustatymą, jog trukmė būtų pastovi. Gali sukelti netikėtų efektų esant dideliam arba mažam greičiui!</target>
         </trans-unit>
-        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
+        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls" approved="yes">
           <source>Crimson Halls</source>
-          <target>"Crimson Halls"</target>
+          <target state="final">„Crimson Halls“</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="yes">
           <source>Color Skins...</source>
-          <target>Spalvos...</target>
+          <target state="final">Spalvos...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="yes">
           <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>Pakeisti kliūčių spalvą, kad būtų lengviau matomi modeliai.</target>
+          <target state="final">Pakeisti kliūčių spalvą, kad būtų lengviau matomi modeliai.</target>
         </trans-unit>
-        <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
+        <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="yes">
           <source>Beat Grid</source>
-          <target>Takto tinklelis</target>
+          <target state="final">Takto tinklelis</target>
         </trans-unit>
-        <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies">
+        <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies" approved="yes">
           <source>Enemies</source>
-          <target>Priešai</target>
+          <target state="final">Priešai</target>
         </trans-unit>
-        <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings">
+        <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings" approved="yes">
           <source>Wings</source>
-          <target>Sparnai</target>
+          <target state="final">Sparnai</target>
         </trans-unit>
-        <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes">
+        <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes" approved="yes">
           <source>Spikes</source>
-          <target>Spygliai</target>
+          <target state="final">Spygliai</target>
         </trans-unit>
-        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description">
+        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description" approved="yes">
           <source>Change the color of floor beat markers.</source>
-          <target>Pakeisti grindų takto žymeklių spalvą.</target>
+          <target state="final">Pakeisti grindų takto žymeklių spalvą.</target>
         </trans-unit>
-        <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description">
+        <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description" approved="yes">
           <source>Change the color of enemies.</source>
-          <target>Pakeisti priešų spalvą.</target>
+          <target state="final">Pakeisti priešų spalvą.</target>
         </trans-unit>
-        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description">
+        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description" approved="yes">
           <source>Change the color of rolling spike obstacles.</source>
-          <target>Pakeisti riedančių spyglių spalvą.</target>
+          <target state="final">Pakeisti riedančių spyglių spalvą.</target>
         </trans-unit>
-        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
+        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description" approved="yes">
           <source>Tweak obstacle color palettes.</source>
-          <target>Pakeisti kliūčių spalvų paletes.</target>
+          <target state="final">Pakeisti kliūčių spalvų paletes.</target>
         </trans-unit>
         <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
           <source>Change the color of floating wings.</source>
