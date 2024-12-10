@@ -860,49 +860,49 @@ Para obter a melhor experiência, sinta-se à vontade para testar a versão offl
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
           <target state="final">Você chegou ao final da demo do Rhythm Quest - obrigado por jogar!</target>
         </trans-unit>
-        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite">
+        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite" approved="yes">
           <source>Visit the Website</source>
-          <target>Visite o Website</target>
+          <target state="final">Visite o Website</target>
         </trans-unit>
-        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
+        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord" approved="yes">
           <source>Join the Discord</source>
-          <target>Junte-se ao Discord</target>
+          <target state="final">Junte-se ao Discord</target>
         </trans-unit>
-        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="yes">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target>A versão completa de Rhythm Quest irá conter 30 níveis dentre 6 mundos, níveis bônus desbloqueáveis, e mais mecânicas de gameplay!</target>
+          <target state="final">A versão completa de Rhythm Quest conterá 30 níveis dentre 6 mundos, níveis bônus desbloqueáveis, e mais mecânicas de jogo!</target>
         </trans-unit>
-        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
+        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next" approved="yes">
           <source>Next</source>
-          <target>Próximo</target>
+          <target state="final">Próximo</target>
         </trans-unit>
-        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3">
+        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3" approved="yes">
           <source>Wishlist and follow Rhythm Quest online for future updates!</source>
-          <target>Adicione à lista de desejos e siga Rhythm Quest online para atualizações futuras!</target>
+          <target state="final">Adicione à sua lista de desejos e siga Rhythm Quest online para obter atualizações futuras!</target>
         </trans-unit>
-        <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description">
+        <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description" approved="yes">
           <source>Resolution and screen mode settings.</source>
-          <target>Configurações de resolução e modo de tela.</target>
+          <target state="final">Configurações de resolução e modo de tela.</target>
         </trans-unit>
-        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description">
+        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description" approved="yes">
           <source>Zoom and scale settings.</source>
-          <target>Configurações de escala e zoom.</target>
+          <target state="final">Configurações de escala e zoom.</target>
         </trans-unit>
-        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects">
+        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects" approved="yes">
           <source>Visual effects and readability settings.</source>
-          <target>Configurações de efeitos visuais e legibilidade.</target>
+          <target state="final">Configurações de efeitos visuais e legibilidade.</target>
         </trans-unit>
         <trans-unit id="123203967791181824" xml:space="preserve" resname="menu_settings_resolution">
           <source>Resolution Settings...</source>
           <target>Configurações de Resolução...</target>
         </trans-unit>
-        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata">
+        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata" approved="yes">
           <source>Data Reset...</source>
-          <target>Redefinir Dados...</target>
+          <target state="final">Redefinir Dados...</target>
         </trans-unit>
-        <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description">
+        <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description" approved="yes">
           <source>Resets settings to default values.</source>
-          <target>Redefine as configurações para os valores padrões.</target>
+          <target state="final">Redefine as configurações para os valores padrão.</target>
         </trans-unit>
         <trans-unit id="123208891287515136" xml:space="preserve" resname="resetprefs_confirmed">
           <source>Settings have been reset to default values.
