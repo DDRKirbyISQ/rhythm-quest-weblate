@@ -8,357 +8,357 @@
     </header>
     <body>
       <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
-        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings" approved="yes">
           <source>Settings</source>
-          <target>Nustatymai</target>
+          <target state="final">Nustatymai</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="yes">
           <source>Start Game</source>
-          <target>Pradėti žaidimą</target>
+          <target state="final">Pradėti žaidimą</target>
         </trans-unit>
-        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="yes">
           <source>Extras</source>
-          <target>Priedai</target>
+          <target state="final">Priedai</target>
         </trans-unit>
-        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="yes">
           <source>Quit</source>
-          <target>Išeiti</target>
+          <target state="final">Išeiti</target>
         </trans-unit>
-        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back" approved="yes">
           <source>Back</source>
-          <target>Atgal</target>
+          <target state="final">Atgal</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="yes">
           <source>Lag Calibration...</source>
-          <target>Atsilikimo kalibravimas...</target>
+          <target state="final">Atsilikimo kalibravimas...</target>
         </trans-unit>
-        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics" approved="yes">
           <source>Graphics</source>
-          <target>Vaizdas</target>
+          <target state="final">Vaizdas</target>
         </trans-unit>
         <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
           <source>Audio</source>
           <target>Garsas</target>
         </trans-unit>
-        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="yes">
           <source>Interface Settings</source>
-          <target>Sąsajos nustatymai</target>
+          <target state="final">Sąsajos nustatymai</target>
         </trans-unit>
-        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
+        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls" approved="yes">
           <source>Controls</source>
-          <target>Valdymas</target>
+          <target state="final">Valdymas</target>
         </trans-unit>
-        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="yes">
           <source>Accessibility</source>
-          <target>Prieinamumas</target>
+          <target state="final">Prieinamumas</target>
         </trans-unit>
-        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="yes">
           <source>Scaling Mode</source>
-          <target>Mastelio režimas</target>
+          <target state="final">Mastelio režimas</target>
         </trans-unit>
-        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="yes">
           <source>Flexible</source>
-          <target>Lankstus</target>
+          <target state="final">Lankstus</target>
         </trans-unit>
-        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="yes">
           <source>Pixel Perfect</source>
-          <target>„Pixel Perfect“</target>
+          <target state="final">„Pixel Perfect“</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="yes">
           <source>Screen Mode</source>
-          <target>Ekrano režimas</target>
+          <target state="final">Ekrano režimas</target>
         </trans-unit>
-        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="no">
           <source>Windowed</source>
-          <target>Lange</target>
+          <target state="translated">Nepilno ekrano</target>
         </trans-unit>
-        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
+        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="yes">
           <source>Maximized</source>
-          <target>Išskleistas</target>
+          <target state="final">Išskleistas</target>
         </trans-unit>
-        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
+        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen" approved="yes">
           <source>Fullscreen</source>
-          <target>Per visą ekraną</target>
+          <target state="final">Per visą ekraną</target>
         </trans-unit>
-        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed">
+        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed" approved="yes">
           <source>Game will be run in a window. Can be resized.</source>
-          <target>Žaidimas bus paleistas lange, kurio dydis keičiamas.</target>
+          <target state="final">Žaidimas bus paleistas lange, kurio dydis keičiamas.</target>
         </trans-unit>
-        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="yes">
           <source>Game will run in a maximized window.</source>
-          <target>Žaidimas bus paleistas lange, kuris bus maksimalaus dydžio.</target>
+          <target state="final">Žaidimas bus paleistas lange, kuris bus maksimalaus dydžio.</target>
         </trans-unit>
-        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="yes">
           <source>Game will run in exclusive fullscreen mode.</source>
-          <target>Žaidimas bus paleistas per visą ekraną.</target>
+          <target state="final">Žaidimas bus paleistas per visą ekraną.</target>
         </trans-unit>
-        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="yes">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
-          <target>Vartotojo sąsajos ir kameros mastelis bus pakeistas pagal ekraną. Gali sukelti nekvadratinius pikselius, ypač žemesnėse rezoliucijose.</target>
+          <target state="final">Vartotojo sąsajos ir kameros mastelis bus pakeistas pagal ekraną. Gali sukelti nekvadratinius pikselius, ypač žemesnėse rezoliucijose.</target>
         </trans-unit>
-        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="yes">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
-          <target>(Numatytas) Vartotojo sąsajos ir kameros mastelis bus keičiamas tik skaičiais. Užtikrina, kad pikseliai liks kvadratiniai, tačiau juos gali reikėti labiau atitolinti.</target>
+          <target state="final">(Numatytas) Vartotojo sąsajos ir kameros mastelis bus keičiamas tik skaičiais. Užtikrina, kad pikseliai liks kvadratiniai, tačiau juos gali reikėti labiau atitolinti.</target>
         </trans-unit>
-        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
           <source>Resolution</source>
-          <target>Rezoliucija</target>
+          <target state="final">Rezoliucija</target>
         </trans-unit>
-        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="yes">
           <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
-          <target>Reguliuoti lango rezoliuciją į numatytas reikšmes. (Visą ekraną užimančios rezoliucijos negali būti pakeistos)</target>
+          <target state="final">Reguliuoti lango rezoliuciją į numatytas reikšmes. (Visą ekraną užimančios rezoliucijos negali būti pakeistos)</target>
         </trans-unit>
-        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="yes">
           <source>Vertical Sync</source>
-          <target>„Vertical Sync“</target>
+          <target state="final">„Vertical Sync“</target>
         </trans-unit>
-        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
+        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled" approved="yes">
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
-          <target>Išjungiamas ekrano atnaujinimo dažnio sinchronizavimas. Vaizdavimas gali būti greitesnis, tačiau gali atsirasti ekrano trūkčiojimai.</target>
+          <target state="final">Išjungiamas ekrano atnaujinimo dažnio sinchronizavimas. Vaizdavimas gali būti greitesnis, tačiau gali atsirasti ekrano trūkčiojimai.</target>
         </trans-unit>
-        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled">
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="yes">
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
-          <target>(Numatytas) Sinchronizuoja vaizdavimą su ekrano atnaujinimo dažniu. Apsaugo nuo vaizdo trūkčiojimų.</target>
+          <target state="final">(Numatytas) Sinchronizuoja vaizdavimą su ekrano atnaujinimo dažniu. Apsaugo nuo vaizdo trūkčiojimų.</target>
         </trans-unit>
-        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="yes">
           <source>Disabled</source>
-          <target>Išjungta</target>
+          <target state="final">Išjungta</target>
         </trans-unit>
-        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
           <source>Enabled</source>
-          <target>Įjungta</target>
+          <target state="final">Įjungta</target>
         </trans-unit>
-        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="yes">
           <source>Scaling Settings...</source>
-          <target>Mastelio nustatymai...</target>
+          <target state="final">Mastelio nustatymai...</target>
         </trans-unit>
-        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="yes">
           <source>Return to the previous menu.</source>
-          <target>Grįžti į ankstesnį meniu.</target>
+          <target state="final">Grįžti į ankstesnį meniu.</target>
         </trans-unit>
-        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="yes">
           <source>Zoom Level</source>
-          <target>Didinimo lygis</target>
+          <target state="final">Didinimo lygis</target>
         </trans-unit>
-        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
+        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
           <source>Default</source>
-          <target>Numatytas</target>
+          <target state="final">Numatytas</target>
         </trans-unit>
-        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far">
+        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="yes">
           <source>Far</source>
-          <target>Toli</target>
+          <target state="final">Toli</target>
         </trans-unit>
-        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near">
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="yes">
           <source>Near</source>
-          <target>Arti</target>
+          <target state="final">Arti</target>
         </trans-unit>
-        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
+        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default" approved="yes">
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
-          <target>Naudoti numatytą žaidimo priartinimo lygį. Turėtų pakakti daugumai atvejų.</target>
+          <target state="final">Naudoti numatytą žaidimo priartinimo lygį. Turėtų pakakti daugumai atvejų.</target>
         </trans-unit>
-        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far" approved="yes">
           <source>Forces a zoomed-out gameplay view.</source>
-          <target>Įjungiamas atitolintas žaidimo vaizdas.</target>
+          <target state="final">Įjungiamas atitolintas žaidimo vaizdas.</target>
         </trans-unit>
-        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near" approved="yes">
           <source>Forces a zoomed-in gameplay view.</source>
-          <target>Įjungiamas priartintas žaidimo vaizdas.</target>
+          <target state="final">Įjungiamas priartintas žaidimo vaizdas.</target>
         </trans-unit>
-        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="yes">
           <source>Music Volume</source>
-          <target>Muzikos garsumas</target>
+          <target state="final">Muzikos garsumas</target>
         </trans-unit>
-        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="yes">
           <source>Adjust the volume of the game music.</source>
-          <target>Pakeisti žaidimo muzikos garsumą.</target>
+          <target state="final">Pakeisti žaidimo muzikos garsumą.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="yes">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>Pakeisti žaidimo garso efektų garsumą.</target>
+          <target state="final">Pakeisti žaidimo garso efektų garsumą.</target>
         </trans-unit>
-        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="yes">
           <source>Sfx Volume</source>
-          <target>Garso efektų garsumas</target>
+          <target state="final">Garso efektų garsumas</target>
         </trans-unit>
-        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="yes">
           <source>Effect Settings...</source>
-          <target>Efektų nustatymai...</target>
+          <target state="final">Efektų nustatymai...</target>
         </trans-unit>
-        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake" approved="yes">
           <source>Screen Shake</source>
-          <target>Ekrano drebėjimas</target>
+          <target state="final">Ekrano drebėjimas</target>
         </trans-unit>
-        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="yes">
           <source>Disables screen shake effects.</source>
-          <target>Išjungia ekrano drebėjimo efektus.</target>
+          <target state="final">Išjungia ekrano drebėjimo efektus.</target>
         </trans-unit>
-        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="yes">
           <source>Enables screen shake effects.</source>
-          <target>Įjungia ekrano drebėjimo efektus.</target>
+          <target state="final">Įjungia ekrano drebėjimo efektus.</target>
         </trans-unit>
-        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="yes">
           <source>Screen Flashes</source>
-          <target>Ekrano mirksėjimai</target>
+          <target state="final">Ekrano mirksėjimai</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="yes">
           <source>Enables screen flash effects.</source>
-          <target>Įjungia ekrano mirksėjimo efektus.</target>
+          <target state="final">Įjungia ekrano mirksėjimo efektus.</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="yes">
           <source>Disables screen flash effects.</source>
-          <target>Išjungia ekrano mirksėjimo efektus.</target>
+          <target state="final">Išjungia ekrano mirksėjimo efektus.</target>
         </trans-unit>
-        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling" approved="yes">
           <source>Sfx Prescheduling</source>
-          <target>Garso efektų išankstinis planavimas</target>
+          <target state="final">Garso efektų išankstinis planavimas</target>
         </trans-unit>
-        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
+        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled" approved="yes">
           <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
-          <target>Veiksmų garsai visada bus grojami reaguojant į įvestį. Rekomenduojama naudoti tik esant mažam vėlavimui. Dėl papildomo garso vėlavimo gali sutrikti jūsų ritmas.</target>
+          <target state="final">Veiksmų garsai visada bus grojami reaguojant į įvestį. Rekomenduojama naudoti tik esant mažam vėlavimui. Dėl papildomo garso vėlavimo gali sutrikti jūsų ritmas.</target>
         </trans-unit>
-        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled">
+        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled" approved="yes">
           <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
-          <target>(Numatyta) Veiksmų garsai bus iš anksto suplanuoti tam, kad būtų tobulai sinchronizuoti. Jie bus grojami net praleidus įvestį.</target>
+          <target state="final">(Numatyta) Veiksmų garsai bus iš anksto suplanuoti tam, kad būtų tobulai sinchronizuoti. Jie bus grojami net praleidus įvestį.</target>
         </trans-unit>
-        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="yes">
           <source>Audio Offset</source>
-          <target>Garso poslinkis</target>
+          <target state="final">Garso poslinkis</target>
         </trans-unit>
-        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
+        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description" approved="yes">
           <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
-          <target>Vertę reguliuokite tol, kol garsiniai signalai visiškai sutaps su mirksinčiomis šviesomis.</target>
+          <target state="final">Vertę reguliuokite tol, kol garsiniai signalai visiškai sutaps su mirksinčiomis šviesomis.</target>
         </trans-unit>
-        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats">
+        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats" approved="yes">
           <source>Cheats</source>
-          <target>Sukčiavimo komandos</target>
+          <target state="final">Sukčiavimo komandos</target>
         </trans-unit>
         <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
           <source>Auto Play</source>
           <target>Automatinis paleidimas</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
-          <target>Atrakinti visus lygius</target>
+          <target state="final">Atrakinti visus lygius</target>
         </trans-unit>
-        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="yes">
           <source>Auto play is disabled.</source>
-          <target>Automatinis paleidimas išjungtas.</target>
+          <target state="final">Automatinis paleidimas išjungtas.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Automatinis paleidimas įjungtas. Lygiai bus automatiškai paleisti be žaidėjo įvesties. (Progresas vistiek bus išsaugotas)</target>
+          <target state="final">Automatinis paleidimas įjungtas. Lygiai bus automatiškai paleisti be žaidėjo įvesties. (Progresas vistiek bus išsaugotas)</target>
         </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
           <source>Levels must be unlocked normally.</source>
-          <target>Lygiai privalo būti atrakinti įprastai.</target>
+          <target state="final">Lygiai privalo būti atrakinti įprastai.</target>
         </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
+        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="yes">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>Visi lygiai yra atrakinti nuo pradžių. (Progresas vistiek bus išsaugotas)</target>
+          <target state="final">Visi lygiai yra atrakinti nuo pradžių. (Progresas vistiek bus išsaugotas)</target>
         </trans-unit>
-        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
-          <target>Spauskite „Enter“, kad tęsti</target>
+          <target state="final">Spauskite „Enter“, kad tęsti</target>
         </trans-unit>
-        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="yes">
           <source>Click to Continue</source>
-          <target>Norėdami tęsti, spustelėkite pele</target>
+          <target state="final">Norėdami tęsti, spustelėkite pele</target>
         </trans-unit>
-        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="yes">
           <source>Tap to Continue</source>
-          <target>Bakstelėkite, norėdami tęsti</target>
+          <target state="final">Bakstelėkite, norėdami tęsti</target>
         </trans-unit>
-        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="yes">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
-          <target>Spauskite &lt;sprite name="controller_icons_100"&gt; kad tęsti</target>
+          <target state="final">Spauskite &lt;sprite name="controller_icons_100"&gt; kad tęsti</target>
         </trans-unit>
-        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="yes">
           <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
-          <target>Spauskite &lt;sprite name="controller_icons_37"&gt; kad tęsti</target>
+          <target state="final">Spauskite &lt;sprite name="controller_icons_37"&gt; kad tęsti</target>
         </trans-unit>
-        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="yes">
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
-          <target>Spauskite &lt;sprite name="controller_icons_60"&gt; kad tęsti</target>
+          <target state="final">Spauskite &lt;sprite name="controller_icons_60"&gt; kad tęsti</target>
         </trans-unit>
-        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="yes">
           <source>Font Style</source>
-          <target>Šrifto stilius</target>
+          <target state="final">Šrifto stilius</target>
         </trans-unit>
-        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
+        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="yes">
           <source>Pixel Font</source>
-          <target>Pikselinis šriftas</target>
+          <target state="final">Pikselinis šriftas</target>
         </trans-unit>
-        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled">
+        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled" approved="yes">
           <source>Smooth Font</source>
-          <target>Sklandus šriftas</target>
+          <target state="final">Sklandus šriftas</target>
         </trans-unit>
-        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled">
+        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled" approved="yes">
           <source>Use smooth font for the interface.</source>
-          <target>Naudoti sklandų šriftą vartotojo sąsajai.</target>
+          <target state="final">Naudoti sklandų šriftą vartotojo sąsajai.</target>
         </trans-unit>
-        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled">
+        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled" approved="yes">
           <source>Use pixel-styled font for the interface.</source>
-          <target>Naudoti pikselinį šriftą vartotojo sąsajai.</target>
+          <target state="final">Naudoti pikselinį šriftą vartotojo sąsajai.</target>
         </trans-unit>
-        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons" approved="yes">
           <source>On-screen Buttons</source>
-          <target>Ekrano mygtukai</target>
+          <target state="final">Ekrano mygtukai</target>
         </trans-unit>
-        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
+        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide" approved="yes">
           <source>Hide</source>
-          <target>Slėpti</target>
+          <target state="final">Slėpti</target>
         </trans-unit>
-        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show">
+        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show" approved="yes">
           <source>Show</source>
-          <target>Rodyti</target>
+          <target state="final">Rodyti</target>
         </trans-unit>
-        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
+        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide" approved="yes">
           <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
-          <target>Ekrane esantys mygtukai bus paslėpti. Bakstelėkite kairę ir dešinę ekrano puses, kad žaisti.</target>
+          <target state="final">Ekrane esantys mygtukai bus paslėpti. Bakstelėkite kairę ir dešinę ekrano puses, kad žaisti.</target>
         </trans-unit>
-        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show">
+        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show" approved="yes">
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
-          <target>Ekrane esantys mygtukai bus rodomi. (Jum nereikės ant jų tiksliai bakstelėti)</target>
+          <target state="final">Ekrane esantys mygtukai bus rodomi. (Jum nereikės ant jų tiksliai bakstelėti)</target>
         </trans-unit>
-        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
+        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog" approved="yes">
           <source>Changelog</source>
-          <target>Pakeitimų istorija</target>
+          <target state="final">Pakeitimų istorija</target>
         </trans-unit>
-        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="yes">
           <source>Green Grasslands</source>
-          <target>Žaliosios pievos</target>
+          <target state="final">Žaliosios pievos</target>
         </trans-unit>
-        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
+        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="yes">
           <source>Cloudy Courseway</source>
-          <target>Debesuotas takas</target>
+          <target state="final">Debesuotas takas</target>
         </trans-unit>
-        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
+        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3" approved="yes">
           <source>Retro Ridge</source>
-          <target>"Retro“ keteros</target>
+          <target state="final">„Retro“ keteros</target>
         </trans-unit>
-        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="yes">
           <source>Magical Metropolis</source>
-          <target>Magiškas metropolis</target>
+          <target state="final">Magiškas metropolis</target>
         </trans-unit>
-        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="yes">
           <source>Crystal Caverns</source>
-          <target>Kristalų urvai</target>
+          <target state="final">Kristalų urvai</target>
         </trans-unit>
-        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="yes">
           <source>Space Sojourn</source>
-          <target>Kosmoso viešnagė</target>
+          <target state="final">Kosmoso viešnagė</target>
         </trans-unit>
-        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="yes">
           <source>Sunrise Vista</source>
-          <target>Saulėtekio vista</target>
+          <target state="final">Saulėtekio vista</target>
         </trans-unit>
-        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="yes">
           <source>Raceway Plain</source>
-          <target>Lenktynių lyguma</target>
+          <target state="final">Lenktynių lyguma</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="yes">
           <source>River Crossing</source>
-          <target>Upės kirtimas</target>
+          <target state="final">Upės kirtimas</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
           <source>Mystic Forest</source>
@@ -792,7 +792,7 @@ Sumažinkite, jei garsas skamba per anksti. Padidinkite, jei garsas yra per vėl
           <source>Copy Protection Violation detected!</source>
           <target>Aptiktas kopijavimo apsaugos pažeidimas!</target>
         </trans-unit>
-        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions" approved="yes">
           <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
 
 If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
@@ -807,19 +807,19 @@ If this doesn't work, I would suggest downloading and playing the offline build 
 
 Sorry about this!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Kad "Rhythm Quest" nepavogtų piktavalės svetainės, kuriose mano žaidimas būtų talpinamas be leidimo, "Rhythm Quest" remiasi HTTP "referer" antraštėmis, norėdamas patikrinti, ar jis talpinamas leistinoje svetainėje (rhythmquestgame.com, itch.io).
+          <target state="final">Kad "Rhythm Quest" nepavogtų piktavalės svetainės, kuriose mano žaidimas būtų talpinamas be leidimo, „Rhythm Quest“ remiasi HTTP „referer“ antraštėmis, norėdamas patikrinti, ar jis talpinamas leistinoje svetainėje (rhythmquestgame.com, itch.io).
 
-Jei turite naršyklės plėtinį, kuris išjungia "referer" sekimą, pabandykite jį išjungti ir įkelti tinklapį iš naujo, kad ši demonstracinė versija būtų tinkamai įkelta.
+Jei turite naršyklės plėtinį, kuris išjungia „referer“ sekimą, pabandykite jį išjungti ir įkelti tinklapį iš naujo, kad ši demonstracinė versija būtų tinkamai įkelta.
 
-Naudodami "Firefox", taip pat galite pabandyti patikrinti referer antraštės nustatymą:
-- URL juostoje eikite į "about:config".
-- Jei bus duotas pasirinkimas, spauskite "Accept" kad priimti perspėjimą
-- Ieškokite nuostatos "network.http.sendRefererHeader"
-- Nustatykite reikšmę "2" (numatytasis nustatymas), kad būtų įjungta referer antraštė
+Naudodami „Firefox“, taip pat galite pabandyti patikrinti referer antraštės nustatymą:
+- URL juostoje eikite į „about:config“.
+- Jei bus duotas pasirinkimas, spauskite „Accept“ kad priimti perspėjimą
+- Ieškokite nuostatos „network.http.sendRefererHeader“
+- Nustatykite reikšmę „2“ (numatytasis nustatymas), kad būtų įjungta referer antraštė
 
 Jei tai nepadeda, siūlyčiau vietoj to atsisiųsti ir žaisti neprisijungus prie interneto sukurtą versiją!
 
-Atsiprašome už tai!
+Atsiprašau už tai!
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome">
@@ -2983,9 +2983,9 @@ Patikrinkite jį ir bandykite iš naujo.</target>
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
           <target>&lt;sprite name="fonticons_10"&gt; Prisijungta kaip {0}</target>
         </trans-unit>
-        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="yes">
           <source>Updating mod.io mod profile...</source>
-          <target state="needs-translation">Atnaujinamas mod.iod modo profilis...</target>
+          <target state="final">Atnaujinamas mod.io mod'o profilis...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Spellbound Nebula</source>
@@ -3348,6 +3348,46 @@ from Piano Sonata No. 11"</target>
           <target>"Midnight Moon"</target>
         </trans-unit>
       </group>
+    </body>
+  </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="lt" datatype="plaintext">
+    <body>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="yes">
+        <source>Für Elise</source>
+        <target state="final">"Für Elise"</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="yes">
+        <source>Flight of the Bumblebee</source>
+        <target state="final">Kamanės skrydis</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="yes">
+        <source>Cosmic Conflux</source>
+        <target state="final">Kosminis konfliuksas</target>
+      </trans-unit>
+      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="yes">
+        <source>Song Select</source>
+        <target state="final">Dainos pasirinkimas</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="yes">
+        <source>Level {0}</source>
+        <target state="final">Lygis {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="yes">
+        <source>by {0}</source>
+        <target state="final">sukurta {0}</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="yes">
+        <source>World {0}</source>
+        <target state="final">Pasaulis {0}</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="yes">
+        <source>Return to the main menu.</source>
+        <target state="final">Grįžti į pagrindinį meniu.</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">Praleisti įžangą</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
