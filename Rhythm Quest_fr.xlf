@@ -600,9 +600,9 @@ Sinon, ajustez les manuellement afin qu'ils le soient.</target>
           <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
           <target state="final">Appuyez sur &lt;sprite name="controller_icons_60"&gt; en rythme avec les bips</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
+        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="no">
           <source>Yes (Recommended)</source>
-          <target>Oui (Recommandé)</target>
+          <target state="needs-translation">Oui (Recommandé)</target>
         </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
