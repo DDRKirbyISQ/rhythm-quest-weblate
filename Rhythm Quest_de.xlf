@@ -3370,6 +3370,18 @@ Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
         <source>Edit additional audio settings.</source>
         <target state="final">Zusätzliche Audio-Einstellungen bearbeiten.</target>
       </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="yes">
+        <source>Level {0}</source>
+        <target state="final">Level {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="yes">
+        <source>by {0}</source>
+        <target state="final">von {0}</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="yes">
+        <source>World {0}</source>
+        <target state="final">Welt {0}</target>
+      </trans-unit>
     </body>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="de" datatype="plaintext">
