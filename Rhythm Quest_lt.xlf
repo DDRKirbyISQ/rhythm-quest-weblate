@@ -36,9 +36,9 @@
           <source>Graphics</source>
           <target state="final">Vaizdas</target>
         </trans-unit>
-        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio" approved="yes">
           <source>Audio</source>
-          <target>Garsas</target>
+          <target state="final">Garsas</target>
         </trans-unit>
         <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="yes">
           <source>Interface Settings</source>
@@ -68,9 +68,9 @@
           <source>Screen Mode</source>
           <target state="final">Ekrano režimas</target>
         </trans-unit>
-        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="no">
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="yes">
           <source>Windowed</source>
-          <target state="translated">Nepilno ekrano</target>
+          <target state="final">Nepilno ekrano</target>
         </trans-unit>
         <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="yes">
           <source>Maximized</source>
@@ -232,9 +232,9 @@
           <source>Cheats</source>
           <target state="final">Sukčiavimo komandos</target>
         </trans-unit>
-        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="yes">
           <source>Auto Play</source>
-          <target>Automatinis paleidimas</target>
+          <target state="final">Automatinis paleidimas</target>
         </trans-unit>
         <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
@@ -1190,9 +1190,9 @@ Ar norėtumėte įjungti ekrano skaitymo režimą?
           <source>D-pad</source>
           <target state="final">„D-pad“</target>
         </trans-unit>
-        <trans-unit id="138027980287684608" xml:space="preserve" resname="controller_triangle">
+        <trans-unit id="138027980287684608" xml:space="preserve" resname="controller_triangle" approved="yes">
           <source>triangle</source>
-          <target>trikampis</target>
+          <target state="final">trikampis</target>
         </trans-unit>
         <trans-unit id="138028001263398912" xml:space="preserve" resname="controller_cross" approved="yes">
           <source>X</source>
@@ -1284,9 +1284,7 @@ Ar norėtumėte įjungti ekrano skaitymo režimą?
         </trans-unit>
         <trans-unit id="161040045575929856" xml:space="preserve" resname="settings_pixelfont_description_enabled_unavailable" approved="yes">
           <source>Use pixel-styled font for the interface. &lt;color=red&gt;[Unavailable at this resolution]&lt;/color&gt;</source>
-          <target state="final">Naudoti pikselinio stiliaus šriftą šiai vartotojo sąsajai.
-&lt;color=red&gt;[Negalima šiai rezoliucijai]
-&lt;/color&gt;</target>
+          <target state="final">Naudoti pikselinio stiliaus šriftą šiai vartotojo sąsajai. &lt;color=red&gt;[Negalima šiai rezoliucijai]&lt;/color&gt;</target>
         </trans-unit>
         <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4" approved="yes">
           <source>Soaring Skyline</source>
@@ -1476,9 +1474,9 @@ Ar norėtumėte įjungti ekrano skaitymo režimą?
           <source>Configure gamepad bindings.</source>
           <target state="final">Keisti žaidimų pulto nustatymus.</target>
         </trans-unit>
-        <trans-unit id="248579730731479040" xml:space="preserve" resname="settings_keyboardcustomcontrols">
+        <trans-unit id="248579730731479040" xml:space="preserve" resname="settings_keyboardcustomcontrols" approved="yes">
           <source>Keyboard Config</source>
-          <target>Klaviatūros nustatymai</target>
+          <target state="final">Klaviatūros nustatymai</target>
         </trans-unit>
         <trans-unit id="248580085129195520" xml:space="preserve" resname="settings_custom" approved="yes">
           <source>Custom</source>
@@ -2704,647 +2702,647 @@ Spauskite ant kontrolinio taško sekcijos, norėdami redaguoti jos dalelių efek
           <source>Tweak obstacle color palettes.</source>
           <target state="final">Pakeisti kliūčių spalvų paletes.</target>
         </trans-unit>
-        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
+        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description" approved="yes">
           <source>Change the color of floating wings.</source>
-          <target>Pakeisti sklaidančių sparnų spalvą.</target>
+          <target state="final">Pakeisti sklaidančių sparnų spalvą.</target>
         </trans-unit>
-        <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits">
+        <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits" approved="yes">
           <source>Actions Only</source>
-          <target>Tik veiksmai</target>
+          <target state="final">Tik veiksmai</target>
         </trans-unit>
-        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all">
+        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all" approved="yes">
           <source>All</source>
-          <target>Visi</target>
+          <target state="final">Visi</target>
         </trans-unit>
-        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
+        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype" approved="yes">
           <source>Action Type</source>
-          <target>Veiksmo rūšis</target>
+          <target state="final">Veiksmo rūšis</target>
         </trans-unit>
-        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description">
+        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description" approved="yes">
           <source>Floor beat grid markers match level background colors.</source>
-          <target>Grindų takto tinklelio žymeklių spalva atitinka fono spalvas.</target>
+          <target state="final">Grindų takto tinklelio žymeklių spalva atitinka fono spalvas.</target>
         </trans-unit>
-        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
+        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description" approved="yes">
           <source>Beat grid markers with obstacles will be colored according beat offset.</source>
-          <target>Takto tinklelio žymekliai su kliūtimis bus nuspalvinti pagal takto nuokrypį.</target>
+          <target state="final">Takto tinklelio žymekliai su kliūtimis bus nuspalvinti pagal takto nuokrypį.</target>
         </trans-unit>
-        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description">
+        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description" approved="yes">
           <source>All beat grid markers will be colored according to beat offset.</source>
-          <target>Visi takto tinklelio žymekliai bus nuspalvinti pagal takto nuokrypį.</target>
+          <target state="final">Visi takto tinklelio žymekliai bus nuspalvinti pagal takto nuokrypį.</target>
         </trans-unit>
-        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description">
+        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description" approved="yes">
           <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
-          <target>Takto tinklelio žymekliai bus spalvinami pagal veiksmo rūšį (šuolis/ataka/abu).</target>
+          <target state="final">Takto tinklelio žymekliai bus spalvinami pagal veiksmo rūšį (šuolis/ataka/abu).</target>
         </trans-unit>
-        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly">
+        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly" approved="yes">
           <source>Basic Only</source>
-          <target>Tik paprastas</target>
+          <target state="final">Tik paprastas</target>
         </trans-unit>
-        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="yes">
           <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
 Other enemies colored based on enemy type.</source>
-          <target>Paprasti priešai nuspalvinti raudonai/žaliai pagal veiksmo rūšį (ataka prieš ataka+šuolis).
+          <target state="final">Paprasti priešai nuspalvinti raudonai/žaliai pagal veiksmo rūšį (ataka prieš ataka+šuolis).
 Kiti priešai nuspalvinti pagal priešų rūšį.</target>
         </trans-unit>
-        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
+        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="yes">
           <source>Basic enemies colored based on beat offset.
 Other enemies colored based on enemy type.</source>
-          <target>Paprasti priešai bus nuspalvinti pagal takto nuokrypį.
+          <target state="final">Paprasti priešai bus nuspalvinti pagal takto nuokrypį.
 Kiti priešai bus nuspalvinti pagal priešo rūšį.</target>
         </trans-unit>
-        <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description">
+        <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description" approved="yes">
           <source>All enemies colored based on beat offset.</source>
-          <target>Visi priešai nuspalvinti pagal takto nuokrypį.</target>
+          <target state="final">Visi priešai nuspalvinti pagal takto nuokrypį.</target>
         </trans-unit>
-        <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description">
+        <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description" approved="yes">
           <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
-          <target>Visi priešai nuspalvinti raudonai/žaliai pagal veiksmo rūšį (ataka prieš ataka+šuolis).</target>
+          <target state="final">Visi priešai nuspalvinti raudonai/žaliai pagal veiksmo rūšį (ataka prieš ataka+šuolis).</target>
         </trans-unit>
-        <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset">
+        <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset" approved="yes">
           <source>Beat Offset</source>
-          <target>Takto nuokrypis</target>
+          <target state="final">Takto nuokrypis</target>
         </trans-unit>
-        <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description">
+        <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description" approved="yes">
           <source>All rolling spikes are colored blue.</source>
-          <target>Visi riedantys spygliai nuspalvinti mėlynai.</target>
+          <target state="final">Visi riedantys spygliai nuspalvinti mėlynai.</target>
         </trans-unit>
-        <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description">
+        <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description" approved="yes">
           <source>Rolling spikes are colored according to beat offset.</source>
-          <target>Riedantys spygliai nuspalvinti pagal takto nuokrypį.</target>
+          <target state="final">Riedantys spygliai nuspalvinti pagal takto nuokrypį.</target>
         </trans-unit>
-        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
+        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="yes">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>Riedantys spygliai nuspalvinti mėlynai/žaliai pagal veiksmo rūšį (šuolis prieš šuolis+ataka).</target>
+          <target state="final">Riedantys spygliai nuspalvinti mėlynai/žaliai pagal veiksmo rūšį (šuolis prieš šuolis+ataka).</target>
         </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
+        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="yes">
           <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-          <target>Oro šuolio sparnai nuspalvinti mėlynai, skrydžio tako sparnai nuspalvinti žaliai.</target>
+          <target state="final">Oro šuolio sparnai nuspalvinti mėlynai, skrydžio tako sparnai nuspalvinti žaliai.</target>
         </trans-unit>
-        <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
+        <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="yes">
           <source>All wings are colored based on beat offset.</source>
-          <target>Visi sparnai nuspalvinti pagal takto nuokrypį.</target>
+          <target state="final">Visi sparnai nuspalvinti pagal takto nuokrypį.</target>
         </trans-unit>
-        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="yes">
           <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>Visi sparnai nuspalvinti mėlynai/žaliai pagal veiksmo rūšį (šuolis prieš šuolis+ataka).</target>
+          <target state="final">Visi sparnai nuspalvinti mėlynai/žaliai pagal veiksmo rūšį (šuolis prieš šuolis+ataka).</target>
         </trans-unit>
-        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
+        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen" approved="yes">
           <source>Alternate Green</source>
-          <target>Alternatyvi žalia</target>
+          <target state="final">Alternatyvi žalia</target>
         </trans-unit>
-        <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description">
+        <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description" approved="yes">
           <source>Use default color scheme for obstacles.</source>
-          <target>Naudoti numatytą spalvų schemą kliūtims.</target>
+          <target state="final">Naudoti numatytą spalvų schemą kliūtims.</target>
         </trans-unit>
-        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description">
+        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description" approved="yes">
           <source>Use alternate green color (less blue tinted).</source>
-          <target>Naudoti alternatyvią žalią spalvą (be mėlyno atspalvio).</target>
+          <target state="final">Naudoti alternatyvią žalią spalvą (be mėlyno atspalvio).</target>
         </trans-unit>
-        <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing">
+        <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing" approved="yes">
           <source>Enemy Spacing...</source>
-          <target>Atstumas tarp priešų...</target>
+          <target state="final">Atstumas tarp priešų...</target>
         </trans-unit>
-        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions">
+        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="yes">
           <source>Companions</source>
-          <target>Kompanionai</target>
+          <target state="final">Kompanionai</target>
         </trans-unit>
-        <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username">
+        <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username" approved="yes">
           <source>Username: {0}</source>
-          <target>Vartotojo vardas: {0}</target>
+          <target state="final">Vartotojo vardas: {0}</target>
         </trans-unit>
-        <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid">
+        <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid" approved="yes">
           <source>User ID: {0}</source>
-          <target>Vartotojo ID: {0}</target>
+          <target state="final">Vartotojo ID: {0}</target>
         </trans-unit>
-        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat">
+        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat" approved="yes">
           <source>Invalid email format. Please enter a valid email address.</source>
-          <target>Netinkamas el. pašto formatas. Prašome įvesti tinkamą pašto adresą.</target>
+          <target state="final">Netinkamas el. pašto formatas. Prašome įvesti tinkamą pašto adresą.</target>
         </trans-unit>
-        <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished">
+        <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished" approved="yes">
           <source>This level has never been published to mod.io.</source>
-          <target>Šis lygis niekada nebuvo paviešintas į mod.io.</target>
+          <target state="final">Šis lygis niekada nebuvo paviešintas į mod.io.</target>
         </trans-unit>
-        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching">
+        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching" approved="yes">
           <source>Retrieving level data from mod.io...</source>
-          <target>Išgaunami lygio duomenys iš mod.io...</target>
+          <target state="final">Išgaunami lygio duomenys iš mod.io...</target>
         </trans-unit>
-        <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound">
+        <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound" approved="yes">
           <source>This level has mod.io ID {0} but was not found on mod.io.</source>
-          <target>Šis lygis turi {0} mod.io ID tačiau nebuvo rastas mod.io.</target>
+          <target state="final">Šis lygis turi {0} mod.io ID tačiau nebuvo rastas mod.io.</target>
         </trans-unit>
-        <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription">
+        <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription" approved="yes">
           <source>Level ID: {0}
 
 Author: {1}
 
 Last updated: {2}</source>
-          <target>Lygio ID: {0}
+          <target state="final">Lygio ID: {0}
 
 Autorius: {1}
 
 Atnaujinta: {2}</target>
         </trans-unit>
-        <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu">
+        <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu" approved="yes">
           <source>Publish to mod.io...</source>
-          <target>Viešinti į mod.io...</target>
+          <target state="final">Viešinti į mod.io...</target>
         </trans-unit>
-        <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile">
+        <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile" approved="yes">
           <source>Export as .rqzip</source>
-          <target>Eksportuoti kaip .rqzip</target>
+          <target state="final">Eksportuoti kaip .rqzip</target>
         </trans-unit>
-        <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail">
+        <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail" approved="yes">
           <source>Login/Register with Email</source>
-          <target>Prisijungi/Registruotis el. paštu</target>
+          <target state="final">Prisijungi/Registruotis el. paštu</target>
         </trans-unit>
-        <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam">
+        <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam" approved="yes">
           <source>Login/Register with Steam</source>
-          <target>Prisijungti/Registruotis per Steam</target>
+          <target state="final">Prisijungti/Registruotis per Steam</target>
         </trans-unit>
-        <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout">
+        <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout" approved="yes">
           <source>Logout</source>
-          <target>Atsijungti</target>
+          <target state="final">Atsijungti</target>
         </trans-unit>
-        <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit">
+        <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit" approved="yes">
           <source>Submit</source>
-          <target>Pateikti</target>
+          <target state="final">Pateikti</target>
         </trans-unit>
-        <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published">
+        <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published" approved="yes">
           <source>This level has previously been published on mod.io.</source>
-          <target>Šis lygis niekada nebuvo paviešintas į mod.io.</target>
+          <target state="final">Šis lygis seniau buvo paviešintas į mod.io.</target>
         </trans-unit>
-        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description">
+        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description" approved="yes">
           <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
-          <target>Įveskite savo el. pašto adresą kuriuo bus išsiųstas saugumo kodas, skirtas mod.io paskyros susikūrimui ar prisijungimui.</target>
+          <target state="final">Įveskite savo el. pašto adresą kuriuo bus išsiųstas saugumo kodas, skirtas mod.io paskyros susikūrimui ar prisijungimui.</target>
         </trans-unit>
-        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description">
+        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description" approved="yes">
           <source>Enter the security code that was sent to {0}.</source>
-          <target>Įveskite saugumo kodą, kuris buvo išsiųstas {0}.</target>
+          <target state="final">Įveskite saugumo kodą, kuris buvo išsiųstas {0}.</target>
         </trans-unit>
-        <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout">
+        <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout" approved="yes">
           <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
 
 You need an account in order to publish levels to mod.io.</source>
-          <target>&lt;sprite name="fonticons_8"&gt; Jūs nesate prisijungę prie mod.io.
+          <target state="final">&lt;sprite name="fonticons_8"&gt; Jūs nesate prisijungę prie mod.io.
 
 Norint viešinti lygius į mod.io jums reikia paskyros.</target>
         </trans-unit>
-        <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin">
+        <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin" approved="yes">
           <source>You are logged into mod.io as:</source>
-          <target>Jūs prie mod.io esate prisijungęs kaip:</target>
+          <target state="final">Jūs prie mod.io esate prisijungęs kaip:</target>
         </trans-unit>
-        <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount">
+        <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount" approved="yes">
           <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
-          <target>&lt;sprite name="fonticons_8"&gt; Ši paskyra nėra dabartinio lygio autorius ant mod.io.</target>
+          <target state="final">&lt;sprite name="fonticons_8"&gt; Ši paskyra nėra dabartinio lygio autorius ant mod.io.</target>
         </trans-unit>
-        <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount">
+        <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="yes">
           <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
-          <target>&lt;sprite name="fonticons_8"&gt; Ši paskyra yra dabartinio lygio autorius ant mod.io.</target>
+          <target state="final">&lt;sprite name="fonticons_8"&gt; Ši paskyra yra dabartinio lygio autorius ant mod.io.</target>
         </trans-unit>
-        <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile">
+        <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile" approved="yes">
           <source>View profile on web</source>
-          <target>Peržiūrėti profilį internete</target>
+          <target state="final">Peržiūrėti profilį internete</target>
         </trans-unit>
-        <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio">
+        <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio" approved="yes">
           <source>View on mod.io</source>
-          <target>Peržiūrėti per mod.io</target>
+          <target state="final">Peržiūrėti per mod.io</target>
         </trans-unit>
-        <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio">
+        <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio" approved="yes">
           <source>Publish to mod.io</source>
-          <target>Viešinti į mod.io</target>
+          <target state="final">Viešinti į mod.io</target>
         </trans-unit>
-        <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio">
+        <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio" approved="yes">
           <source>Publish new version</source>
-          <target>Viešinti naują versiją</target>
+          <target state="final">Viešinti naują versiją</target>
         </trans-unit>
-        <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails">
+        <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails" approved="yes">
           <source>Account details...</source>
-          <target>Paskyros duomenys...</target>
+          <target state="final">Paskyros duomenys...</target>
         </trans-unit>
-        <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister">
+        <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister" approved="yes">
           <source>Login/Register...</source>
-          <target>Prisijungti/Registruotis...</target>
+          <target state="final">Prisijungti/Registruotis...</target>
         </trans-unit>
-        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction">
+        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction" approved="yes">
           <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
 
 Login or register an account to publish levels to mod.io.</source>
-          <target>mod.io yra nemokama paslauga, skirta Rhythm Quest lygių platinimui.
+          <target state="final">mod.io yra nemokama paslauga, skirta Rhythm Quest lygių platinimui.
 
 Prisijunkite arba prisiregistruokite kad galėtumėte viešinti lygius į mod.io.</target>
         </trans-unit>
-        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode">
+        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="yes">
           <source>Invalid security code.
 Check the code and try again.</source>
-          <target>Netinkamas saugumo kodas.
+          <target state="final">Netinkamas saugumo kodas.
 Patikrinkite jį ir bandykite iš naujo.</target>
         </trans-unit>
-        <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio">
+        <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio" approved="yes">
           <source>Publishing to mod.io</source>
-          <target>Viešinama į mod.io</target>
+          <target state="final">Viešinama į mod.io</target>
         </trans-unit>
-        <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile">
+        <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile" approved="yes">
           <source>Creating mod.io mod profile...</source>
-          <target>Kuriamas mod.io modo profilis...</target>
+          <target state="final">Kuriamas mod.io mod'o profilis...</target>
         </trans-unit>
-        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid">
+        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="yes">
           <source>Got mod.io level ID: {0}</source>
-          <target>Gautas mod.io lygio ID: {0}</target>
+          <target state="final">Gautas mod.io lygio ID: {0}</target>
         </trans-unit>
-        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
+        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="yes">
           <source>Packaging level data...</source>
-          <target>Pakuojami lygio duomenys...</target>
+          <target state="final">Pakuojami lygio duomenys...</target>
         </trans-unit>
-        <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel">
+        <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel" approved="yes">
           <source>Uploading level data...</source>
-          <target>Keliami lygio duomenys...</target>
+          <target state="final">Keliami lygio duomenys...</target>
         </trans-unit>
-        <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess">
+        <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess" approved="yes">
           <source>Successfully published level!</source>
-          <target>Lygis sėkmingai paviešintas!</target>
+          <target state="final">Lygis sėkmingai paviešintas!</target>
         </trans-unit>
-        <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess">
+        <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess" approved="yes">
           <source>Successfully updated level!</source>
-          <target>Lygis sėkmingai atnaujintas!</target>
+          <target state="final">Lygis sėkmingai atnaujintas!</target>
         </trans-unit>
-        <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction">
+        <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction" approved="yes">
           <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
-          <target>Paviešinkite šį lygį į mod.io kad pasidalintumėte juo su kitais Rhythm Quest žaidėjais!</target>
+          <target state="final">Paviešinkite šį lygį į mod.io kad pasidalintumėte juo su kitais „Rhythm Quest“ žaidėjais!</target>
         </trans-unit>
-        <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid">
+        <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid" approved="yes">
           <source>Saving new level ID into .rqe file...</source>
-          <target>Išsaugomas naujo lygio ID į .rqe failą...</target>
+          <target state="final">Išsaugomas naujo lygio ID į .rqe failą...</target>
         </trans-unit>
-        <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout">
+        <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout" approved="yes">
           <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
-          <target>&lt;sprite name="fonticons_8"&gt; Neprisijungta</target>
+          <target state="final">&lt;sprite name="fonticons_8"&gt; Neprisijungta</target>
         </trans-unit>
-        <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin">
+        <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin" approved="yes">
           <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
-          <target>&lt;sprite name="fonticons_10"&gt; Prisijungta kaip {0}</target>
+          <target state="final">&lt;sprite name="fonticons_10"&gt; Prisijungta kaip {0}</target>
         </trans-unit>
         <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="yes">
           <source>Updating mod.io mod profile...</source>
           <target state="final">Atnaujinamas mod.io mod'o profilis...</target>
         </trans-unit>
-        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="yes">
           <source>Spellbound Nebula</source>
-          <target>Spartus žvaigždynas</target>
+          <target state="final">Užburta migla</target>
         </trans-unit>
-        <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
+        <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines" approved="yes">
           <source>Coin Outlines</source>
-          <target>Monetų kontūrai</target>
+          <target state="final">Monetų kontūrai</target>
         </trans-unit>
-        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled">
+        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled" approved="yes">
           <source>(Default) Already-collected coins do not show on respawn.</source>
-          <target>(Numatyta) Jau surinktos monetos nerodomos atsiradus iš naujo.</target>
+          <target state="final">(Numatyta) Jau surinktos monetos nerodomos atsiradus iš naujo.</target>
         </trans-unit>
-        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled">
+        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled" approved="yes">
           <source>Shows faint coin outlines on respawn for already-collected coins.</source>
-          <target>Rodo neryškius monetų kontūrus jau surinktoms monetoms atsiradus iš naujo.</target>
+          <target state="final">Rodo neryškius monetų kontūrus jau surinktoms monetoms atsiradus iš naujo.</target>
         </trans-unit>
-        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
+        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid" approved="yes">
           <source>Steam ID: {0}</source>
-          <target>Steam ID: {0}</target>
+          <target state="final">Steam ID: {0}</target>
         </trans-unit>
-        <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description">
+        <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description" approved="yes">
           <source>Register/login to mod.io using the following active Steam account?</source>
-          <target>Registruotis/prisijungti prie mod.io naudojant šią Steam paskyrą?</target>
+          <target state="final">Registruotis/prisijungti prie mod.io naudojant šią Steam paskyrą?</target>
         </trans-unit>
-        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm">
+        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm" approved="yes">
           <source>Confirm</source>
-          <target>Patvirtinti</target>
+          <target state="final">Patvirtinti</target>
         </trans-unit>
-        <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication">
+        <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication" approved="yes">
           <source>Error passing Steam authentication to mod.io.</source>
-          <target>Klaida bandant autentifikuotis per Steam į mod.io.</target>
+          <target state="final">Klaida bandant autentifikuotis per Steam į mod.io.</target>
         </trans-unit>
-        <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree">
+        <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree" approved="yes">
           <source>I Agree</source>
-          <target>Aš sutinku</target>
+          <target state="final">Aš sutinku</target>
         </trans-unit>
-        <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio">
+        <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio" approved="yes">
           <source>Visit mod.io page</source>
-          <target>Aplankyti mod.io puslapį</target>
+          <target state="final">Aplankyti mod.io puslapį</target>
         </trans-unit>
-        <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade">
+        <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="yes">
           <source>Fade out</source>
-          <target>Išblukimas</target>
+          <target state="final">Išblukimas</target>
         </trans-unit>
-        <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings">
+        <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings" approved="yes">
           <source>Music Export Settings</source>
-          <target>Muzikos eksportavimo nustatymai</target>
+          <target state="final">Muzikos eksportavimo nustatymai</target>
         </trans-unit>
-        <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem">
+        <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="yes">
           <source>Fix</source>
-          <target>Sutaisyti</target>
+          <target state="final">Sutaisyti</target>
         </trans-unit>
-        <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems">
+        <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems" approved="yes">
           <source>No problems found!</source>
-          <target>Nerasta jokių problemų!</target>
+          <target state="final">Nerasta jokių problemų!</target>
         </trans-unit>
-        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
+        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="yes">
           <source>Song name/artist and chart author needs to be filled out</source>
-          <target>Dainos pavadinimo/autoriaus ir lentelės autoriaus laukeliai turi būti užpildyti</target>
+          <target state="final">Dainos pavadinimo/autoriaus ir lentelės autoriaus laukeliai turi būti užpildyti</target>
         </trans-unit>
-        <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
+        <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription" approved="yes">
           <source>Level is missing a Description</source>
-          <target>Lygiui trūksta aprašymo</target>
+          <target state="final">Lygiui trūksta aprašymo</target>
         </trans-unit>
-        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
+        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic" approved="yes">
           <source>Level has no music audio</source>
-          <target>Lygis neturi jokios muzikos</target>
+          <target state="final">Lygis neturi jokios muzikos</target>
         </trans-unit>
-        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
+        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement" approved="yes">
           <source>Music export options need to be set</source>
-          <target>Muzikos eksportavimo nustatymai turi būti nurodyti</target>
+          <target state="final">Muzikos eksportavimo nustatymai turi būti nurodyti</target>
         </trans-unit>
-        <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
+        <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded" approved="yes">
           <source>Music audio will not be included in export</source>
-          <target>Muzikos garsas nebus įtrauktas eksportuojant</target>
+          <target state="final">Muzikos garsas nebus įtrauktas eksportuojant</target>
         </trans-unit>
-        <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder">
+        <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder" approved="yes">
           <source>(name of the music track)</source>
-          <target>(garso takelio pavadinimas)</target>
+          <target state="final">(garso takelio pavadinimas)</target>
         </trans-unit>
-        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder">
+        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="yes">
           <source>(credit the song's artist)</source>
-          <target>(paminėkite dainos autorių)</target>
+          <target state="final">(paminėkite dainos autorių)</target>
         </trans-unit>
-        <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder">
+        <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="yes">
           <source>(your name)</source>
-          <target>(jūsų vardas)</target>
+          <target state="final">(jūsų vardas)</target>
         </trans-unit>
-        <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder">
+        <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder" approved="yes">
           <source>(enter notes or details about your level here)</source>
-          <target>(įveskite detales ar užrašus apie savo lygį čia)</target>
+          <target state="final">(įveskite detales ar užrašus apie savo lygį čia)</target>
         </trans-unit>
-        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist">
+        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="yes">
           <source>Export Checklist</source>
-          <target>Eksportavimo sąrašas</target>
+          <target state="final">Eksportavimo sąrašas</target>
         </trans-unit>
-        <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
+        <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage" approved="yes">
           <source>No banner image provided, default will be used</source>
-          <target>Banerio paveikslėlis nenumatytas, bus naudojamas numatytasis</target>
+          <target state="final">Banerio paveikslėlis nenumatytas, bus naudojamas numatytasis</target>
         </trans-unit>
-        <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
+        <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur" approved="yes">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
-          <target>Pritaiko neryškumo efektą fonui jog jis būtų mažiau matomas.</target>
+          <target state="final">Pritaiko neryškumo efektą fonui jog jis būtų mažiau matomas.</target>
         </trans-unit>
-        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
+        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="yes">
           <source>Mods and Assists</source>
-          <target>Modai ir pagalba</target>
+          <target state="final">Modai ir pagalba</target>
         </trans-unit>
-        <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
+        <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists" approved="yes">
           <source>Assists...</source>
-          <target>Pagalba...</target>
+          <target state="final">Pagalba...</target>
         </trans-unit>
-        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
+        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description" approved="yes">
           <source>Assist features that can help with difficult gameplay sections.</source>
-          <target>Pagalbinės funkcijos kurios gali padėti su sunkesnėmis žaidimo vietomis.</target>
+          <target state="final">Pagalbinės funkcijos kurios gali padėti su sunkesnėmis žaidimo vietomis.</target>
         </trans-unit>
-        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
+        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview" approved="yes">
           <source>Track Preview</source>
-          <target>Trasos peržiūra</target>
+          <target state="final">Trasos peržiūra</target>
         </trans-unit>
-        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
+        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode" approved="yes">
           <source>Practice Mode</source>
-          <target>Praktikos režimas</target>
+          <target state="final">Praktikos režimas</target>
         </trans-unit>
-        <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats">
+        <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats" approved="yes">
           <source>Temporary Cheats...</source>
-          <target>Trumpalaikės sukčiavimo komandos...</target>
+          <target state="final">Trumpalaikės sukčiavimo komandos...</target>
         </trans-unit>
-        <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description">
+        <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="yes">
           <source>Repeatedly practice the current section with various assists.</source>
-          <target>Pakartotinai praktikuokitės dabartinę vietą su įvairiomis pagalbinėmis funkcijomis.</target>
+          <target state="final">Pakartotinai praktikuokitės dabartinę vietą su įvairiomis pagalbinėmis funkcijomis.</target>
         </trans-unit>
-        <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description">
+        <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="yes">
           <source>Allows you to scroll left and right to see the rest of the track.</source>
-          <target>Leidžia slinkti kairėn ar dešinėn kad pamatyti likusią trasos dalį.</target>
+          <target state="final">Leidžia slinkti kairėn ar dešinėn kad pamatyti likusią trasos dalį.</target>
         </trans-unit>
-        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description">
+        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="yes">
           <source>Options for making the current section easier.</source>
-          <target>Nustatymai palengvinantys dabartinę vietą.</target>
+          <target state="final">Nustatymai palengvinantys dabartinę vietą.</target>
         </trans-unit>
-        <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats">
+        <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats" approved="yes">
           <source>(These settings will reset after the current section is complete)</source>
-          <target>(Šie nustatymai pradings įveikus dabartinę vietą)</target>
+          <target state="final">(Šie nustatymai pradings įveikus dabartinę vietą)</target>
         </trans-unit>
-        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt">
+        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt" approved="yes">
           <source>It looks like you're having trouble with this section.
 Would you like to enable game assist features?</source>
-          <target>Atrodo jog jums sunku su šia vieta.
+          <target state="final">Atrodo jog jums sunku su šia vieta.
 Ar norėtumėte įjungti pagalbines žaidimo funkcijas?</target>
         </trans-unit>
-        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="yes">
           <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target>Jei norėsite įjungti pagalbines funkcijas vėliau, tai galite padaryti "Modai ir pagalbos" meniu.</target>
+          <target state="final">Jei norėsite įjungti pagalbines funkcijas vėliau, tai galite padaryti "Modai ir pagalbos" meniu.</target>
         </trans-unit>
-        <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
+        <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="yes">
           <source>Practice Mode Settings</source>
-          <target>Praktikos režimo nustatymai</target>
+          <target state="final">Praktikos režimo nustatymai</target>
         </trans-unit>
-        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
+        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="yes">
           <source>Track Freezing</source>
-          <target>Trasos sustabdymas</target>
+          <target state="final">Trasos sustabdymas</target>
         </trans-unit>
-        <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride">
+        <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride" approved="yes">
           <source>(Unchanged)</source>
-          <target>(nepakeista)</target>
+          <target state="final">(nepakeista)</target>
         </trans-unit>
-        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="yes">
           <source>Piano Sonata No. 16 in C Major
 I. Allegro</source>
-          <target>"Piano Sonata No. 16 in C Major
+          <target state="final">"Piano Sonata No. 16 in C Major
 I. Allegro"</target>
         </trans-unit>
-        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="yes">
           <source>Eine kleine Nachtmusik
 I. Allegro</source>
-          <target>"Eine kleine Nachtmusik
-I. Allegro"</target>
+          <target state="final">„Eine kleine Nachtmusik
+I. Allegro“</target>
         </trans-unit>
-        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="yes">
           <source>Song of the Sea (Expert Mix)</source>
-          <target>"Song of the Sea (Expert Mix)"</target>
+          <target state="final">„Song of the Sea (Expert Mix)“</target>
         </trans-unit>
-        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
+        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="yes">
           <source>Track freezing is disabled.</source>
-          <target>Trasos sustabdymas yra išjungtas.</target>
+          <target state="final">Trasos sustabdymas yra išjungtas.</target>
         </trans-unit>
-        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled">
+        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled" approved="yes">
           <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
-          <target>Trasos sustabdymas yra išjungtas. Lygio slinkimas automatiškai sustos tam, kad sulaukti teisingos įvesties.</target>
+          <target state="final">Trasos sustabdymas yra išjungtas. Lygio slinkimas automatiškai sustos tam, kad sulaukti teisingos įvesties.</target>
         </trans-unit>
-        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
+        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard" approved="yes">
           <source>Press &lt;- and -&gt; to scroll.
 Press Enter to return.</source>
-          <target>Spauskite &lt;- ir -&gt; kad slinkti.
+          <target state="final">Spauskite &lt;- ir -&gt; kad slinkti.
 Spauskite Enter kad sugrįžti.</target>
         </trans-unit>
-        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
+        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse" approved="yes">
           <source>Click and drag to scroll left/right.</source>
-          <target>Spauskite ir tempkite kad slinkti kairėn/dešinėn.</target>
+          <target state="final">Spauskite ir tempkite kad slinkti kairėn/dešinėn.</target>
         </trans-unit>
-        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
+        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="yes">
           <source>Tap and drag to scroll left/right.</source>
-          <target>Bakstelėkite ir tempkite kad slinkti kairėn/dešinėn.</target>
+          <target state="final">Bakstelėkite ir tempkite kad slinkti kairėn/dešinėn.</target>
         </trans-unit>
-        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
+        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="yes">
           <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
 Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
-          <target>Naudokite &lt;sprite name="controller_icons_45"&gt; slinkimui.
+          <target state="final">Naudokite &lt;sprite name="controller_icons_45"&gt; slinkimui.
 Spauskite &lt;sprite name="controller_icons_60"&gt; kad sugrįžti.</target>
         </trans-unit>
-        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
+        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox" approved="yes">
           <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
 Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
-          <target>Naudokite &lt;sprite name="controller_icons_79"&gt; slinkimui.
+          <target state="final">Naudokite &lt;sprite name="controller_icons_79"&gt; slinkimui.
 Spauskite &lt;sprite name="controller_icons_100"&gt; kad sugrįžti.</target>
         </trans-unit>
-        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation">
+        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation" approved="yes">
           <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
 Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
-          <target>Naudokite &lt;sprite name="controller_icons_16"&gt; slinkimui.
+          <target state="final">Naudokite &lt;sprite name="controller_icons_16"&gt; slinkimui.
 Spauskite &lt;sprite name="controller_icons_37"&gt; kad sugrįžti.</target>
         </trans-unit>
-        <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description">
+        <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="yes">
           <source>Adjust in-game controls.</source>
-          <target>Pakeisti žaidimo valdymą.</target>
+          <target state="final">Pakeisti žaidimo valdymą.</target>
         </trans-unit>
-        <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties">
+        <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties" approved="yes">
           <source>Properties</source>
-          <target>Nuostatos</target>
+          <target state="final">Nuostatos</target>
         </trans-unit>
-        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
+        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level" approved="yes">
           <source>Level...</source>
-          <target>Lygis...</target>
+          <target state="final">Lygis...</target>
         </trans-unit>
-        <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
+        <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="yes">
           <source>Grid Snap</source>
-          <target>Tinklelio fiksavimas</target>
+          <target state="final">Tinklelio fiksavimas</target>
         </trans-unit>
-        <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine">
+        <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine" approved="yes">
           <source>Fine</source>
-          <target>Tikslus</target>
+          <target state="final">Tikslus</target>
         </trans-unit>
-        <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers">
+        <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="yes">
           <source>Helpers</source>
-          <target>Pagalbininkai</target>
+          <target state="final">Pagalbininkai</target>
         </trans-unit>
-        <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled">
+        <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled" approved="yes">
           <source>Don't override settings for visual/audio aids.</source>
-          <target>Neperrašyti nustatymų, skirtų vaizdo/garso pagalbinėm priemonėm.</target>
+          <target state="final">Neperrašyti nustatymų, skirtų vaizdo/garso pagalbinėm priemonėm.</target>
         </trans-unit>
-        <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled">
+        <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled" approved="yes">
           <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
-          <target>Priverstinai įjungia vaizdo/garso pagalbines priemones, kaip metronomą ir įvesčių laiko juostą.</target>
+          <target state="final">Priverstinai įjungia vaizdo/garso pagalbines priemones, kaip metronomą ir įvesčių laiko juostą.</target>
         </trans-unit>
-        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
+        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode" approved="yes">
           <source>Exit Practice</source>
-          <target>Išeiti iš praktikos</target>
+          <target state="final">Išeiti iš praktikos</target>
         </trans-unit>
-        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
+        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard" approved="yes">
           <source>Practice Mode
 Press Esc for settings</source>
-          <target>Praktikos režimas
+          <target state="final">Praktikos režimas
 Spauskite Esc nustatymams</target>
         </trans-unit>
-        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
+        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse" approved="yes">
           <source>Practice Mode</source>
-          <target>Praktikos režimas</target>
+          <target state="final">Praktikos režimas</target>
         </trans-unit>
-        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
+        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch" approved="yes">
           <source>Practice Mode</source>
-          <target>Praktikos režimas</target>
+          <target state="final">Praktikos režimas</target>
         </trans-unit>
-        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
+        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation" approved="yes">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
-          <target>Praktikos režimas
+          <target state="final">Praktikos režimas
 Spauskite &lt;sprite name="controller_icons_100"&gt; nustatymams</target>
         </trans-unit>
-        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
+        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch" approved="yes">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
-          <target>Praktikos režimas
+          <target state="final">Praktikos režimas
 Spauskite &lt;sprite name="controller_icons_65"&gt; nustatymams</target>
         </trans-unit>
-        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
+        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox" approved="yes">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
-          <target>Praktikos režimas
+          <target state="final">Praktikos režimas
 Spauskite &lt;sprite name="controller_icons_97"&gt; nustatymams</target>
         </trans-unit>
-        <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
+        <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings" approved="yes">
           <source>Practice Settings</source>
-          <target>Praktikos režimo nustatymai</target>
+          <target state="final">Praktikos režimo nustatymai</target>
         </trans-unit>
-        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
+        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="yes">
           <source>Quantum Orbit</source>
-          <target>Kvantinė orbita</target>
+          <target state="final">Kvantinė orbita</target>
         </trans-unit>
-        <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
+        <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="yes">
           <source>Additional Settings...</source>
-          <target>Papildomi nustatymai...</target>
+          <target state="final">Papildomi nustatymai...</target>
         </trans-unit>
-        <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description">
+        <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description" approved="yes">
           <source>Edit additional audio settings.</source>
-          <target>Redaguoti papildomus garso nustatymus.</target>
+          <target state="final">Redaguoti papildomus garso nustatymus.</target>
         </trans-unit>
-        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx">
+        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="yes">
           <source>Coin Sfx</source>
-          <target>Monetų garsas</target>
+          <target state="final">Monetų garsas</target>
         </trans-unit>
-        <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
+        <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled" approved="yes">
           <source>Coin collection is silent.</source>
-          <target>Monetų rinkimas yra tylus.</target>
+          <target state="final">Monetų rinkimas yra tylus.</target>
         </trans-unit>
-        <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled">
+        <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled" approved="yes">
           <source>(Default) Plays a chime whenever a coin is collected.</source>
-          <target>(Numatyta) Kiekvieną kartą surinkus monetą skleidžiamas garsas.</target>
+          <target state="final">(Numatyta) Kiekvieną kartą surinkus monetą skleidžiamas garsas.</target>
         </trans-unit>
-        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch">
+        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch" approved="yes">
           <source>Rumble...</source>
-          <target>Drebėjimas...</target>
+          <target state="final">Drebėjimas...</target>
         </trans-unit>
-        <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch">
+        <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch" approved="yes">
           <source>Configure Controls...</source>
-          <target>Keisti valdymo nustatymus...</target>
+          <target state="final">Keisti valdymo nustatymus...</target>
         </trans-unit>
-        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
+        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description" approved="yes">
           <source>Configure controller bindings.</source>
-          <target>Keisti pultelio nustatymus.</target>
+          <target state="final">Keisti pultelio nustatymus.</target>
         </trans-unit>
-        <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
+        <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch" approved="yes">
           <source>Controller Config</source>
-          <target>Pultelio konfigūracija</target>
+          <target state="final">Pultelio konfigūracija</target>
         </trans-unit>
-        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
+        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default" approved="yes">
           <source>Use default controller bindings.</source>
-          <target>Naudoti numatytus pultelio nustatymus.</target>
+          <target state="final">Naudoti numatytus pultelio nustatymus.</target>
         </trans-unit>
-        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
+        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom" approved="yes">
           <source>Use custom controller bindings.</source>
-          <target>Naudoti pakeistus pultelio nustatymus.</target>
+          <target state="final">Naudoti pakeistus pultelio nustatymus.</target>
         </trans-unit>
-        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
+        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="yes">
           <source>Flower Fang (Expert Mix)</source>
-          <target>"Flower Fang (Expert Mix)"</target>
+          <target state="final">„Flower Fang (Expert Mix)“</target>
         </trans-unit>
-        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="yes">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11</source>
-          <target>"Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11"</target>
+          <target state="final">„Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11“</target>
         </trans-unit>
-        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
+        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame" approved="yes">
           <source>Controls...</source>
-          <target>Valdymas...</target>
+          <target state="final">Valdymas...</target>
         </trans-unit>
-        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="yes">
           <source>Midnight Moon</source>
-          <target>"Midnight Moon"</target>
+          <target state="final">„Midnight Moon“</target>
         </trans-unit>
       </group>
     </body>
@@ -3383,9 +3381,9 @@ from Piano Sonata No. 11"</target>
         <source>Return to the main menu.</source>
         <target state="final">Grįžti į pagrindinį meniu.</target>
       </trans-unit>
-      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="yes">
         <source>Skip Tutorial</source>
-        <target state="translated">Praleisti įžangą</target>
+        <target state="final">Praleisti įžangą</target>
       </trans-unit>
     </body>
   </file>
