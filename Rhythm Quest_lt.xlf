@@ -360,147 +360,147 @@
           <source>River Crossing</source>
           <target state="final">Upės kirtimas</target>
         </trans-unit>
-        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="yes">
           <source>Mystic Forest</source>
-          <target>Paslaptingas miškas</target>
+          <target state="final">Paslaptingas miškas</target>
         </trans-unit>
-        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="yes">
           <source>Skyward Summit</source>
-          <target>Dangaus viršūnė</target>
+          <target state="final">Dangaus viršūnė</target>
         </trans-unit>
-        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="yes">
           <source>Winged Airways</source>
-          <target>Sparnuoti dangaus takai</target>
+          <target state="final">Sparnuoti dangaus takai</target>
         </trans-unit>
-        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="yes">
           <source>Twilight Flight</source>
-          <target>Saulėlydžio skrydis</target>
+          <target state="final">Saulėlydžio skrydis</target>
         </trans-unit>
-        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
+        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits" approved="yes">
           <source>a game by DDRKirby(ISQ)</source>
-          <target>žaidimas sukurtas DDRKirby(ISQ)</target>
+          <target state="final">žaidimas sukurtas DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
+        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2" approved="yes">
           <source>Programming: DDRKirby(ISQ)
 Design: DDRKirby(ISQ)
 Music: DDRKirby(ISQ)
 Sfx: DDRKirby(ISQ)
 Graphics: DDRKirby(ISQ)</source>
-          <target>Programavimas: DDRKirby(ISQ)
+          <target state="final">Programavimas: DDRKirby(ISQ)
 Dizainas: DDRKirby(ISQ)
 Muzika: DDRKirby(ISQ)
 Sfx: DDRKirby(ISQ)
 Grafika: DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3">
+        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3" approved="yes">
           <source>Moral Support: fuzzybunny2</source>
-          <target>Moralinė pagalba: fuzzybunny2</target>
+          <target state="final">Moralinė pagalba: fuzzybunny2</target>
         </trans-unit>
-        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits">
+        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits" approved="yes">
           <source>Credits</source>
-          <target>Kūrėjai</target>
+          <target state="final">Kūrėjai</target>
         </trans-unit>
-        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume">
+        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="yes">
           <source>Resume</source>
-          <target>Tęsti</target>
+          <target state="final">Tęsti</target>
         </trans-unit>
-        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused">
+        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused" approved="yes">
           <source>Paused</source>
-          <target>Pristabdyta</target>
+          <target state="final">Pristabdyta</target>
         </trans-unit>
-        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete" approved="yes">
           <source>Level Complete</source>
-          <target>Lygis įvykdytas</target>
+          <target state="final">Lygis pereitas</target>
         </trans-unit>
-        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
+        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language" approved="yes">
           <source>Language</source>
-          <target>Kalba</target>
+          <target state="final">Kalba</target>
         </trans-unit>
-        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked">
+        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="yes">
           <source>(Locked)</source>
-          <target>(Užrakinta)</target>
+          <target state="final">(Užrakinta)</target>
         </trans-unit>
-        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols">
+        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols" approved="yes">
           <source>Control Positioning</source>
-          <target>Valdymo padėtis</target>
+          <target state="final">Valdymo padėtis</target>
         </trans-unit>
-        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
+        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="yes">
           <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
-          <target>(Numatyta) Spauskite kairę ekrano pusę tam, kad šokti, dešinę tam, kad pulti.</target>
+          <target state="final">(Numatyta) Spauskite kairę ekrano pusę tam, kad šokti, dešinę tam, kad pulti.</target>
         </trans-unit>
-        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled">
+        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="yes">
           <source>Tap left half of screen to attack, tap right half to jump.</source>
-          <target>Spauskite kairę ekrano pusę tam, kad pulti, dešinę tam, kad šokti.</target>
+          <target state="final">Spauskite kairę ekrano pusę tam, kad pulti, dešinę tam, kad šokti.</target>
         </trans-unit>
-        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="yes">
           <source>Jump</source>
-          <target>Šokti</target>
+          <target state="final">Šokti</target>
         </trans-unit>
-        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack" approved="yes">
           <source>Attack</source>
-          <target>Pulti</target>
+          <target state="final">Pulti</target>
         </trans-unit>
-        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="yes">
           <source>Press a key</source>
-          <target>Spauskite klavišą</target>
+          <target state="final">Spauskite klavišą</target>
         </trans-unit>
-        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description" approved="yes">
           <source>Select a key to use for &lt;Attack&gt;.</source>
-          <target>Pasirinkite klavišą, skirtą &lt;Attack&gt;.</target>
+          <target state="final">Pasirinkite klavišą, skirtą &lt;Attack&gt;.</target>
         </trans-unit>
-        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description" approved="yes">
           <source>Select a key to use for &lt;Jump&gt;.</source>
-          <target>Pasirinkite klavišą, skirtą &lt;Jump&gt;.</target>
+          <target state="final">Pasirinkite klavišą, skirtą &lt;Jump&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
+        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description" approved="yes">
           <source>Resets key bindings to their defaults.</source>
-          <target>Atstato klavišų susiejimus į numatytus.</target>
+          <target state="final">Atstato klavišų susiejimus į numatytus.</target>
         </trans-unit>
-        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols">
+        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols" approved="yes">
           <source>Mouse Controls</source>
-          <target>Pelės valdymas</target>
+          <target state="final">Pelės valdymas</target>
         </trans-unit>
-        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
+        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Apversta</target>
+          <target state="final">Apversta</target>
         </trans-unit>
-        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="yes">
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
-          <target>Kairysis klavišas skirtas &lt;Jump&gt;. Dešinysis skirtas &lt;Attack&gt;.</target>
+          <target state="final">Kairysis klavišas skirtas &lt;Jump&gt;. Dešinysis skirtas &lt;Attack&gt;.</target>
         </trans-unit>
-        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled" approved="yes">
           <source>In-game mouse controls are disabled.</source>
-          <target>Žaidimo valdymas pele yra išjungtas.</target>
+          <target state="final">Žaidimo valdymas pele yra išjungtas.</target>
         </trans-unit>
-        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled" approved="yes">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
-          <target>Dešinysis klavišas skirtas &lt;Jump&gt;. Kairysis skirtas &lt;Attack&gt;.</target>
+          <target state="final">Dešinysis klavišas skirtas &lt;Jump&gt;. Kairysis skirtas &lt;Attack&gt;.</target>
         </trans-unit>
-        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
+        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata" approved="yes">
           <source>Reset Game Data</source>
-          <target>Iš naujo nustatyti žaidimo duomenis</target>
+          <target state="final">Iš naujo nustatyti žaidimo duomenis</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="yes">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target>Visi išsaugoti žaidimo duomenys bus ištrinti.
+          <target state="final">Visi išsaugoti žaidimo duomenys bus ištrinti.
 Ar tikrai norite tęsti?</target>
         </trans-unit>
-        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="yes">
           <source>Yes</source>
-          <target>Taip</target>
+          <target state="final">Taip</target>
         </trans-unit>
-        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="yes">
           <source>No</source>
-          <target>Ne</target>
+          <target state="final">Ne</target>
         </trans-unit>
-        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
+        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed" approved="yes">
           <source>Game data has successfully been erased.</source>
-          <target>Žaidimo duomenys sėkmingai ištrinti.</target>
+          <target state="final">Žaidimo duomenys sėkmingai ištrinti.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
+        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt" approved="yes">
           <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target>„Rhythm Quest“ geriausia žaisti su gerai sukalibruota garso sinchronizacija.</target>
+          <target state="final">„Rhythm Quest“ geriausia žaisti su gerai sukalibruota garso sinchronizacija.</target>
         </trans-unit>
         <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
