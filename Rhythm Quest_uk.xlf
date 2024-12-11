@@ -696,7 +696,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
           <source>Take It to the Limit</source>
-          <target state="needs-translation">Доведіть Це до межі</target>
+          <target state="translated">До Самого Кінця</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -712,7 +712,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
           <source>What Lies Beneath</source>
-          <target state="needs-translation">Що Лежить Унизу</target>
+          <target state="translated">Укрите Під Поверхнею</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -3369,6 +3369,22 @@ from Piano Sonata No. 11</target>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
         <source>Flight of the Bumblebee</source>
         <target state="translated">Flight of the Bumblebee</target>
+      </trans-unit>
+      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="no">
+        <source>Song Select</source>
+        <target state="translated">Вибір пісні</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+        <source>Level {0}</source>
+        <target state="translated">Рівень {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
+        <source>by {0}</source>
+        <target state="needs-translation">на {0}</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+        <source>World {0}</source>
+        <target state="translated">Світ {0}</target>
       </trans-unit>
     </body>
   </file>
