@@ -3401,8 +3401,8 @@ from Piano Sonata No. 11</target>
           <target>Difficulty increases slowly and never gets too hard.</target>
         </trans-unit>
         <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description">
-          <source>You can change difficulties at any time without losing progress.</source>
-          <target>You can change difficulties at any time without losing progress.</target>
+          <source>You can change difficulties freely between levels.</source>
+          <target>You can change difficulties freely between levels.</target>
         </trans-unit>
         <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title">
           <source>Select Difficulty</source>
