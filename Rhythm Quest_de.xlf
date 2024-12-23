@@ -3406,9 +3406,9 @@ Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
         <source>Difficulty increases slowly and never gets too hard.</source>
         <target state="final">Der Schwierigkeitsgrad steigt langsam und wird nie zu schwer.</target>
       </trans-unit>
-      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="yes">
-        <source>You can change difficulties at any time without losing progress.</source>
-        <target state="final">Du kannst den Schwierigkeitsgrad jederzeit ändern, ohne den Fortschritt zu verlieren.</target>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="needs-translation">Du kannst den Schwierigkeitsgrad jederzeit ändern, ohne den Fortschritt zu verlieren.</target>
       </trans-unit>
       <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="yes">
         <source>Select Difficulty</source>
