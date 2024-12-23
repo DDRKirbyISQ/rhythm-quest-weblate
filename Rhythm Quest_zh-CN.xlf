@@ -3342,7 +3342,7 @@ from Piano Sonata No. 11</source>
         </trans-unit>
         <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
           <source>Midnight Moon</source>
-          <target state="translated">午夜之月</target>
+          <target state="translated">Midnight Moon</target>
         </trans-unit>
       </group>
     </body>
@@ -3380,6 +3380,58 @@ from Piano Sonata No. 11</source>
       <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
         <source>World {0}</source>
         <target state="translated">世界 {0}</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="translated">你可以在不同关卡间自由改变难度。</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="no">
+        <source>For those who want an easy-going experience.</source>
+        <target state="translated">给那些追求轻松愉快体验的玩家。</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
+        <source>Easy</source>
+        <target state="translated">简单</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="no">
+        <source>Hard</source>
+        <target state="translated">困难</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
+        <source>Difficulty: {0}</source>
+        <target state="translated">难度：{0}</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
+        <source>Normal</source>
+        <target state="translated">普通</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
+        <source>Select Difficulty</source>
+        <target state="translated">选择难度</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="no">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="translated">难度缓慢上升而且永远不会太难。</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="no">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="translated">给那些有节奏游戏经验的玩家。</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
+        <source>Starts simple, but gets complex!</source>
+        <target state="translated">开始时简单，之后变得复杂！</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
+        <source>Level Browser</source>
+        <target state="translated">关卡浏览器</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="translated">难度上升得更快而且变得很激烈！</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="translated">Rhythm Quest 本该游玩的方式。</target>
       </trans-unit>
     </body>
   </file>
