@@ -3393,9 +3393,9 @@ de la Sonate pour piano n°11</target>
         <source>Difficulty: {0}</source>
         <target state="final">Difficulté : {0}</target>
       </trans-unit>
-      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="yes">
-        <source>You can change difficulties at any time without losing progress.</source>
-        <target state="final">Vous pouvez changer de difficulté à tout moment sans perdre votre progression.</target>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="needs-translation">Vous pouvez changer de difficulté à tout moment sans perdre votre progression.</target>
       </trans-unit>
       <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
         <source>The way Rhythm Quest was meant to be played.</source>
