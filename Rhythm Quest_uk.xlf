@@ -3370,10 +3370,6 @@ from Piano Sonata No. 11</target>
         <source>Flight of the Bumblebee</source>
         <target state="translated">Flight of the Bumblebee</target>
       </trans-unit>
-      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="no">
-        <source>Song Select</source>
-        <target state="translated">Вибір пісні</target>
-      </trans-unit>
       <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
         <source>Level {0}</source>
         <target state="translated">Рівень {0}</target>

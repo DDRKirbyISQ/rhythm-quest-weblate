@@ -3369,10 +3369,6 @@ from Piano Sonata No. 11</source>
         <source>Updating mod.io mod profile...</source>
         <target state="translated">mod.io の modプロフィール を更新中...</target>
       </trans-unit>
-      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="no">
-        <source>Song Select</source>
-        <target state="translated">曲の選択</target>
-      </trans-unit>
       <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
         <source>Level {0}</source>
         <target state="translated">レベル {0}</target>

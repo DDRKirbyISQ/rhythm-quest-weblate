@@ -3361,10 +3361,6 @@ from Piano Sonata No. 11“</target>
         <source>Cosmic Conflux</source>
         <target state="final">Kosminis konfliuksas</target>
       </trans-unit>
-      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="yes">
-        <source>Song Select</source>
-        <target state="final">Dainos pasirinkimas</target>
-      </trans-unit>
       <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="yes">
         <source>Level {0}</source>
         <target state="final">Lygis {0}</target>

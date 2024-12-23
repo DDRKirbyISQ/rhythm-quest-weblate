@@ -3349,10 +3349,6 @@ de la Sonate pour piano n°11</target>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="fr" datatype="plaintext">
     <body>
-      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="no">
-        <source>Song Select</source>
-        <target state="translated">Sélectionner Musique</target>
-      </trans-unit>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="yes">
         <source>Flight of the Bumblebee</source>
         <target state="final">Le Vol du Bourdon</target>

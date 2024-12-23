@@ -3373,10 +3373,6 @@ from Piano Sonata No. 11</source>
         <source>Level {0}</source>
         <target state="translated">关卡 {0}</target>
       </trans-unit>
-      <trans-unit id="434958276009910272" xml:space="preserve" resname="menu_songselect" approved="no">
-        <source>Song Select</source>
-        <target state="translated">歌曲选择</target>
-      </trans-unit>
       <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
         <source>by {0}</source>
         <target state="translated">作者 {0}</target>
