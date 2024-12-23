@@ -724,7 +724,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
-          <target state="needs-translation">Трейлер Геймплею</target>
+          <target state="translated">Трейлер Геймплею</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -955,9 +955,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Desaturates backdrops toward grayscale.</source>
           <target>Зробити задній план більш схожим до сірого</target>
         </trans-unit>
-        <trans-unit id="123512785343393792" xml:space="preserve" resname="settings_menu_calibration_description">
+        <trans-unit id="123512785343393792" xml:space="preserve" resname="settings_menu_calibration_description" approved="no">
           <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
-          <target>Відкалібруйте затримку аудіо, щоб звук і процес гри були синхронізовані.</target>
+          <target state="translated">Відкалібрувати затримку аудіо, щоб звук і процес гри були синхронізовані.</target>
         </trans-unit>
         <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack">
           <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
@@ -1709,9 +1709,9 @@ Please connect a supported gamepad device.</source>
           <source>Game will continue running when unfocused.</source>
           <target>Гра буде продовжувати працювати після згортання гри.</target>
         </trans-unit>
-        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description">
+        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description" approved="no">
           <source>Manage and reset save data.</source>
-          <target>Керувати або скидати налаштування збережених даних.</target>
+          <target state="translated">Керувати збереженими даними або скинути їх.</target>
         </trans-unit>
         <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete">
           <source>Delete</source>
@@ -2983,7 +2983,7 @@ Check the code and try again.</source>
         </trans-unit>
         <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
           <source>Updating mod.io mod profile...</source>
-          <target state="needs-translation">Оновлення профілю mod.io...</target>
+          <target state="translated">Оновлення профілю mod.io...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Spellbound Nebula</source>
@@ -3376,11 +3376,63 @@ from Piano Sonata No. 11</target>
       </trans-unit>
       <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
         <source>by {0}</source>
-        <target state="needs-translation">на {0}</target>
+        <target state="translated">на {0}</target>
       </trans-unit>
       <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
         <source>World {0}</source>
         <target state="translated">Світ {0}</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
+        <source>Difficulty: {0}</source>
+        <target state="translated">Складність: {0}</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
+        <source>Easy</source>
+        <target state="translated">Легка</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
+        <source>Normal</source>
+        <target state="translated">Нормальна</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="no">
+        <source>Hard</source>
+        <target state="translated">Складна</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="no">
+        <source>For those who want an easy-going experience.</source>
+        <target state="translated">Для тих, хто хоче досвід без труднощів.</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="translated">Ти можеш змінювати складності між рівнями по бажанню.</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
+        <source>Select Difficulty</source>
+        <target state="translated">Вибери складність</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="translated">Так, як воно було з самого початку.</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="no">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="translated">Для тих, хто вже досвідчені у ритм-іграх.</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
+        <source>Level Browser</source>
+        <target state="translated">Браузер рівнів</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="no">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="translated">Складність підвищується повільно і ніколи не стає занадто важкою.</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
+        <source>Starts simple, but gets complex!</source>
+        <target state="translated">Починається легко, але стає складнішим!</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="translated">Складність підвищується доволі швидко і стає доволі інтенсивною!</target>
       </trans-unit>
     </body>
   </file>
