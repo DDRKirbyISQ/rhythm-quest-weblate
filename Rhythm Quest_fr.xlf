@@ -690,69 +690,69 @@ Restantes :</target>
           <source>Selected</source>
           <target state="final">Sélectionné</target>
         </trans-unit>
-        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="no">
+        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="yes">
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
-          <target state="translated">Acheter pour  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt; ?</target>
+          <target state="final">Acheter pour &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;  {0} ?</target>
         </trans-unit>
-        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="yes">
           <source>Take It to the Limit</source>
-          <target>Take it to the Limit</target>
+          <target state="final">Take it to the Limit</target>
         </trans-unit>
-        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
+        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview" approved="yes">
           <source>Preview</source>
-          <target>Aperçu</target>
+          <target state="final">Aperçu</target>
         </trans-unit>
-        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy">
+        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy" approved="yes">
           <source>Buy</source>
-          <target>Acheter</target>
+          <target state="final">Acheter</target>
         </trans-unit>
-        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play">
+        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play" approved="yes">
           <source>Play</source>
-          <target>Jouer</target>
+          <target state="final">Jouer</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="yes">
           <source>What Lies Beneath</source>
           <target state="final">What Lies Beneath</target>
         </trans-unit>
-        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
+        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="yes">
           <source>City in the Rain</source>
-          <target>Ville sous la Pluie</target>
+          <target state="final">Ville sous la Pluie</target>
         </trans-unit>
-        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1" approved="yes">
           <source>Enchanted Oasis</source>
-          <target>Oasis Enchantée</target>
+          <target state="final">Oasis Enchantée</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="yes">
           <source>Gameplay Trailer</source>
-          <target>Bande-annonce Gameplay</target>
+          <target state="final">Bande-annonce Gameplay</target>
         </trans-unit>
-        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
+        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="yes">
           <source>Snowy Peak</source>
-          <target>Pic Enneigé</target>
+          <target state="final">Pic Enneigé</target>
         </trans-unit>
-        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
+        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5" approved="yes">
           <source>Stratosphere</source>
-          <target>Stratosphère</target>
+          <target state="final">Stratosphère</target>
         </trans-unit>
-        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
+        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam" approved="yes">
           <source>Wishlist on Steam</source>
-          <target>Ajouter à la Liste de Souhaits sur Steam</target>
+          <target state="final">Ajouter à la Liste de Souhaits sur Steam</target>
         </trans-unit>
-        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
+        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start" approved="no">
           <source>Start</source>
-          <target>Commencer</target>
+          <target state="translated">Commencer</target>
         </trans-unit>
-        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
+        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked" approved="yes">
           <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
-          <target>Ce contenu ne sera disponible que dans la version complète de Rhythm Quest ! (à venir)</target>
+          <target state="final">Ce contenu ne sera disponible que dans la version complète de Rhythm Quest ! (à venir)</target>
         </trans-unit>
-        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
+        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow" approved="yes">
           <source>&lt; World {0}</source>
-          <target>&lt; Monde {0}</target>
+          <target state="final">&lt; Monde {0}</target>
         </trans-unit>
-        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow">
+        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow" approved="yes">
           <source>World {0} &gt;</source>
-          <target>Monde {0} &gt;</target>
+          <target state="final">Monde {0} &gt;</target>
         </trans-unit>
         <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame" approved="yes">
           <source>Adjusts audio latency calibration.
@@ -760,39 +760,39 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <target state="final">Ajuster l'étalonnage de la latence audio.
 Baisser if l'audio est en avance sur l'image. Monter si l'audio est en retard sur l'image.</target>
         </trans-unit>
-        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
+        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early" approved="yes">
           <source>Too Early</source>
-          <target>Trop Tôt</target>
+          <target state="final">Trop Tôt</target>
         </trans-unit>
-        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late">
+        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late" approved="yes">
           <source>Too Late</source>
-          <target>Trop Tard</target>
+          <target state="final">Trop Tard</target>
         </trans-unit>
-        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
+        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2" approved="yes">
           <source>Twilight Tunnel</source>
-          <target>Souterrain au Soir</target>
+          <target state="final">Souterrain au Soir</target>
         </trans-unit>
-        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4" approved="yes">
           <source>Midnight Marathon</source>
-          <target>Marathon de Minuit</target>
+          <target state="final">Marathon de Minuit</target>
         </trans-unit>
-        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
+        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5" approved="yes">
           <source>Gearwheel Factory</source>
-          <target>Usine aux Engrenages</target>
+          <target state="final">Usine aux Engrenages</target>
         </trans-unit>
-        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="yes">
           <source>Outerworld Highway</source>
-          <target>Autoroute d'Outre-monde</target>
+          <target state="final">Autoroute d'Outre-monde</target>
         </trans-unit>
-        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
+        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2" approved="yes">
           <source>Misty Meadow</source>
-          <target>Prairie Vaporeuse</target>
+          <target state="final">Prairie Vaporeuse</target>
         </trans-unit>
-        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
+        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation" approved="yes">
           <source>Copy Protection Violation detected!</source>
-          <target>Violation de la Protection Contre la Copie Détectée !</target>
+          <target state="final">Violation de la Protection Contre la Copie Détectée !</target>
         </trans-unit>
-        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions" approved="no">
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions" approved="yes">
           <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
 
 If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
@@ -807,7 +807,7 @@ If this doesn't work, I would suggest downloading and playing the offline build 
 
 Sorry about this!
                                                                 --DDRKirby(ISQ)</source>
-          <target state="translated">Pour éviter d'être volé par des sites malveillants qui hébergeraient mon jeu sans permission, Rhythm Quest utilise l'entête HTTP "referer" pour vérifier qu'il est bien hébergé sur un site autorisé (rhythmquestgame.com, itch.io).
+          <target state="final">Pour éviter d'être volé par des sites malveillants qui hébergeraient mon jeu sans permission, Rhythm Quest utilise l'entête HTTP "referer" pour vérifier qu'il est bien hébergé sur un site autorisé (rhythmquestgame.com, itch.io).
 
 Si l'une de vos extensions de navigateur désactive cette fonction, essayez de la désactiver puis de recharger la page.
 
@@ -856,25 +856,25 @@ Les données de sauvegardes sont stockées par votre navigateur et pourraient-ê
 
 Pour une meilleure expérience, considérez d'essayer la version hors ligne !</target>
         </trans-unit>
-        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
+        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend" approved="yes">
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
-          <target>Vous êtes arrivé à la fin de la démo de Rhythm Quest - merci d'avoir joué !</target>
+          <target state="final">Vous êtes arrivé à la fin de la démo de Rhythm Quest - merci d'avoir joué !</target>
         </trans-unit>
-        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite">
+        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite" approved="yes">
           <source>Visit the Website</source>
-          <target>Visiter le site web</target>
+          <target state="final">Visiter le Site Web</target>
         </trans-unit>
-        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
+        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord" approved="yes">
           <source>Join the Discord</source>
-          <target>Rejoindre le Discord</target>
+          <target state="final">Rejoindre le Discord</target>
         </trans-unit>
         <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="yes">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
           <target state="final">La version complète de Rhythm Quest sera composée de 30 niveaux dans 6 mondes différents, des niveaux bonus à débloquer, et encore plus d'éléments de jeu !</target>
         </trans-unit>
-        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
+        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next" approved="yes">
           <source>Next</source>
-          <target>Suivant</target>
+          <target state="final">Suivant</target>
         </trans-unit>
         <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3" approved="yes">
           <source>Wishlist and follow Rhythm Quest online for future updates!</source>
@@ -884,25 +884,25 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !<
           <source>Resolution and screen mode settings.</source>
           <target>Paramètres de résolution et de mode d'affichage.</target>
         </trans-unit>
-        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description">
+        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description" approved="yes">
           <source>Zoom and scale settings.</source>
-          <target>Paramètres de zoom et d'échelle.</target>
+          <target state="final">Paramètres de zoom et d'échelle.</target>
         </trans-unit>
-        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects">
+        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects" approved="yes">
           <source>Visual effects and readability settings.</source>
-          <target>Paramètres d'effets visuels et de lisibilité.</target>
+          <target state="final">Paramètres d'effets visuels et de lisibilité.</target>
         </trans-unit>
-        <trans-unit id="123203967791181824" xml:space="preserve" resname="menu_settings_resolution">
+        <trans-unit id="123203967791181824" xml:space="preserve" resname="menu_settings_resolution" approved="yes">
           <source>Resolution Settings...</source>
-          <target>Paramètres de résolution...</target>
+          <target state="final">Paramètres de Résolution...</target>
         </trans-unit>
-        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata">
+        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata" approved="yes">
           <source>Data Reset...</source>
-          <target>Réinitialisation des données...</target>
+          <target state="final">Réinitialisation des Données...</target>
         </trans-unit>
-        <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description">
+        <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description" approved="yes">
           <source>Resets settings to default values.</source>
-          <target>Réinitialise les paramètres par défaut.</target>
+          <target state="final">Réinitialiser les paramètres par défaut.</target>
         </trans-unit>
         <trans-unit id="123208891287515136" xml:space="preserve" resname="resetprefs_confirmed" approved="yes">
           <source>Settings have been reset to default values.
@@ -910,65 +910,65 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !<
           <target state="final">Les paramètres ont été réinitialisés à leur valeur par défaut.
 (Un étalonnage audio est recommandé)</target>
         </trans-unit>
-        <trans-unit id="123210343288451072" xml:space="preserve" resname="settings_resetprefs">
+        <trans-unit id="123210343288451072" xml:space="preserve" resname="settings_resetprefs" approved="yes">
           <source>Reset Preferences</source>
-          <target>Réinitialiser Préférences</target>
+          <target state="final">Réinitialiser Préférences</target>
         </trans-unit>
-        <trans-unit id="123232676979978240" xml:space="preserve" resname="menu_settings_screenfilter">
+        <trans-unit id="123232676979978240" xml:space="preserve" resname="menu_settings_screenfilter" approved="yes">
           <source>Screen Filter Settings...</source>
-          <target>Paramètres de Filtres Visuels...</target>
+          <target state="final">Paramètres de Filtres Visuels...</target>
         </trans-unit>
-        <trans-unit id="123233005876326400" xml:space="preserve" resname="settings_menu_screenfilter">
+        <trans-unit id="123233005876326400" xml:space="preserve" resname="settings_menu_screenfilter" approved="yes">
           <source>Configure a backdrop filter to make foreground elements more visible.</source>
-          <target>Configurer un filtre appliqué aux décors afin de rendre les éléments au premier plan plus visible.</target>
+          <target state="final">Configurer un filtre appliqué aux décors afin de rendre les éléments au premier plan plus visible.</target>
         </trans-unit>
-        <trans-unit id="123233399918604288" xml:space="preserve" resname="settings_screenfilter">
+        <trans-unit id="123233399918604288" xml:space="preserve" resname="settings_screenfilter" approved="yes">
           <source>Screen Filter</source>
-          <target>Filtre Visuel</target>
+          <target state="final">Filtre Visuel</target>
         </trans-unit>
-        <trans-unit id="123235128538083328" xml:space="preserve" resname="settings_screenfilter_fade">
+        <trans-unit id="123235128538083328" xml:space="preserve" resname="settings_screenfilter_fade" approved="yes">
           <source>Fade</source>
-          <target>Fondu</target>
+          <target state="final">Fondu</target>
         </trans-unit>
-        <trans-unit id="123235175392653312" xml:space="preserve" resname="settings_screenfilter_darken">
+        <trans-unit id="123235175392653312" xml:space="preserve" resname="settings_screenfilter_darken" approved="yes">
           <source>Darken</source>
-          <target>Sombre</target>
+          <target state="final">Assombri</target>
         </trans-unit>
-        <trans-unit id="123235228018585600" xml:space="preserve" resname="settings_screenfilter_desaturate">
+        <trans-unit id="123235228018585600" xml:space="preserve" resname="settings_screenfilter_desaturate" approved="yes">
           <source>Desaturate</source>
-          <target>Désaturé</target>
+          <target state="final">Désaturé</target>
         </trans-unit>
-        <trans-unit id="123235460978618368" xml:space="preserve" resname="settings_screenfilter_description_disabled">
+        <trans-unit id="123235460978618368" xml:space="preserve" resname="settings_screenfilter_description_disabled" approved="yes">
           <source>Screen filter is disabled.</source>
-          <target>Le filtre est désactivé.</target>
+          <target state="final">Le filtre est désactivé.</target>
         </trans-unit>
-        <trans-unit id="123235499293585408" xml:space="preserve" resname="settings_screenfilter_description_fade">
+        <trans-unit id="123235499293585408" xml:space="preserve" resname="settings_screenfilter_description_fade" approved="yes">
           <source>Fades backdrops toward primary background color.</source>
-          <target>Rapproche toutes les couleurs du décor de la couleur principal du fond.</target>
+          <target state="final">Rapproche les couleurs du décor de la couleur principal du fond.</target>
         </trans-unit>
         <trans-unit id="123235512304316416" xml:space="preserve" resname="settings_screenfilter_description_darken">
           <source>Darkens backdrops towards black.</source>
           <target>Assombri le décor.</target>
         </trans-unit>
-        <trans-unit id="123235528121036800" xml:space="preserve" resname="settings_screenfilter_description_desaturate">
+        <trans-unit id="123235528121036800" xml:space="preserve" resname="settings_screenfilter_description_desaturate" approved="yes">
           <source>Desaturates backdrops toward grayscale.</source>
-          <target>Désature le décor, le rapproche d'une échelle de gris.</target>
+          <target state="final">Désature le décor, le rapproche d'une échelle de gris.</target>
         </trans-unit>
-        <trans-unit id="123512785343393792" xml:space="preserve" resname="settings_menu_calibration_description">
+        <trans-unit id="123512785343393792" xml:space="preserve" resname="settings_menu_calibration_description" approved="yes">
           <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
-          <target>Calibre la latence audio pour que l'image et le son soient synchronisés.</target>
+          <target state="final">Etalonne la latence audio pour que l'image et le son soient synchronisés.</target>
         </trans-unit>
-        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack">
+        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack" approved="yes">
           <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
-          <target>Appuyer sur &lt;sprite name="{0}" tint=1 color=#{2}&gt; ou &lt;sprite name="{1}" tint=1 color=#{2}&gt; pour Attaquer.</target>
+          <target state="final">Appuyer sur &lt;sprite name="{0}" tint=1 color=#{2}&gt; ou &lt;sprite name="{1}" tint=1 color=#{2}&gt; pour Attaquer.</target>
         </trans-unit>
-        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump">
+        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump" approved="yes">
           <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</source>
-          <target>Appuyer sur &lt;sprite name="{0}" tint=1 color=#{2}&gt; ou &lt;sprite name="{1}" tint=1 color=#{2}&gt; pour Sauter.</target>
+          <target state="final">Appuyer sur &lt;sprite name="{0}" tint=1 color=#{2}&gt; ou &lt;sprite name="{1}" tint=1 color=#{2}&gt; pour Sauter.</target>
         </trans-unit>
-        <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics">
+        <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics" approved="yes">
           <source>Haptic Feedback Settings...</source>
-          <target>Paramètres des retours haptiques (vibrations)...</target>
+          <target state="final">Paramètres des retours haptiques (vibrations)...</target>
         </trans-unit>
         <trans-unit id="124685691133931520" xml:space="preserve" resname="settings_hapticattack_description_disabled">
           <source>Disables vibration on successful attacks.</source>
