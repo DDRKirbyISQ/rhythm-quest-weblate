@@ -3424,6 +3424,10 @@ from Piano Sonata No. 11</target>
           <source>Difficulty ramps up more quickly and becomes quite intense!</source>
           <target>Difficulty ramps up more quickly and becomes quite intense!</target>
         </trans-unit>
+        <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser">
+          <source>Level Browser</source>
+          <target>Level Browser</target>
+        </trans-unit>
       </group>
     </body>
   </file>
