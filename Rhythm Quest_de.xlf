@@ -3382,6 +3382,54 @@ Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
         <source>World {0}</source>
         <target state="final">Welt {0}</target>
       </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="yes">
+        <source>Difficulty: {0}</source>
+        <target state="final">Schwierigkeit: {0}</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="yes">
+        <source>Easy</source>
+        <target state="final">Einfach</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="yes">
+        <source>Normal</source>
+        <target state="final">Normal</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="yes">
+        <source>Hard</source>
+        <target state="final">Schwer</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="yes">
+        <source>For those who want an easy-going experience.</source>
+        <target state="final">Für diejenigen, die ein entspanntes Erlebnis suchen.</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="yes">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="final">Der Schwierigkeitsgrad steigt langsam und wird nie zu schwer.</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="yes">
+        <source>You can change difficulties at any time without losing progress.</source>
+        <target state="final">Du kannst den Schwierigkeitsgrad jederzeit ändern, ohne den Fortschritt zu verlieren.</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="yes">
+        <source>Select Difficulty</source>
+        <target state="final">Schwierigkeitsgrad auswählen</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="final">Die Art, wie Rhythm Quest gespielt werden sollte.</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="yes">
+        <source>Starts simple, but gets complex!</source>
+        <target state="final">Startet einfach, wird aber komplex!</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="yes">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="final">Für diejenigen, die Erfahrung mit Rhythmusspielen haben.</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="yes">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="final">Der Schwierigkeitsgrad nimmt schneller zu und wird ziemlich intensiv!</target>
+      </trans-unit>
     </body>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="de" datatype="plaintext">
