@@ -318,7 +318,7 @@
         </trans-unit>
         <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show" approved="yes">
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
-          <target state="final">Les boutons seront visibles à l'écran. (Mais vous pouvez quand-même toucher à côté)</target>
+          <target state="final">Les boutons seront visibles à l'écran. (Mais vous pouvez toucher à côté)</target>
         </trans-unit>
         <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog" approved="yes">
           <source>Changelog</source>
@@ -604,9 +604,9 @@ Sinon, ajustez les manuellement afin qu'ils le soient.</target>
           <source>Yes (Recommended)</source>
           <target state="final">Oui (Recommandé)</target>
         </trans-unit>
-        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
+        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="yes">
           <source>(Select an option to view more details)</source>
-          <target>(Sélectionner une option pour plus de détails)</target>
+          <target state="final">(Sélectionner une option pour plus de détails)</target>
         </trans-unit>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
           <source>Spiked Steppes</source>
@@ -616,29 +616,29 @@ Sinon, ajustez les manuellement afin qu'ils le soient.</target>
           <source>Redo</source>
           <target state="final">Recommencer</target>
         </trans-unit>
-        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
+        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description" approved="yes">
           <source>Resets all game progress.</source>
-          <target>Réinitialiser toute la progression.</target>
+          <target state="final">Réinitialiser toute la progression.</target>
         </trans-unit>
-        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable">
+        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable" approved="yes">
           <source>Unavailable</source>
-          <target>Indisponible</target>
+          <target state="final">Indisponible</target>
         </trans-unit>
-        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="yes">
           <source>Perfect Clear!</source>
-          <target>Parfait !</target>
+          <target state="final">Parfait !</target>
         </trans-unit>
-        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
+        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count" approved="yes">
           <source>Respawns: {0}</source>
-          <target>Réapparitions : {0}</target>
+          <target state="final">Réapparitions : {0}</target>
         </trans-unit>
-        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="yes">
           <source>Haunted Prairie</source>
-          <target>Prairie Hantée</target>
+          <target state="final">Prairie Hantée</target>
         </trans-unit>
-        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
+        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart" approved="yes">
           <source>Restart Level</source>
-          <target>Recommencer le niveau</target>
+          <target state="final">Recommencer le Niveau</target>
         </trans-unit>
         <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="yes">
           <source>Cancel</source>
@@ -656,43 +656,43 @@ Concentrez-vous sur la synchronisation du son de vos appuis avec les bips.
           <source>Your accuracy: {0}%</source>
           <target state="final">Votre précision : {0}%</target>
         </trans-unit>
-        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="yes">
           <source>Quit to Menu</source>
-          <target>Quitter vers le Menu</target>
+          <target state="final">Quitter vers le Menu</target>
         </trans-unit>
-        <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
+        <trans-unit id="34008930576228352" xml:space="preserve" resname="new" approved="yes">
           <source>New</source>
-          <target>Nouveau</target>
+          <target state="final">Nouveau</target>
         </trans-unit>
-        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
+        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop" approved="yes">
           <source>Shop</source>
-          <target>Magasin</target>
+          <target state="final">Magasin</target>
         </trans-unit>
-        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
+        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters" approved="yes">
           <source>Characters</source>
-          <target>Personnages</target>
+          <target state="final">Personnages</target>
         </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
+        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="yes">
           <source>Extra Levels</source>
-          <target>Niveaux Bonus</target>
+          <target state="final">Niveaux Bonus</target>
         </trans-unit>
-        <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
+        <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels" approved="yes">
           <source>Collected:
 Spent:
 
 Remaining:</source>
-          <target>Collectées : 
-Dépensées : 
- 
-Restantes :</target>
+          <target state="final">Collectées :
+Dépensées :
+
+Restantes :</target>
         </trans-unit>
-        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected">
+        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected" approved="yes">
           <source>Selected</source>
-          <target>Sélectionné</target>
+          <target state="final">Sélectionné</target>
         </trans-unit>
-        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase">
+        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="no">
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
-          <target>Acheter pour {0}&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt; ?</target>
+          <target state="translated">Acheter pour  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt; ?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
           <source>Take It to the Limit</source>
@@ -792,7 +792,7 @@ Baisser if l'audio est en avance sur l'image. Monter si l'audio est en retard su
           <source>Copy Protection Violation detected!</source>
           <target>Violation de la Protection Contre la Copie Détectée !</target>
         </trans-unit>
-        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions" approved="no">
           <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
 
 If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
@@ -807,40 +807,40 @@ If this doesn't work, I would suggest downloading and playing the offline build 
 
 Sorry about this!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Pour éviter d'être volé par des sites malveillants qui hébergeraient mon jeu sans permission, Rhythm Quest utilise l'entête HTTP "referer" pour vérifier qu'il est bien hébergé sur un site autorisé (rhythmquestgame.com, itch.io). 
- 
-Si l'une de vos extensions de navigateur désactive cette fonction, essayez de la désactiver puis de recharger la page. 
- 
-Dans Firefox, vous pouvez aussi vérifier vos préférences concernant cet en-tête : 
-- Aller dans "about:config" via la barre d'URL 
-- Si besoin, accepter l'avertissement 
-- Chercher le paramètre "network.http.sendRefererHeader" 
-- Passer la valeur à "2" (celle par défaut) ce qui activera l'en-tête "referer". 
- 
-Si cela ne marche pas, je vous recommande de télécharger le jeu et d'y jouer hors ligne ! 
- 
-Désolé pour ça ! 
- --DDRKirby(ISQ)</target>
+          <target state="translated">Pour éviter d'être volé par des sites malveillants qui hébergeraient mon jeu sans permission, Rhythm Quest utilise l'entête HTTP "referer" pour vérifier qu'il est bien hébergé sur un site autorisé (rhythmquestgame.com, itch.io).
+
+Si l'une de vos extensions de navigateur désactive cette fonction, essayez de la désactiver puis de recharger la page.
+
+Dans Firefox, vous pouvez aussi vérifier vos préférences concernant cet en-tête :
+- Aller dans "about:config" via la barre d'URL
+- Si besoin, accepter l'avertissement
+- Chercher le paramètre "network.http.sendRefererHeader"
+- Passer la valeur à "2" (celle par défaut) ce qui activera l'en-tête "referer".
+
+Si cela ne marche pas, je vous recommande de télécharger le jeu et d'y jouer hors ligne !
+
+Désolé pour ça !
+                                                                --DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome" approved="yes">
           <source>Welcome to the Rhythm Quest Demo!</source>
           <target state="final">Bienvenue dans la Démo de Rhythm Quest !</target>
         </trans-unit>
-        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice" approved="yes">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
 
 If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Have fun, and thanks for playing!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Ceci est une démo préliminaire de Rhythm Quest. Seuls certains niveaux y sont donc accessibles et tout peut encore être mené à changer ! 
- 
-Pour ajouter le jeu à votre Liste de Souhaits Steam, rejoindre le Discord ou vous inscrire sur la liste de diffusion pour savoir quand le jeu sortira, merci de visiter &lt;u&gt;rhythmquestgame.com&lt;/u&gt; ! 
- 
-Amusez-vous bien et merci de jouer ! 
---DDRKirby(ISQ)"</target>
+          <target state="final">Ceci est une démo préliminaire de Rhythm Quest. Seuls certains niveaux y sont donc accessibles et tout peut encore être mené à changer !
+
+Pour ajouter le jeu à votre Liste de Souhaits Steam, rejoindre le Discord ou vous inscrire sur la liste de diffusion pour savoir quand le jeu sortira, merci de visiter &lt;u&gt;rhythmquestgame.com&lt;/u&gt; !
+
+Amusez-vous bien et merci de jouer !
+                                                                --DDRKirby(ISQ)"</target>
         </trans-unit>
-        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="yes">
           <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
 
 Please make sure hardware graphics acceleration is enabled for your browser for better performance.
@@ -848,13 +848,13 @@ Please make sure hardware graphics acceleration is enabled for your browser for 
 Save data is stored in your browser and may potentially not persist across version updates.
 
 For the best experience, feel free to try the standalone offline build instead!</source>
-          <target>Note : Vous êtes en train de jouer à la version de la démo pour navigateurs internet. Il est donc possible que vous rencontriez quelques petits pépins audios. 
- 
-Merci de bien vouloir vous assurer que l'accélération matérielle est activée dans votre navigateur pour de meilleures performances. 
- 
-Les données de sauvegardes sont stockées par votre navigateur et pourraient-être perdues après une mise à jour. 
- 
-Pour une meilleure expérience, considérez d'essayer la version hors ligne !</target>
+          <target state="final">Note : Vous êtes en train de jouer à la version de la démo pour navigateurs internet. Il est donc possible que vous rencontriez quelques petits pépins audios comme de la lattence.
+
+Merci de bien vouloir vous assurer que l'accélération matérielle est activée dans votre navigateur pour de meilleures performances.
+
+Les données de sauvegardes sont stockées par votre navigateur et pourraient-être perdues après une mise à jour.
+
+Pour une meilleure expérience, considérez d'essayer la version hors ligne !</target>
         </trans-unit>
         <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
@@ -876,9 +876,9 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !</t
           <source>Next</source>
           <target>Suivant</target>
         </trans-unit>
-        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3">
+        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3" approved="yes">
           <source>Wishlist and follow Rhythm Quest online for future updates!</source>
-          <target>Ajoutez le jeu à votre Liste de Souhaits Steam et suivez le jeu pour plus d'informations prochainement !</target>
+          <target state="final">Ajoutez le jeu à votre Liste de Souhaits Steam et suivez le jeu pour plus d'informations prochainement !</target>
         </trans-unit>
         <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description">
           <source>Resolution and screen mode settings.</source>
@@ -1082,9 +1082,9 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !</t
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
           <target>Sélectionner un son à jouer un temps avant chaque saut et attaque simultanés.</target>
         </trans-unit>
-        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
+        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going" approved="yes">
           <source>Keep going...</source>
-          <target>Continuez...</target>
+          <target state="final">Continuez...</target>
         </trans-unit>
         <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
           <source>Screenreader Mode</source>
@@ -1118,12 +1118,12 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !</t
           <source>Screenreader Mode...</source>
           <target>Mode Lecteur d'écran...</target>
         </trans-unit>
-        <trans-unit id="134563955822342144" xml:space="preserve" resname="screenreader_scene_prompt">
+        <trans-unit id="134563955822342144" xml:space="preserve" resname="screenreader_scene_prompt" approved="yes">
           <source>It looks like you have a screen reader enabled.
 Would you like to enable screen reader mode?
 (This can later be configured in Settings -&gt; Accessibility)</source>
-          <target>Il semblerait que vous ayez un lecteur d'écran activé. 
-Voulez-vous activer le mode lecteur d'écran ? 
+          <target state="final">Il semblerait que vous ayez un lecteur d'écran activé.
+Voulez-vous activer le mode lecteur d'écran ?
 (Il est possible de configurer cela plus tard dans Paramètres -&gt; Accessibilité)</target>
         </trans-unit>
         <trans-unit id="134569382538686464" xml:space="preserve" resname="menu_prev_level_accessible">
@@ -1238,9 +1238,9 @@ Voulez-vous activer le mode lecteur d'écran ?
           <source>analog stick</source>
           <target>Joystick</target>
         </trans-unit>
-        <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap">
+        <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap" approved="yes">
           <source>You can change these controls in the "Settings" menu.</source>
-          <target>Vous pouvez changer ces contrôles dans le menu "Paramètres".</target>
+          <target state="final">Vous pouvez changer ces contrôles dans le menu "Paramètres".</target>
         </trans-unit>
         <trans-unit id="145495792350441472" xml:space="preserve" resname="menu_resuming">
           <source>Resuming...</source>
@@ -1516,9 +1516,9 @@ Please connect a supported gamepad device.</source>
           <target>Pas de manette compatible détecté !
 Merci de connecter une manette supportée.</target>
         </trans-unit>
-        <trans-unit id="250053160966336512" xml:space="preserve" resname="control_press_button">
+        <trans-unit id="250053160966336512" xml:space="preserve" resname="control_press_button" approved="yes">
           <source>Press a button</source>
-          <target>Appuyez sur un bouton</target>
+          <target state="final">Appuyez sur un bouton</target>
         </trans-unit>
         <trans-unit id="253407677048991744" xml:space="preserve" resname="settings_musicspeed">
           <source>Music Speed</source>
@@ -1724,35 +1724,35 @@ Merci de connecter une manette supportée.</target>
           <source>Adds a timeline display for expected inputs.</source>
           <target>Affiche les actions à réaliser dans une ligne de temps.</target>
         </trans-unit>
-        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description">
+        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Basic Enemies&lt;/color&gt;
 Click to insert red or green basic enemies.</source>
-          <target>&lt;color=#ffff00&gt;Ennemis Basiques&lt;/color&gt;
-Cliquez pour insérer des ennemis de base rouges ou verts.</target>
+          <target state="final">&lt;color=#ffff00&gt;Ennemis Basiques&lt;/color&gt;
+Cliquer pour insérer des ennemis de base rouges ou verts.</target>
         </trans-unit>
-        <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description">
+        <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Flight Paths&lt;/color&gt;
 Click and drag to insert winged flight paths.</source>
-          <target>&lt;color=#ffff00&gt;Chemins de Vol&lt;/color&gt;
-Cliquez et faites glisser pour insérer des chemins de vol ailés.</target>
+          <target state="final">&lt;color=#ffff00&gt;Chemins de Vol&lt;/color&gt;
+Cliquer et glisser pour insérer des chemins de vol ailés.</target>
         </trans-unit>
-        <trans-unit id="276961258184159232" xml:space="preserve" resname="editor_tool_delete_description">
+        <trans-unit id="276961258184159232" xml:space="preserve" resname="editor_tool_delete_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Delete&lt;/color&gt;
 Click on objects to delete them.</source>
-          <target>&lt;color=#ffff00&gt;Supprimer&lt;/color&gt;
-Cliquez sur des objets pour les supprimer.</target>
+          <target state="final">&lt;color=#ffff00&gt;Supprimer&lt;/color&gt;
+Cliquer sur des objets pour les supprimer.</target>
         </trans-unit>
-        <trans-unit id="276961319072870400" xml:space="preserve" resname="editor_tool_editramp_description">
+        <trans-unit id="276961319072870400" xml:space="preserve" resname="editor_tool_editramp_description" approved="no">
           <source>&lt;color=#ffff00&gt;Ramps&lt;/color&gt;
 Click and drag to adjust the slope of ground / flight paths.</source>
-          <target>&lt;color=#ffff00&gt;Rampes&lt;/color&gt;
-Cliquez et faites glisser pour ajuster la pente des plateformes et chemins de vol.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Rampes&lt;/color&gt;
+Cliquer et glisser pour ajuster la pente des plateformes et chemins de vol.</target>
         </trans-unit>
-        <trans-unit id="276961322856132608" xml:space="preserve" resname="editor_tool_scroll_description">
+        <trans-unit id="276961322856132608" xml:space="preserve" resname="editor_tool_scroll_description" approved="no">
           <source>&lt;color=#ffff00&gt;Scroll&lt;/color&gt;
 Click and drag to move the camera view.</source>
-          <target>&lt;color=#ffff00&gt;Défilement&lt;/color&gt;
-Cliquez et faites glisser pour déplacer la vue de la caméra.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Défilement&lt;/color&gt;
+Cliquer et glisser pour déplacer la vue de la caméra.</target>
         </trans-unit>
         <trans-unit id="276961323401392128" xml:space="preserve" resname="editor_tool_insertfloor_description">
           <source>&lt;color=#ffff00&gt;Insert Floor&lt;/color&gt;
@@ -1760,23 +1760,23 @@ Inserts a new blank section of track at the cursor.</source>
           <target>&lt;color=#ffff00&gt;Insérer du Sol&lt;/color&gt;
 Insère une nouvelle section vide au niveau du curseur.</target>
         </trans-unit>
-        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description">
+        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description" approved="no">
           <source>&lt;color=#ffff00&gt;Delete Floor&lt;/color&gt;
 Click and drag to delete sections of track along with the associated objects.</source>
-          <target>&lt;color=#ffff00&gt;Supprimer l'étage&lt;/color&gt;
-Cliquez et faites glisser pour supprimer des sections de niveau, objets inclus.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Supprimer l'étage&lt;/color&gt;
+Cliquer et glisser pour supprimer des sections de niveau, objets inclus.</target>
         </trans-unit>
-        <trans-unit id="276961400211681280" xml:space="preserve" resname="editor_tool_doublehitenemy_description">
+        <trans-unit id="276961400211681280" xml:space="preserve" resname="editor_tool_doublehitenemy_description" approved="no">
           <source>&lt;color=#ffff00&gt;Double Hit Enemies&lt;/color&gt;
 Click to insert orange double hit enemies.</source>
-          <target>&lt;color=#ffff00&gt;Ennemis à Doubles Coups&lt;/color&gt;
-Cliquez pour insérer des ennemis orange à double-coups.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Ennemis à Doubles Coups&lt;/color&gt;
+Cliquer pour insérer des ennemis orange à double-coups.</target>
         </trans-unit>
-        <trans-unit id="276961400840826880" xml:space="preserve" resname="editor_tool_multihitenemy_description">
+        <trans-unit id="276961400840826880" xml:space="preserve" resname="editor_tool_multihitenemy_description" approved="no">
           <source>&lt;color=#ffff00&gt;Ghost Enemies&lt;/color&gt;
 Click to insert purple 3-hit ghost enemies.</source>
-          <target>&lt;color=#ffff00&gt;Ennemis Fantômes&lt;/color&gt;
-Cliquez pour insérer des ennemis fantôme à triple-coups.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Ennemis Fantômes&lt;/color&gt;
+Cliquer pour insérer des ennemis fantôme à triple-coups.</target>
         </trans-unit>
         <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy">
           <source>Insert basic enemy at beat {0}</source>
@@ -1794,11 +1794,11 @@ Cliquez pour insérer des ennemis fantôme à triple-coups.</target>
           <source>Insert checkpoint at beat {0}</source>
           <target>Insère un point de passage au temps {0}</target>
         </trans-unit>
-        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description">
+        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description" approved="no">
           <source>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
 Click to insert checkpoints.</source>
-          <target>&lt;color=#ffff00&gt;Points de Passage&lt;/color&gt;
-Cliquez pour insérer des points de passage.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Points de Passage&lt;/color&gt;
+Cliquer pour insérer des points de passage.</target>
         </trans-unit>
         <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump">
           <source>Insert jump at beat {0}</source>
@@ -1840,17 +1840,17 @@ Cliquez pour insérer des points de passage.</target>
           <source>Insert speed zone from beat {0} to {1}</source>
           <target>Insérer une zone de vitesse du temps {0} au temps {1}</target>
         </trans-unit>
-        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
+        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description" approved="no">
           <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
 Click and drag to insert water zones.</source>
-          <target>&lt;color=#ffff00&gt;Zones d'Eau&lt;/color&gt;
-Cliquez et faites glisser pour insérer des zones d'eau.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Zones d'Eau&lt;/color&gt;
+Cliquer et glisser pour insérer des zones d'eau.</target>
         </trans-unit>
-        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description">
+        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description" approved="no">
           <source>&lt;color=#ffff00&gt;Speed Zones&lt;/color&gt;
 Click and drag to insert speed zones.</source>
-          <target>&lt;color=#ffff00&gt;Zones de Vitesse&lt;/color&gt;
-Cliquez et faites glisser pour insérer des zones de vitesse.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Zones de Vitesse&lt;/color&gt;
+Cliquer et glisser pour insérer des zones de vitesse.</target>
         </trans-unit>
         <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title">
           <source>Scroll speed: Section {0}</source>
@@ -1864,11 +1864,11 @@ Cliquez et faites glisser pour insérer des zones de vitesse.</target>
           <source>Insert spike enemy at beat {0}</source>
           <target>Insérer un ennemi à pointes au temps {0}</target>
         </trans-unit>
-        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description">
+        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description" approved="no">
           <source>&lt;color=#ffff00&gt;Spike Enemies&lt;/color&gt;
 Click to insert spike enemy jumps.</source>
-          <target>&lt;color=#ffff00&gt;Ennemis à Pointes&lt;/color&gt;
-Cliquez pour insérer des sauts d'ennemis à pointes.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Ennemis à Pointes&lt;/color&gt;
+Cliquerpour insérer des sauts d'ennemis à pointes.</target>
         </trans-unit>
         <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy">
           <source>Basic Enemies</source>
@@ -1942,11 +1942,11 @@ Cliquez pour insérer des sauts d'ennemis à pointes.</target>
           <source>Level Editor</source>
           <target>Éditeur de Niveau</target>
         </trans-unit>
-        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description">
+        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description" approved="no">
           <source>&lt;color=#ffff00&gt;Scroll Speed&lt;/color&gt;
 Click on a checkpoint section to edit its scrolling speed.</source>
-          <target>&lt;color=#ffff00&gt;Vitesse de Défilement&lt;/color&gt;
-Cliquez sur une section de point de passage pour modifier sa vitesse de défilement.</target>
+          <target state="translated">&lt;color=#ffff00&gt;Vitesse de Défilement&lt;/color&gt;
+Cliquer sur une section de point de passage pour modifier sa vitesse de défilement.</target>
         </trans-unit>
         <trans-unit id="285910580783263744" xml:space="preserve" resname="settings_metronome">
           <source>Metronome</source>
@@ -2004,11 +2004,11 @@ Cliquez sur une section de point de passage pour modifier sa vitesse de défilem
           <source>Preview</source>
           <target>Prévisualisation</target>
         </trans-unit>
-        <trans-unit id="286259036676730880" xml:space="preserve" resname="editor_tool_preview_description">
+        <trans-unit id="286259036676730880" xml:space="preserve" resname="editor_tool_preview_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Preview&lt;/color&gt;
 Click to start a preview of the level at a given point. Click again to stop.</source>
-          <target>&lt;color=#ffff00&gt;Prévisualisation&lt;/color&gt;
-Cliquez pour démarrer un aperçu du niveau à un point donné. Cliquez de nouveau pour arrêter.</target>
+          <target state="final">&lt;color=#ffff00&gt;Prévisualisation&lt;/color&gt;
+Cliquer pour démarrer un aperçu du niveau à un point donné. Cliquer de nouveau pour arrêter.</target>
         </trans-unit>
         <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties">
           <source>Edit music data</source>
@@ -2102,11 +2102,11 @@ Cliquez pour démarrer un aperçu du niveau à un point donné. Cliquez de nouve
           <source>Edit level metadata</source>
           <target>Modifier les métadonnées</target>
         </trans-unit>
-        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges">
+        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges" approved="no">
           <source>You have unsaved changes!
 Do you want to save them first?</source>
-          <target>Vous avez des modifications non sauvegardées.
-Voulez-vous les conserver ?</target>
+          <target state="translated">Vous avez des modifications non sauvegardées !
+Voulez-vous les sauvegarder ?</target>
         </trans-unit>
         <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges">
           <source>Save</source>
@@ -2196,39 +2196,39 @@ Voulez-vous les conserver ?</target>
           <source>Move</source>
           <target>Déplacer</target>
         </trans-unit>
-        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description">
+        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Move&lt;/color&gt;
 Click and drag objects to move them.</source>
-          <target>&lt;color=#ffff00&gt;Déplacer&lt;/color&gt;
-Cliquez et faites glisser des objets pour les déplacer.</target>
+          <target state="final">&lt;color=#ffff00&gt;Déplacer&lt;/color&gt;
+Cliquer et glisser des objets pour les déplacer.</target>
         </trans-unit>
         <trans-unit id="303377087901511680" xml:space="preserve" resname="editor_invalid_checkpoint">
           <source>Checkpoint #{0} does not exist!</source>
           <target>Le point de passage n° {0} n'existe pas !</target>
         </trans-unit>
-        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description">
+        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Normal)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sauts (Normaux)&lt;/color&gt;
-Cliquez pour ajouter des sauts ou des sauts ailés. Priorise les sauts au sol lorsque possible.</target>
+          <target state="final">&lt;color=#ffff00&gt;Sauts (Normaux)&lt;/color&gt;
+Cliquer pour ajouter des sauts ou des sauts ailés. Priorise les sauts depuis le sol lorsque possible.</target>
         </trans-unit>
-        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description">
+        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Up)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded rising jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sauts (Haut)&lt;/color&gt;
-Cliquez pour ajouter des sauts ou des sauts ailés. Priorise les sauts au sol lorsque possible.</target>
+          <target state="final">&lt;color=#ffff00&gt;Sauts (Haut)&lt;/color&gt;
+Cliquer pour ajouter des sauts ou des sauts ailés. Priorise les sauts ascendants depuis le sol lorsque possible.</target>
         </trans-unit>
-        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description">
+        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Down)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded falling jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sauts (Bas)&lt;/color&gt;
-Cliquez pour ajouter des sauts ou des sauts ailés. Priorise les sauts au sol lorsque possible.</target>
+          <target state="final">&lt;color=#ffff00&gt;Sauts (Bas)&lt;/color&gt;
+Cliquer pour ajouter des sauts ou des sauts ailés. Priorise les sauts descendants depuis le sol lorsque possible.</target>
         </trans-unit>
-        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
+        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Air)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Sauts (Aériens)&lt;/color&gt;
-Cliquez pour ajouter des sauts ailés ou des sauts au sol. Priorise les sauts ailés lorsque possible.</target>
+          <target state="final">&lt;color=#ffff00&gt;Sauts (Aériens)&lt;/color&gt;
+Cliquer pour ajouter des sauts ailés ou des sauts depuis le sol. Priorise les sauts ailés lorsque possible.</target>
         </trans-unit>
         <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal">
           <source>Jumps (Normal)</source>
@@ -2302,9 +2302,9 @@ Cliquez pour ajouter des sauts ailés ou des sauts au sol. Priorise les sauts ai
           <source>Estimated Difficulty: {0}</source>
           <target>Difficulté estimée : {0}</target>
         </trans-unit>
-        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize">
+        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize" approved="yes">
           <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
-          <target>Fichier trop volumineux ! ({0} MB) Choisissez une image inférieure à {1} Mo.</target>
+          <target state="final">Fichier trop volumineux ! ({0} MB) Choisissez une image inférieure à {1} Mo.</target>
         </trans-unit>
         <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay">
           <source>Chart by {0}</source>
@@ -2370,11 +2370,11 @@ Cliquez pour ajouter des sauts ailés ou des sauts au sol. Priorise les sauts ai
           <source>fast ghost enemy</source>
           <target>ennemi fantôme rapide</target>
         </trans-unit>
-        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description">
+        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description" approved="no">
           <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
 Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
-          <target>&lt;color=#ffff00&gt;Ennemis Fantômes Rapides&lt;/color&gt;
-Cliquez pour insérer des fantômes jaunes aux "huitièmes prolongés de temps".</target>
+          <target state="translated">&lt;color=#ffff00&gt;Ennemis Fantômes Rapides&lt;/color&gt;
+Cliquer pour insérer des fantômes jaunes aux "huitièmes pointées".</target>
         </trans-unit>
         <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth">
           <source>Insert fast ghost enemy at beat {0}</source>
@@ -2468,24 +2468,24 @@ Cliquez pour insérer des fantômes jaunes aux "huitièmes prolongés de temps".
           <source>Browse custom levels on mod.io</source>
           <target>Parcourir les niveaux personnalisés sur mod.io</target>
         </trans-unit>
-        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
+        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels" approved="yes">
           <source>Import new custom levels.
 
 You can import levels from:
 - Locally-saved ".rqzip" files
 - Public ".rqzip" URL downloads
 - Fan creations in Steam Workshop</source>
-          <target>Importez de nouveaux niveaux personnalisés.
+          <target state="final">Importer de nouveaux niveaux personnalisés.
 
-Vous pouvez importer des niveaux depuis :
+Vous pouvez importer des niveaux depuis :
 - Des fichiers ".rqzip" sauvegardés localement
 - Des URLs de ".rqzip" publiques
 - Des créations de fans dans le Steam Workshop</target>
         </trans-unit>
-        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
+        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput" approved="yes">
           <source>Enter one or more URL(s) to .rqzip files to download:
 (place each URL on a separate line)</source>
-          <target>Entrez une ou plusieurs URL(s) vers des fichiers ".rqzip" à télécharger :
+          <target state="final">Entrez une ou plusieurs URL(s) vers des fichiers ".rqzip" à télécharger :
 (placez chaque URL sur une ligne séparée)</target>
         </trans-unit>
         <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
@@ -2520,13 +2520,13 @@ Vous pouvez importer des niveaux depuis :
           <source>Sfx Pitch...</source>
           <target>Hauteur Sfx...</target>
         </trans-unit>
-        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription" approved="yes">
           <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
-          <target>Sélectionnez la clef principale de votre musique.
-Note : L'effet sonore des pièces est joué en quinte parfaite.
-(Exemple : Clef de Do -&gt; Les notes des pièces seront Do et Sol)</target>
+          <target state="final">Sélectionnez la clef principale de votre musique.
+Note : L'effet sonore des pièces est joué en quinte parfaite.
+(Exemple : Clef de Do -&gt; Les notes des pièces seront Do et Sol)</target>
         </trans-unit>
         <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
           <source>Palette: Section {0}</source>
@@ -2536,27 +2536,27 @@ Note : L'effet sonore des pièces est joué en quinte parfaite.
           <source>Change color palette for section {0}</source>
           <target>Changer la palette de couleur de la section {0}</target>
         </trans-unit>
-        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
 Click on a checkpoint section to edit its color palette.</source>
-          <target>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
-Cliquez sur une section de point de passage pour changer sa palette de couleurs.</target>
+          <target state="final">&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
+Cliquer sur une section de point de passage pour changer sa palette de couleurs.</target>
         </trans-unit>
         <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette" approved="yes">
           <source>Palettes</source>
           <target state="final">Palettes</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="yes">
           <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
 Do you still want to continue?</source>
-          <target>L'éditeur de niveau de Rhythm Quest ne peut actuellement être utilisé qu'avec une souris ou un autre périphérique de pointage.
-Voulez-vous tout de même continuer ?</target>
+          <target state="final">L'éditeur de niveau de Rhythm Quest ne peut actuellement être utilisé qu'avec une souris ou un autre périphérique de pointage.
+Voulez-vous tout de même continuer ?</target>
         </trans-unit>
-        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
+        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
-          <target>&lt;color=#ffff00&gt;Particules&lt;/color&gt;
-Cliquez sur une section de point de passage pour modifier ses effets de particules.</target>
+          <target state="final">&lt;color=#ffff00&gt;Particules&lt;/color&gt;
+Cliquer sur une section de point de passage pour modifier ses effets de particules.</target>
         </trans-unit>
         <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
           <source>Particles</source>
@@ -2814,9 +2814,9 @@ Les autres ennemis sont colorés en fonction de leur type.</target>
           <source>User ID: {0}</source>
           <target>ID utilisateur : {0}</target>
         </trans-unit>
-        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat">
+        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat" approved="yes">
           <source>Invalid email format. Please enter a valid email address.</source>
-          <target>Format d'e-mail invalide. Veuillez entrer une adresse e-mail valide.</target>
+          <target state="final">Format d'e-mail invalide. Veuillez entrer une adresse e-mail valide.</target>
         </trans-unit>
         <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished">
           <source>This level has never been published to mod.io.</source>
@@ -2870,13 +2870,13 @@ Mis à jour le : {2}</target>
           <source>This level has previously been published on mod.io.</source>
           <target>Ce niveau a précédemment été publié sur mod.io.</target>
         </trans-unit>
-        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description">
+        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description" approved="yes">
           <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
-          <target>Entrez votre adresse e-mail et un code de sécurité vous y sera envoyé pour créer ou vous connecter à votre compte mod.io.</target>
+          <target state="final">Entrez votre adresse e-mail et un code de sécurité vous y sera envoyé pour créer ou vous connecter à votre compte mod.io.</target>
         </trans-unit>
-        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description">
+        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description" approved="yes">
           <source>Enter the security code that was sent to {0}.</source>
-          <target>Entrez le code de sécurité envoyé à {0}.</target>
+          <target state="final">Entrez le code de sécurité envoyé à {0}.</target>
         </trans-unit>
         <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout">
           <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
@@ -2922,18 +2922,18 @@ Un compte est nécessaire pour publier des niveaux sur mod.io.</target>
           <source>Login/Register...</source>
           <target>Connexion/Inscription...</target>
         </trans-unit>
-        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction">
+        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction" approved="yes">
           <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
 
 Login or register an account to publish levels to mod.io.</source>
-          <target>mod.io est un service gratuit utilisé pour héberger et partager les niveaux communautaires de Rhythm Quest.
+          <target state="final">mod.io est un service gratuit utilisé pour héberger et partager les niveaux communautaires de Rhythm Quest.
 
 Connectez-vous ou créez un compte pour publier vos niveaux sur mod.io.</target>
         </trans-unit>
-        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode">
+        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="yes">
           <source>Invalid security code.
 Check the code and try again.</source>
-          <target>Code de sécurité incorrect.
+          <target state="final">Code de sécurité incorrect.
 Vérifiez le code et réessayez.</target>
         </trans-unit>
         <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio" approved="no">
@@ -3142,9 +3142,9 @@ Souhaitez-vous activer des fonctionnalités d'aide ?</target>
           <source>Practice Mode Settings</source>
           <target>Paramètres du Mode Entraînement</target>
         </trans-unit>
-        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
+        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="yes">
           <source>Track Freezing</source>
-          <target>Arrêt du Niveau</target>
+          <target state="final">Arrêt du Niveau</target>
         </trans-unit>
         <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride">
           <source>(Unchanged)</source>
@@ -3166,45 +3166,45 @@ I. Allegro</target>
           <source>Song of the Sea (Expert Mix)</source>
           <target state="final">Song of the Sea (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
+        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="yes">
           <source>Track freezing is disabled.</source>
-          <target>L'arrêt de piste est désactivé.</target>
+          <target state="final">L'arrêt du niveau est désactivé.</target>
         </trans-unit>
-        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled">
+        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled" approved="yes">
           <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
-          <target>L'arrêt de piste est activé. Le niveau s'arrêtera automatiquement pour attendre les bonnes actions.</target>
+          <target state="final">L'arrêt du niveau est activé. Le niveau s'arrêtera automatiquement d'avancer pour attendre les actions appropriées.</target>
         </trans-unit>
-        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
+        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard" approved="yes">
           <source>Press &lt;- and -&gt; to scroll.
 Press Enter to return.</source>
-          <target>Appuyez sur &lt;- et -&gt; pour faire défiler.
-Appuyez sur Entrée pour revenir.</target>
+          <target state="final">Appuyer sur &lt;- et -&gt; pour faire défiler.
+Appuyer sur Entrée pour revenir.</target>
         </trans-unit>
-        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
+        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse" approved="yes">
           <source>Click and drag to scroll left/right.</source>
-          <target>Cliquez et faites glisser pour faire défiler à gauche/droite.</target>
+          <target state="final">Cliquer et glisser pour faire défiler à gauche/droite.</target>
         </trans-unit>
-        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
+        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="yes">
           <source>Tap and drag to scroll left/right.</source>
-          <target>Touchez et faites glisser pour faire défiler à gauche/droite.</target>
+          <target state="final">Toucher et glisser pour faire défiler à gauche/droite.</target>
         </trans-unit>
-        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
+        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="no">
           <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
 Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
-          <target>Utilisez &lt;sprite name="controller_icons_45"&gt; pour faire défiler.
-Appuyez sur &lt;sprite name="controller_icons_60"&gt; pour revenir.</target>
+          <target state="translated">Utiliser &lt;sprite name="controller_icons_45"&gt; pour faire défiler.
+Appuyersur &lt;sprite name="controller_icons_60"&gt; pour revenir.</target>
         </trans-unit>
-        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
+        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox" approved="no">
           <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
 Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
-          <target>Utilisez &lt;sprite name="controller_icons_79"&gt; pour faire défiler.
-Appuyez sur &lt;sprite name="controller_icons_100"&gt; pour revenir.</target>
+          <target state="translated">Utiliser &lt;sprite name="controller_icons_79"&gt; pour faire défiler.
+Appuyer sur &lt;sprite name="controller_icons_100"&gt; pour revenir.</target>
         </trans-unit>
-        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation">
+        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation" approved="no">
           <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
 Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
-          <target>Utilisez &lt;sprite name="controller_icons_16"&gt; pour faire défiler.
-Appuyez sur &lt;sprite name="controller_icons_37"&gt; pour revenir.</target>
+          <target state="translated">Utiliser &lt;sprite name="controller_icons_16"&gt; pour faire défiler.
+Appuyer sur &lt;sprite name="controller_icons_37"&gt; pour revenir.</target>
         </trans-unit>
         <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description">
           <source>Adjust in-game controls.</source>
@@ -3242,11 +3242,11 @@ Appuyez sur &lt;sprite name="controller_icons_37"&gt; pour revenir.</target>
           <source>Exit Practice</source>
           <target>Quitter l'Entraînement</target>
         </trans-unit>
-        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
+        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard" approved="no">
           <source>Practice Mode
 Press Esc for settings</source>
-          <target>Mode Entraînement
-Appuyez sur Échap pour paramétrer</target>
+          <target state="translated">Mode Entraînement
+Appuyer sur Échap pour paramétrer</target>
         </trans-unit>
         <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
           <source>Practice Mode</source>
@@ -3256,23 +3256,23 @@ Appuyez sur Échap pour paramétrer</target>
           <source>Practice Mode</source>
           <target>Mode Entraînement</target>
         </trans-unit>
-        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
+        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation" approved="no">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
-          <target>Mode Entraînement
-Appuyez sur &lt;sprite name="controller_icons_100"&gt; pour paramétrer</target>
+          <target state="translated">Mode Entraînement
+Appuyer sur &lt;sprite name="controller_icons_100"&gt; pour paramétrer</target>
         </trans-unit>
-        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
+        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch" approved="no">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
-          <target>Mode Entraînement
-Appuyez sur &lt;sprite name="controller_icons_65"&gt; pour paramétrer</target>
+          <target state="translated">Mode Entraînement
+Appuyer sur &lt;sprite name="controller_icons_65"&gt; pour paramétrer</target>
         </trans-unit>
-        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
+        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox" approved="yes">
           <source>Practice Mode
 Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
-          <target>Mode Entraînement
-Appuyez sur &lt;sprite name="controller_icons_97"&gt; pour paramétrer</target>
+          <target state="final">Mode Entraînement
+Appuyer sur &lt;sprite name="controller_icons_97"&gt; pour paramétrer</target>
         </trans-unit>
         <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
           <source>Practice Settings</source>
@@ -3380,6 +3380,58 @@ de la Sonate pour piano n°11</target>
       <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="yes">
         <source>World {0}</source>
         <target state="final">Monde {0}</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="yes">
+        <source>Normal</source>
+        <target state="final">Normal</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="yes">
+        <source>Hard</source>
+        <target state="final">Difficile</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="yes">
+        <source>Difficulty: {0}</source>
+        <target state="final">Difficulté : {0}</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="yes">
+        <source>You can change difficulties at any time without losing progress.</source>
+        <target state="final">Vous pouvez changer de difficulté à tout moment sans perdre votre progression.</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="final">La façon prévue de jouer à Rhythm Quest.</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="yes">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="final">La difficulté grimpe plus vite et devient plutôt intense !</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="yes">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="final">La difficulté augmente lentement et ne monte jamais trop haut.</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="yes">
+        <source>Starts simple, but gets complex!</source>
+        <target state="final">Commence simple, mais devient plus complexe !</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="yes">
+        <source>Level Browser</source>
+        <target state="final">Navigateur de Niveaux</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="yes">
+        <source>Easy</source>
+        <target state="final">Facile</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="yes">
+        <source>Select Difficulty</source>
+        <target state="final">Choix de la Difficulté</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="yes">
+        <source>For those who want an easy-going experience.</source>
+        <target state="final">Pour ceux qui préfèrent une expérience décontractée.</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="yes">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="final">Pour ceux qui ont l'habitude des jeux de rhythme.</target>
       </trans-unit>
     </body>
   </file>
