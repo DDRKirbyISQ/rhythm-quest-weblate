@@ -3100,6 +3100,338 @@ Login or register an account to publish levels to mod.io.</source>
         <source>Export Checklist</source>
         <target state="translated">匯出清單</target>
       </trans-unit>
+      <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="no">
+        <source>Mods and Assists</source>
+        <target state="translated">模組和輔助</target>
+      </trans-unit>
+      <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists" approved="no">
+        <source>Assists...</source>
+        <target state="needs-translation">輔助...</target>
+      </trans-unit>
+      <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview" approved="no">
+        <source>Track Preview</source>
+        <target state="translated">譜面預覽</target>
+      </trans-unit>
+      <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats" approved="no">
+        <source>Temporary Cheats...</source>
+        <target state="needs-translation">暫時作弊...</target>
+      </trans-unit>
+      <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt" approved="no">
+        <source>It looks like you're having trouble with this section.
+Would you like to enable game assist features?</source>
+        <target state="needs-translation">看來您在這個片段遇到了麻煩。
+您想要啟用輔助功能嗎？</target>
+      </trans-unit>
+      <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur" approved="no">
+        <source>Applies a blur effect to backdrops so they are less focused.</source>
+        <target state="needs-translation">將背景模糊以降低您對他的注意力。</target>
+      </trans-unit>
+      <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description" approved="no">
+        <source>Assist features that can help with difficult gameplay sections.</source>
+        <target state="needs-translation">對遊玩困難部分有幫助的輔助功能。</target>
+      </trans-unit>
+      <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="no">
+        <source>Repeatedly practice the current section with various assists.</source>
+        <target state="needs-translation">用各種輔助功能反覆練習目前的部分。</target>
+      </trans-unit>
+      <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="no">
+        <source>Allows you to scroll left and right to see the rest of the track.</source>
+        <target state="needs-translation">允許您左右滾動以查看其餘譜面。</target>
+      </trans-unit>
+      <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="no">
+        <source>Options for making the current section easier.</source>
+        <target state="needs-translation">讓目前部分簡單化的設定。</target>
+      </trans-unit>
+      <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+        <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
+        <target state="needs-translation">您隨時都可在"模組和輔助"中啟用輔助。</target>
+      </trans-unit>
+      <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="no">
+        <source>Practice Mode Settings</source>
+        <target state="translated">練習模式設定</target>
+      </trans-unit>
+      <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="no">
+        <source>Track Freezing</source>
+        <target state="needs-translation">譜面停止</target>
+      </trans-unit>
+      <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride" approved="no">
+        <source>(Unchanged)</source>
+        <target state="needs-translation">(無更改)</target>
+      </trans-unit>
+      <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="no">
+        <source>Track freezing is disabled.</source>
+        <target state="needs-translation">譜面停止已停用。</target>
+      </trans-unit>
+      <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard" approved="no">
+        <source>Press &lt;- and -&gt; to scroll.
+Press Enter to return.</source>
+        <target state="translated">按 &lt;- 和 -&gt; 滾動。
+按 Enter 鍵返回。</target>
+      </trans-unit>
+      <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse" approved="no">
+        <source>Click and drag to scroll left/right.</source>
+        <target state="needs-translation">單擊並拖曳以左右滾動。</target>
+      </trans-unit>
+      <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="no">
+        <source>Tap and drag to scroll left/right.</source>
+        <target state="needs-translation">按住並拖曳以左右滾動。</target>
+      </trans-unit>
+      <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox" approved="no">
+        <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
+Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
+        <target state="translated">用 &lt;sprite name="controller_icons_79"&gt; 來滾動。
+按下 &lt;sprite name="controller_icons_100"&gt; 返回。</target>
+      </trans-unit>
+      <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation" approved="no">
+        <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
+Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
+        <target state="translated">用 &lt;sprite name="controller_icons_16"&gt; 來滾動。
+按下 &lt;sprite name="controller_icons_37"&gt; 返回。</target>
+      </trans-unit>
+      <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="no">
+        <source>Adjust in-game controls.</source>
+        <target state="translated">調整遊戲內控制。</target>
+      </trans-unit>
+      <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties" approved="no">
+        <source>Properties</source>
+        <target state="translated">屬性</target>
+      </trans-unit>
+      <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level" approved="no">
+        <source>Level...</source>
+        <target state="translated">關卡...</target>
+      </trans-unit>
+      <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="no">
+        <source>Grid Snap</source>
+        <target state="needs-translation">對齊網格</target>
+      </trans-unit>
+      <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine" approved="no">
+        <source>Fine</source>
+        <target state="needs-translation">完成</target>
+      </trans-unit>
+      <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="no">
+        <source>Helpers</source>
+        <target state="needs-translation">幫手</target>
+      </trans-unit>
+      <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled" approved="no">
+        <source>Don't override settings for visual/audio aids.</source>
+        <target state="needs-translation">不覆蓋視覺/音頻的輔助設定。</target>
+      </trans-unit>
+      <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode" approved="no">
+        <source>Exit Practice</source>
+        <target state="translated">退出練習</target>
+      </trans-unit>
+      <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard" approved="no">
+        <source>Practice Mode
+Press Esc for settings</source>
+        <target state="needs-translation">練習模式
+按 Esc 鍵以打開設定</target>
+      </trans-unit>
+      <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">練習模式</target>
+      </trans-unit>
+      <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">練習模式</target>
+      </trans-unit>
+      <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation" approved="no">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+        <target state="needs-translation">練習模式
+按 &lt;sprite name="controller_icons_100"&gt; 以打開設定</target>
+      </trans-unit>
+      <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch" approved="no">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
+        <target state="needs-translation">練習模式
+按 &lt;sprite name="controller_icons_65"&gt; 以打開設定</target>
+      </trans-unit>
+      <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox" approved="no">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
+        <target state="needs-translation">練習模式
+按 &lt;sprite name="controller_icons_97"&gt; 以打開設定</target>
+      </trans-unit>
+      <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings" approved="no">
+        <source>Practice Settings</source>
+        <target state="needs-translation">練習設定</target>
+      </trans-unit>
+      <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="no">
+        <source>Additional Settings...</source>
+        <target state="needs-translation">其他設定...</target>
+      </trans-unit>
+      <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description" approved="no">
+        <source>Edit additional audio settings.</source>
+        <target state="needs-translation">編輯附加音頻設定</target>
+      </trans-unit>
+      <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="no">
+        <source>Coin Sfx</source>
+        <target state="translated">金幣音效</target>
+      </trans-unit>
+      <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled" approved="no">
+        <source>Coin collection is silent.</source>
+        <target state="translated">金幣音效已關閉。</target>
+      </trans-unit>
+      <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled" approved="no">
+        <source>(Default) Plays a chime whenever a coin is collected.</source>
+        <target state="needs-translation">(默認) 每取得硬幣時撥放音效。</target>
+      </trans-unit>
+      <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch" approved="no">
+        <source>Rumble...</source>
+        <target state="needs-translation">隆隆...</target>
+      </trans-unit>
+      <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch" approved="no">
+        <source>Configure Controls...</source>
+        <target state="needs-translation">操作設定...</target>
+      </trans-unit>
+      <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description" approved="no">
+        <source>Configure controller bindings.</source>
+        <target state="needs-translation">操作按鍵綁定。</target>
+      </trans-unit>
+      <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch" approved="no">
+        <source>Controller Config</source>
+        <target state="needs-translation">控制器設定</target>
+      </trans-unit>
+      <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default" approved="no">
+        <source>Use default controller bindings.</source>
+        <target state="needs-translation">使用默認控制器按鍵。</target>
+      </trans-unit>
+      <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom" approved="no">
+        <source>Use custom controller bindings.</source>
+        <target state="needs-translation">使用自定義按鍵。</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
+        <source>Difficulty: {0}</source>
+        <target state="translated">難度：{0}</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
+        <source>Easy</source>
+        <target state="translated">簡單</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
+        <source>Normal</source>
+        <target state="translated">普通</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="no">
+        <source>Hard</source>
+        <target state="translated">困難</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="no">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="needs-translation">難度緩慢上升，但永遠不會太難。</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="no">
+        <source>For those who want an easy-going experience.</source>
+        <target state="needs-translation">獻給那些追求輕鬆愉快體驗的玩家。</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="needs-translation">您可以在關卡間自由改變難度。</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
+        <source>Select Difficulty</source>
+        <target state="translated">選擇難度</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="needs-translation">Rhythm Quest 應被這樣玩。</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
+        <source>Starts simple, but gets complex!</source>
+        <target state="needs-translation">開始時很簡單，但後面將變得複雜！</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="no">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="needs-translation">獻給那些有音遊經驗的玩家。</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="needs-translation">難度將迅速上升且變得相當激烈！</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
+        <source>Level Browser</source>
+        <target state="needs-translation">關卡瀏覽器</target>
+      </trans-unit>
+      <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage" approved="no">
+        <source>No banner image provided, default will be used</source>
+        <target state="translated">並未提供橫幅圖片，將使用默認圖片</target>
+      </trans-unit>
+      <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats" approved="no">
+        <source>(These settings will reset after the current section is complete)</source>
+        <target state="needs-translation">(這些設定將於當前片段結束後重置)</target>
+      </trans-unit>
+      <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled" approved="no">
+        <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
+        <target state="needs-translation">譜面停止已啟用。關卡將自動停止以等待正確的輸入。</target>
+      </trans-unit>
+      <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="no">
+        <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
+Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
+        <target state="translated">用 &lt;sprite name="controller_icons_45"&gt; 來滾動。
+按下 &lt;sprite name="controller_icons_60"&gt; 返回。</target>
+      </trans-unit>
+      <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="no">
+        <source>Piano Sonata No. 16 in C Major
+I. Allegro</source>
+        <target state="needs-translation">莫札特：第十六號C大調鋼琴奏鳴曲
+I. Allegro</target>
+      </trans-unit>
+      <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
+        <source>Eine kleine Nachtmusik
+I. Allegro</source>
+        <target state="needs-translation">一首小夜曲 (G大調第13號小夜曲)
+I. Allegro</target>
+      </trans-unit>
+      <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="no">
+        <source>Song of the Sea (Expert Mix)</source>
+        <target state="needs-translation">Song of the Sea (Expert Mix)</target>
+      </trans-unit>
+      <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled" approved="no">
+        <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+        <target state="needs-translation">強制開啟視覺/音頻輔助，例如節拍器和輸入時間線。</target>
+      </trans-unit>
+      <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="no">
+        <source>Quantum Orbit</source>
+        <target state="needs-translation">量子軌道</target>
+      </trans-unit>
+      <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
+        <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11</source>
+        <target state="translated">土耳其進行曲 (Rondo alla Turca)
+來自第11號鋼琴奏鳴曲</target>
+      </trans-unit>
+      <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
+        <source>Midnight Moon</source>
+        <target state="needs-translation">Midnight Moon</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
+        <source>Für Elise</source>
+        <target state="translated">致愛麗絲</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
+        <source>Flight of the Bumblebee</source>
+        <target state="needs-translation">大黃蜂的飛行</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
+        <source>Cosmic Conflux</source>
+        <target state="needs-translation">宇宙匯流</target>
+      </trans-unit>
+      <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="no">
+        <source>Flower Fang (Expert Mix)</source>
+        <target state="needs-translation">Flower Fang (Expert Mix)</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+        <source>Level {0}</source>
+        <target state="translated">關卡 {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
+        <source>by {0}</source>
+        <target state="needs-translation">由 {0} 製作</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+        <source>World {0}</source>
+        <target state="translated">世界 {0}</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
