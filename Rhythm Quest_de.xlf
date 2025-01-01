@@ -3406,9 +3406,9 @@ Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
         <source>Difficulty increases slowly and never gets too hard.</source>
         <target state="final">Der Schwierigkeitsgrad steigt langsam und wird nie zu schwer.</target>
       </trans-unit>
-      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="yes">
         <source>You can change difficulties freely between levels.</source>
-        <target state="needs-translation">Du kannst den Schwierigkeitsgrad jederzeit ändern, ohne den Fortschritt zu verlieren.</target>
+        <target state="final">Du kannst den Schwierigkeitsgrad zwischen den Levels frei wechseln.</target>
       </trans-unit>
       <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="yes">
         <source>Select Difficulty</source>
@@ -3429,6 +3429,10 @@ Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
       <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="yes">
         <source>Difficulty ramps up more quickly and becomes quite intense!</source>
         <target state="final">Der Schwierigkeitsgrad nimmt schneller zu und wird ziemlich intensiv!</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="yes">
+        <source>Level Browser</source>
+        <target state="final">Level Browser</target>
       </trans-unit>
     </body>
   </file>
