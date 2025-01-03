@@ -3359,6 +3359,58 @@ from Piano Sonata No. 11</target>
         <source>World {0}</source>
         <target state="final">Mundo {0}</target>
       </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="yes">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="final">A dificuldade aumenta gradualmente e nunca fica muito difícil.</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="yes">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="final">Para aqueles que têm experiência com jogos de ritmo.</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="yes">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="final">A dificuldade aumenta mais rapidamente e se torna bastante intensa!</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="yes">
+        <source>Difficulty: {0}</source>
+        <target state="final">Dificuldade: {0}</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="yes">
+        <source>Easy</source>
+        <target state="final">Fácil</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="yes">
+        <source>Normal</source>
+        <target state="final">Normal</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="yes">
+        <source>Hard</source>
+        <target state="final">Difícil</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="yes">
+        <source>For those who want an easy-going experience.</source>
+        <target state="final">Para aqueles que desejam uma experiência tranquila.</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="yes">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="final">Você pode alterar livremente o nível de dificuldade entre os níveis.</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="yes">
+        <source>Select Difficulty</source>
+        <target state="final">Selecione a Dificuldade</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="final">A maneira como o Rhythm Quest deve ser jogado.</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="yes">
+        <source>Starts simple, but gets complex!</source>
+        <target state="final">Começa simples, mas se torna complexo!</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="yes">
+        <source>Level Browser</source>
+        <target state="final">Navegador de Níveis</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
