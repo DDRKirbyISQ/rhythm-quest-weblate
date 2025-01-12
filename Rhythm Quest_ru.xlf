@@ -8,9 +8,9 @@
     </header>
     <body>
       <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
-        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings" approved="yes">
           <source>Settings</source>
-          <target>Настройки</target>
+          <target state="final">Настройки</target>
         </trans-unit>
         <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="no">
           <source>Start Game</source>
@@ -722,9 +722,9 @@ Remaining:</source>
           <source>Enchanted Oasis</source>
           <target state="translated">Зачарованный оазис</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="yes">
           <source>Gameplay Trailer</source>
-          <target state="needs-translation">Gameplay Trailer</target>
+          <target state="final">Gameplay Trailer</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="no">
           <source>Snowy Peak</source>
@@ -3368,6 +3368,70 @@ from Piano Sonata No. 11</source>
       <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
         <source>Skip Tutorial</source>
         <target state="translated">Пропустить обучение</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="yes">
+        <source>Difficulty: {0}</source>
+        <target state="final">Сложность: {0}</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="yes">
+        <source>Easy</source>
+        <target state="final">Легкая</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="yes">
+        <source>Normal</source>
+        <target state="final">Нормальная</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="yes">
+        <source>Hard</source>
+        <target state="final">Сложная</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="yes">
+        <source>For those who want an easy-going experience.</source>
+        <target state="final">Для тех, кто не любит сложности.</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="yes">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="final">Сложность нарастает плавно, но не становится слишком высокой.</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="yes">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="final">Вы можете сменить сложность в любой момент между уровнями.</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="yes">
+        <source>Select Difficulty</source>
+        <target state="final">Выбор Сложности</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="final">То, как Rhythm Quest задумывался к прохождению.</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="yes">
+        <source>Starts simple, but gets complex!</source>
+        <target state="final">Простое начало, но сложнее с каждым уровнем!</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="yes">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="final">Для опытных игроков в ритм игры.</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="yes">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="final">Сложность растет быстрее и становится достаточно тяжелой!</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="yes">
+        <source>Level Browser</source>
+        <target state="final">Список Уровней</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+        <source>World {0}</source>
+        <target state="translated">Мир {0}</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="yes">
+        <source>Level {0}</source>
+        <target state="final">Уровень {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
+        <source>by {0}</source>
+        <target state="translated">автор: {0}</target>
       </trans-unit>
     </body>
   </file>
