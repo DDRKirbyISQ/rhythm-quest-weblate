@@ -2066,9 +2066,9 @@ Kliknij, aby rozpocząć podgląd poziomu w danym punkcie. Kliknij ponownie, aby
           <source>New level created</source>
           <target>Nowy poziom został utworzony</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="no">
           <source>File...</source>
-          <target>Plik</target>
+          <target state="translated">Plik...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2112,9 +2112,9 @@ Czy chcesz je zapisać?</target>
           <source>Don't Save</source>
           <target>Nie zapisuj</target>
         </trans-unit>
-        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings" approved="no">
           <source>Settings...</source>
-          <target>Ustawienia</target>
+          <target state="translated">Ustawienia...</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -2512,16 +2512,16 @@ Możesz importować poziomy z:
           <source>Green Grasslands (+ grass)</source>
           <target>Pistacjowe Pastwiska (+ trawa)</target>
         </trans-unit>
-        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
+        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch" approved="no">
           <source>Sfx Pitch...</source>
-          <target>Ton Sfx...</target>
+          <target state="translated">Ton Efektów...</target>
         </trans-unit>
-        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription" approved="no">
           <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
-          <target>Wybierz główny ton/klucz swojej piosenki.
-Uwaga: Sfx monet grają w idealnych piątkach
+          <target state="translated">Wybierz główny ton/klucz swojej piosenki.
+Uwaga: Efekty dźwiękowe monet grają w idealnych kwintach
 (Przykład: Klucz C -&gt; Nuty monet będą C i G)</target>
         </trans-unit>
         <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
@@ -2558,9 +2558,9 @@ Kliknij punkt zapisu sekcji, aby zmienić jej drobinki.</target>
           <source>Particles</source>
           <target>Drobinki</target>
         </trans-unit>
-        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
+        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles" approved="no">
           <source>Change particle effects for section {0}</source>
-          <target>Zmień drobinki dla sekcji {0}</target>
+          <target state="translated">Zmień efekt cząsteczkowy dla sekcji {0}</target>
         </trans-unit>
         <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
           <source>Particles: Section {0}</source>
@@ -2766,9 +2766,9 @@ Pozostali wrogowie są kolorowani na podstawie typu wroga.</target>
           <source>Rolling spikes are colored according to beat offset.</source>
           <target>Toczące kolce są kolorowane na podstawie przesunięcia rytmu.</target>
         </trans-unit>
-        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
+        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="no">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>Toczące kolce są kolorowane niebiesko/zielono w zależności od rodzaju akcji (skok / skok + atak).</target>
+          <target state="translated">Toczące kolce są kolorowane na niebiesko/zielono w zależności od rodzaju akcji (skok / skok + atak).</target>
         </trans-unit>
         <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
           <source>Air jump wings are colored blue, flight path wings are colored green.</source>
@@ -2778,9 +2778,9 @@ Pozostali wrogowie są kolorowani na podstawie typu wroga.</target>
           <source>All wings are colored based on beat offset.</source>
           <target>Wszystkie skrzydła są kolorowane na podstawie przesunięcia rytmu.</target>
         </trans-unit>
-        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
           <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>Wszystkie skrzydła są kolorowane niebiesko/zielono w zależności od rodzaju akcji (skok / skok + atak).</target>
+          <target state="translated">Wszystkie skrzydła są kolorowane na niebiesko/zielono w zależności od rodzaju akcji (skok / skok + atak).</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
@@ -2807,6 +2807,186 @@ Pozostali wrogowie są kolorowani na podstawie typu wroga.</target>
           <target>Sterowanie...</target>
         </trans-unit>
       </group>
+    </body>
+  </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="pl" datatype="plaintext">
+    <body>
+      <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="no">
+        <source>Companions</source>
+        <target state="translated">Towarzysze</target>
+      </trans-unit>
+      <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished" approved="no">
+        <source>This level has never been published to mod.io.</source>
+        <target state="translated">Ten poziom nigdy nie został opublikowany na mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
+
+You need an account in order to publish levels to mod.io.</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; Nie jesteś zalogowany do mod.io.
+
+Potrzebujesz konta, aby publikować poziomy na mod.io.</target>
+      </trans-unit>
+      <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="no">
+        <source>Fix</source>
+        <target state="translated">Napraw</target>
+      </trans-unit>
+      <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard" approved="no">
+        <source>Press &lt;- and -&gt; to scroll.
+Press Enter to return.</source>
+        <target state="translated">Naciśnij &lt;- i -&gt;, aby przewinąć.
+Naciśnij Enter, aby powrócić.</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Powrót do menu głównego.</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+        <source>Level {0}</source>
+        <target state="translated">Poziom {0}</target>
+      </trans-unit>
+      <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription" approved="no">
+        <source>Level ID: {0}
+
+Author: {1}
+
+Last updated: {2}</source>
+        <target state="translated">ID Poziomu: {0}
+
+Autor: {1}
+
+Ostatnia Aktualizacja: {2}</target>
+      </trans-unit>
+      <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu" approved="no">
+        <source>Publish to mod.io...</source>
+        <target state="translated">Opublikuj na mod.io...</target>
+      </trans-unit>
+      <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile" approved="no">
+        <source>Export as .rqzip</source>
+        <target state="translated">Eksportuj jako .rqzip</target>
+      </trans-unit>
+      <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio" approved="no">
+        <source>Publish new version</source>
+        <target state="translated">Opublikuj nową wersję</target>
+      </trans-unit>
+      <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails" approved="no">
+        <source>Account details...</source>
+        <target state="translated">Szczegóły konta...</target>
+      </trans-unit>
+      <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio" approved="no">
+        <source>Publish to mod.io</source>
+        <target state="translated">Opublikuj na mod.io</target>
+      </trans-unit>
+      <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin" approved="no">
+        <source>You are logged into mod.io as:</source>
+        <target state="translated">Jesteś zalogowany do mod.io jako:</target>
+      </trans-unit>
+      <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published" approved="no">
+        <source>This level has previously been published on mod.io.</source>
+        <target state="translated">Ten poziom został wcześniej opublikowany na mod.io.</target>
+      </trans-unit>
+      <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit" approved="no">
+        <source>Submit</source>
+        <target state="translated">Prześlij</target>
+      </trans-unit>
+      <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout" approved="no">
+        <source>Logout</source>
+        <target state="translated">Wyloguj</target>
+      </trans-unit>
+      <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam" approved="no">
+        <source>Login/Register with Steam</source>
+        <target state="translated">Zaloguj/Zarejestruj się przez Steam</target>
+      </trans-unit>
+      <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">Tryb Treningowy</target>
+      </trans-unit>
+      <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="no">
+        <source>Additional Settings...</source>
+        <target state="translated">Dodatkowe Ustawienia...</target>
+      </trans-unit>
+      <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="no">
+        <source>Practice Mode Settings</source>
+        <target state="translated">Ustawienia Trybu Treningowego</target>
+      </trans-unit>
+      <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level" approved="no">
+        <source>Level...</source>
+        <target state="translated">Poziom...</target>
+      </trans-unit>
+      <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="no">
+        <source>Helpers</source>
+        <target state="translated">Pomocnicy</target>
+      </trans-unit>
+      <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard" approved="no">
+        <source>Practice Mode
+Press Esc for settings</source>
+        <target state="translated">Tryb Treningowy
+Naciśnij Esc, aby przejść do ustawień</target>
+      </trans-unit>
+      <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">Tryb Treningowy</target>
+      </trans-unit>
+      <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">Tryb Treningowy</target>
+      </trans-unit>
+      <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="no">
+        <source>Coin Sfx</source>
+        <target state="translated">Efekty dźwiękowe monet</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">Pomiń Samouczek</target>
+      </trans-unit>
+      <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled" approved="no">
+        <source>Coin collection is silent.</source>
+        <target state="translated">Zbieranie monet jest ciche.</target>
+      </trans-unit>
+      <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled" approved="no">
+        <source>(Default) Plays a chime whenever a coin is collected.</source>
+        <target state="translated">(Domyślnie) Odtwarza dźwięk za każdym razem, gdy moneta zostanie zebrana.</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+        <source>World {0}</source>
+        <target state="translated">Świat {0}</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
+        <source>Easy</source>
+        <target state="translated">Łatwy</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
+        <source>Normal</source>
+        <target state="translated">Normalny</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="no">
+        <source>Hard</source>
+        <target state="translated">Trudny</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="no">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="translated">Poziom trudności wzrasta powoli i nigdy nie staje się zbyt trudny.</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
+        <source>Select Difficulty</source>
+        <target state="translated">Wybierz Stopień Trudności</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="translated">Sposób, w jaki powinno się grać w Rhythm Quest.</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="no">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="translated">Dla tych, którzy mają doświadczenie z grami rytmicznymi.</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="translated">Poziom trudności rośnie coraz szybciej i staje się dość intensywny!</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="translated">Możesz dowolnie zmieniać poziom trudności pomiędzy poziomami.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
