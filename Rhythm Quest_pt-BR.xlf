@@ -3411,6 +3411,10 @@ from Piano Sonata No. 11</target>
         <source>Level Browser</source>
         <target state="final">Navegador de Níveis</target>
       </trans-unit>
+      <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
+        <source>Song name/artist and chart author needs to be filled out</source>
+        <target state="translated">Nome da música/artista e autor da fase precisam ser preenchidos</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
