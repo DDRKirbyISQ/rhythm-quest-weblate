@@ -2290,9 +2290,9 @@ Kliknij, aby dodać skoki lub skrzydlate skoki. Preferowane są skrzydlate skoki
           <source>Open levels folder</source>
           <target>Otwórz folder poziomów</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
-          <source>Back to menu</source>
-          <target>Wróć do menu</target>
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
+          <source>Back to Menu</source>
+          <target state="needs-translation">Wróć do menu</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2570,9 +2570,9 @@ Kliknij punkt zapisu sekcji, aby zmienić jej drobinki.</target>
           <source>Standing Here Alone (Expert Mix)</source>
           <target>Samotnie Tu Stojąc (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero</source>
-          <target>Super Mega Zero</target>
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
+          <source>Super Mega Zero (RQ Edit)</source>
+          <target state="needs-translation">Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
