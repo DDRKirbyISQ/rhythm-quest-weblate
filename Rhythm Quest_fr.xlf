@@ -2294,9 +2294,9 @@ Cliquer pour ajouter des sauts ailés ou des sauts depuis le sol. Priorise les s
           <source>Open levels folder</source>
           <target>Ouvrir le dossier des niveaux</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
-          <source>Back to menu</source>
-          <target>Retour au menu</target>
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
+          <source>Back to Menu</source>
+          <target state="needs-translation">Retour au menu</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror" approved="yes">
           <source>Error loading level</source>
@@ -2574,9 +2574,9 @@ Cliquer sur une section de point de passage pour modifier ses effets de particul
           <source>Standing Here Alone (Expert Mix)</source>
           <target>Standing Here Alone (Mix Expert)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
-          <source>Super Mega Zero</source>
-          <target state="final">Super Mega Zero</target>
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
+          <source>Super Mega Zero (RQ Edit)</source>
+          <target state="needs-translation">Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
