@@ -2270,26 +2270,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Banner (cropped to 4:1 aspect ratio):</source>
           <target>Banner (cropped to 4:1 aspect ratio):</target>
         </trans-unit>
-        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19">
-          <source>(Easy)</source>
-          <target>(Easy)</target>
-        </trans-unit>
-        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39">
-          <source>(Medium)</source>
-          <target>(Medium)</target>
-        </trans-unit>
-        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59">
-          <source>(Hard)</source>
-          <target>(Hard)</target>
-        </trans-unit>
-        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79">
-          <source>(Expert)</source>
-          <target>(Expert)</target>
-        </trans-unit>
-        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100">
-          <source>(Impossible)</source>
-          <target>(Impossible)</target>
-        </trans-unit>
         <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
           <source>Load Image</source>
           <target>Load Image</target>
@@ -2314,17 +2294,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Open levels folder</source>
           <target>Open levels folder</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot">
-          <source>Back to (All Levels)</source>
-          <target>Back to (All Levels)</target>
-        </trans-unit>
-        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
-          <source>Back to {0}</source>
-          <target>Back to {0}</target>
-        </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
-          <source>Back to menu</source>
-          <target>Back to menu</target>
+          <source>Back to Menu</source>
+          <target>Back to Menu</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2334,25 +2306,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Opens the directory where custom levels are stored.</source>
           <target>Opens the directory where custom levels are stored.</target>
         </trans-unit>
-        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder">
-          <source>Return to the previous folder. ({0})</source>
-          <target>Return to the previous folder. ({0})</target>
-        </trans-unit>
-        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot">
-          <source>Return to the main custom levels directory.</source>
-          <target>Return to the main custom levels directory.</target>
-        </trans-unit>
-        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu">
-          <source>Return to the main custom levels menu.</source>
-          <target>Return to the main custom levels menu.</target>
-        </trans-unit>
         <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
           <source>{0} BPM</source>
           <target>{0} BPM</target>
-        </trans-unit>
-        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist">
-          <source>by {0}</source>
-          <target>by {0}</target>
         </trans-unit>
         <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
           <source>Export</source>
@@ -2619,8 +2575,8 @@ Click on a checkpoint section to edit its particle effects.</target>
           <target>Standing Here Alone (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero</source>
-          <target>Super Mega Zero</target>
+          <source>Super Mega Zero (RQ Edit)</source>
+          <target>Super Mega Zero (RQ Edit)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -3427,6 +3383,186 @@ from Piano Sonata No. 11</target>
         <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser">
           <source>Level Browser</source>
           <target>Level Browser</target>
+        </trans-unit>
+        <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline">
+          <source>Difficulty:
+{0}</source>
+          <target>Difficulty:
+{0}</target>
+        </trans-unit>
+        <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice">
+          <source>Purchase for
+{0}</source>
+          <target>Purchase for
+{0}</target>
+        </trans-unit>
+        <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button">
+          <source>Purchase Level</source>
+          <target>Purchase Level</target>
+        </trans-unit>
+        <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button">
+          <source>Play Level</source>
+          <target>Play Level</target>
+        </trans-unit>
+        <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description">
+          <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+          <target>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</target>
+        </trans-unit>
+        <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins">
+          <source>(Owned: {0})</source>
+          <target>(Owned: {0})</target>
+        </trans-unit>
+        <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient">
+          <source>Not enough coins!</source>
+          <target>Not enough coins!</target>
+        </trans-unit>
+        <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation">
+          <source>Purchase
+{0}
+for {1}?</source>
+          <target>Purchase
+{0}
+for {1}?</target>
+        </trans-unit>
+        <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect">
+          <source>Back to Level Select</source>
+          <target>Back to Level Select</target>
+        </trans-unit>
+        <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description">
+          <source>Return to the main menu.</source>
+          <target>Return to the main menu.</target>
+        </trans-unit>
+        <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description">
+          <source>Return to the level selection menu.</source>
+          <target>Return to the level selection menu.</target>
+        </trans-unit>
+        <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up">
+          <source>Bottled Up (RQ Edit)</source>
+          <target>Bottled Up (RQ Edit)</target>
+        </trans-unit>
+        <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn">
+          <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+          <target>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+        </trans-unit>
+        <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia">
+          <source>Claustrophobia</source>
+          <target>Claustrophobia</target>
+        </trans-unit>
+        <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description">
+          <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+          <target>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</target>
+        </trans-unit>
+        <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description">
+          <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+          <target>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</target>
+        </trans-unit>
+        <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description">
+          <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+          <target>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</target>
+        </trans-unit>
+        <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description">
+          <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+          <target>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</target>
+        </trans-unit>
+        <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description">
+          <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+          <target>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</target>
+        </trans-unit>
+        <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description">
+          <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+          <target>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</target>
+        </trans-unit>
+        <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description">
+          <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+          <target>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</target>
+        </trans-unit>
+        <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description">
+          <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+          <target>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</target>
+        </trans-unit>
+        <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description">
+          <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+          <target>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</target>
+        </trans-unit>
+        <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description">
+          <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+          <target>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</target>
+        </trans-unit>
+        <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description">
+          <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+          <target>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</target>
+        </trans-unit>
+        <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description">
+          <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+          <target>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</target>
+        </trans-unit>
+        <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description">
+          <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+          <target>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</target>
+        </trans-unit>
+        <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description">
+          <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+          <target>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</target>
+        </trans-unit>
+        <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description">
+          <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+          <target>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</target>
+        </trans-unit>
+        <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description">
+          <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+          <target>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</target>
+        </trans-unit>
+        <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description">
+          <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+          <target>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</target>
+        </trans-unit>
+        <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description">
+          <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+          <target>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</target>
+        </trans-unit>
+        <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description">
+          <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+          <target>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</target>
         </trans-unit>
       </group>
     </body>
