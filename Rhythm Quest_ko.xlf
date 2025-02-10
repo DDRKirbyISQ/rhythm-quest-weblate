@@ -2294,9 +2294,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Open levels folder</source>
           <target>레벨 폴더 열기</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
-          <source>Back to menu</source>
-          <target>메뉴로 돌아가기</target>
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
+          <source>Back to Menu</source>
+          <target state="needs-translation">메뉴로 돌아가기</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2574,9 +2574,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Standing Here Alone (Expert Mix)</source>
           <target>Standing Here Alone (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
-          <source>Super Mega Zero</source>
-          <target>Super Mega Zero</target>
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
+          <source>Super Mega Zero (RQ Edit)</source>
+          <target state="needs-translation">Super Mega Zero</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
