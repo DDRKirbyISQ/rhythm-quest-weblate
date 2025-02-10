@@ -2270,26 +2270,6 @@ Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge gefl�
           <source>Banner (cropped to 4:1 aspect ratio):</source>
           <target state="final">Banner (auf 4:1 Seitenverhältnis zugeschnitten):</target>
         </trans-unit>
-        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19" approved="yes">
-          <source>(Easy)</source>
-          <target state="final">(Einfach)</target>
-        </trans-unit>
-        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39" approved="yes">
-          <source>(Medium)</source>
-          <target state="final">(Mittel)</target>
-        </trans-unit>
-        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59" approved="yes">
-          <source>(Hard)</source>
-          <target state="final">(Schwer)</target>
-        </trans-unit>
-        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79" approved="yes">
-          <source>(Expert)</source>
-          <target state="final">(Experte)</target>
-        </trans-unit>
-        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100" approved="yes">
-          <source>(Impossible)</source>
-          <target state="final">(Unmöglich)</target>
-        </trans-unit>
         <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage" approved="yes">
           <source>Load Image</source>
           <target state="final">Bild laden</target>
@@ -2314,14 +2294,6 @@ Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge gefl�
           <source>Open levels folder</source>
           <target state="final">Level-Ordner öffnen</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot" approved="yes">
-          <source>Back to (All Levels)</source>
-          <target state="final">Zurück zu (Alle Level)</target>
-        </trans-unit>
-        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder" approved="yes">
-          <source>Back to {0}</source>
-          <target state="final">Zurück zu {0}</target>
-        </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="yes">
           <source>Back to menu</source>
           <target state="final">Zurück zum Menü</target>
@@ -2334,25 +2306,9 @@ Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge gefl�
           <source>Opens the directory where custom levels are stored.</source>
           <target state="final">Öffnet das Verzeichnis, in dem benutzerdefinierte Level gespeichert werden.</target>
         </trans-unit>
-        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder" approved="yes">
-          <source>Return to the previous folder. ({0})</source>
-          <target state="final">Zurück zum vorherigen Ordner. ({0})</target>
-        </trans-unit>
-        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot" approved="yes">
-          <source>Return to the main custom levels directory.</source>
-          <target state="final">Zurück zum Hauptverzeichnis der benutzerdefinierten Level.</target>
-        </trans-unit>
-        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu" approved="yes">
-          <source>Return to the main custom levels menu.</source>
-          <target state="final">Zurück zum Hauptmenü der benutzerdefinierten Level.</target>
-        </trans-unit>
         <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm" approved="yes">
           <source>{0} BPM</source>
           <target state="final">{0} BPM</target>
-        </trans-unit>
-        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist" approved="yes">
-          <source>by {0}</source>
-          <target state="final">von {0}</target>
         </trans-unit>
         <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel" approved="yes">
           <source>Export</source>

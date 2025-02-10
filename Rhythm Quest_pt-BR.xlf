@@ -2270,26 +2270,6 @@ Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos al
           <source>Banner (cropped to 4:1 aspect ratio):</source>
           <target>Banner (cortado para a proporção 4:1):</target>
         </trans-unit>
-        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19">
-          <source>(Easy)</source>
-          <target>(Fácil)</target>
-        </trans-unit>
-        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39">
-          <source>(Medium)</source>
-          <target>(Médio)</target>
-        </trans-unit>
-        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59">
-          <source>(Hard)</source>
-          <target>(Difícil)</target>
-        </trans-unit>
-        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79">
-          <source>(Expert)</source>
-          <target>(Extremo)</target>
-        </trans-unit>
-        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100">
-          <source>(Impossible)</source>
-          <target>(Impossível)</target>
-        </trans-unit>
         <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
           <source>Load Image</source>
           <target>Carregar Imagem</target>
@@ -2314,14 +2294,6 @@ Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos al
           <source>Open levels folder</source>
           <target>Abrir pasta de níveis</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot">
-          <source>Back to (All Levels)</source>
-          <target>Retornar para (Todos os Níveis)</target>
-        </trans-unit>
-        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
-          <source>Back to {0}</source>
-          <target>Retornar para {0}</target>
-        </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
           <source>Back to menu</source>
           <target>Voltar ao menu</target>
@@ -2334,25 +2306,9 @@ Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos al
           <source>Opens the directory where custom levels are stored.</source>
           <target>Abre o diretório onde os níveis personalizados são armazenados.</target>
         </trans-unit>
-        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder">
-          <source>Return to the previous folder. ({0})</source>
-          <target>Retornar à pasta anterior. ({0})</target>
-        </trans-unit>
-        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot">
-          <source>Return to the main custom levels directory.</source>
-          <target>Retornar ao diretório dos níveis personalizados.</target>
-        </trans-unit>
-        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu">
-          <source>Return to the main custom levels menu.</source>
-          <target>Retornar ao menu de níveis personalizados.</target>
-        </trans-unit>
         <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
           <source>{0} BPM</source>
           <target>{0} BPM</target>
-        </trans-unit>
-        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist">
-          <source>by {0}</source>
-          <target>por {0}</target>
         </trans-unit>
         <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
           <source>Export</source>

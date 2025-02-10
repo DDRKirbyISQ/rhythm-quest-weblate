@@ -2271,26 +2271,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Banner (cropped to 4:1 aspect ratio):</source>
           <target>Банер (обрізаний до співвідношення сторін 4:1):</target>
         </trans-unit>
-        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19">
-          <source>(Easy)</source>
-          <target>(Легкий)</target>
-        </trans-unit>
-        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39">
-          <source>(Medium)</source>
-          <target>(Середній)</target>
-        </trans-unit>
-        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59">
-          <source>(Hard)</source>
-          <target>(Складний)</target>
-        </trans-unit>
-        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79">
-          <source>(Expert)</source>
-          <target>(Експерт)</target>
-        </trans-unit>
-        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100">
-          <source>(Impossible)</source>
-          <target>(Неможливий)</target>
-        </trans-unit>
         <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
           <source>Load Image</source>
           <target>Завантажити зображення</target>
@@ -2315,14 +2295,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Open levels folder</source>
           <target>Відкрити теку з рівнями</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot">
-          <source>Back to (All Levels)</source>
-          <target>Повернутися до (Усіх рівнів)</target>
-        </trans-unit>
-        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
-          <source>Back to {0}</source>
-          <target>Повернутися до {0}</target>
-        </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
           <source>Back to menu</source>
           <target>Повернутися до меню</target>
@@ -2335,25 +2307,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Opens the directory where custom levels are stored.</source>
           <target>Відкрити каталог, де зберігаються користувацькі рівні.</target>
         </trans-unit>
-        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder">
-          <source>Return to the previous folder. ({0})</source>
-          <target>Повернутися до попередньої теки. ({0})</target>
-        </trans-unit>
-        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot">
-          <source>Return to the main custom levels directory.</source>
-          <target>Повернутися до основного каталогу користувацьких рівнів.</target>
-        </trans-unit>
-        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu">
-          <source>Return to the main custom levels menu.</source>
-          <target>Повернутися до основного меню користувацьких рівнів.</target>
-        </trans-unit>
         <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
           <source>{0} BPM</source>
           <target>{0} BPM</target>
-        </trans-unit>
-        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist">
-          <source>by {0}</source>
-          <target>від {0}</target>
         </trans-unit>
         <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
           <source>Export</source>

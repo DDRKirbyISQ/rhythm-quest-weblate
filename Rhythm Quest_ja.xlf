@@ -2270,26 +2270,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Banner (cropped to 4:1 aspect ratio):</source>
           <target>バナー (縦横比4:1までに切り取り)：</target>
         </trans-unit>
-        <trans-unit id="307103163412688896" xml:space="preserve" resname="customlevel_difficulty_0-19">
-          <source>(Easy)</source>
-          <target>(Easy)</target>
-        </trans-unit>
-        <trans-unit id="307103166680051712" xml:space="preserve" resname="customlevel_difficulty_20-39">
-          <source>(Medium)</source>
-          <target>(Medium)</target>
-        </trans-unit>
-        <trans-unit id="307103168676540416" xml:space="preserve" resname="customlevel_difficulty_40-59">
-          <source>(Hard)</source>
-          <target>(Hard)</target>
-        </trans-unit>
-        <trans-unit id="307103169414737920" xml:space="preserve" resname="customlevel_difficulty_60-79">
-          <source>(Expert)</source>
-          <target>(Expert)</target>
-        </trans-unit>
-        <trans-unit id="307103272326180864" xml:space="preserve" resname="customlevel_difficulty_80-100">
-          <source>(Impossible)</source>
-          <target>(Impossible)</target>
-        </trans-unit>
         <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
           <source>Load Image</source>
           <target>画像の読み込み</target>
@@ -2314,14 +2294,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Open levels folder</source>
           <target>レベルフォルダを開く</target>
         </trans-unit>
-        <trans-unit id="307735268257738752" xml:space="preserve" resname="menu_navigatebacktoroot" approved="no">
-          <source>Back to (All Levels)</source>
-          <target state="translated">(全てのレベル) に戻る</target>
-        </trans-unit>
-        <trans-unit id="307735272502374400" xml:space="preserve" resname="menu_navigatebacktofolder">
-          <source>Back to {0}</source>
-          <target>{0} に戻る</target>
-        </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
           <source>Back to menu</source>
           <target>メニューに戻る</target>
@@ -2334,25 +2306,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Opens the directory where custom levels are stored.</source>
           <target>カスタムレベルを保存するディレクトリを開きます。</target>
         </trans-unit>
-        <trans-unit id="307820752019435520" xml:space="preserve" resname="menu_description_backtofolder">
-          <source>Return to the previous folder. ({0})</source>
-          <target>前のフォルダに戻ります。({0})</target>
-        </trans-unit>
-        <trans-unit id="307820772512804864" xml:space="preserve" resname="menu_description_backtoroot">
-          <source>Return to the main custom levels directory.</source>
-          <target>メインのカスタムレベルディレクトリに戻ります。</target>
-        </trans-unit>
-        <trans-unit id="307820787385806848" xml:space="preserve" resname="menu_description_backtomenu">
-          <source>Return to the main custom levels menu.</source>
-          <target>メインのカスタムレベルメニューに戻ります。</target>
-        </trans-unit>
         <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
           <source>{0} BPM</source>
           <target>{0} BPM</target>
-        </trans-unit>
-        <trans-unit id="308168379944710144" xml:space="preserve" resname="customlevel_bymusicartist">
-          <source>by {0}</source>
-          <target>作成者： {0}</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="no">
           <source>Spellbound Nebula</source>
