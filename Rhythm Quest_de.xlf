@@ -3390,6 +3390,186 @@ Drücke &lt;sprite name="controller_icons_100"&gt; für Einstellungen</target>
         <source>Level Browser</source>
         <target state="final">Level Browser</target>
       </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target state="translated">Ursprünglich in meinem älteren Rhythmusspiel „Ripple Runner Deluxe“, dem spirituellen Vorgänger von Rhythm Quest, enthalten.
+Dies war das letzte und schwierigste Level, das dem Spiel in einem Post-Jam-Update hinzugefügt wurde.</target>
+      </trans-unit>
+      <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
+        <source>Return to the level selection menu.</source>
+        <target state="translated">Zurück zum Level-Auswahlmenü.</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="translated">The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="no">
+        <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        <target state="translated">Dieses Lied wurde in einer Stunde komponiert und belegte den ersten Platz in Runde 569 von „One Hour Compo“, einem wöchentlichen Online-Kompositionswettbewerb.
+Es macht reichlich Gebrauch von einer Guzheng (chinesische Zupfzither) Instrumentenbibliothek.</target>
+      </trans-unit>
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
+        <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        <target state="translated">Ein Song, den ich 2019 als einen von mehreren Tracks geschrieben habe, die sich auf interessante perkussive Sounds und Rhythmen konzentrieren, ein wenig inspiriert von Tracks des Duos „Made in Heights“.
+Es verwendet mehrere Samples, die ich selbst mit Glasflaschen aufgenommen habe.</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="translated">Ein Chiptune-Track, der ursprünglich für die Einbindung in Welt 3 gedacht war.
+In diesem Level wurden ursprünglich die grünen Angriffs- und Sprungkombinationen eingeführt, bevor diese Mechanik in Welt 5 verschoben wurde.</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="translated">Die Bagatelle Nr. 25 in a-Moll, besser bekannt als „Für Elise“, ist eine bekannte Komposition von Ludwig van Beethoven.
+Die Identität der titelgebenden „Elise“ ist ungewiss, es wird jedoch angenommen, dass es sich um eine enge Freundin oder eine wichtige Figur in seinem Leben handelt.</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
+        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="translated">Der dritte Satz der Klaviersonate Nr. 11 in A-Dur von Wolfgang Amadeus Mozart ist auch als „Rondo alla Turca“ oder „Türkischer Marsch“ bekannt und ist eine Melodie, die man sofort erkennt.
+Die Komposition soll dem Stil der Militärkapellen des türkischen Reiches nachempfunden sein.</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="translated">Ursprünglich in „Melody Muncher“ enthalten, einem Zwei-Tasten-Rhythmus-Spiel, das ich 2015 für den Ludum Dare Game Jam entwickelt habe.
+Lieder aus Melody Muncher eignen sich aufgrund der ähnlichen Spielmechanik natürlich auch für die Erstellung von Charts in Rhythm Quest.</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="translated">Ursprünglich in „Melody Muncher“ enthalten, einem Zwei-Tasten-Rhythmus-Spiel, das ich 2015 für den Ludum Dare Game Jam entwickelt habe.
+Dies ist der langsamste Song im Spiel, der die Mechanik der blauen Feinde einführen soll, die sich nach einem Treffer hinter dich teleportieren.</target>
+      </trans-unit>
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
+        <source>Difficulty:
+{0}</source>
+        <target state="translated">Schwierigkeit:
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
+        <source>Purchase for
+{0}</source>
+        <target state="translated">Kaufen für
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
+        <source>Purchase Level</source>
+        <target state="translated">Level kaufen</target>
+      </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
+        <source>Play Level</source>
+        <target state="translated">Level spielen</target>
+      </trans-unit>
+      <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
+        <source>(Owned: {0})</source>
+        <target state="translated">(Besitzt: {0})</target>
+      </trans-unit>
+      <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
+        <source>Not enough coins!</source>
+        <target state="translated">Nicht genug Münzen!</target>
+      </trans-unit>
+      <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation" approved="no">
+        <source>Purchase
+{0}
+for {1}?</source>
+        <target state="translated">{0}
+für {1}
+kaufen?</target>
+      </trans-unit>
+      <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
+        <source>Back to Level Select</source>
+        <target state="translated">Zurück zur Level-Auswahl</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Zurück zum Hauptmenü.</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="translated">Bottled Up (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+        <source>Claustrophobia</source>
+        <target state="translated">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
+        <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        <target state="translated">Ursprünglich in dem Spiel „Nyamo's Adventure“ enthalten, an dem ich 2016 für den Ludum Dare Game Jam gearbeitet habe.
+Nyamo's Adventure ist ein 2D-„Metroidvania“-ähnlicher Plattformer über einen formwandelnden Blob.</target>
+      </trans-unit>
+      <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="no">
+        <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        <target state="translated">Ein schneller Song mit ostasiatischen Instrumenten wie Taiko-Trommeln und Guzheng (chinesische Zupfzither).
+Dieses Level konzentriert sich nur auf die grundlegenden Mechanismen und ist auch dann spielbar, wenn du die späteren Welten noch nicht erreicht hast.</target>
+      </trans-unit>
+      <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
+        <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        <target state="translated">Ursprünglich in dem Rhythmusspiel „Samurai Shaver“ enthalten, an dem ich 2017 für den Ludum Dare Game Jam gearbeitet habe.
+Dies war der erste Track, der nach Ende des Game Jams zum Spiel hinzugefügt wurde, und verwendet ein langsameres Tempo.</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="translated">Ein von „Liquid Drum and Bass“-Musik inspirierter Track. Das Tempo ist mit 170 Beats pro Minute recht schnell.
+Die schnellen Drum-Patterns kontrastieren mit üppigen melodischen Elementen und atmosphärischen Flächen.</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="translated">Der erste Satz der Serenade Nr. 13 für Streicher in G-Dur von Wolfgang Amadeus Mozart, bekannt als „Eine kleine Nachtmusik“, ist eines von Mozarts berühmtesten Werken.
+Das Stück wurde ursprünglich als Komposition für ein Streichquintett geschrieben.</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">Der erste Satz der Klaviersonate Nr. 16 in C-Dur von Wolfgang Amadeus Mozart ist eine lebhafte und bekannte Melodie, die typisch für Mozarts Werke ist.
+Sie ist auch als „Sonata facile“ oder „Sonata semplice“ bekannt, also „für Anfänger“.</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">„Flight of the Bumblebee“ ist ein bekanntes Orchesterzwischenspiel, das für die Oper "The Tale of Tsar Saltan" geschrieben wurde und an das chaotische Flugmuster einer Hummel erinnern soll.
+Die ständigen Sechzehntelnoten-Muster verleihen dem Stück eine rasante Energie.</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="translated">Ein Track, der Elemente der „Synthwave“-Musik verwendet, darunter warme analoge Synthesizer.
+Ich habe Vinyl-Emulationseffekte verwendet, um dem Sound ein subtiles „Vintage“-Gefühl zu verleihen.</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="translated">Ursprünglich in „Melody Muncher“ enthalten, einem Zwei-Tasten-Rhythmus-Spiel, das ich 2015 für den Ludum Dare Game Jam entwickelt habe.
+Dies ist der „Experten-Mix“ des Songs, der in einem Update nach dem Jam hinzugefügt wurde, um den Schwierigkeitsgrad zu erhöhen.</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="translated">Ursprünglich war es in meinem älteren Rhythmus-Spiel „Ripple Runner Deluxe“ enthalten, dem geistigen Vorgänger von Rhythm Quest.
+Dies war das Lied mit dem langsamsten Tempo in diesem Spiel, das sich durch die Verwendung von verketteten Spike-Plattformen auszeichnete.</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="translated">Ein peppiger Chiptune-Track, den ich in einer einzigen Sitzung innerhalb von 3 Stunden geschrieben habe, nachdem ich von der Musik von „Aivi &amp; Surasshu“ inspiriert wurde.
+Die Intro-Melodie hat einen Bezug zu „Lonely Rolling Star“, da wir beide verwandte Neuarrangements dieses Songs geschaffen haben.</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="translated">Der Titelsong und die Trailermusik für „Super Mega Zero“, ein von Silkworm entwickelter Platformer, für den ich die Musik in meinem klassischen „9-Bit“-Stil schreiben sollte.
+Dieser Song sollte energiegeladen und temporeich sein, um die Spieler für das Spiel zu begeistern.</target>
+      </trans-unit>
     </body>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="de" datatype="plaintext">
