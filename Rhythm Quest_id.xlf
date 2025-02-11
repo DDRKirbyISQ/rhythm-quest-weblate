@@ -432,17 +432,17 @@ Grafis: DDRKirby(ISQ)</target>
           <source>Tap left half of screen to attack, tap right half to jump.</source>
           <target>Ketuk separuh layar kiri untuk menyerang, ketuk separuh layar kanan untuk lompat.</target>
         </trans-unit>
-        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="yes">
           <source>Jump</source>
-          <target>Lompat</target>
+          <target state="final">Lompat</target>
         </trans-unit>
-        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack" approved="yes">
           <source>Attack</source>
-          <target>Serang</target>
+          <target state="final">Serang</target>
         </trans-unit>
-        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="yes">
           <source>Press a key</source>
-          <target>Tekan tombol</target>
+          <target state="final">Tekan sebuah tombol</target>
         </trans-unit>
         <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
           <source>Select a key to use for &lt;Attack&gt;.</source>
@@ -486,17 +486,17 @@ Are you sure you want to proceed?</source>
           <target>Semua data game yang disimpan akan dihapus.
 Apakah Anda yakin ingin melanjutkan?</target>
         </trans-unit>
-        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="yes">
           <source>Yes</source>
-          <target>Ya</target>
+          <target state="final">Ya</target>
         </trans-unit>
         <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="yes">
           <source>No</source>
           <target state="final">Tidak</target>
         </trans-unit>
-        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
+        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed" approved="yes">
           <source>Game data has successfully been erased.</source>
-          <target>Data game berhasil dihapus.</target>
+          <target state="final">Data game berhasil dihapus.</target>
         </trans-unit>
         <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
           <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
@@ -506,13 +506,13 @@ Apakah Anda yakin ingin melanjutkan?</target>
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
           <target>Jika Anda ingin melakukan kalibrasi di lain waktu, Anda selalu dapat melakukannya di menu &lt;color=yellow&gt;Setelan&lt;/color&gt;.</target>
         </trans-unit>
-        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
+        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="yes">
           <source>Done</source>
-          <target>Selesai</target>
+          <target state="final">Selesai</target>
         </trans-unit>
-        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
+        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="yes">
           <source>Continue</source>
-          <target>Lanjutkan</target>
+          <target state="final">Lanjutkan</target>
         </trans-unit>
         <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
           <source>Do you want to calibrate audio lag now?</source>
@@ -558,9 +558,9 @@ Apakah Anda yakin ingin melanjutkan?</target>
           <source>Flipped</source>
           <target>Dibalik</target>
         </trans-unit>
-        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="yes">
           <source>Calibration complete!</source>
-          <target>Kalibrasi selesai!</target>
+          <target state="final">Kalibrasi selesai!</target>
         </trans-unit>
         <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
           <source>The flashing squares should now match the beeps.
@@ -600,9 +600,9 @@ Jika tidak, sesuaikan secara manual hingga tersinkronkan.</target>
           <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
           <target>Tekan &lt;sprite name="controller_icons_60"&gt; bersamaan dengan bunyi bip</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
+        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
           <source>Yes (Recommended)</source>
-          <target>Ya (Direkomendasikan)</target>
+          <target state="final">Ya (Direkomendasikan)</target>
         </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
@@ -624,13 +624,13 @@ Jika tidak, sesuaikan secara manual hingga tersinkronkan.</target>
           <source>Unavailable</source>
           <target>Tidak Tersedia</target>
         </trans-unit>
-        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="yes">
           <source>Perfect Clear!</source>
-          <target>Selesai dengan Sempurna!</target>
+          <target state="final">Selesai dengan Sempurna!</target>
         </trans-unit>
-        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
+        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count" approved="no">
           <source>Respawns: {0}</source>
-          <target>Respawn: {0}</target>
+          <target state="translated">Bangkit kembali: {0}</target>
         </trans-unit>
         <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
           <source>Haunted Prairie</source>
@@ -656,13 +656,13 @@ Fokus untuk mencocokan suara ketukan anda dengan bunyi bip.
           <source>Your accuracy: {0}%</source>
           <target>Akurasi anda: {0}%</target>
         </trans-unit>
-        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="yes">
           <source>Quit to Menu</source>
-          <target>Keluar ke Menu</target>
+          <target state="final">Keluar ke Menu</target>
         </trans-unit>
-        <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
+        <trans-unit id="34008930576228352" xml:space="preserve" resname="new" approved="yes">
           <source>New</source>
-          <target>Baru</target>
+          <target state="final">Baru</target>
         </trans-unit>
         <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
           <source>Shop</source>
@@ -686,9 +686,9 @@ Digunakan:
 
 Tersisa:</target>
         </trans-unit>
-        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected">
+        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected" approved="yes">
           <source>Selected</source>
-          <target>Dipilih</target>
+          <target state="final">Dipilih</target>
         </trans-unit>
         <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase">
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
@@ -698,9 +698,9 @@ Tersisa:</target>
           <source>Take It to the Limit</source>
           <target>Take It to the Limit</target>
         </trans-unit>
-        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
+        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview" approved="yes">
           <source>Preview</source>
-          <target>Pratinjau</target>
+          <target state="final">Pratinjau</target>
         </trans-unit>
         <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy">
           <source>Buy</source>
@@ -2650,6 +2650,10 @@ Apakah kamu tetap ingin melanjutkan?</target>
       <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset" approved="no">
         <source>Backdrop Set</source>
         <target state="needs-translation">Set Latar Belakang</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="yes">
+        <source>Return to the main menu.</source>
+        <target state="final">Kembali ke menu utama.</target>
       </trans-unit>
     </body>
   </file>
