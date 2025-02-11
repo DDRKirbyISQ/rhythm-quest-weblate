@@ -20,25 +20,25 @@
           <source>Extras</source>
           <target>Ekstra</target>
         </trans-unit>
-        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="yes">
           <source>Quit</source>
-          <target>Keluar</target>
+          <target state="final">Keluar</target>
         </trans-unit>
-        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back" approved="yes">
           <source>Back</source>
-          <target>Kembali</target>
+          <target state="final">Kembali</target>
         </trans-unit>
         <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
           <source>Lag Calibration...</source>
           <target>Kalibrasi...</target>
         </trans-unit>
-        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics" approved="yes">
           <source>Graphics</source>
-          <target>Grafis</target>
+          <target state="final">Grafik</target>
         </trans-unit>
-        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio" approved="yes">
           <source>Audio</source>
-          <target>Suara</target>
+          <target state="final">Audio</target>
         </trans-unit>
         <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
           <source>Interface Settings</source>
@@ -48,17 +48,17 @@
           <source>Controls</source>
           <target>Kontrol</target>
         </trans-unit>
-        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="yes">
           <source>Accessibility</source>
-          <target>Aksesibilitas</target>
+          <target state="final">Aksesibilitas</target>
         </trans-unit>
-        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="yes">
           <source>Scaling Mode</source>
-          <target>Mode Skala</target>
+          <target state="final">Mode Skala</target>
         </trans-unit>
-        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="yes">
           <source>Flexible</source>
-          <target>Fleksibel</target>
+          <target state="final">Fleksibel</target>
         </trans-unit>
         <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
           <source>Pixel Perfect</source>
@@ -76,37 +76,37 @@
           <source>Maximized</source>
           <target>Maximized</target>
         </trans-unit>
-        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
+        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen" approved="yes">
           <source>Fullscreen</source>
-          <target>Layar Penuh</target>
+          <target state="final">Layar Penuh</target>
         </trans-unit>
         <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed">
           <source>Game will be run in a window. Can be resized.</source>
           <target>Game akan berjalan di jendela. Bisa diubah ukurannya.</target>
         </trans-unit>
-        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="no">
           <source>Game will run in a maximized window.</source>
-          <target>Game akan berjalan di jendela maximized.</target>
+          <target state="translated">Game akan berjalan di jendela maksimal.</target>
         </trans-unit>
-        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="yes">
           <source>Game will run in exclusive fullscreen mode.</source>
-          <target>Permainan akan berjalan di mode eksklusif layar penuh.</target>
+          <target state="final">Permainan akan berjalan di mode eksklusif layar penuh.</target>
         </trans-unit>
-        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="yes">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
-          <target>Antarmuka dan kamera akan diperbesar agar sesuai dengan layar. Dapat menghasilkan piksel non-persegi, terutama pada resolusi yang lebih rendah.</target>
+          <target state="final">Antarmuka dan kamera akan diperbesar agar sesuai dengan layar. Dapat menghasilkan piksel non-persegi, terutama pada resolusi yang lebih rendah.</target>
         </trans-unit>
-        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="yes">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
-          <target>(Bawaan) Antarmuka dan kamera hanya akan diskalakan berdasarkan jumlah bulangan bulat. Memastikan bahwa piksel berbentuk persegi, namun mungkin perlu diperkecil lebih jauh.</target>
+          <target state="final">(Bawaan) Antarmuka dan kamera hanya akan diskalakan berdasarkan jumlah bulangan bulat. Memastikan bahwa piksel berbentuk persegi, namun mungkin perlu diperkecil lebih jauh.</target>
         </trans-unit>
-        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
           <source>Resolution</source>
-          <target>Resolusi</target>
+          <target state="final">Resolusi</target>
         </trans-unit>
-        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="yes">
           <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
-          <target>Sesuaikan resolusi jendela ke nilai preset. (Resolusi layar penuh tidak dapat diubah)</target>
+          <target state="final">Sesuaikan resolusi jendela ke nilai preset. (Resolusi layar penuh tidak dapat diubah)</target>
         </trans-unit>
         <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
           <source>Vertical Sync</source>
@@ -120,37 +120,37 @@
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
           <target>(Bawaan) Menyinkronkan rendering dengan kecepatan refresh tampilan. Mencegah artefak robek secara visual.</target>
         </trans-unit>
-        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="yes">
           <source>Disabled</source>
-          <target>Nonaktif</target>
+          <target state="final">Nonaktif</target>
         </trans-unit>
-        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
           <source>Enabled</source>
-          <target>Aktif</target>
+          <target state="final">Aktif</target>
         </trans-unit>
-        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="yes">
           <source>Scaling Settings...</source>
-          <target>Pengaturan Skala...</target>
+          <target state="final">Pengaturan Skala...</target>
         </trans-unit>
-        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="yes">
           <source>Return to the previous menu.</source>
-          <target>Kembali ke menu sebelumnya.</target>
+          <target state="final">Kembali ke menu sebelumnya.</target>
         </trans-unit>
         <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
           <source>Zoom Level</source>
           <target>Tingkat zoom</target>
         </trans-unit>
-        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
+        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
           <source>Default</source>
-          <target>Bawaan</target>
+          <target state="final">Bawaan</target>
         </trans-unit>
-        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far">
+        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="yes">
           <source>Far</source>
-          <target>Jauh</target>
+          <target state="final">Jauh</target>
         </trans-unit>
-        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near">
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="yes">
           <source>Near</source>
-          <target>Dekat</target>
+          <target state="final">Dekat</target>
         </trans-unit>
         <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
@@ -164,53 +164,53 @@
           <source>Forces a zoomed-in gameplay view.</source>
           <target>Memaksakan tampilan gameplay yang diperbesar.</target>
         </trans-unit>
-        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="yes">
           <source>Music Volume</source>
-          <target>Volume Musik</target>
+          <target state="final">Volume Musik</target>
         </trans-unit>
-        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="yes">
           <source>Adjust the volume of the game music.</source>
-          <target>Sesuaikan volume musik game.</target>
+          <target state="final">Sesuaikan volume musik game.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="yes">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>Sesuaikan volume efek suara dalam game.</target>
+          <target state="final">Sesuaikan volume efek suara dalam game.</target>
         </trans-unit>
-        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="no">
           <source>Sfx Volume</source>
-          <target>Volume Sfx</target>
+          <target state="translated">Volume Efek Suara</target>
         </trans-unit>
-        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="yes">
           <source>Effect Settings...</source>
-          <target>Perngaturan Efek...</target>
+          <target state="final">Perngaturan Efek...</target>
         </trans-unit>
-        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake" approved="yes">
           <source>Screen Shake</source>
-          <target>Getaran Layar</target>
+          <target state="final">Getaran Layar</target>
         </trans-unit>
-        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="yes">
           <source>Disables screen shake effects.</source>
-          <target>Matikan efek geratan layar.</target>
+          <target state="final">Matikan efek getaran layar.</target>
         </trans-unit>
-        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="yes">
           <source>Enables screen shake effects.</source>
-          <target>Aktifkan efek geratan layar.</target>
+          <target state="final">Aktifkan efek getaran layar.</target>
         </trans-unit>
-        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="no">
           <source>Screen Flashes</source>
-          <target>Layar Flash</target>
+          <target state="needs-translation">Layar Berkedip</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="no">
           <source>Enables screen flash effects.</source>
-          <target>Aktifkan efek flash layar.</target>
+          <target state="needs-translation">Aktifkan efek flash layar.</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="no">
           <source>Disables screen flash effects.</source>
-          <target>Matikan efek flash layar.</target>
+          <target state="needs-translation">Matikan efek flash layar.</target>
         </trans-unit>
-        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling" approved="no">
           <source>Sfx Prescheduling</source>
-          <target>Penjadwalan Sfx</target>
+          <target state="needs-translation">Penjadwalan Sfx</target>
         </trans-unit>
         <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
           <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
@@ -220,9 +220,9 @@
           <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
           <target>(Bawaan) Suara aksi akan dijadwalkan sebelumnya sehingga tersinkronisasi dengan sempurna. Mereka akan tetap bersuara meskipun inputnya terlewat.</target>
         </trans-unit>
-        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="yes">
           <source>Audio Offset</source>
-          <target>Audio Offset</target>
+          <target state="final">Offset Audio</target>
         </trans-unit>
         <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
           <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
@@ -232,85 +232,85 @@
           <source>Cheats</source>
           <target>Cheats</target>
         </trans-unit>
-        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="yes">
           <source>Auto Play</source>
-          <target>Main Otomatis</target>
+          <target state="final">Main Otomatis</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
-          <target>Buka Semua Level</target>
+          <target state="final">Buka Semua Level</target>
         </trans-unit>
-        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="yes">
           <source>Auto play is disabled.</source>
-          <target>Main Otomatis Mati.</target>
+          <target state="final">Main Otomatis Mati.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Main Otomatis Aktif. Level akan bermain otomatis tanpa input pemain. (Progres akan tetap disimpan)</target>
+          <target state="final">Main Otomatis Aktif. Level akan otomatis bermain tanpa input pemain. (Progres akan tetap disimpan)</target>
         </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
           <source>Levels must be unlocked normally.</source>
-          <target>Level harus dibuka dengan normal.</target>
+          <target state="final">Level harus dibuka dengan normal.</target>
         </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
+        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="yes">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>Semua level dibuka dari awal. (Progres akan tetap disimpan)</target>
+          <target state="final">Semua level dibuka dari awal. (Progres akan tetap disimpan)</target>
         </trans-unit>
-        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
-          <target>Tekan Enter untuk Melanjutkan</target>
+          <target state="final">Tekan Enter untuk Melanjutkan</target>
         </trans-unit>
-        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="yes">
           <source>Click to Continue</source>
-          <target>Klik untuk Melanjutkan</target>
+          <target state="final">Klik untuk Melanjutkan</target>
         </trans-unit>
-        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="yes">
           <source>Tap to Continue</source>
-          <target>Ketuk untuk Melanjutkan</target>
+          <target state="final">Ketuk untuk Melanjutkan</target>
         </trans-unit>
-        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="yes">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
-          <target>Tekan &lt;sprite name="controller_icons_100"&gt; untuk Melanjutkan</target>
+          <target state="final">Tekan &lt;sprite name="controller_icons_100"&gt; untuk Melanjutkan</target>
         </trans-unit>
-        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="yes">
           <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
-          <target>Tekan &lt;sprite name="controller_icons_37"&gt; untuk Melanjutkan</target>
+          <target state="final">Tekan &lt;sprite name="controller_icons_37"&gt; untuk Melanjutkan</target>
         </trans-unit>
-        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="yes">
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
-          <target>Tekan &lt;sprite name="controller_icons_60"&gt; untuk Melanjutkan</target>
+          <target state="final">Tekan &lt;sprite name="controller_icons_60"&gt; untuk Melanjutkan</target>
         </trans-unit>
-        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="no">
           <source>Font Style</source>
-          <target>Gaya Teks</target>
+          <target state="translated">Gaya Font</target>
         </trans-unit>
-        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
+        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="yes">
           <source>Pixel Font</source>
-          <target>Font Piksel</target>
+          <target state="final">Font Piksel</target>
         </trans-unit>
-        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled">
+        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled" approved="yes">
           <source>Smooth Font</source>
-          <target>Font Halus</target>
+          <target state="final">Font Halus</target>
         </trans-unit>
-        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled">
+        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled" approved="yes">
           <source>Use smooth font for the interface.</source>
-          <target>Menggunakan font halus untuk antarmuka.</target>
+          <target state="final">Menggunakan font halus untuk antarmuka.</target>
         </trans-unit>
-        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled">
+        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled" approved="yes">
           <source>Use pixel-styled font for the interface.</source>
-          <target>Menggunakan font gaya piksel untuk antarmuka.</target>
+          <target state="final">Menggunakan font gaya piksel untuk antarmuka.</target>
         </trans-unit>
         <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
           <source>On-screen Buttons</source>
           <target>Tombol di layar</target>
         </trans-unit>
-        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
+        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide" approved="yes">
           <source>Hide</source>
-          <target>Sembunyikan</target>
+          <target state="final">Sembunyikan</target>
         </trans-unit>
-        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show">
+        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show" approved="yes">
           <source>Show</source>
-          <target>Tampilkan</target>
+          <target state="final">Tampilkan</target>
         </trans-unit>
         <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
           <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
@@ -400,25 +400,25 @@ Grafis: DDRKirby(ISQ)</target>
           <source>Credits</source>
           <target>Kredit</target>
         </trans-unit>
-        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume">
+        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="yes">
           <source>Resume</source>
-          <target>Lanjutkan</target>
+          <target state="final">Lanjutkan</target>
         </trans-unit>
-        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused">
+        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused" approved="yes">
           <source>Paused</source>
-          <target>Dijeda</target>
+          <target state="final">Dijeda</target>
         </trans-unit>
-        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete" approved="yes">
           <source>Level Complete</source>
-          <target>Level Selesai</target>
+          <target state="final">Level Selesai</target>
         </trans-unit>
-        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
+        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language" approved="yes">
           <source>Language</source>
-          <target>Bahasa</target>
+          <target state="final">Bahasa</target>
         </trans-unit>
-        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked">
+        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="yes">
           <source>(Locked)</source>
-          <target>(Terkunci)</target>
+          <target state="final">(Terkunci)</target>
         </trans-unit>
         <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols">
           <source>Control Positioning</source>
@@ -490,9 +490,9 @@ Apakah Anda yakin ingin melanjutkan?</target>
           <source>Yes</source>
           <target>Ya</target>
         </trans-unit>
-        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="yes">
           <source>No</source>
-          <target>Tidak</target>
+          <target state="final">Tidak</target>
         </trans-unit>
         <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
           <source>Game data has successfully been erased.</source>
@@ -872,9 +872,9 @@ Untuk pengalaman terbaik, silahkan mencoba versi offline!</target>
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
           <target>Versi lengkap Rhythm Quest akan berisi 30 level di 6 dunia, level bonus yang dapat dibuka, dan lebih banyak lagi mekanisme gameplay!</target>
         </trans-unit>
-        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
+        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next" approved="yes">
           <source>Next</source>
-          <target>Selanjutnya</target>
+          <target state="final">Selanjutnya</target>
         </trans-unit>
         <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3">
           <source>Wishlist and follow Rhythm Quest online for future updates!</source>
@@ -2066,9 +2066,9 @@ Klik untuk memulai pratinjau level pada titik tertentu. Klik lagi untuk berhenti
           <source>New level created</source>
           <target>Level baru dibuat</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="no">
           <source>File...</source>
-          <target>Berkas</target>
+          <target state="translated">Berkas...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2286,9 +2286,9 @@ Klik untuk menambah lompatan atau lompatan udara bersayap. Disarankan lompatan u
           <source>Open levels folder</source>
           <target>Buka folder level</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="yes">
           <source>Back to Menu</source>
-          <target state="needs-translation">Kembali ke menu</target>
+          <target state="final">Kembali ke Menu</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2496,41 +2496,41 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
           <source>Particles: Section {0}</source>
           <target>Partikel: Bagian {0}</target>
         </trans-unit>
-        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
+        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none" approved="yes">
           <source>None</source>
-          <target>Tidak ada</target>
+          <target state="final">Tidak ada</target>
         </trans-unit>
-        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
+        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves" approved="yes">
           <source>Leaves</source>
-          <target>Daun</target>
+          <target state="final">Daun</target>
         </trans-unit>
-        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
+        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds" approved="yes">
           <source>Diamonds</source>
-          <target>Berlian</target>
+          <target state="final">Berlian</target>
         </trans-unit>
-        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
+        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow" approved="yes">
           <source>Snow</source>
-          <target>Salju</target>
+          <target state="final">Salju</target>
         </trans-unit>
-        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
+        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots" approved="yes">
           <source>Dots</source>
-          <target>Titik</target>
+          <target state="final">Titik</target>
         </trans-unit>
-        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
+        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars" approved="yes">
           <source>Stars</source>
-          <target>Bintang</target>
+          <target state="final">Bintang</target>
         </trans-unit>
-        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
+        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals" approved="yes">
           <source>Petals</source>
-          <target>Kelopak bunga</target>
+          <target state="final">Kelopak bunga</target>
         </trans-unit>
-        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails">
+        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails" approved="yes">
           <source>Trails</source>
-          <target>Jejak</target>
+          <target state="final">Jejak</target>
         </trans-unit>
-        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain">
+        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain" approved="yes">
           <source>Rain</source>
-          <target>Hujan</target>
+          <target state="final">Hujan</target>
         </trans-unit>
         <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
           <source>Violet Hyperwave</source>
@@ -2544,13 +2544,13 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
           <source>Standing Here Alone (Expert Mix)</source>
           <target>Standing Here Alone (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="final">Super Mega Zero (RQ Edit)</target>
         </trans-unit>
-        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
+        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="yes">
           <source>Colors</source>
-          <target>Warna</target>
+          <target state="final">Warna</target>
         </trans-unit>
         <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
           <source>As the Cherry Blossom Falls</source>
@@ -2640,6 +2640,16 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
       <trans-unit id="299097886033752064" xml:space="preserve" resname="editor_input_songname" approved="no">
         <source>Song name:</source>
         <target state="translated">Nama lagu:</target>
+      </trans-unit>
+      <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="no">
+        <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
+Do you still want to continue?</source>
+        <target state="needs-translation">Level editor Rhythm Quest hanya bisa menggunakan mouse atau perangkat pointer lainnya.
+Apakah kamu tetap ingin melanjutkan?</target>
+      </trans-unit>
+      <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset" approved="no">
+        <source>Backdrop Set</source>
+        <target state="needs-translation">Set Latar Belakang</target>
       </trans-unit>
     </body>
   </file>
