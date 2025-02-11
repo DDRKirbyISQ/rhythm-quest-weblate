@@ -2296,7 +2296,7 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
         </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
           <source>Back to Menu</source>
-          <target state="needs-translation">返回菜单</target>
+          <target state="translated">返回菜单</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2576,7 +2576,7 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="translated">Super Mega Zero (RQ Edit)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -3115,7 +3115,7 @@ I. Allegro</target>
         <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
           <source>Eine kleine Nachtmusik
 I. Allegro</source>
-          <target state="translated">G 大调弦乐小夜曲
+          <target state="translated">一首小夜曲
 I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
@@ -3289,7 +3289,7 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11</source>
-          <target state="translated">土耳其进行曲 (Rondo alla Turca)
+          <target state="translated">土耳其进行曲
 来自第 11 号钢琴奏鸣曲</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
@@ -3388,6 +3388,186 @@ from Piano Sonata No. 11</source>
       <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
         <source>The way Rhythm Quest was meant to be played.</source>
         <target state="translated">Rhythm Quest 本该游玩的方式。</target>
+      </trans-unit>
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
+        <source>Difficulty:
+{0}</source>
+        <target state="translated">难度：
+{0}</target>
+      </trans-unit>
+      <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
+        <source>Not enough coins!</source>
+        <target state="translated">金币不足！</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="translated">The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target state="translated">最初出现在我更早的节奏游戏 “Ripple Runner Deluxe” 上，它是 Rhythm Quest 的精神前作。
+这是那个游戏里的最终也是最难的关卡，其在 Game Jam 结束后的一次更新中被添加到了游戏里。</target>
+      </trans-unit>
+      <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
+        <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        <target state="translated">最初出现在我在 2016 年参加 Ludum Dare 游戏制作比赛时制作的游戏 “Nyamo's Adventure”。
+Nyamo's Adventure 是一款 2D 类银河战士恶魔城的平台跳跃游戏，主角是一个会变形的圆球。</target>
+      </trans-unit>
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
+        <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        <target state="translated">这是我在 2019 年写的一首歌曲，它是几首曲子中的一首，这些曲子侧重于有趣的打击声和节奏，某种程度上受到二人乐队 “Made in Heights” 作品的启发。
+它用到了我自己用玻璃瓶录制的几个采样。</target>
+      </trans-unit>
+      <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="no">
+        <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        <target state="translated">一首以东亚乐器为特色的快节奏歌曲，比如太鼓和古筝。
+这个关卡只侧重于基础机制，即使你没有到达后期的世界也可以玩。</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="translated">A 小调第 25 号小品曲，更常见的名称是 “致爱丽丝”，是路德维希·凡·贝多芬的一首著名作品。
+标题中 “爱丽丝” 的身份尚不明确，但一般都认为是他生命中的一位亲密朋友或者重要人物。</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
+        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="translated">由沃尔夫冈·阿玛多伊斯·莫扎特创作的 A 大调第 11 号钢琴奏鸣曲的第三乐章，也被称作 “土耳其进行曲”，其旋律很容易就能辨认出来。
+据说这首作品模仿了土耳其帝国军乐队的风格。</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="translated">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
+由于机制相似，在 Rhythm Quest 中可以很自然地给 Melody Muncher 里的歌曲制谱。</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="translated">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
+这是那个游戏中最慢的一首歌曲，旨在引入被击打后会传送到你身后的蓝色敌人这个机制。</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="translated">一首欢快的芯片音乐曲子。受 “Aivi &amp; Surasshu” 的音乐启发，我一口气花了 3 小时写成此曲。
+开头的旋律参考了 “Lonely Rolling Star”，因为我们都创作过那首歌曲相关的重编曲。</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
+        <source>Purchase Level</source>
+        <target state="translated">购买关卡</target>
+      </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
+        <source>Play Level</source>
+        <target state="translated">游玩关卡</target>
+      </trans-unit>
+      <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
+        <source>(Owned: {0})</source>
+        <target state="translated">（拥有：{0}）</target>
+      </trans-unit>
+      <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
+        <source>Back to Level Select</source>
+        <target state="translated">回到关卡选择</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">回到主菜单。</target>
+      </trans-unit>
+      <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
+        <source>Return to the level selection menu.</source>
+        <target state="translated">回到关卡选择菜单。</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="translated">Bottled Up (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+        <source>Claustrophobia</source>
+        <target state="translated">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation" approved="no">
+        <source>Purchase
+{0}
+for {1}?</source>
+        <target state="translated">以 {1} 购买
+{0}
+吗？</target>
+      </trans-unit>
+      <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="no">
+        <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        <target state="translated">这首曲子是在一个小时内完成创作的，它在第 569 轮 “One Hour Compo” ——一项每周线上作曲比赛——中排名第一。
+它大量使用了一个古筝音源库。</target>
+      </trans-unit>
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
+        <source>Purchase for
+{0}</source>
+        <target state="translated">购买需要
+{0}</target>
+      </trans-unit>
+      <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
+        <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        <target state="translated">最初出现在我在 2017 年参加 Ludum Dare 游戏制作比赛时制作的节奏游戏 “Samurai Shaver”。
+这是 Game Jam 结束后添加到游戏里的第一首曲子，节奏更慢一点。</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="translated">一首原本打算收录于世界 3 的芯片音乐曲子。
+这个关卡最初引入了绿色攻击 + 跳跃连击敌人，但这个机制后来移到了世界 5。</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="translated">一首受 “Liquid Drum and Bass” 音乐启发的曲子。节奏很快，达到 170 拍每分钟。
+快速的鼓点节奏与葱郁的旋律元素、大气磅礴的 Pad 形成对比。</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="translated">由沃尔夫冈·阿玛多伊斯·莫扎特创作的 G 大调第 13 号弦乐小夜曲的第一乐章，也被称作 “小夜曲”，是莫扎特最知名的作品之一。
+这首曲子最初是为一部弦乐五重奏创作的。</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">由沃尔夫冈·阿玛多伊斯·莫扎特创作的 C 大调第 16 号钢琴奏鸣曲的第一乐章，是莫扎特作品中典型的活泼而又熟悉的旋律。
+它也被称作 “单纯的奏鸣曲”、“简易的奏鸣曲”，意思是 “为初学者所写”。</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">“野蜂飞舞” 是为歌剧《萨旦王的故事》所写的一首著名管弦乐插曲，旨在唤起野蜂混乱的飞行方式。
+连续不断的十六分音符模式赋予它一种狂热的能量感。</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="translated">一首用到了 “合成器浪潮” 音乐元素的曲子，包括音色温暖的模拟合成器。
+我使用了黑胶仿真效果器来给声音一种轻微的 “复古” 感。</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="translated">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
+这是这首歌曲的 “专家混音” ，是为了增加难度而在 Game Jam 结束后的一次更新中添加的。</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="translated">最初出现在我更早的节奏游戏 “Ripple Runner Deluxe” 上，它是 Rhythm Quest 的精神前作。
+这是那个游戏中节奏最慢的歌曲，特点是对锁链尖刺平台的巧妙运用。</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="translated">“Super Mega Zero” 的标题曲目及预告片音乐，这是 Silkworm 开发的一款平台跳跃游戏，我受托以我经典的 “9-bit” 风格为其创作了这首音乐。
+这首歌曲要求要充满活力且要快节奏，这样能让玩家对这个游戏兴奋起来。</target>
       </trans-unit>
     </body>
   </file>
