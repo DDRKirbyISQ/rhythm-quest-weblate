@@ -2294,9 +2294,9 @@ Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos al
           <source>Open levels folder</source>
           <target>Abrir pasta de níveis</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="yes">
           <source>Back to Menu</source>
-          <target state="needs-translation">Voltar ao menu</target>
+          <target state="final">Voltar ao Menu</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2568,9 +2568,9 @@ Clique em uma seção de checkpoint para editar seus efeitos de partícula.</tar
           <source>Standing Here Alone (Expert Mix)</source>
           <target>Standing Here Alone (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="final">Super Mega Zero (RQ Edit)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -2932,7 +2932,7 @@ Verifique o código e tente novamente.</target>
         </trans-unit>
         <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
           <source>Updating mod.io mod profile...</source>
-          <target state="needs-translation">Atualizando perfil de mod do mod.io...</target>
+          <target state="translated">Atualizando perfil de mod do mod.io...</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
           <source>Spellbound Nebula</source>
@@ -3370,6 +3370,64 @@ from Piano Sonata No. 11</target>
       <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
         <source>Song name/artist and chart author needs to be filled out</source>
         <target state="translated">Nome da música/artista e autor da fase precisam ser preenchidos</target>
+      </trans-unit>
+      <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="no">
+        <source>Export Checklist</source>
+        <target state="translated">Exportar a Lista de Verificação</target>
+      </trans-unit>
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="yes">
+        <source>Difficulty:
+{0}</source>
+        <target state="final">Dificuldade:
+{0}</target>
+      </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="yes">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target state="final">Originalmente apresentado em meu antigo jogo de ritmo "Ripple Runner Deluxe", o antecessor espiritual de Rhythm Quest.
+Esse foi o nível final e o mais difícil adicionado ao jogo em uma atualização pós-jam.</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
+        <source>Flight of the Bumblebee</source>
+        <target state="translated">Flight of the Bumblebee</target>
+      </trans-unit>
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="yes">
+        <source>Purchase for
+{0}</source>
+        <target state="final">Comprar por
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="yes">
+        <source>Purchase Level</source>
+        <target state="final">Comprar Nível</target>
+      </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="yes">
+        <source>Play Level</source>
+        <target state="final">Jogar Nível</target>
+      </trans-unit>
+      <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="yes">
+        <source>(Owned: {0})</source>
+        <target state="final">(Possui: {0})</target>
+      </trans-unit>
+      <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="yes">
+        <source>Not enough coins!</source>
+        <target state="final">Sem moedas suficientes!</target>
+      </trans-unit>
+      <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation" approved="yes">
+        <source>Purchase
+{0}
+for {1}?</source>
+        <target state="final">Comprar
+{0}
+por {1}?</target>
+      </trans-unit>
+      <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
+        <source>Back to Level Select</source>
+        <target state="translated">Voltar à Seleção de Nível</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="yes">
+        <source>Return to the main menu.</source>
+        <target state="final">Voltar ao menu principal.</target>
       </trans-unit>
     </body>
   </file>
