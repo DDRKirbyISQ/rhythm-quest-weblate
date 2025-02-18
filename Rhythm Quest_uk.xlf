@@ -84,13 +84,13 @@
           <source>Game will be run in a window. Can be resized.</source>
           <target>Гра буде відтворюватися у вікні. Розмір може змінюватись.</target>
         </trans-unit>
-        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="no">
           <source>Game will run in a maximized window.</source>
-          <target>Гра буде відтворюватися у вікні на весь екран</target>
+          <target state="translated">Гра буде відтворюватися у вікні на весь екран.</target>
         </trans-unit>
-        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="no">
           <source>Game will run in exclusive fullscreen mode.</source>
-          <target>Гра буде відтворюватися на весь екран</target>
+          <target state="translated">Гра буде відтворюватися на весь екран.</target>
         </trans-unit>
         <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
@@ -116,9 +116,9 @@
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
           <target>Вимкнути синхронізацію оновлення дисплея. Може прискорити виведення картинки, але викликає розрив екрану.</target>
         </trans-unit>
-        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled">
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="no">
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
-          <target>(За замовчуванням) Синхронізувати виведення зображень із частотою оновлення дисплея. Запобігає ефекту розриву</target>
+          <target state="translated">(За замовчуванням) Синхронізувати виведення зображень із частотою оновлення дисплея. Запобігає ефекту розриву.</target>
         </trans-unit>
         <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
           <source>Disabled</source>
@@ -132,9 +132,9 @@
           <source>Scaling Settings...</source>
           <target>Налаштування розтягування...</target>
         </trans-unit>
-        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="no">
           <source>Return to the previous menu.</source>
-          <target>Повернутись до попереднього меню</target>
+          <target state="translated">Повернутись до попереднього меню.</target>
         </trans-unit>
         <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
           <source>Zoom Level</source>
@@ -156,13 +156,13 @@
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
           <target>Використати стандартний рівень масштабування ігрового процесу. У більшості випадків має бути достатнім.</target>
         </trans-unit>
-        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far" approved="no">
           <source>Forces a zoomed-out gameplay view.</source>
-          <target>Використати віддалену камеру в грі</target>
+          <target state="translated">Використати віддалену камеру в грі.</target>
         </trans-unit>
-        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near" approved="no">
           <source>Forces a zoomed-in gameplay view.</source>
-          <target>Використати приближену камеру в грі</target>
+          <target state="translated">Використати приближену камеру в грі.</target>
         </trans-unit>
         <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
           <source>Music Volume</source>
@@ -172,9 +172,9 @@
           <source>Adjust the volume of the game music.</source>
           <target>Змінити гучність музики в грі.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="no">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>Змінити гучність звукових ефектів у грі</target>
+          <target state="translated">Змінити гучність звукових ефектів у грі.</target>
         </trans-unit>
         <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
           <source>Sfx Volume</source>
@@ -188,25 +188,25 @@
           <source>Screen Shake</source>
           <target>Тряска екрану</target>
         </trans-unit>
-        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="no">
           <source>Disables screen shake effects.</source>
-          <target>Вимкнути тряску екрану</target>
+          <target state="translated">Вимкнути тряску екрану.</target>
         </trans-unit>
-        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="no">
           <source>Enables screen shake effects.</source>
-          <target>Увімкнути тряску екрану</target>
+          <target state="translated">Увімкнути тряску екрану.</target>
         </trans-unit>
         <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
           <source>Screen Flashes</source>
           <target>Мерехтіння екрану</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="no">
           <source>Enables screen flash effects.</source>
-          <target>Увімкнути мерехтіння екрану</target>
+          <target state="translated">Увімкнути мерехтіння екрану.</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="no">
           <source>Disables screen flash effects.</source>
-          <target>Вимкнути мерехтіння екрану</target>
+          <target state="translated">Вимкнути мерехтіння екрану.</target>
         </trans-unit>
         <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
           <source>Sfx Prescheduling</source>
@@ -240,17 +240,17 @@
           <source>Unlock All Levels</source>
           <target>Відкрити всі рівні</target>
         </trans-unit>
-        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="no">
           <source>Auto play is disabled.</source>
-          <target>Автоматична гра вимкнена </target>
+          <target state="translated">Автоматична гра вимкнена.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Автоматична гра увімкнена. Рівні будуть відіграні автоматично без вкладу гравця.</target>
+          <target state="translated">Автоматична гра увімкнена. Рівні будуть відіграні автоматично без вкладу гравця. (Прогрес буде збережено)</target>
         </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="no">
           <source>Levels must be unlocked normally.</source>
-          <target>Всі рівні мають бути відкриті нормальним шляхом</target>
+          <target state="translated">Всі рівні мають бути відкриті нормальним шляхом.</target>
         </trans-unit>
         <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
@@ -424,13 +424,13 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Control Positioning</source>
           <target>Керування клавішами</target>
         </trans-unit>
-        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
+        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="no">
           <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
-          <target>(За замовчуванням) Натисни на ліву половину екрану для стрибка, на праву для атаки. </target>
+          <target state="translated">(За замовчуванням) Натисни на ліву половину екрану для стрибка, на праву для атаки.</target>
         </trans-unit>
-        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled">
+        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="no">
           <source>Tap left half of screen to attack, tap right half to jump.</source>
-          <target>Натисни на ліву половину екрану для атаки, на праву для стрибка</target>
+          <target state="translated">Натисни на ліву половину екрану для атаки, на праву для стрибка.</target>
         </trans-unit>
         <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
           <source>Jump</source>
@@ -444,13 +444,13 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Press a key</source>
           <target>Натисни клавішу</target>
         </trans-unit>
-        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description" approved="no">
           <source>Select a key to use for &lt;Attack&gt;.</source>
-          <target>Вибрати клавішу для &lt;Атаки&gt;</target>
+          <target state="translated">Вибрати клавішу для &lt;Атаки&gt;.</target>
         </trans-unit>
-        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description" approved="no">
           <source>Select a key to use for &lt;Jump&gt;.</source>
-          <target>Вибрати клавішу для &lt;Стрибка&gt;</target>
+          <target state="translated">Вибрати клавішу для &lt;Стрибка&gt;.</target>
         </trans-unit>
         <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
           <source>Resets key bindings to their defaults.</source>
@@ -464,17 +464,17 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Flipped</source>
           <target>Навпаки</target>
         </trans-unit>
-        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="no">
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
-          <target>Ліва кнопка для &lt;Стрибка&gt;. Права для &lt;Атаки&gt;</target>
+          <target state="translated">Ліва кнопка для &lt;Стрибка&gt;. Права для &lt;Атаки&gt;.</target>
         </trans-unit>
         <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
           <source>In-game mouse controls are disabled.</source>
           <target>Керування мишею вимкнено.</target>
         </trans-unit>
-        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled" approved="no">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
-          <target>Права кнопка для &lt;Стрибка&gt;. Ліва для &lt;Атаки&gt;</target>
+          <target state="translated">Права кнопка для &lt;Стрибка&gt;. Ліва для &lt;Атаки&gt;.</target>
         </trans-unit>
         <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
           <source>Reset Game Data</source>
@@ -792,7 +792,7 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <source>Copy Protection Violation detected!</source>
           <target>Виявлено порушення захисту від копіювання!</target>
         </trans-unit>
-        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions" approved="no">
           <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
 
 If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
@@ -807,8 +807,7 @@ If this doesn't work, I would suggest downloading and playing the offline build 
 
 Sorry about this!
                                                                 --DDRKirby(ISQ)</source>
-          <target>
-«Щоб уникнути викрадення зловмисними веб-сайтами, які розміщували б мою гру без дозволу, Rhythm Quest покладається на HTTP-заголовок ««referer»», щоб переконатися, що його розміщено на дозволеному сайті (rhythmquestgame.com, itch.io).
+          <target state="translated">«Щоб уникнути викрадення зловмисними веб-сайтами, які розміщували б мою гру без дозволу, Rhythm Quest покладається на HTTP-заголовок ««referer»», щоб переконатися, що його розміщено на дозволеному сайті (rhythmquestgame.com, itch.io).
 
 Якщо у вас є розширення веб-переглядача, яке вимикає відстеження реферелів, спробуйте вимкнути його та перезавантажити, щоб належним чином завантажити це демо.
 
@@ -841,7 +840,7 @@ Have fun, and thanks for playing!
 Отримуйте задоволення та дякую за гру!
 								--DDRKirby(ISQ)"</target>
         </trans-unit>
-        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="no">
           <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
 
 Please make sure hardware graphics acceleration is enabled for your browser for better performance.
@@ -849,13 +848,13 @@ Please make sure hardware graphics acceleration is enabled for your browser for 
 Save data is stored in your browser and may potentially not persist across version updates.
 
 For the best experience, feel free to try the standalone offline build instead!</source>
-          <target>«Примітка: ви граєте в браузерну версію демоверсії гри, тому у вас можуть виникнути деякі незначні збої у звуці та знижена точність синхронізації.
+          <target state="translated">Примітка: ви граєте в браузерну версію демоверсії гри, тому у вас можуть виникнути деякі незначні збої у звуці та знижена точність синхронізації.
 
 Для кращої продуктивності переконайтеся, що для вашого браузера ввімкнено апаратне прискорення графіки.
 
 Збережені дані зберігаються у вашому веб-переглядачі та потенційно можуть не зберігатися під час оновлення версії.
 
-Щоб отримати найкращий досвід, сміливо спробуйте натомість автономну офлайн-версію!"</target>
+Щоб отримати найкращий досвід, сміливо спробуйте натомість автономну офлайн-версію!</target>
         </trans-unit>
         <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
@@ -943,17 +942,17 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Screen filter is disabled.</source>
           <target>Екранний фільтр вимкнено.</target>
         </trans-unit>
-        <trans-unit id="123235499293585408" xml:space="preserve" resname="settings_screenfilter_description_fade">
+        <trans-unit id="123235499293585408" xml:space="preserve" resname="settings_screenfilter_description_fade" approved="no">
           <source>Fades backdrops toward primary background color.</source>
-          <target>Зробити колір заднього плану більш схожим до кольору фону</target>
+          <target state="translated">Зробити колір заднього плану більш схожим до кольору фону.</target>
         </trans-unit>
         <trans-unit id="123235512304316416" xml:space="preserve" resname="settings_screenfilter_description_darken">
           <source>Darkens backdrops towards black.</source>
           <target>Затемнити задній план.</target>
         </trans-unit>
-        <trans-unit id="123235528121036800" xml:space="preserve" resname="settings_screenfilter_description_desaturate">
+        <trans-unit id="123235528121036800" xml:space="preserve" resname="settings_screenfilter_description_desaturate" approved="no">
           <source>Desaturates backdrops toward grayscale.</source>
-          <target>Зробити задній план більш схожим до сірого</target>
+          <target state="translated">Зменшити насиченість кольорів заднього плану.</target>
         </trans-unit>
         <trans-unit id="123512785343393792" xml:space="preserve" resname="settings_menu_calibration_description" approved="no">
           <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
@@ -1091,9 +1090,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Screenreader Mode</source>
           <target>Режим екранного диктора</target>
         </trans-unit>
-        <trans-unit id="134459975284862976" xml:space="preserve" resname="settings_screenreadermode_description_disabled">
+        <trans-unit id="134459975284862976" xml:space="preserve" resname="settings_screenreadermode_description_disabled" approved="no">
           <source>Screenreader is disabled.</source>
-          <target>Екранний диктор вимкнений</target>
+          <target state="translated">Екранний диктор вимкнений.</target>
         </trans-unit>
         <trans-unit id="134459976639623168" xml:space="preserve" resname="settings_screenreadermode_description_enabled">
           <source>Enables full screenreader navigation. Normal navigation is disabled.</source>
@@ -1271,9 +1270,9 @@ Would you like to enable screen reader mode?
           <source>Always hide mouse cursor.</source>
           <target>Завжди ховати курсор.</target>
         </trans-unit>
-        <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor">
+        <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor" approved="no">
           <source>Hide Cursor</source>
-          <target>Сховати курсор.</target>
+          <target state="translated">Сховати курсор</target>
         </trans-unit>
         <trans-unit id="160981046260301824" xml:space="preserve" resname="medal_coin_totals">
           <source>Totals</source>
@@ -2071,9 +2070,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>New level created</source>
           <target>Новий рівень створено</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="no">
           <source>File...</source>
-          <target>Файл</target>
+          <target state="translated">Файл...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2117,9 +2116,9 @@ Do you want to save them first?</source>
           <source>Don't Save</source>
           <target>Не зберігати</target>
         </trans-unit>
-        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings" approved="no">
           <source>Settings...</source>
-          <target>Налаштування</target>
+          <target state="translated">Налаштування...</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -2297,7 +2296,7 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
         </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
           <source>Back to Menu</source>
-          <target state="needs-translation">Повернутися до меню</target>
+          <target state="translated">Повернутися до Меню</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2445,9 +2444,9 @@ You can import levels from:
           <target>Введіть одну або декілька URL-адрес до .rqzip файлів для завантаження:
 (вставте кожну URL-адресу на окремому рядку)</target>
         </trans-unit>
-        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download" approved="no">
           <source>Download</source>
-          <target>Завантажити</target>
+          <target state="translated">Скачати</target>
         </trans-unit>
         <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
           <source>Paste from Clipboard</source>
@@ -2577,7 +2576,7 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="translated">Super Mega Zero (Версія RQ)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -3389,6 +3388,186 @@ from Piano Sonata No. 11</target>
       <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
         <source>Difficulty ramps up more quickly and becomes quite intense!</source>
         <target state="translated">Складність підвищується доволі швидко і стає доволі інтенсивною!</target>
+      </trans-unit>
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
+        <source>Difficulty:
+{0}</source>
+        <target state="translated">Складність:
+{0}</target>
+      </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target state="needs-translation">Спочатку представлений у моїй старій ритм-грі "Ripple Runner Deluxe", духовному попереднику Rhythm Quest.
+Це був останній і найскладніший рівень, доданий до гри в пост-джемовому оновленні.</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="translated">Bottled Up (Версія RQ)</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="translated">The Warrior Wakes in the Sunrise Dawn (Версія RQ)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+        <source>Claustrophobia</source>
+        <target state="needs-translation">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="no">
+        <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        <target state="needs-translation">Цей трек був написаний за одну годину і посів перше місце у 569-му раунді "One Hour Compo", щотижневого онлайн-конкурсу композицій.↵
+У ньому широко використовується бібліотека інструментів гучженг (китайська щипкова цитра).</target>
+      </trans-unit>
+      <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
+        <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        <target state="needs-translation">Вперше з'явився у грі "Nyamo's Adventure", над якою я працював у 2016 році для ігрового джему Ludum Dare.
+Nyamo's Adventure - це 2D-платформер у стилі "метроїдванія" про кульку, що може змінювати форми.</target>
+      </trans-unit>
+      <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="no">
+        <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        <target state="needs-translation">Швидка пісня, яка використовує східноазійські інструменти, такі як барабани тайко та гужен (китайська щипкова цитра).
+Цей рівень зосереджений лише на базових механіках і може бути пройдений, навіть якщо ви ще не досягли більш пізніх світів.</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="needs-translation">Чіптюн-трек, спочатку призначений для включення в світ 3.
+На цьому рівні спочатку з'явилася комбінація "зелена атака + стрибок", а потім ця механіка була перенесена у світ 5.</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="translated">Багатель № 25 ля-мінор, більш відома як "До Елізи", є добре відомим твором Людвіга ван Бетховена.
+Особистість титульної "Елізи" не визначена, але вважається, що це близька подруга або важлива фігура в його житті.</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
+        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="translated">Третя частина фортепіанної сонати № 11 ля мажор Вольфганга Амадея Моцарта також відома як "Rondo alla Turca" або "Турецький марш" є миттєво впізнаваною мелодією.
+Вважається, що ця композиція наслідує стиль військових маршових оркестрів Турецької імперії.</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="needs-translation">"Політ джмеля" - відома оркестрова інтермедія, написана для опери "Казка про царя Салтана", покликана нагадати про хаотичний політ джмеля.
+Постійні патерни шістнадцятих нот надають їй шаленої енергійності.</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="needs-translation">Трек, який використовує елементи "синтвейв" музики, включаючи "теплі" аналогові синтезатори.
+Я використав ефекти емуляції вінілу, щоб надати звучанню ледь вловимого "вінтажного" відтінку.</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="needs-translation">Спочатку представлений у двоклавішній ритм-грі "Melody Muncher", яку я створив у 2015 році для ігрового джему Ludum Dare.
+Це найповільніша пісня в грі, призначена для представлення механіки синіх ворогів, які телепортуються за тебе після удару.</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="needs-translation">Піднесений чіптюнний трек, який я написав за один присід протягом 3 годин, надихнувшись музикою "Aivi &amp; Surasshu".
+Вступна мелодія відсилає до "Lonely Rolling Star", оскільки ми обидва створили схожі аранжування цієї пісні.</target>
+      </trans-unit>
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
+        <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        <target state="needs-translation">Пісня, яку я написав у 2019 році як один з декількох треків, що фокусуються на цікавих перкусійних звуках і ритмах, дещо натхненний треками дуету "Made in Heights".
+У ній використано кілька семплів, які я записав сам, використовуючи скляні пляшки.</target>
+      </trans-unit>
+      <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
+        <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        <target state="needs-translation">Спочатку з'явився в ритм-грі "Samurai Shaver", над якою я працював у 2017 році для ігрового джему Ludum Dare.
+Це був перший трек, доданий до гри після закінчення ігрового джему, він використовує повільніший темп.</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="needs-translation">Трек, натхненний музикою "рідкого драм-н-бейсу". Темп досить швидкий, досягаючи 170 ударів на хвилину.
+Швидкі барабанні патерни контрастують з пишними мелодійними елементами та атмосферними педами.</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="translated">Перша частина Серенади № 13 для струнних соль мажор Вольфганга Амадея Моцарта, відома як "Eine kleine Nachtmusik", або "Маленька нічна серенада", є одним з найвідоміших творів Моцарта.
+Спочатку твір був написаний як композиція для струнного квінтету.</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">Перша частина фортепіанної сонати № 16 до мажор Вольфганга Амадея Моцарта - жвава і знайома мелодія, типова для творів Моцарта.
+Вона також відома як "Sonata facile" або "Sonata semplice", тобто "для початківців".</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="needs-translation">Спочатку представлена в "Melody Muncher" - двоклавішній ритм-грі, яку я зробив у 2015 році для ігрового джему Ludum Dare.
+Пісні з "Melody Muncher" природно піддаються включенню в чарти "Rhythm Quest" завдяки схожій механіці.</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="needs-translation">Спочатку представлена в "Melody Muncher" - двоклавішній ритм-грі, яку я зробив у 2015 році для ігрового джему Ludum Dare.
+Це "експертний мікс" пісні, доданий для збільшення складності в пост-джемовому оновленні.</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="needs-translation">Спочатку представлений у моїй старій ритмічній грі "Ripple Runner Deluxe", духовному попереднику Rhythm Quest.
+Це була пісня з найповільнішим темпом у тій грі, примітна тим, що в ній використовувалися прикуті шипами платформи.</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="needs-translation">Титульний трек і музика до трейлера "Super Mega Zero", платформера, розробленого компанією Silkworm, для якого мені було доручено написати музику в моєму класичному "9-бітному" стилі.
+Ця пісня була розроблена, щоб бути енергійною та стрімкою, щоб захопити гравців грою.</target>
+      </trans-unit>
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
+        <source>Purchase for
+{0}</source>
+        <target state="translated">Розблокувати за
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
+        <source>Purchase Level</source>
+        <target state="translated">Розблокувати Рівень</target>
+      </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
+        <source>Play Level</source>
+        <target state="translated">Грати Рівень</target>
+      </trans-unit>
+      <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
+        <source>(Owned: {0})</source>
+        <target state="translated">(У наявності: {0})</target>
+      </trans-unit>
+      <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
+        <source>Not enough coins!</source>
+        <target state="translated">Недостатньо монет!</target>
+      </trans-unit>
+      <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation" approved="no">
+        <source>Purchase
+{0}
+for {1}?</source>
+        <target state="translated">Розблокувати
+{0}
+за {1}?</target>
+      </trans-unit>
+      <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
+        <source>Back to Level Select</source>
+        <target state="needs-translation">Назад до Вибору Рівнів</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Повернутися до головного меню.</target>
+      </trans-unit>
+      <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
+        <source>Return to the level selection menu.</source>
+        <target state="needs-translation">Повернутися до меню вибору рівнів.</target>
       </trans-unit>
     </body>
   </file>
