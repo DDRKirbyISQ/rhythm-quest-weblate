@@ -2296,7 +2296,7 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
         </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
           <source>Back to Menu</source>
-          <target state="needs-translation">Назад в меню</target>
+          <target state="translated">Назад в меню</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2576,7 +2576,7 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="translated">Super Mega Zero (версия RQ)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -3106,17 +3106,17 @@ Would you like to enable game assist features?</source>
           <source>(Unchanged)</source>
           <target>(Без изменений)</target>
         </trans-unit>
-        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="no">
           <source>Piano Sonata No. 16 in C Major
 I. Allegro</source>
-          <target>Piano Sonata No. 16 in C Major
-I. Allegro</target>
+          <target state="translated">Соната для клавира № 16 до-мажор
+1. Allegro</target>
         </trans-unit>
-        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
           <source>Eine kleine Nachtmusik
 I. Allegro</source>
-          <target>Eine kleine Nachtmusik
-I. Allegro</target>
+          <target state="translated">Маленькая ночная серенада
+1. Allegro</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
           <source>Song of the Sea (Expert Mix)</source>
@@ -3388,6 +3388,86 @@ from Piano Sonata No. 11</source>
       <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
         <source>by {0}</source>
         <target state="translated">автор: {0}</target>
+      </trans-unit>
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
+        <source>Difficulty:
+{0}</source>
+        <target state="translated">Сложность:
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
+        <source>Purchase for
+{0}</source>
+        <target state="translated">Купить за
+{0}</target>
+      </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target state="translated">Изначально из моей старой игры "Ripple Runner Deluxe", духовного предшественника Rhythm Quest.
+Это был последний и самый сложный уровень, добавленный после геймджема.</target>
+      </trans-unit>
+      <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="no">
+        <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        <target state="translated">Этот трек был сделан за час и занял первое место в 569-м раунде "One Hour Compo", еженедельного композиторского онлайн-соревнования.
+В нём много используется инструмент-библиотека гучжэна (Китайской щипковой цитры).</target>
+      </trans-unit>
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
+        <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        <target state="translated">Песня, которую я написал в 2019 как один из нескольких треков, фокусирующихся на интересных ударных звуках и ритмах, частично вдохновлённых дуэтом "Made in Heights".
+В ней используется несколько записанных мной звуков стеклянных бутылок.</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
+        <source>Purchase Level</source>
+        <target state="translated">Купить уровень</target>
+      </trans-unit>
+      <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
+        <source>(Owned: {0})</source>
+        <target state="translated">(Имеется: {0})</target>
+      </trans-unit>
+      <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
+        <source>Not enough coins!</source>
+        <target state="translated">Недостаточно монет!</target>
+      </trans-unit>
+      <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation" approved="no">
+        <source>Purchase
+{0}
+for {1}?</source>
+        <target state="translated">Купить
+{0}
+за {1}?</target>
+      </trans-unit>
+      <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
+        <source>Back to Level Select</source>
+        <target state="translated">Назад к выбору уровней</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Вернуться в главное меню.</target>
+      </trans-unit>
+      <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
+        <source>Return to the level selection menu.</source>
+        <target state="translated">Вернуться в меню выбора уровней.</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="translated">Bottled Up (версия RQ)</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="translated">The Warrior Wakes in the Sunrise Dawn (версия RQ)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+        <source>Claustrophobia</source>
+        <target state="translated">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
+        <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        <target state="translated">Изначально из игры "Nyamo's Adventure", над которой я работал в 2016 для геймджема Ludum Dare.
+Nyamo's Adventure - это 2D платформер в стиле "метроидвании" о шарике, который может менять форму.</target>
       </trans-unit>
     </body>
   </file>
