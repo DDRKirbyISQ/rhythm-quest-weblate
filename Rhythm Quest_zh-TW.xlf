@@ -32,9 +32,9 @@
           <source>Lag Calibration...</source>
           <target>延遲校準...</target>
         </trans-unit>
-        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics" approved="no">
           <source>Graphics</source>
-          <target>圖形</target>
+          <target state="translated">圖形畫質</target>
         </trans-unit>
         <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
           <source>Audio</source>
@@ -2296,7 +2296,7 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
         </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
           <source>Back to Menu</source>
-          <target state="needs-translation">回到選單</target>
+          <target state="translated">回到選單</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2576,7 +2576,7 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="translated">Super Mega Zero (RQ Edit)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
