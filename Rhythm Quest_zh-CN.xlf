@@ -20,13 +20,13 @@
           <source>Extras</source>
           <target state="translated">附加内容</target>
         </trans-unit>
-        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="yes">
           <source>Quit</source>
-          <target>退出</target>
+          <target state="final">退出</target>
         </trans-unit>
-        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back" approved="yes">
           <source>Back</source>
-          <target>返回</target>
+          <target state="final">返回</target>
         </trans-unit>
         <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
           <source>Lag Calibration...</source>
@@ -36,9 +36,9 @@
           <source>Graphics</source>
           <target>图像</target>
         </trans-unit>
-        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio" approved="yes">
           <source>Audio</source>
-          <target>声音</target>
+          <target state="final">声音</target>
         </trans-unit>
         <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
           <source>Interface Settings</source>
@@ -124,9 +124,9 @@
           <source>Disabled</source>
           <target>禁用</target>
         </trans-unit>
-        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
           <source>Enabled</source>
-          <target>启用</target>
+          <target state="final">启用</target>
         </trans-unit>
         <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
           <source>Scaling Settings...</source>
@@ -256,9 +256,9 @@
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
           <target>所有关卡将在一开始解锁。（进度仍会保存）</target>
         </trans-unit>
-        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
-          <target>按下Enter以继续</target>
+          <target state="final">按下Enter以继续</target>
         </trans-unit>
         <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
           <source>Click to Continue</source>
@@ -400,9 +400,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Credits</source>
           <target>感谢名单</target>
         </trans-unit>
-        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume">
+        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="yes">
           <source>Resume</source>
-          <target>继续</target>
+          <target state="final">继续</target>
         </trans-unit>
         <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused">
           <source>Paused</source>
@@ -412,9 +412,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Level Complete</source>
           <target>完成关卡</target>
         </trans-unit>
-        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
+        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language" approved="yes">
           <source>Language</source>
-          <target>语言</target>
+          <target state="final">语言</target>
         </trans-unit>
         <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked">
           <source>(Locked)</source>
@@ -432,13 +432,13 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Tap left half of screen to attack, tap right half to jump.</source>
           <target>点击屏幕左侧攻击，点击屏幕右侧跳跃。</target>
         </trans-unit>
-        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="yes">
           <source>Jump</source>
-          <target>跳跃</target>
+          <target state="final">跳跃</target>
         </trans-unit>
-        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack" approved="yes">
           <source>Attack</source>
-          <target>攻击</target>
+          <target state="final">攻击</target>
         </trans-unit>
         <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="no">
           <source>Press a key</source>
@@ -486,13 +486,13 @@ Are you sure you want to proceed?</source>
           <target>游戏存档数据将被完全删除。
 确定要这样吗？</target>
         </trans-unit>
-        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="yes">
           <source>Yes</source>
-          <target>是</target>
+          <target state="final">是</target>
         </trans-unit>
-        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="yes">
           <source>No</source>
-          <target>否</target>
+          <target state="final">否</target>
         </trans-unit>
         <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
           <source>Game data has successfully been erased.</source>
@@ -506,13 +506,13 @@ Are you sure you want to proceed?</source>
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
           <target>如果你想稍后校准延迟，你可以在&lt;color=yellow&gt;设置&lt;/color&gt;菜单进行该操作。</target>
         </trans-unit>
-        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
+        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="yes">
           <source>Done</source>
-          <target>完成</target>
+          <target state="final">完成</target>
         </trans-unit>
-        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
+        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="yes">
           <source>Continue</source>
-          <target>继续</target>
+          <target state="final">继续</target>
         </trans-unit>
         <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
           <source>Do you want to calibrate audio lag now?</source>
@@ -612,9 +612,9 @@ Otherwise, adjust manually until synced.</source>
           <source>Spiked Steppes</source>
           <target>尖刺草原</target>
         </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
+        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo" approved="yes">
           <source>Redo</source>
-          <target>重新开始</target>
+          <target state="final">重新开始</target>
         </trans-unit>
         <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
           <source>Resets all game progress.</source>
@@ -686,9 +686,9 @@ Remaining:</source>
 
 剩余可用：</target>
         </trans-unit>
-        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected">
+        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected" approved="yes">
           <source>Selected</source>
-          <target>已选择</target>
+          <target state="final">已选择</target>
         </trans-unit>
         <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase">
           <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
@@ -702,9 +702,9 @@ Remaining:</source>
           <source>Preview</source>
           <target>预览</target>
         </trans-unit>
-        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy">
+        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy" approved="yes">
           <source>Buy</source>
-          <target>购买</target>
+          <target state="final">购买</target>
         </trans-unit>
         <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play">
           <source>Play</source>
@@ -738,21 +738,21 @@ Remaining:</source>
           <source>Wishlist on Steam</source>
           <target>加入Steam愿望清单</target>
         </trans-unit>
-        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
+        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start" approved="yes">
           <source>Start</source>
-          <target>开始</target>
+          <target state="final">开始</target>
         </trans-unit>
         <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
           <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
           <target>此内容仅在 Rhythm Quest 完整版可用！（即将推出）</target>
         </trans-unit>
-        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
+        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow" approved="yes">
           <source>&lt; World {0}</source>
-          <target>&lt; 世界{0}</target>
+          <target state="final">&lt; 世界{0}</target>
         </trans-unit>
-        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow">
+        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow" approved="yes">
           <source>World {0} &gt;</source>
-          <target>世界{0} &gt;</target>
+          <target state="final">世界{0} &gt;</target>
         </trans-unit>
         <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
           <source>Adjusts audio latency calibration.
@@ -760,13 +760,13 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <target>调整音频延迟。
 如果音频比关卡早就调低一些，否则就调高一些。</target>
         </trans-unit>
-        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
+        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early" approved="yes">
           <source>Too Early</source>
-          <target>快了</target>
+          <target state="final">快了</target>
         </trans-unit>
-        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late">
+        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late" approved="yes">
           <source>Too Late</source>
-          <target>慢了</target>
+          <target state="final">慢了</target>
         </trans-unit>
         <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
           <source>Twilight Tunnel</source>
@@ -872,9 +872,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
           <target>完整版Rhythm Quest将包含6个世界共30个关卡，可解锁的奖励关卡，以及更多的游戏机制！</target>
         </trans-unit>
-        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
+        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next" approved="yes">
           <source>Next</source>
-          <target>下一页</target>
+          <target state="final">下一页</target>
         </trans-unit>
         <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3">
           <source>Wishlist and follow Rhythm Quest online for future updates!</source>
@@ -1030,13 +1030,13 @@ For the best experience, feel free to try the standalone offline build instead!<
 100%：左侧跳跃提示音，右侧攻击提示音
 0%：提示音居中</target>
         </trans-unit>
-        <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump">
+        <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump" approved="yes">
           <source>Jump</source>
-          <target>跳跃</target>
+          <target state="final">跳跃</target>
         </trans-unit>
-        <trans-unit id="126862293653565440" xml:space="preserve" resname="settings_audiocueattack">
+        <trans-unit id="126862293653565440" xml:space="preserve" resname="settings_audiocueattack" approved="yes">
           <source>Attack</source>
-          <target>攻击</target>
+          <target state="final">攻击</target>
         </trans-unit>
         <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold">
           <source>Jump Hold</source>
@@ -1082,9 +1082,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
           <target>选择在需要同时跳跃并攻击前的一拍播放的提示音。</target>
         </trans-unit>
-        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
+        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going" approved="yes">
           <source>Keep going...</source>
-          <target>继续……</target>
+          <target state="final">继续……</target>
         </trans-unit>
         <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
           <source>Screenreader Mode</source>
@@ -1126,13 +1126,13 @@ Would you like to enable screen reader mode?
 是否要启用萤幕朗读模式？
 （稍后可以在设定→辅助功能中进行设定）</target>
         </trans-unit>
-        <trans-unit id="134569382538686464" xml:space="preserve" resname="menu_prev_level_accessible">
+        <trans-unit id="134569382538686464" xml:space="preserve" resname="menu_prev_level_accessible" approved="yes">
           <source>Previous (Level {0} {1})</source>
-          <target>前一关（关卡 {0} {1}）</target>
+          <target state="final">前一关（关卡 {0} {1}）</target>
         </trans-unit>
-        <trans-unit id="134569383104917504" xml:space="preserve" resname="menu_next_level_accessible">
+        <trans-unit id="134569383104917504" xml:space="preserve" resname="menu_next_level_accessible" approved="yes">
           <source>Next (Level {0} {1})</source>
-          <target>下一关（关卡 {0} {1}）</target>
+          <target state="final">下一关（关卡 {0} {1}）</target>
         </trans-unit>
         <trans-unit id="135522706851147776" xml:space="preserve" resname="decrement">
           <source>Decrement</source>
@@ -1250,9 +1250,9 @@ Would you like to enable screen reader mode?
           <source>Never</source>
           <target>从不</target>
         </trans-unit>
-        <trans-unit id="157189666698682368" xml:space="preserve" resname="settings_in_game">
+        <trans-unit id="157189666698682368" xml:space="preserve" resname="settings_in_game" approved="yes">
           <source>In-Game</source>
-          <target>游戏时</target>
+          <target state="final">游戏时</target>
         </trans-unit>
         <trans-unit id="157189817408413696" xml:space="preserve" resname="settings_always">
           <source>Always</source>
@@ -1290,53 +1290,53 @@ Would you like to enable screen reader mode?
           <source>Soaring Skyline</source>
           <target>翱翔天际</target>
         </trans-unit>
-        <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
+        <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en" approved="yes">
           <source>English</source>
-          <target>英文</target>
+          <target state="final">英文</target>
         </trans-unit>
-        <trans-unit id="176584575212630016" xml:space="preserve" resname="language_de">
+        <trans-unit id="176584575212630016" xml:space="preserve" resname="language_de" approved="yes">
           <source>German</source>
-          <target>德文</target>
+          <target state="final">德语</target>
         </trans-unit>
-        <trans-unit id="176584577615966208" xml:space="preserve" resname="language_fr">
+        <trans-unit id="176584577615966208" xml:space="preserve" resname="language_fr" approved="yes">
           <source>French</source>
-          <target>法文</target>
+          <target state="final">法语</target>
         </trans-unit>
-        <trans-unit id="176584581759938560" xml:space="preserve" resname="language_it">
+        <trans-unit id="176584581759938560" xml:space="preserve" resname="language_it" approved="yes">
           <source>Italian</source>
-          <target>意大利文</target>
+          <target state="final">意大利语</target>
         </trans-unit>
-        <trans-unit id="176584584880500736" xml:space="preserve" resname="language_ja">
+        <trans-unit id="176584584880500736" xml:space="preserve" resname="language_ja" approved="yes">
           <source>Japanese</source>
-          <target>日文</target>
+          <target state="final">日语</target>
         </trans-unit>
-        <trans-unit id="176584587292225536" xml:space="preserve" resname="language_ko">
+        <trans-unit id="176584587292225536" xml:space="preserve" resname="language_ko" approved="yes">
           <source>Korean</source>
-          <target>韩文</target>
+          <target state="final">韩语</target>
         </trans-unit>
-        <trans-unit id="176584753697042432" xml:space="preserve" resname="language_pl">
+        <trans-unit id="176584753697042432" xml:space="preserve" resname="language_pl" approved="no">
           <source>Polish</source>
-          <target>波兰文</target>
+          <target state="translated">波兰语</target>
         </trans-unit>
-        <trans-unit id="176584755295072256" xml:space="preserve" resname="language_pt-BR">
+        <trans-unit id="176584755295072256" xml:space="preserve" resname="language_pt-BR" approved="yes">
           <source>Brazilian Portuguese</source>
-          <target>巴西葡萄牙文</target>
+          <target state="final">巴西葡萄牙语</target>
         </trans-unit>
-        <trans-unit id="176584756175876096" xml:space="preserve" resname="language_ru">
+        <trans-unit id="176584756175876096" xml:space="preserve" resname="language_ru" approved="yes">
           <source>Russian</source>
-          <target>俄文</target>
+          <target state="final">俄语</target>
         </trans-unit>
-        <trans-unit id="176584972115423232" xml:space="preserve" resname="language_sv-SE">
+        <trans-unit id="176584972115423232" xml:space="preserve" resname="language_sv-SE" approved="yes">
           <source>Swedish</source>
-          <target>瑞典文</target>
+          <target state="final">瑞典语</target>
         </trans-unit>
-        <trans-unit id="176585005158150144" xml:space="preserve" resname="language_uk">
+        <trans-unit id="176585005158150144" xml:space="preserve" resname="language_uk" approved="yes">
           <source>Ukrainian</source>
-          <target>乌克兰文</target>
+          <target state="final">乌克兰语</target>
         </trans-unit>
-        <trans-unit id="176585048514670592" xml:space="preserve" resname="language_vi">
+        <trans-unit id="176585048514670592" xml:space="preserve" resname="language_vi" approved="yes">
           <source>Vietnamese</source>
-          <target>越南文</target>
+          <target state="final">越南语</target>
         </trans-unit>
         <trans-unit id="176585075731509248" xml:space="preserve" resname="language_zh-CN">
           <source>Chinese (Simplified)</source>
@@ -1350,65 +1350,65 @@ Would you like to enable screen reader mode?
           <source>Translation Credits</source>
           <target>翻译者感谢名单</target>
         </trans-unit>
-        <trans-unit id="176875347849818112" xml:space="preserve" resname="language_es-ES">
+        <trans-unit id="176875347849818112" xml:space="preserve" resname="language_es-ES" approved="yes">
           <source>Spanish</source>
-          <target>西班牙文</target>
+          <target state="final">西班牙语</target>
         </trans-unit>
         <trans-unit id="176933770259902464" xml:space="preserve" resname="language_description_en">
           <source>Use original English text.</source>
           <target>使用原始的英文文本。</target>
         </trans-unit>
-        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES">
+        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES" approved="yes">
           <source>Use Spanish translation by {0}.</source>
-          <target>使用{0} 制作的西班牙文翻译。</target>
+          <target state="final">使用{0} 制作的西班牙语翻译。</target>
         </trans-unit>
-        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de">
+        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de" approved="yes">
           <source>Use German translation by {0}.</source>
-          <target>使用{0} 制作的德文翻译。</target>
+          <target state="final">使用{0} 制作的德语翻译。</target>
         </trans-unit>
-        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr">
+        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr" approved="yes">
           <source>Use French translation by {0}.</source>
-          <target>使用{0} 制作的法文翻译。</target>
+          <target state="final">使用{0} 制作的法语翻译。</target>
         </trans-unit>
-        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it">
+        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it" approved="yes">
           <source>Use Italian translation by {0}.</source>
-          <target>使用{0} 制作的意大利文翻译。</target>
+          <target state="final">使用{0} 制作的意大利语翻译。</target>
         </trans-unit>
-        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja">
+        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja" approved="yes">
           <source>Use Japanese translation by {0}.</source>
-          <target>使用{0} 制作的日文翻译。</target>
+          <target state="final">使用{0} 制作的日语翻译。</target>
         </trans-unit>
-        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko">
+        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko" approved="yes">
           <source>Use Korean translation by {0}.</source>
-          <target>使用{0} 制作的韩文翻译。</target>
+          <target state="final">使用{0} 制作的韩语翻译。</target>
         </trans-unit>
-        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl">
+        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl" approved="yes">
           <source>Use Polish translation by {0}.</source>
-          <target>使用{0} 制作的波兰文翻译。</target>
+          <target state="final">使用{0} 制作的波兰语翻译。</target>
         </trans-unit>
-        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR">
+        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR" approved="yes">
           <source>Use Brazilian Portuguese translation by {0}.</source>
-          <target>使用{0} 制作的巴西葡萄牙文翻译。</target>
+          <target state="final">使用{0} 制作的巴西葡萄牙语翻译。</target>
         </trans-unit>
-        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru">
+        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru" approved="yes">
           <source>Use Russian translation by {0}.</source>
-          <target>使用{0} 制作的俄文翻译。</target>
+          <target state="final">使用{0} 制作的俄语翻译。</target>
         </trans-unit>
-        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE">
+        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE" approved="yes">
           <source>Use Swedish translation by {0}.</source>
-          <target>使用{0} 制作的瑞典文翻译。</target>
+          <target state="final">使用{0} 制作的瑞典语翻译。</target>
         </trans-unit>
-        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk">
+        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk" approved="no">
           <source>Use Ukrainian translation by {0}.</source>
-          <target>使用{0} 制作的乌克兰文翻译。</target>
+          <target state="translated">使用{0} 制作的乌克兰语翻译。</target>
         </trans-unit>
-        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN">
+        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN" approved="yes">
           <source>Use Chinese (Simplified) translation by {0}.</source>
-          <target>使用{0} 制作的中文（简体）翻译。</target>
+          <target state="final">使用{0} 制作的中文（简体）翻译。</target>
         </trans-unit>
-        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW">
+        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW" approved="yes">
           <source>Use Chinese (Traditional) translation by {0}.</source>
-          <target>使用{0} 制作的中文（繁体）翻译。</target>
+          <target state="final">使用{0} 制作的中文（繁体）翻译。</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
           <source>Moonlit Mesa</source>
@@ -1520,13 +1520,13 @@ Please connect a supported gamepad device.</source>
           <source>Press a button</source>
           <target>按下任意键</target>
         </trans-unit>
-        <trans-unit id="253407677048991744" xml:space="preserve" resname="settings_musicspeed">
+        <trans-unit id="253407677048991744" xml:space="preserve" resname="settings_musicspeed" approved="yes">
           <source>Music Speed</source>
-          <target>音乐速度</target>
+          <target state="final">音乐速度</target>
         </trans-unit>
-        <trans-unit id="254021560759529472" xml:space="preserve" resname="settings_normal">
+        <trans-unit id="254021560759529472" xml:space="preserve" resname="settings_normal" approved="yes">
           <source>Normal</source>
-          <target>正常</target>
+          <target state="final">正常</target>
         </trans-unit>
         <trans-unit id="254021648764416000" xml:space="preserve" resname="settings_low">
           <source>Low</source>
@@ -1656,13 +1656,13 @@ Please connect a supported gamepad device.</source>
           <source>Adds translucent markers for ghost enemy positions.</source>
           <target>幽灵总是带有半透明标志。</target>
         </trans-unit>
-        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow">
+        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow" approved="yes">
           <source>Slow</source>
-          <target>慢</target>
+          <target state="final">慢</target>
         </trans-unit>
-        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast">
+        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast" approved="yes">
           <source>Fast</source>
-          <target>快</target>
+          <target state="final">快</target>
         </trans-unit>
         <trans-unit id="259823816314499072" xml:space="preserve" resname="settings_respawntiming">
           <source>Respawn Timing</source>
@@ -1692,9 +1692,9 @@ Please connect a supported gamepad device.</source>
           <source>Normal</source>
           <target>正常</target>
         </trans-unit>
-        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other">
+        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other" approved="yes">
           <source>Other</source>
-          <target>其他</target>
+          <target state="final">其他</target>
         </trans-unit>
         <trans-unit id="269934069781671936" xml:space="preserve" resname="settings_runinbackground">
           <source>Run in Background</source>
@@ -1712,9 +1712,9 @@ Please connect a supported gamepad device.</source>
           <source>Manage and reset save data.</source>
           <target>管理和重置存档数据。</target>
         </trans-unit>
-        <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete">
+        <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete" approved="yes">
           <source>Delete</source>
-          <target>删除</target>
+          <target state="final">删除</target>
         </trans-unit>
         <trans-unit id="273376667829579776" xml:space="preserve" resname="settings_inputtimeline">
           <source>Input Timeline</source>
@@ -1972,17 +1972,17 @@ Click on a checkpoint section to edit its scrolling speed.</source>
           <source>Audio Mods...</source>
           <target>音频模组...</target>
         </trans-unit>
-        <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
+        <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume" approved="yes">
           <source>No, resume</source>
-          <target>否，继续</target>
+          <target state="final">否，继续</target>
         </trans-unit>
-        <trans-unit id="285977877371727872" xml:space="preserve" resname="editor_button_yesquit">
+        <trans-unit id="285977877371727872" xml:space="preserve" resname="editor_button_yesquit" approved="yes">
           <source>Yes, quit</source>
-          <target>是，退出</target>
+          <target state="final">是，退出</target>
         </trans-unit>
-        <trans-unit id="285978896759566336" xml:space="preserve" resname="editor_text_quitdialog">
+        <trans-unit id="285978896759566336" xml:space="preserve" resname="editor_text_quitdialog" approved="yes">
           <source>Return to the main menu?</source>
-          <target>返回主菜单？</target>
+          <target state="final">返回主菜单？</target>
         </trans-unit>
         <trans-unit id="286249879240224768" xml:space="preserve" resname="editor_menu_respawnloop">
           <source>Respawn Loop...</source>
@@ -2074,17 +2074,17 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>File...</source>
           <target state="translated">文件...</target>
         </trans-unit>
-        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
+        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music" approved="yes">
           <source>Music</source>
-          <target>音乐</target>
+          <target state="final">音乐</target>
         </trans-unit>
         <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test">
           <source>Test Level</source>
           <target>测试关卡</target>
         </trans-unit>
-        <trans-unit id="299090153335205888" xml:space="preserve" resname="editor_menu_quit">
+        <trans-unit id="299090153335205888" xml:space="preserve" resname="editor_menu_quit" approved="yes">
           <source>Quit</source>
-          <target>退出</target>
+          <target state="final">退出</target>
         </trans-unit>
         <trans-unit id="299097886033752064" xml:space="preserve" resname="editor_input_songname">
           <source>Song name:</source>
@@ -2148,9 +2148,9 @@ Do you want to save them first?</source>
           <source>ghost enemy</source>
           <target>幽灵敌人</target>
         </trans-unit>
-        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump">
+        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump" approved="yes">
           <source>jump</source>
-          <target>跳跃</target>
+          <target state="final">跳跃</target>
         </trans-unit>
         <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup">
           <source>jump (up)</source>
@@ -2262,9 +2262,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Error reading level</source>
           <target>读取关卡出错</target>
         </trans-unit>
-        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description">
+        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description" approved="yes">
           <source>Description:</source>
-          <target>描述：</target>
+          <target state="final">描述：</target>
         </trans-unit>
         <trans-unit id="307087429873741824" xml:space="preserve" resname="editor_label_banner">
           <source>Banner (cropped to 4:1 aspect ratio):</source>
@@ -2306,9 +2306,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Opens the directory where custom levels are stored.</source>
           <target>打开自定义关卡的存储目录。</target>
         </trans-unit>
-        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
+        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm" approved="yes">
           <source>{0} BPM</source>
-          <target>{0} BPM</target>
+          <target state="final">{0} BPM</target>
         </trans-unit>
         <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
           <source>Export</source>
@@ -2368,9 +2368,9 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>Import New Levels</source>
           <target>导入新关卡</target>
         </trans-unit>
-        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount" approved="yes">
           <source>({0} Levels)</source>
-          <target>({0} 关卡)</target>
+          <target state="final">({0} 关卡)</target>
         </trans-unit>
         <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
           <source>Already in custom level directory</source>
@@ -2400,9 +2400,9 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>No music included</source>
           <target>未包含音乐</target>
         </trans-unit>
-        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success">
+        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success" approved="yes">
           <source>Success</source>
-          <target>成功</target>
+          <target state="final">成功</target>
         </trans-unit>
         <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse">
           <source>Browse from disk</source>
@@ -2526,29 +2526,29 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Particles: Section {0}</source>
           <target>粒子效果：区域 {0}</target>
         </trans-unit>
-        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
+        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none" approved="yes">
           <source>None</source>
-          <target>无</target>
+          <target state="final">无</target>
         </trans-unit>
-        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
+        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves" approved="yes">
           <source>Leaves</source>
-          <target>叶子</target>
+          <target state="final">叶子</target>
         </trans-unit>
-        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
+        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds" approved="yes">
           <source>Diamonds</source>
-          <target>钻石</target>
+          <target state="final">钻石</target>
         </trans-unit>
-        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
+        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow" approved="yes">
           <source>Snow</source>
-          <target>雪花</target>
+          <target state="final">雪花</target>
         </trans-unit>
         <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
           <source>Dots</source>
           <target>粒子</target>
         </trans-unit>
-        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
+        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars" approved="yes">
           <source>Stars</source>
-          <target>星星</target>
+          <target state="final">星星</target>
         </trans-unit>
         <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
           <source>Petals</source>
@@ -2666,9 +2666,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Actions Only</source>
           <target>仅操作</target>
         </trans-unit>
-        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all">
+        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all" approved="yes">
           <source>All</source>
-          <target>全部</target>
+          <target state="final">全部</target>
         </trans-unit>
         <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
           <source>Action Type</source>
@@ -2758,9 +2758,9 @@ Other enemies colored based on enemy type.</source>
           <source>Enemy Spacing...</source>
           <target>敌人间距...</target>
         </trans-unit>
-        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions">
+        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions" approved="yes">
           <source>Companions</source>
-          <target>同伴</target>
+          <target state="final">同伴</target>
         </trans-unit>
         <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username">
           <source>Username: {0}</source>
@@ -2956,9 +2956,9 @@ Check the code and try again.</source>
           <source>Shows faint coin outlines on respawn for already-collected coins.</source>
           <target>在重生后显示已收集金币的轮廓。</target>
         </trans-unit>
-        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
+        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid" approved="yes">
           <source>Steam ID: {0}</source>
-          <target>Steam ID: {0}</target>
+          <target state="final">Steam ID: {0}</target>
         </trans-unit>
         <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description">
           <source>Register/login to mod.io using the following active Steam account?</source>
@@ -3004,9 +3004,9 @@ Check the code and try again.</source>
           <source>Level is missing a Description</source>
           <target>关卡缺少描述</target>
         </trans-unit>
-        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
+        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic" approved="yes">
           <source>Level has no music audio</source>
-          <target>关卡没有音乐</target>
+          <target state="final">关卡没有音乐</target>
         </trans-unit>
         <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
           <source>Music export options need to be set</source>
@@ -3060,9 +3060,9 @@ Check the code and try again.</source>
           <source>Track Preview</source>
           <target>谱面预览</target>
         </trans-unit>
-        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
+        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode" approved="yes">
           <source>Practice Mode</source>
-          <target>练习模式</target>
+          <target state="final">练习模式</target>
         </trans-unit>
         <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats">
           <source>Temporary Cheats...</source>
@@ -3170,9 +3170,9 @@ Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
           <source>Properties</source>
           <target>属性</target>
         </trans-unit>
-        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
+        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level" approved="yes">
           <source>Level...</source>
-          <target>关卡...</target>
+          <target state="final">关卡...</target>
         </trans-unit>
         <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
           <source>Grid Snap</source>
@@ -3204,13 +3204,13 @@ Press Esc for settings</source>
           <target>练习模式
 按Esc键打开设置</target>
         </trans-unit>
-        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
+        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse" approved="yes">
           <source>Practice Mode</source>
-          <target>练习模式</target>
+          <target state="final">练习模式</target>
         </trans-unit>
-        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
+        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch" approved="yes">
           <source>Practice Mode</source>
-          <target>练习模式</target>
+          <target state="final">练习模式</target>
         </trans-unit>
         <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
           <source>Practice Mode
@@ -3325,17 +3325,17 @@ from Piano Sonata No. 11</source>
         <source>Flight of the Bumblebee</source>
         <target state="translated">野蜂飞舞</target>
       </trans-unit>
-      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="yes">
         <source>Level {0}</source>
-        <target state="translated">关卡 {0}</target>
+        <target state="final">关卡 {0}</target>
       </trans-unit>
       <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
         <source>by {0}</source>
         <target state="translated">作者 {0}</target>
       </trans-unit>
-      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="yes">
         <source>World {0}</source>
-        <target state="translated">世界 {0}</target>
+        <target state="final">世界 {0}</target>
       </trans-unit>
       <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
         <source>You can change difficulties freely between levels.</source>
@@ -3345,21 +3345,21 @@ from Piano Sonata No. 11</source>
         <source>For those who want an easy-going experience.</source>
         <target state="translated">给那些追求轻松愉快体验的玩家。</target>
       </trans-unit>
-      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="yes">
         <source>Easy</source>
-        <target state="translated">简单</target>
+        <target state="final">简单</target>
       </trans-unit>
       <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="no">
         <source>Hard</source>
         <target state="translated">困难</target>
       </trans-unit>
-      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="yes">
         <source>Difficulty: {0}</source>
-        <target state="translated">难度：{0}</target>
+        <target state="final">难度：{0}</target>
       </trans-unit>
-      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="yes">
         <source>Normal</source>
-        <target state="translated">普通</target>
+        <target state="final">普通</target>
       </trans-unit>
       <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
         <source>Select Difficulty</source>
@@ -3473,9 +3473,9 @@ The intro melody has a reference to "Lonely Rolling Star" since we've both creat
         <source>Back to Level Select</source>
         <target state="translated">回到关卡选择</target>
       </trans-unit>
-      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="yes">
         <source>Return to the main menu.</source>
-        <target state="translated">回到主菜单。</target>
+        <target state="final">回到主菜单。</target>
       </trans-unit>
       <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
         <source>Return to the level selection menu.</source>
