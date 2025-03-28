@@ -3469,6 +3469,10 @@ Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting 
         <target state="translated">Изначально из игры "Nyamo's Adventure", над которой я работал в 2016 для геймджема Ludum Dare.
 Nyamo's Adventure - это 2D платформер в стиле "метроидвании" о шарике, который может менять форму.</target>
       </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
+        <source>Play Level</source>
+        <target state="translated">Играть в уровень</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
