@@ -518,17 +518,9 @@ Are you sure you want to proceed?</target>
           <source>Do you want to calibrate audio lag now?</source>
           <target>Do you want to calibrate audio lag now?</target>
         </trans-unit>
-        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
-          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
-          <target>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</target>
-        </trans-unit>
         <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
           <source>How to Play</source>
           <target>How to Play</target>
-        </trans-unit>
-        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack">
-          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
-          <target>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</target>
         </trans-unit>
         <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
@@ -958,14 +950,6 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
           <target>Calibrate audio latency so that audio and gameplay are in sync.</target>
         </trans-unit>
-        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack">
-          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
-          <target>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</target>
-        </trans-unit>
-        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump">
-          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</source>
-          <target>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</target>
-        </trans-unit>
         <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics">
           <source>Haptic Feedback Settings...</source>
           <target>Haptic Feedback Settings...</target>
@@ -1154,11 +1138,11 @@ Would you like to enable screen reader mode?
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
           <target>Enables ahead-of-time audio cues for the blind and visually-impaired.</target>
         </trans-unit>
-        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_desktop_attack_uap">
+        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack">
           <source>Press {0} or {1} to Attack.</source>
           <target>Press {0} or {1} to Attack.</target>
         </trans-unit>
-        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_desktop_jump_uap">
+        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump">
           <source>Press {0} or {1} to Jump.</source>
           <target>Press {0} or {1} to Jump.</target>
         </trans-unit>
@@ -3563,6 +3547,42 @@ The intro melody has a reference to "Lonely Rolling Star" since we've both creat
 This song was designed to be energetic and fast-paced to get players excited about the game.</source>
           <target>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
 This song was designed to be energetic and fast-paced to get players excited about the game.</target>
+        </trans-unit>
+        <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode">
+          <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+          <target>Exit practice mode, returning to the checkpoint you were previously playing.</target>
+        </trans-unit>
+        <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock">
+          <source>Section Lock</source>
+          <target>Section Lock</target>
+        </trans-unit>
+        <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled">
+          <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+          <target>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</target>
+        </trans-unit>
+        <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled">
+          <source>Automatically restart the current section when reaching the next checkpoint.</source>
+          <target>Automatically restart the current section when reaching the next checkpoint.</target>
+        </trans-unit>
+        <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description">
+          <source>Warp to a specific checkpoint of the level.</source>
+          <target>Warp to a specific checkpoint of the level.</target>
+        </trans-unit>
+        <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice">
+          <source>Resume practicing.</source>
+          <target>Resume practicing.</target>
+        </trans-unit>
+        <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science">
+          <source>Scherzo of Magical Science (RQ Edit)</source>
+          <target>Scherzo of Magical Science (RQ Edit)</target>
+        </trans-unit>
+        <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description">
+          <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+          <target>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</target>
         </trans-unit>
       </group>
     </body>
