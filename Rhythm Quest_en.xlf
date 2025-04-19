@@ -3584,6 +3584,46 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
           <target>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
 This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</target>
         </trans-unit>
+        <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds">
+          <source>Diamonds</source>
+          <target>Diamonds</target>
+        </trans-unit>
+        <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description">
+          <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+          <target>Toggle or adjust diamonds indicating downbeats/offbeats.</target>
+        </trans-unit>
+        <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat">
+          <source>Beat</source>
+          <target>Beat</target>
+        </trans-unit>
+        <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats">
+          <source>Downbeats</source>
+          <target>Downbeats</target>
+        </trans-unit>
+        <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats">
+          <source>Offbeats</source>
+          <target>Offbeats</target>
+        </trans-unit>
+        <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description">
+          <source>Display diamonds on obstacles that are on downbeats.</source>
+          <target>Display diamonds on obstacles that are on downbeats.</target>
+        </trans-unit>
+        <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description">
+          <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+          <target>(Default) Display diamonds on obstacles that are on offbeats.</target>
+        </trans-unit>
+        <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description">
+          <source>Don't show diamond rhythm indicators for any obstacles.</source>
+          <target>Don't show diamond rhythm indicators for any obstacles.</target>
+        </trans-unit>
+        <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description">
+          <source>(Default) Show diamond rhythm indicators for wings only.</source>
+          <target>(Default) Show diamond rhythm indicators for wings only.</target>
+        </trans-unit>
+        <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description">
+          <source>Show diamond rhythm indicators for all obstacle types.</source>
+          <target>Show diamond rhythm indicators for all obstacle types.</target>
+        </trans-unit>
       </group>
     </body>
   </file>
