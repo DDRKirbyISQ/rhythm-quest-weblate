@@ -172,9 +172,9 @@
           <source>Adjust the volume of the game music.</source>
           <target state="final">Stelle die Lautstärke der Spielmusik ein.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="yes">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="no">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target state="final">Stelle die Lautstärke der Sounfeffekte ein.</target>
+          <target state="translated">Stelle die Lautstärke der Soundeffekte ein.</target>
         </trans-unit>
         <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="yes">
           <source>Sfx Volume</source>
@@ -2294,9 +2294,9 @@ Klicke, um Sprünge oder geflügelte Luftsprünge hinzuzufügen. Bevorzuge gefl�
           <source>Open levels folder</source>
           <target state="final">Level-Ordner öffnen</target>
         </trans-unit>
-        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="yes">
           <source>Back to Menu</source>
-          <target state="needs-translation">Zurück zum Menü</target>
+          <target state="final">Zurück zum Menü</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror" approved="yes">
           <source>Error loading level</source>
@@ -2575,9 +2575,9 @@ Klicke auf einen Checkpoint Abschnitt, um seine Partikeleffekte zu bearbeiten.</
           <source>Standing Here Alone (Expert Mix)</source>
           <target state="final">Standing Here Alone (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="final">Super Mega Zero (RQ Edit)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="yes">
           <source>Colors</source>
