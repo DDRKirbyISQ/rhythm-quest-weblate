@@ -518,17 +518,9 @@ Ar tikrai norite tęsti?</target>
           <source>Do you want to calibrate audio lag now?</source>
           <target state="final">Ar norite kalibruoti garso atsilikimą dabar?</target>
         </trans-unit>
-        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump" approved="yes">
-          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
-          <target state="final">Spauskite &lt;color=#{0}&gt;{1}&lt;/color&gt; arba &lt;sprite name="{2}" tint=1 color=#{0}&gt; kad šokti.</target>
-        </trans-unit>
         <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>
           <target state="final">Kaip žaisti</target>
-        </trans-unit>
-        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack" approved="yes">
-          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
-          <target state="final">Spauskite &lt;color=#{0}&gt;{1}&lt;/color&gt; arba &lt;sprite name="{2}" tint=1 color=#{0}&gt; kad pulti.</target>
         </trans-unit>
         <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
@@ -958,14 +950,6 @@ Norėdami gauti geriausią patirtį, išbandykite versiją, skirtą žaisti nepr
           <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
           <target state="final">Sukalibruokite garso vėlavimą, kad garsas ir žaidimas būtų sinchronizuoti.</target>
         </trans-unit>
-        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack" approved="yes">
-          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
-          <target state="final">Spauskite &lt;sprite name="{0}" tint=1 color=#{2}&gt; arba &lt;sprite name="{1}" tint=1 color=#{2}&gt; kad pulti.</target>
-        </trans-unit>
-        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump" approved="yes">
-          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</source>
-          <target state="final">Spauskite &lt;sprite name="{0}" tint=1 color=#{2}&gt; arba &lt;sprite name="{1}" tint=1 color=#{2}&gt; kad šokti.</target>
-        </trans-unit>
         <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics" approved="yes">
           <source>Haptic Feedback Settings...</source>
           <target state="final">Haptinio ryšio nustatymai...</target>
@@ -1153,14 +1137,6 @@ Ar norėtumėte įjungti ekrano skaitymo režimą?
         <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled" approved="yes">
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
           <target state="final">Įjungia išankstinius garso signalus akliesiems ir silpnaregiams.</target>
-        </trans-unit>
-        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_desktop_attack_uap" approved="yes">
-          <source>Press {0} or {1} to Attack.</source>
-          <target state="final">Spauskite {0} arba {1} kad pulti.</target>
-        </trans-unit>
-        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_desktop_jump_uap" approved="yes">
-          <source>Press {0} or {1} to Jump.</source>
-          <target state="final">Spauskite {0} arba {1} kad šokti.</target>
         </trans-unit>
         <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button" approved="yes">
           <source>right mouse button</source>

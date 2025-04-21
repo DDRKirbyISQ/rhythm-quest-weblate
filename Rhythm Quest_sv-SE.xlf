@@ -518,17 +518,9 @@ Are you sure you want to proceed?</source>
           <source>Do you want to calibrate audio lag now?</source>
           <target>Vill du kalibrera ljudfördröjning nu?</target>
         </trans-unit>
-        <trans-unit id="5419210579206144" xml:space="preserve" resname="tutorial_desktop_jump">
-          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Jump.</source>
-          <target>Klicka på&lt;color=#{0}&gt;{1}&lt;/color&gt;  eller &lt;sprite name="{2}" tint=1 color=#{0}&gt; för att Hoppa.</target>
-        </trans-unit>
         <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
           <source>How to Play</source>
           <target>Så här spelar man</target>
-        </trans-unit>
-        <trans-unit id="5456088791605248" xml:space="preserve" resname="tutorial_desktop_attack">
-          <source>Press  &lt;color=#{0}&gt;{1}&lt;/color&gt;  or &lt;sprite name="{2}" tint=1 color=#{0}&gt; to Attack.</source>
-          <target>Klicka på &lt;color=#{0}&gt;{1}&lt;/color&gt;  eller &lt;sprite name="{2}" tint=1 color=#{0}&gt; för att Attackera.</target>
         </trans-unit>
         <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
@@ -957,14 +949,6 @@ Testa den nedladdningsbara versionen för än ännu bättre spelupplevelse!</tar
           <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
           <target>Kalibrera ljudfördröjning så att ljudet och spelet är synkade.</target>
         </trans-unit>
-        <trans-unit id="124671972349882368" xml:space="preserve" resname="tutorial_controller_attack">
-          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Attack.</source>
-          <target>Klicka &lt;sprite name="{0}" tint=1 color=#{2}&gt; eller &lt;sprite name="{1}" tint=1 color=#{2}&gt; för att Attackera.</target>
-        </trans-unit>
-        <trans-unit id="124671974061158400" xml:space="preserve" resname="tutorial_controller_jump">
-          <source>Press &lt;sprite name="{0}" tint=1 color=#{2}&gt; or &lt;sprite name="{1}" tint=1 color=#{2}&gt; to Jump.</source>
-          <target>Klicka &lt;sprite name="{0}" tint=1 color=#{2}&gt; eller &lt;sprite name="{1}" tint=1 color=#{2}&gt; för att Hoppa.</target>
-        </trans-unit>
         <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics">
           <source>Haptic Feedback Settings...</source>
           <target>Inställningar för fysisk feedback...</target>
@@ -1152,14 +1136,6 @@ Vill du sätta på skärmläsningsläge?
         <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled">
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
           <target>Sätter på hjälpljud för blinda och synskadade.</target>
-        </trans-unit>
-        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_desktop_attack_uap">
-          <source>Press {0} or {1} to Attack.</source>
-          <target>Klicka {0} eller {1} för att Attackera.</target>
-        </trans-unit>
-        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_desktop_jump_uap">
-          <source>Press {0} or {1} to Jump.</source>
-          <target>Klicka {0} eller {1} för att Hoppa.</target>
         </trans-unit>
         <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button">
           <source>right mouse button</source>
