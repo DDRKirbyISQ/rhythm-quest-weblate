@@ -3420,9 +3420,9 @@ The identity of the titular "Elise" is uncertain, but is thought to be an close 
 Особистість титульної "Елізи" не визначена, але вважається, що це близька подруга або важлива фігура в його житті.</target>
       </trans-unit>
       <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
-        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
 The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
-        <target state="translated">Третя частина фортепіанної сонати № 11 ля мажор Вольфганга Амадея Моцарта також відома як "Rondo alla Turca" або "Турецький марш" є миттєво впізнаваною мелодією.
+        <target state="needs-translation">Третя частина фортепіанної сонати № 11 ля мажор Вольфганга Амадея Моцарта також відома як "Rondo alla Turca" або "Турецький марш" є миттєво впізнаваною мелодією.
 Вважається, що ця композиція наслідує стиль військових маршових оркестрів Турецької імперії.</target>
       </trans-unit>
       <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
