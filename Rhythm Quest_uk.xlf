@@ -1006,13 +1006,13 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Panning</source>
           <target>Положення звуку</target>
         </trans-unit>
-        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description">
+        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description" approved="no">
           <source>-100%: Attack cues on left, Jump cues on right
 100%: Jump cues on left, attack cues on right
 0%: Centered cues</source>
-          <target>-100%: Атакувати з лівої сторони, Стрибати з правої сторони
+          <target state="translated">-100%: Атакувати з лівої сторони, Стрибати з правої сторони
 100%: Стрибати з лівої сторони, Атакувати з правої сторони
-0%: Відцентровані підказки.</target>
+0%: Відцентровані підказки</target>
         </trans-unit>
         <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump">
           <source>Jump</source>
@@ -3544,6 +3544,90 @@ for {1}?</source>
       <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
         <source>Return to the level selection menu.</source>
         <target state="needs-translation">Повернутися до меню вибору рівнів.</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">Натисни {0} або {1} для Атаки.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">Натисни {0} або {1} для Стрибка.</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="no">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="needs-translation">Перенестися до певної контрольної точки рівня.</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">Scherzo of Magical Science (Версія RQ)</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">Трек, створений для "Hero Hours Contract", покрокової тактичної гри, розробленої Стівом О'Горманом.
+Це головна тема для "Magical Science Girl", наймолодшої з трьох протагоністів, яка полюбляє нестабільні наукові експерименти.</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="no">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="needs-translation">(За замовчуванням) Показувати діамантові індикатори лише для крил.</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="no">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="needs-translation">Вийти з режиму практики та повернутися до останньої контрольної точки.</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="translated">Проходити секції пісень у звичайний спосіб.
+Починати з початку при досягненні кінця рівня.</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="translated">Автоматично повертатися до початку поточної секції при досягненні наступної контрольної точки.</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
+        <source>Section Lock</source>
+        <target state="needs-translation">Зациклення секції</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+        <source>Resume practicing.</source>
+        <target state="translated">Продовжити практику.</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
+        <source>Diamonds</source>
+        <target state="translated">Діаманти</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="no">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="needs-translation">Налаштувати діаманти, що вказують на даунбіти/оффбіти.</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="no">
+        <source>Beat</source>
+        <target state="needs-translation">Біт</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="needs-translation">Даунбіти</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="no">
+        <source>Offbeats</source>
+        <target state="needs-translation">Оффбіти</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="no">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="needs-translation">Показувати діаманти на перешкодах, які знаходяться на даунбітах.</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="needs-translation">(За замовчуванням) Показувати діаманти на перешкодах, що знаходяться на оффбітах.</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="no">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="needs-translation">Не показувати діамантових індикаторів для перешкод.</target>
+      </trans-unit>
+      <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description" approved="no">
+        <source>Show diamond rhythm indicators for all obstacle types.</source>
+        <target state="needs-translation">Показувати діамантові індикатори для всіх типів перешкод.</target>
       </trans-unit>
     </body>
   </file>
