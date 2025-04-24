@@ -3410,9 +3410,9 @@ The identity of the titular "Elise" is uncertain, but is thought to be an close 
 标题中 “爱丽丝” 的身份尚不明确，但一般都认为是他生命中的一位亲密朋友或者重要人物。</target>
       </trans-unit>
       <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
-        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
 The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
-        <target state="translated">由沃尔夫冈·阿玛多伊斯·莫扎特创作的 A 大调第 11 号钢琴奏鸣曲的第三乐章，也被称作 “土耳其进行曲”，其旋律很容易就能辨认出来。
+        <target state="needs-translation">由沃尔夫冈·阿玛多伊斯·莫扎特创作的 A 大调第 11 号钢琴奏鸣曲的第三乐章，也被称作 “土耳其进行曲”，其旋律很容易就能辨认出来。
 据说这首作品模仿了土耳其帝国军乐队的风格。</target>
       </trans-unit>
       <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
@@ -3422,9 +3422,9 @@ Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Q
 由于机制相似，在 Rhythm Quest 中可以很自然地给 Melody Muncher 里的歌曲制谱。</target>
       </trans-unit>
       <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
-        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
 This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
-        <target state="translated">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
+        <target state="needs-translation">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
 这是那个游戏中最慢的一首歌曲，旨在引入被击打后会传送到你身后的蓝色敌人这个机制。</target>
       </trans-unit>
       <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
