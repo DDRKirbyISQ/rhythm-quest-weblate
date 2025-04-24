@@ -3405,9 +3405,9 @@ The identity of the titular "Elise" is uncertain, but is thought to be an close 
 Die Identität der titelgebenden „Elise“ ist ungewiss, es wird jedoch angenommen, dass es sich um eine enge Freundin oder eine wichtige Figur in seinem Leben handelt.</target>
       </trans-unit>
       <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
-        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
 The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
-        <target state="translated">Der dritte Satz der Klaviersonate Nr. 11 in A-Dur von Wolfgang Amadeus Mozart ist auch als „Rondo alla Turca“ oder „Türkischer Marsch“ bekannt und ist eine Melodie, die man sofort erkennt.
+        <target state="needs-translation">Der dritte Satz der Klaviersonate Nr. 11 in A-Dur von Wolfgang Amadeus Mozart ist auch als „Rondo alla Turca“ oder „Türkischer Marsch“ bekannt und ist eine Melodie, die man sofort erkennt.
 Die Komposition soll dem Stil der Militärkapellen des türkischen Reiches nachempfunden sein.</target>
       </trans-unit>
       <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
@@ -3417,9 +3417,9 @@ Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Q
 Lieder aus Melody Muncher eignen sich aufgrund der ähnlichen Spielmechanik natürlich auch für die Erstellung von Charts in Rhythm Quest.</target>
       </trans-unit>
       <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
-        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
 This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
-        <target state="translated">Ursprünglich in „Melody Muncher“ enthalten, einem Zwei-Tasten-Rhythmus-Spiel, das ich 2015 für den Ludum Dare Game Jam entwickelt habe.
+        <target state="needs-translation">Ursprünglich in „Melody Muncher“ enthalten, einem Zwei-Tasten-Rhythmus-Spiel, das ich 2015 für den Ludum Dare Game Jam entwickelt habe.
 Dies ist der langsamste Song im Spiel, der die Mechanik der blauen Feinde einführen soll, die sich nach einem Treffer hinter dich teleportieren.</target>
       </trans-unit>
       <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
