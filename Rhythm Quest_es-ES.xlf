@@ -52,21 +52,21 @@
           <source>Accessibility</source>
           <target>Accesibilidad</target>
         </trans-unit>
-        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="no">
           <source>Scaling Mode</source>
-          <target>Modo de escala </target>
+          <target state="translated">Modo de escala</target>
         </trans-unit>
         <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
           <source>Flexible</source>
           <target>Flexible</target>
         </trans-unit>
-        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="no">
           <source>Pixel Perfect</source>
-          <target>Píxel perfecto </target>
+          <target state="translated">Píxel perfecto</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="no">
           <source>Screen Mode</source>
-          <target>Modo de pantalla </target>
+          <target state="translated">Modo de pantalla</target>
         </trans-unit>
         <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
           <source>Windowed</source>
@@ -116,9 +116,9 @@
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
           <target>Deshabilita refrescos de sincronización de imagen. Puede resultar en más rápida renderización. Pero pueden aparecer cortes en la pantalla.</target>
         </trans-unit>
-        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled">
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="no">
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
-          <target>(Por defecto) Sincroniza la renderización con la tasa de refrescos de la pantalla. Previene cortes en la pantalla. </target>
+          <target state="translated">(Por defecto) Sincroniza la renderización con la tasa de refrescos de la pantalla. Previene cortes en la pantalla.</target>
         </trans-unit>
         <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
           <source>Disabled</source>
@@ -148,9 +148,9 @@
           <source>Far</source>
           <target>Lejos</target>
         </trans-unit>
-        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near">
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="no">
           <source>Near</source>
-          <target>Cerca </target>
+          <target state="translated">Cerca</target>
         </trans-unit>
         <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
@@ -196,9 +196,9 @@
           <source>Enables screen shake effects.</source>
           <target>Activa los efectos de temblor.</target>
         </trans-unit>
-        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="no">
           <source>Screen Flashes</source>
-          <target>Parpadeo de luces en pantalla.</target>
+          <target state="translated">Parpadeo de luces en pantalla</target>
         </trans-unit>
         <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
           <source>Enables screen flash effects.</source>
@@ -244,9 +244,9 @@
           <source>Auto play is disabled.</source>
           <target>Juego automático está deshabilitado.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Juego automático está activado. Los niveles se jugarán automáticamente sin interferencia del jugador.</target>
+          <target state="translated">Juego automático activado. Los niveles se jugarán automáticamente sin la entrada del jugador. (El progreso se seguirá guardado)</target>
         </trans-unit>
         <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
           <source>Levels must be unlocked normally.</source>
@@ -268,17 +268,17 @@
           <source>Tap to Continue</source>
           <target>Toca para continuar</target>
         </trans-unit>
-        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="no">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
-          <target>Presiona &lt;sprite name="controller_icons_100"&gt; para continuar.</target>
+          <target state="translated">Presiona &lt;sprite name="controller_icons_100"&gt; para Continuar</target>
         </trans-unit>
-        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="no">
           <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
-          <target>Presiona &lt;sprite name="controller_icons_37"&gt; para continuar.</target>
+          <target state="translated">Presiona &lt;sprite name="controller_icons_37"&gt; para Continuar</target>
         </trans-unit>
-        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="no">
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
-          <target>Presiona &lt;sprite name="controller_icons_60"&gt; para continuar.</target>
+          <target state="translated">Presiona &lt;sprite name="controller_icons_60"&gt; para Continuar</target>
         </trans-unit>
         <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
           <source>Font Style</source>
@@ -576,9 +576,9 @@ Si no lo están, ajústalo manualmente hasta que estén sincronizados.</target>
           <source>Press any key or click in time with the beeps</source>
           <target>Presiona cualquier tecla o haz click a la vez que los beeps</target>
         </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
+        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="no">
           <source>Tap in time with the beeps</source>
-          <target>Toca a la vez que los "beeps".</target>
+          <target state="translated">Toca a la vez que los "beeps"</target>
         </trans-unit>
         <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
           <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
@@ -1186,9 +1186,9 @@ Would you like to enable screen reader mode?
           <source>Tap the right side of the screen to Jump.</source>
           <target>Toca la parte derecha de la pantalla para Saltar.</target>
         </trans-unit>
-        <trans-unit id="138033288263282688" xml:space="preserve" resname="tutorial_mobile_attack_normal_uap">
+        <trans-unit id="138033288263282688" xml:space="preserve" resname="tutorial_mobile_attack_normal_uap" approved="no">
           <source>Tap the right side of the screen to Attack.</source>
-          <target>Toca la parte derecha de la pantalla para Atacar. </target>
+          <target state="translated">Toca la parte derecha de la pantalla para Atacar.</target>
         </trans-unit>
         <trans-unit id="138033289026646016" xml:space="preserve" resname="tutorial_mobile_attack_flipped_uap">
           <source>Tap the left side of the screen to Attack.</source>
@@ -1210,9 +1210,9 @@ Would you like to enable screen reader mode?
           <source>D-pad left</source>
           <target>D-pad Izquierda</target>
         </trans-unit>
-        <trans-unit id="138034794794364928" xml:space="preserve" resname="controller_analogstick">
+        <trans-unit id="138034794794364928" xml:space="preserve" resname="controller_analogstick" approved="no">
           <source>analog stick</source>
-          <target>Stick analógico.</target>
+          <target state="translated">Stick analógico</target>
         </trans-unit>
         <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap">
           <source>You can change these controls in the "Settings" menu.</source>
@@ -2272,7 +2272,7 @@ Haz click para añadir saltos o saltos aéreos alados. Preferiblemente saltos a�
         </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
           <source>Back to Menu</source>
-          <target state="needs-translation">Volver al menú</target>
+          <target state="translated">Volver al Menú</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2544,7 +2544,7 @@ Haz click en una sección de punto de control para editar su efecto de partícul
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Cero</target>
+          <target state="translated">Super Mega Cero (Edición de RQ)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -2650,9 +2650,9 @@ Haz click en una sección de punto de control para editar su efecto de partícul
           <source>Beat grid markers with obstacles will be colored according beat offset.</source>
           <target>Los marcadores de pulso con obstáculos se colorearán acuerdo al offset del pulso.</target>
         </trans-unit>
-        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="no">
           <source>Spellbound Nebula</source>
-          <target>Nebula Hechizada</target>
+          <target state="translated">Nébula Hechizada</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
@@ -2841,7 +2841,7 @@ Necesitas una cuenta en orden para publicar niveles a mod.io.</target>
       </trans-unit>
       <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin" approved="no">
         <source>You are logged into mod.io as:</source>
-        <target state="translated">Has iniciado sesion en mod.io como:</target>
+        <target state="translated">Has iniciado sesión en mod.io como:</target>
       </trans-unit>
       <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="no">
         <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
@@ -2849,7 +2849,7 @@ Necesitas una cuenta en orden para publicar niveles a mod.io.</target>
       </trans-unit>
       <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile" approved="no">
         <source>View profile on web</source>
-        <target state="translated">Mirar perfil en la web</target>
+        <target state="translated">Ver perfil en la web</target>
       </trans-unit>
       <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio" approved="no">
         <source>View on mod.io</source>
@@ -2857,19 +2857,19 @@ Necesitas una cuenta en orden para publicar niveles a mod.io.</target>
       </trans-unit>
       <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio" approved="no">
         <source>Publish to mod.io</source>
-        <target state="translated">Publicar a mod.io</target>
+        <target state="translated">Publicar en mod.io</target>
       </trans-unit>
       <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio" approved="no">
         <source>Publish new version</source>
-        <target state="translated">Publicar nueva version</target>
+        <target state="translated">Publicar nueva versión</target>
       </trans-unit>
       <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails" approved="no">
         <source>Account details...</source>
-        <target state="translated">Detalles de cuenta...</target>
+        <target state="translated">Detalles de la cuenta...</target>
       </trans-unit>
       <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister" approved="no">
         <source>Login/Register...</source>
-        <target state="translated">Inciar sesion/Registar...</target>
+        <target state="translated">Inciar sesión/Registrarse...</target>
       </trans-unit>
       <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines" approved="no">
         <source>Coin Outlines</source>
@@ -3056,6 +3056,578 @@ Mire el código e intente de nuevo.</target>
       <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="yes">
         <source>Repeatedly practice the current section with various assists.</source>
         <target state="final">Repetidamente practica la seccion actual con varias asistencias.</target>
+      </trans-unit>
+      <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="no">
+        <source>Allows you to scroll left and right to see the rest of the track.</source>
+        <target state="translated">Permite desplazarte de izquierda a derecha para ver el resto de la pista.</target>
+      </trans-unit>
+      <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats" approved="no">
+        <source>(These settings will reset after the current section is complete)</source>
+        <target state="translated">(Estos ajustes se restablecerán una vez completada la sección actual)</target>
+      </trans-unit>
+      <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description" approved="no">
+        <source>Show diamond rhythm indicators for all obstacle types.</source>
+        <target state="translated">Mostrar diamantes indicadores de ritmo en todos los tipos de obstáculos.</target>
+      </trans-unit>
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
+        <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        <target state="translated">Una canción que escribí en 2019 como uno de varios temas centrados en sonidos y ritmos percusivos interesantes, inspirados en cierto modo en temas del dúo "Made in Heights".
+Hace uso de varias muestras que grabé yo mismo utilizando botellas de vidrio.</target>
+      </trans-unit>
+      <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+        <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
+        <target state="translated">Si deseas habilitar asistencias más tarde, puedes hacerlo desde el menú de "Modificaciones y Asistencias".</target>
+      </trans-unit>
+      <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="no">
+        <source>Practice Mode Settings</source>
+        <target state="translated">Ajustes de Modo Práctica</target>
+      </trans-unit>
+      <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="no">
+        <source>Track freezing is disabled.</source>
+        <target state="translated">Congelación de la Pista deshabilitada.</target>
+      </trans-unit>
+      <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled" approved="no">
+        <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
+        <target state="translated">Congelación de Pista habilitada. El desplazamiento del nivel se detendrá automáticamente para esperar a que se introduzca una entrada correcta.</target>
+      </trans-unit>
+      <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox" approved="no">
+        <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
+Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
+        <target state="translated">Usa &lt;sprite name="controller_icons_79"&gt; para desplazarte.
+Presiona &lt;sprite name="controller_icons_100"&gt; para volver.</target>
+      </trans-unit>
+      <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description" approved="no">
+        <source>Configure controller bindings.</source>
+        <target state="translated">Asignar controles.</target>
+      </trans-unit>
+      <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default" approved="no">
+        <source>Use default controller bindings.</source>
+        <target state="translated">Usar configuración de control por defecto.</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
+        <source>Difficulty: {0}</source>
+        <target state="translated">Dificultad: {0}</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="no">
+        <source>For those who want an easy-going experience.</source>
+        <target state="translated">Para aquellos que quieren una experiencia sencilla.</target>
+      </trans-unit>
+      <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
+        <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        <target state="translated">Originalmente, apareció en el videojuego de ritmo "Samurai Shaver" en el que trabajé durante el año 2017 para la Ludum Dare game jam.
+Este fue el primer tema que añadí al juego después de la que la jam terminó, y utiliza un tempo más lento.</target>
+      </trans-unit>
+      <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
+        <source>Not enough coins!</source>
+        <target state="translated">Monedas insuficientes!</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="translated">Un tema de chiptune originalmente pensado para ser incluido en el mundo 3.
+Este nivel originalmente introducía a los enemigos que requieren el combo de ataque verde + salto, antes de que dicha mecánica fuese movida al mundo 5 en su lugar.</target>
+      </trans-unit>
+      <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
+        <source>Back to Level Select</source>
+        <target state="translated">Volver a la Selección de Niveles</target>
+      </trans-unit>
+      <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
+        <source>Return to the level selection menu.</source>
+        <target state="translated">Volver al menú de selección de niveles.</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="translated">Un tema inspirado en la música "liquid drum and bass". El tempo es bastante rápido contando con 170 pulsos por minuto.
+Los patrones de percusión rápidos contrastan con la melodía envolvente y los pads atmosféricos.</target>
+      </trans-unit>
+      <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
+        <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        <target state="translated">Originalmente, apareció en el videojuego "Nyamo's Adventure" en el que trabajé durante el año 2016 para la Ludum Dare game jam.
+Nyamo's Adventure es un juego de estilo "metroidvania" 2D de plataformas que trata sobre una masa cambia-cuerpos.</target>
+      </trans-unit>
+      <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="no">
+        <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        <target state="translated">Una canción rápida con instrumentos de Asia oriental, como tambores taiko y guzheng (instrumento de cuerdas Chino).
+Este nivel se centra solo en la mecánica básica y se puede jugar incluso si aún no has llegado a los mundos posteriores.</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
+        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="translated">El tercer movimiento de la Sonata No. 11 en La Mayor de Wolfgang Amadeus Mozart también conocida como "Rondo alla Turca" o "Marcha Turca", es una melodía reconocible al instante.
+Se dice que la composición emula el estilo de las bandas de música militares del Imperio Turco.</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">"Flight of the Bumblebee" es un conocido interludio orquestal escrito para la ópera "The Tale of Tsar Saltan", que pretende evocar el caótico patrón de vuelo de un abejorro.
+Los constantes patrones de semicorcheas le confieren una frenética sensación de energía.</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="translated">Un tema que utiliza elementos de la música "synthwave", incluye cálidos sintetizadores analógicos.
+Utilicé efectos que emulan un vinilo para dar una sutil sensación "vintage" al sonido.</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="translated">Originalmente, apareció en "Melody Muncher" un videojuego de ritmo de dos botones que hice en 2015 para la Ludum Dare game jam.
+Esta es la canción más lenta del juego, pensada para introducir la mecánica de enemigos azules que se teletransportan detrás de ti después de ser golpeados.</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="translated">Apareció originalmente en mi antiguo videojuego de ritmo "Ripple Runner Deluxe", el predecesor espiritual de Rhythm Quest.
+Esta era la canción con el tempo más lento en dicho juego, notable por su uso de plataformas con espinas encadenadas.</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="translated">El tema principal y música del tráiler de «Super Mega Zero», un juego de plataformas desarrollado por Silkworm para el que me encargaron componer la música en mi clásico estilo de "9 bits".
+Esta canción se diseñó para que fuera enérgica y activa para entusiasmar a los jugadores.</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">Un tema encargado para "Hero Hours Contract", un videojuego de estrategia por turnos desarrollado por Steve O'Gorman.
+Este es el tema de "Magical Science Girl", la más joven de las tres protagonistas a la que le gustan los experimentos científicos volátiles.</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="translated">Bagatelle No. 25 en La Menor, más conocida como "Für Elise", es una conocida composición de Ludwig van Beethoven.
+La identidad de la "Elise" titular es incierta, pero se cree que es una amiga íntima o una figura importante en su vida.</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="translated">El primer movimiento de la Serenata No. 13 para cuerdas en Sol Mayor de Wolfgang Amadeus Mozart, conocida como "Eine kleine Nachtmusik", o "un poco de música nocturna", es una de las obras más famosas de Mozart.
+La pieza fue escrita originalmente como composición para quinteto de cuerda.</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="translated">Originalmente, apareció en "Melody Muncher" un videojuego de ritmo de dos botones que hice en 2015 para la Ludum Dare game jam.
+Esta es la "mezcla experta" de la canción, añadida para aumentar la dificultad en una actualización posterior a la jam.</target>
+      </trans-unit>
+      <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
+        <source>Eine kleine Nachtmusik
+I. Allegro</source>
+        <target state="translated">Eine kleine Nachtmusik
+I. Allegro</target>
+      </trans-unit>
+      <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="no">
+        <source>Song of the Sea (Expert Mix)</source>
+        <target state="translated">Canción del Mar (Mezcla Experta)</target>
+      </trans-unit>
+      <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="no">
+        <source>Quantum Orbit</source>
+        <target state="translated">Órbita cuántica</target>
+      </trans-unit>
+      <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
+        <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11</source>
+        <target state="translated">Marcha turca (Rondo alla Turca)
+de la Sonata para Piano No. 11</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
+        <source>Für Elise</source>
+        <target state="translated">Para Elisa (Für Elise)</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
+        <source>Flight of the Bumblebee</source>
+        <target state="translated">El vuelo del abejorro (Flight of the Bumblebee)</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
+        <source>Cosmic Conflux</source>
+        <target state="translated">Confluencia Cósmica</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+        <source>Level {0}</source>
+        <target state="translated">Nivel {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
+        <source>by {0}</source>
+        <target state="translated">por {0}</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+        <source>World {0}</source>
+        <target state="translated">Mundo {0}</target>
+      </trans-unit>
+      <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="no">
+        <source>Options for making the current section easier.</source>
+        <target state="translated">Opciones para facilitar la sección actual.</target>
+      </trans-unit>
+      <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt" approved="no">
+        <source>It looks like you're having trouble with this section.
+Would you like to enable game assist features?</source>
+        <target state="translated">Parece que estás teniendo problemas con esta sección.
+¿Te gustaría habilitar funciones de asistencia?</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">Presiona {0} o {1} para Atacar.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">Presiona {0} p {1} para Saltar.</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
+        <source>Easy</source>
+        <target state="translated">Fácil</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
+        <source>Normal</source>
+        <target state="translated">Normal</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="no">
+        <source>Hard</source>
+        <target state="translated">Difícil</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="no">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="translated">La dificultad incrementa lentamente y nunca llega a ser demasiado difícil.</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="translated">Puedes cambiar de dificultad libremente entre niveles.</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
+        <source>Select Difficulty</source>
+        <target state="translated">Selecciona una Dificultad</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="translated">La forma en la que está pensado jugar Rhythm Quest.</target>
+      </trans-unit>
+      <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="no">
+        <source>Track Freezing</source>
+        <target state="translated">Congelar la pista</target>
+      </trans-unit>
+      <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride" approved="no">
+        <source>(Unchanged)</source>
+        <target state="translated">(Sin cambios)</target>
+      </trans-unit>
+      <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="no">
+        <source>Piano Sonata No. 16 in C Major
+I. Allegro</source>
+        <target state="translated">Sonata de Piano No. 16 en Do Mayor
+I. Allegro</target>
+      </trans-unit>
+      <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard" approved="no">
+        <source>Press &lt;- and -&gt; to scroll.
+Press Enter to return.</source>
+        <target state="translated">Presiona &lt;- y -&gt; para desplazarte.
+Presiona "Enter" para volver.</target>
+      </trans-unit>
+      <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse" approved="no">
+        <source>Click and drag to scroll left/right.</source>
+        <target state="translated">Haz clic y arrastra para desplazarte hacia la izquierda/derecha.</target>
+      </trans-unit>
+      <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="no">
+        <source>Tap and drag to scroll left/right.</source>
+        <target state="translated">Toca y arrastra para desplazarte hacia la izquierda/derecha.</target>
+      </trans-unit>
+      <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="no">
+        <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
+Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
+        <target state="translated">Usa &lt;sprite name="controller_icons_45&gt; para desplazarte.
+Presiona &lt;sprite name="controller_icons_60"&gt; para volver.</target>
+      </trans-unit>
+      <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation" approved="no">
+        <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
+Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
+        <target state="translated">Usa &lt;sprite name="controller_icons_16"&gt; para desplazarte.
+Presiona &lt;sprite name="controller_icons_37"&gt; para volver.</target>
+      </trans-unit>
+      <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="no">
+        <source>Adjust in-game controls.</source>
+        <target state="translated">Ajusta los controles del juego.</target>
+      </trans-unit>
+      <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties" approved="no">
+        <source>Properties</source>
+        <target state="translated">Propiedades</target>
+      </trans-unit>
+      <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level" approved="no">
+        <source>Level...</source>
+        <target state="translated">Nivel...</target>
+      </trans-unit>
+      <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="no">
+        <source>Grid Snap</source>
+        <target state="translated">Ajustar a cuadrícula</target>
+      </trans-unit>
+      <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine" approved="no">
+        <source>Fine</source>
+        <target state="translated">Fino</target>
+      </trans-unit>
+      <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="no">
+        <source>Helpers</source>
+        <target state="translated">Apoyos</target>
+      </trans-unit>
+      <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="no">
+        <source>Additional Settings...</source>
+        <target state="translated">Ajustes adicionales...</target>
+      </trans-unit>
+      <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description" approved="no">
+        <source>Edit additional audio settings.</source>
+        <target state="translated">Edita los ajustes de audio adicionales.</target>
+      </trans-unit>
+      <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="no">
+        <source>Coin Sfx</source>
+        <target state="translated">Efecto de sonido de monedas</target>
+      </trans-unit>
+      <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled" approved="no">
+        <source>Coin collection is silent.</source>
+        <target state="translated">Recolección de monedas silenciada.</target>
+      </trans-unit>
+      <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled" approved="no">
+        <source>(Default) Plays a chime whenever a coin is collected.</source>
+        <target state="translated">(Por defecto) Reproduce un sonidito al recolectar una moneda.</target>
+      </trans-unit>
+      <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch" approved="no">
+        <source>Rumble...</source>
+        <target state="translated">Retumbar...</target>
+      </trans-unit>
+      <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch" approved="no">
+        <source>Configure Controls...</source>
+        <target state="translated">Configurar Controles...</target>
+      </trans-unit>
+      <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch" approved="no">
+        <source>Controller Config</source>
+        <target state="translated">Configuración de control</target>
+      </trans-unit>
+      <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom" approved="no">
+        <source>Use custom controller bindings.</source>
+        <target state="translated">Usar controles personalizados.</target>
+      </trans-unit>
+      <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="no">
+        <source>Flower Fang (Expert Mix)</source>
+        <target state="translated">Colmillo de flores (Mezcla Experta)</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
+        <source>Starts simple, but gets complex!</source>
+        <target state="translated">Empieza simple, pero se complica!</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
+        <source>Level Browser</source>
+        <target state="translated">Buscador de Niveles</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Volver al menú principal.</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="translated">Reprimido (Edición de RQ)</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="translated">El guerrero despierta con el alba (Edición de RQ)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+        <source>Claustrophobia</source>
+        <target state="translated">Claustrofobia</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">El primer movimiento de la Sonata para piano No. 16 en Do Mayor de Wolfgang Amadeus Mozart es una melodía alegre y familiar típica de las obras de Mozart.
+También es conocida como "Sonata facile" o "Sonata semplice", por ser "para principiantes".</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="translated">Originalmente, apareció en «Melody Muncher» un videojuego de ritmo de dos botones que hice en 2015 para la Ludum Dare game jam.
+Las canciones de Melody Muncher se prestan naturalmente a ser mapeadas en Rhythm Quest debido a que comparten mecánicas similares.</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="translated">Un tema chiptune alentador que escribí de una sentada en el transcurso de 3 horas tras inspirarme en la música de "Aivi &amp; Surasshu".
+La melodía de la introducción hace referencia a "Lonely Rolling Star", ya que ambos hemos creado arreglos relacionados con esa canción.</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
+        <source>Diamonds</source>
+        <target state="translated">Diamantes</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="no">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="translated">Alternar o ajustar los diamantes que indican los pulsos fuertes/débiles.</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="no">
+        <source>Beat</source>
+        <target state="translated">Pulso</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="translated">Pulsos fuertes</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="no">
+        <source>Offbeats</source>
+        <target state="translated">Pulsos débiles</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="no">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="translated">Mostrar diamantes en obstáculos que están en pulsos fuertes.</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="translated">(Por defecto) Mostrar diamantes en obstáculos que están pulsos débiles.</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="no">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="translated">No mostrar diamantes indicadores de ritmo en ningún obstáculo.</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="no">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="translated">(Por defecto) Mostrar diamantes indicadores de ritmo solo en alas.</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="no">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="translated">Salir de modo práctica, volviendo al punto de control en el que estabas jugando previamente.</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
+        <source>Section Lock</source>
+        <target state="translated">Bloqueo de Sección</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="translated">Avanzar por las secciones de canción normalmente.
+Reiniciar desde el comienzo al alcanzar el final del nivel.</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="translated">Automáticamente reiniciar la sección actual al alcanzar el siguiente punto de control.</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="no">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="translated">Saltar a un punto de control específico del nivel.</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+        <source>Resume practicing.</source>
+        <target state="translated">Resumir práctica.</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">Scherzo de Ciencia Mágica (Edición de RQ)</target>
+      </trans-unit>
+      <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode" approved="no">
+        <source>Exit Practice</source>
+        <target state="translated">Salir de modo práctica</target>
+      </trans-unit>
+      <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled" approved="no">
+        <source>Don't override settings for visual/audio aids.</source>
+        <target state="translated">No sobrescribir ajustes de apoyos visuales/auditivos.</target>
+      </trans-unit>
+      <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled" approved="no">
+        <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+        <target state="translated">Forzar la activación de apoyos visuales/auditivos como el metrónomo y la línea de tiempo de entradas.</target>
+      </trans-unit>
+      <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard" approved="no">
+        <source>Practice Mode
+Press Esc for settings</source>
+        <target state="translated">Modo Práctica
+Presiona Escape para ver los ajustes</target>
+      </trans-unit>
+      <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">Modo Práctica</target>
+      </trans-unit>
+      <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch" approved="no">
+        <source>Practice Mode</source>
+        <target state="translated">Modo Práctica</target>
+      </trans-unit>
+      <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation" approved="no">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+        <target state="translated">Modo Práctica
+Presiona &lt;sprite name="controller_icons_100"&gt; para ver los ajustes</target>
+      </trans-unit>
+      <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch" approved="no">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
+        <target state="translated">Modo Práctica
+Presiona &lt;sprite name="controller_icons_65"&gt; para ver los ajustes</target>
+      </trans-unit>
+      <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox" approved="no">
+        <source>Practice Mode
+Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
+        <target state="translated">Modo Práctica
+Presiona &lt;sprite name="controller_icons_97"&gt; para ver los ajustes</target>
+      </trans-unit>
+      <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings" approved="no">
+        <source>Practice Settings</source>
+        <target state="translated">Ajustes de modo Práctica</target>
+      </trans-unit>
+      <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
+        <source>Skip Tutorial</source>
+        <target state="translated">Saltar Tutorial</target>
+      </trans-unit>
+      <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
+        <source>Midnight Moon</source>
+        <target state="translated">Luna de Medianoche</target>
+      </trans-unit>
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">Volver al menú principal.</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="no">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="translated">Para aquellos que son experimentados en videojuegos de ritmo.</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="translated">La dificultad aumenta rápidamente y se pone algo intenso!</target>
+      </trans-unit>
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
+        <source>Difficulty:
+{0}</source>
+        <target state="translated">Dificultad:
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
+        <source>Purchase for
+{0}</source>
+        <target state="translated">Comprar por
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
+        <source>Purchase Level</source>
+        <target state="translated">Comprar Nivel</target>
+      </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
+        <source>Play Level</source>
+        <target state="translated">Jugar Nivel</target>
+      </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target state="translated">Originalmente apareció en mi antiguo videojuego de ritmo "Ripple Runner Deluxe", el predecesor espiritual de Rhythm Quest.
+Este era el último y más difícil nivel que se añadió al juego luego de una actualización post-jam.</target>
+      </trans-unit>
+      <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
+        <source>(Owned: {0})</source>
+        <target state="translated">(En propiedad: {0})</target>
+      </trans-unit>
+      <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation" approved="no">
+        <source>Purchase
+{0}
+for {1}?</source>
+        <target state="translated">¿Comprar
+{0}
+por {1}?</target>
+      </trans-unit>
+      <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="no">
+        <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        <target state="translated">Esta pista fue compuesta en una hora y obtuvo el primer lugar en la ronda Nº569 de "One Hour Compo" una competición de composición en línea.
+Hace uso extenso de una librería de guzheng (instrumento de cuerda Chino).</target>
       </trans-unit>
     </body>
   </file>
