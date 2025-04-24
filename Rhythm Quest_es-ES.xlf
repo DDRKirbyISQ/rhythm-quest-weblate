@@ -3156,9 +3156,9 @@ This level focuses only on basic mechanics and is playable even if you haven't y
 Este nivel se centra solo en la mecánica básica y se puede jugar incluso si aún no has llegado a los mundos posteriores.</target>
       </trans-unit>
       <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
-        <source>The third movement of Piano Sonana No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
 The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
-        <target state="translated">El tercer movimiento de la Sonata No. 11 en La Mayor de Wolfgang Amadeus Mozart también conocida como "Rondo alla Turca" o "Marcha Turca", es una melodía reconocible al instante.
+        <target state="needs-translation">El tercer movimiento de la Sonata No. 11 en La Mayor de Wolfgang Amadeus Mozart también conocida como "Rondo alla Turca" o "Marcha Turca", es una melodía reconocible al instante.
 Se dice que la composición emula el estilo de las bandas de música militares del Imperio Turco.</target>
       </trans-unit>
       <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
@@ -3174,9 +3174,9 @@ I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</so
 Utilicé efectos que emulan un vinilo para dar una sutil sensación "vintage" al sonido.</target>
       </trans-unit>
       <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
-        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 the Ludum Dare game jam.
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
 This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
-        <target state="translated">Originalmente, apareció en "Melody Muncher" un videojuego de ritmo de dos botones que hice en 2015 para la Ludum Dare game jam.
+        <target state="needs-translation">Originalmente, apareció en "Melody Muncher" un videojuego de ritmo de dos botones que hice en 2015 para la Ludum Dare game jam.
 Esta es la canción más lenta del juego, pensada para introducir la mecánica de enemigos azules que se teletransportan detrás de ti después de ser golpeados.</target>
       </trans-unit>
       <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
