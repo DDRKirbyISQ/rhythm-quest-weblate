@@ -3491,6 +3491,22 @@ This level originally introduced the green attack + jump combo enemies, before t
         <target state="final">Une musique de genre chiptune qui était initiallement prévue pour le monde 3.
 Il devait s'agir de la première apparition des ennemis verts (attaque + saut) avant que je ne les repousse au monde 5.</target>
       </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="yes">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="final">Appuyer sur {0} ou {1} pour Attaquer.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="yes">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="final">Appuyer sur {0} ou {1} pour Sauter.</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="yes">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="final">Quitter le mode entrainement, retourner au point de passage initialement atteint.</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
+        <source>Section Lock</source>
+        <target state="translated">Vérouillage Section</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
