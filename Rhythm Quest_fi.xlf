@@ -1,0 +1,2664 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Main String Table_fi.asset" source-language="en" datatype="plaintext" target-language="fi">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Main String Table_fi.asset" uid="20c5b6c82f6701142917eda08e5d9b51" />
+      </skl>
+    </header>
+    <body>
+      <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+          <source>Settings</source>
+        </trans-unit>
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+          <source>Start Game</source>
+        </trans-unit>
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+          <source>Extras</source>
+        </trans-unit>
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+          <source>Quit</source>
+        </trans-unit>
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+          <source>Back</source>
+        </trans-unit>
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+          <source>Lag Calibration...</source>
+        </trans-unit>
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+          <source>Graphics</source>
+        </trans-unit>
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+          <source>Audio</source>
+        </trans-unit>
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
+          <source>Interface Settings</source>
+        </trans-unit>
+        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
+          <source>Controls</source>
+        </trans-unit>
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
+          <source>Accessibility</source>
+        </trans-unit>
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode">
+          <source>Scaling Mode</source>
+        </trans-unit>
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
+          <source>Flexible</source>
+        </trans-unit>
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
+          <source>Pixel Perfect</source>
+        </trans-unit>
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
+          <source>Screen Mode</source>
+        </trans-unit>
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
+          <source>Windowed</source>
+        </trans-unit>
+        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
+          <source>Maximized</source>
+        </trans-unit>
+        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
+          <source>Fullscreen</source>
+        </trans-unit>
+        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed">
+          <source>Game will be run in a window. Can be resized.</source>
+        </trans-unit>
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+          <source>Game will run in a maximized window.</source>
+        </trans-unit>
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+          <source>Game will run in exclusive fullscreen mode.</source>
+        </trans-unit>
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
+          <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
+        </trans-unit>
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
+          <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
+        </trans-unit>
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+          <source>Resolution</source>
+        </trans-unit>
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
+          <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
+        </trans-unit>
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
+          <source>Vertical Sync</source>
+        </trans-unit>
+        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
+          <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
+        </trans-unit>
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled">
+          <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
+        </trans-unit>
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+          <source>Disabled</source>
+        </trans-unit>
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+          <source>Enabled</source>
+        </trans-unit>
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
+          <source>Scaling Settings...</source>
+        </trans-unit>
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+          <source>Return to the previous menu.</source>
+        </trans-unit>
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
+          <source>Zoom Level</source>
+        </trans-unit>
+        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
+          <source>Default</source>
+        </trans-unit>
+        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far">
+          <source>Far</source>
+        </trans-unit>
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near">
+          <source>Near</source>
+        </trans-unit>
+        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
+          <source>Use default gameplay zoom level. Should suffice in most cases.</source>
+        </trans-unit>
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+          <source>Forces a zoomed-out gameplay view.</source>
+        </trans-unit>
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+          <source>Forces a zoomed-in gameplay view.</source>
+        </trans-unit>
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
+          <source>Music Volume</source>
+        </trans-unit>
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
+          <source>Adjust the volume of the game music.</source>
+        </trans-unit>
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+          <source>Adjust the volume of the in-game sound effects.</source>
+        </trans-unit>
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
+          <source>Sfx Volume</source>
+        </trans-unit>
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
+          <source>Effect Settings...</source>
+        </trans-unit>
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
+          <source>Screen Shake</source>
+        </trans-unit>
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+          <source>Disables screen shake effects.</source>
+        </trans-unit>
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+          <source>Enables screen shake effects.</source>
+        </trans-unit>
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes">
+          <source>Screen Flashes</source>
+        </trans-unit>
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+          <source>Enables screen flash effects.</source>
+        </trans-unit>
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+          <source>Disables screen flash effects.</source>
+        </trans-unit>
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
+          <source>Sfx Prescheduling</source>
+        </trans-unit>
+        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
+          <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
+        </trans-unit>
+        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled">
+          <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
+        </trans-unit>
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+          <source>Audio Offset</source>
+        </trans-unit>
+        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
+          <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
+        </trans-unit>
+        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats">
+          <source>Cheats</source>
+        </trans-unit>
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
+          <source>Auto Play</source>
+        </trans-unit>
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
+          <source>Unlock All Levels</source>
+        </trans-unit>
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+          <source>Auto play is disabled.</source>
+        </trans-unit>
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+          <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
+        </trans-unit>
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+          <source>Levels must be unlocked normally.</source>
+        </trans-unit>
+        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
+          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
+        </trans-unit>
+        <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
+          <source>Press Enter to Continue</source>
+        </trans-unit>
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
+          <source>Click to Continue</source>
+        </trans-unit>
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
+          <source>Tap to Continue</source>
+        </trans-unit>
+        <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
+          <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
+        </trans-unit>
+        <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation">
+          <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
+        </trans-unit>
+        <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch">
+          <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
+        </trans-unit>
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
+          <source>Font Style</source>
+        </trans-unit>
+        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
+          <source>Pixel Font</source>
+        </trans-unit>
+        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled">
+          <source>Smooth Font</source>
+        </trans-unit>
+        <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled">
+          <source>Use smooth font for the interface.</source>
+        </trans-unit>
+        <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled">
+          <source>Use pixel-styled font for the interface.</source>
+        </trans-unit>
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
+          <source>On-screen Buttons</source>
+        </trans-unit>
+        <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
+          <source>Hide</source>
+        </trans-unit>
+        <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show">
+          <source>Show</source>
+        </trans-unit>
+        <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide">
+          <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
+        </trans-unit>
+        <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show">
+          <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
+        </trans-unit>
+        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
+          <source>Changelog</source>
+        </trans-unit>
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
+          <source>Green Grasslands</source>
+        </trans-unit>
+        <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
+          <source>Cloudy Courseway</source>
+        </trans-unit>
+        <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
+          <source>Retro Ridge</source>
+        </trans-unit>
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
+          <source>Magical Metropolis</source>
+        </trans-unit>
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
+          <source>Crystal Caverns</source>
+        </trans-unit>
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
+          <source>Space Sojourn</source>
+        </trans-unit>
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+          <source>Sunrise Vista</source>
+        </trans-unit>
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
+          <source>Raceway Plain</source>
+        </trans-unit>
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+          <source>River Crossing</source>
+        </trans-unit>
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+          <source>Mystic Forest</source>
+        </trans-unit>
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+          <source>Skyward Summit</source>
+        </trans-unit>
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+          <source>Winged Airways</source>
+        </trans-unit>
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
+          <source>Twilight Flight</source>
+        </trans-unit>
+        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
+          <source>a game by DDRKirby(ISQ)</source>
+        </trans-unit>
+        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
+          <source>Programming: DDRKirby(ISQ)
+Design: DDRKirby(ISQ)
+Music: DDRKirby(ISQ)
+Sfx: DDRKirby(ISQ)
+Graphics: DDRKirby(ISQ)</source>
+        </trans-unit>
+        <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3">
+          <source>Moral Support: fuzzybunny2</source>
+        </trans-unit>
+        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits">
+          <source>Credits</source>
+        </trans-unit>
+        <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume">
+          <source>Resume</source>
+        </trans-unit>
+        <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused">
+          <source>Paused</source>
+        </trans-unit>
+        <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete">
+          <source>Level Complete</source>
+        </trans-unit>
+        <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language">
+          <source>Language</source>
+        </trans-unit>
+        <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked">
+          <source>(Locked)</source>
+        </trans-unit>
+        <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols">
+          <source>Control Positioning</source>
+        </trans-unit>
+        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
+          <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
+        </trans-unit>
+        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled">
+          <source>Tap left half of screen to attack, tap right half to jump.</source>
+        </trans-unit>
+        <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump">
+          <source>Jump</source>
+        </trans-unit>
+        <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack">
+          <source>Attack</source>
+        </trans-unit>
+        <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key">
+          <source>Press a key</source>
+        </trans-unit>
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+          <source>Select a key to use for &lt;Attack&gt;.</source>
+        </trans-unit>
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+          <source>Select a key to use for &lt;Jump&gt;.</source>
+        </trans-unit>
+        <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
+          <source>Resets key bindings to their defaults.</source>
+        </trans-unit>
+        <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols">
+          <source>Mouse Controls</source>
+        </trans-unit>
+        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
+          <source>Flipped</source>
+        </trans-unit>
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+          <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
+        </trans-unit>
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
+          <source>In-game mouse controls are disabled.</source>
+        </trans-unit>
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+          <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
+        </trans-unit>
+        <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
+          <source>Reset Game Data</source>
+        </trans-unit>
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+          <source>All saved game data will be erased.
+Are you sure you want to proceed?</source>
+        </trans-unit>
+        <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
+          <source>Yes</source>
+        </trans-unit>
+        <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no">
+          <source>No</source>
+        </trans-unit>
+        <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed">
+          <source>Game data has successfully been erased.</source>
+        </trans-unit>
+        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
+          <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
+        </trans-unit>
+        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
+          <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
+        </trans-unit>
+        <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
+          <source>Done</source>
+        </trans-unit>
+        <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
+          <source>Continue</source>
+        </trans-unit>
+        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
+          <source>Do you want to calibrate audio lag now?</source>
+        </trans-unit>
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
+          <source>How to Play</source>
+        </trans-unit>
+        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
+          <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
+        </trans-unit>
+        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped">
+          <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
+        </trans-unit>
+        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal">
+          <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
+        </trans-unit>
+        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped">
+          <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
+        </trans-unit>
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
+          <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
+        </trans-unit>
+        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
+          <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
+        </trans-unit>
+        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped">
+          <source>Flipped</source>
+        </trans-unit>
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+          <source>Calibration complete!</source>
+        </trans-unit>
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
+          <source>The flashing squares should now match the beeps.
+Otherwise, adjust manually until synced.</source>
+        </trans-unit>
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
+          <source>Audio Latency: {0}ms</source>
+        </trans-unit>
+        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
+          <source>Audio Lag Calibration</source>
+        </trans-unit>
+        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
+          <source>Press any key or click in time with the beeps</source>
+        </trans-unit>
+        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
+          <source>Press any key or click in time with the beeps</source>
+        </trans-unit>
+        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
+          <source>Tap in time with the beeps</source>
+        </trans-unit>
+        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
+          <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
+        </trans-unit>
+        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
+          <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
+        </trans-unit>
+        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
+          <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
+        </trans-unit>
+        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
+          <source>Yes (Recommended)</source>
+        </trans-unit>
+        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
+          <source>(Select an option to view more details)</source>
+        </trans-unit>
+        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
+          <source>Spiked Steppes</source>
+        </trans-unit>
+        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
+          <source>Redo</source>
+        </trans-unit>
+        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
+          <source>Resets all game progress.</source>
+        </trans-unit>
+        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable">
+          <source>Unavailable</source>
+        </trans-unit>
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
+          <source>Perfect Clear!</source>
+        </trans-unit>
+        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
+          <source>Respawns: {0}</source>
+        </trans-unit>
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
+          <source>Haunted Prairie</source>
+        </trans-unit>
+        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
+          <source>Restart Level</source>
+        </trans-unit>
+        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
+          <source>Cancel</source>
+        </trans-unit>
+        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
+          <source>Calibration failed -- try again!
+Focus on matching the sound of your tap to the beep.
+(green = good)</source>
+        </trans-unit>
+        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
+          <source>Your accuracy: {0}%</source>
+        </trans-unit>
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
+          <source>Quit to Menu</source>
+        </trans-unit>
+        <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
+          <source>New</source>
+        </trans-unit>
+        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
+          <source>Shop</source>
+        </trans-unit>
+        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
+          <source>Characters</source>
+        </trans-unit>
+        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
+          <source>Extra Levels</source>
+        </trans-unit>
+        <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
+          <source>Collected:
+Spent:
+
+Remaining:</source>
+        </trans-unit>
+        <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected">
+          <source>Selected</source>
+        </trans-unit>
+        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase">
+          <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
+        </trans-unit>
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
+          <source>Take It to the Limit</source>
+        </trans-unit>
+        <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
+          <source>Preview</source>
+        </trans-unit>
+        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy">
+          <source>Buy</source>
+        </trans-unit>
+        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play">
+          <source>Play</source>
+        </trans-unit>
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+          <source>What Lies Beneath</source>
+        </trans-unit>
+        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
+          <source>City in the Rain</source>
+        </trans-unit>
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
+          <source>Enchanted Oasis</source>
+        </trans-unit>
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
+          <source>Gameplay Trailer</source>
+        </trans-unit>
+        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
+          <source>Snowy Peak</source>
+        </trans-unit>
+        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
+          <source>Stratosphere</source>
+        </trans-unit>
+        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
+          <source>Wishlist on Steam</source>
+        </trans-unit>
+        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
+          <source>Start</source>
+        </trans-unit>
+        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
+          <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
+        </trans-unit>
+        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
+          <source>&lt; World {0}</source>
+        </trans-unit>
+        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow">
+          <source>World {0} &gt;</source>
+        </trans-unit>
+        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
+          <source>Adjusts audio latency calibration.
+Lower if audio is too early. Raise if audio is too late.</source>
+        </trans-unit>
+        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
+          <source>Too Early</source>
+        </trans-unit>
+        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late">
+          <source>Too Late</source>
+        </trans-unit>
+        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
+          <source>Twilight Tunnel</source>
+        </trans-unit>
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
+          <source>Midnight Marathon</source>
+        </trans-unit>
+        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
+          <source>Gearwheel Factory</source>
+        </trans-unit>
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
+          <source>Outerworld Highway</source>
+        </trans-unit>
+        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
+          <source>Misty Meadow</source>
+        </trans-unit>
+        <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
+          <source>Copy Protection Violation detected!</source>
+        </trans-unit>
+        <trans-unit id="119237288572792832" xml:space="preserve" resname="referer_instructions">
+          <source>To avoid being stolen by evil websites who would host my game without permission, Rhythm Quest relies on the HTTP "referer" header in order to verify that it's being hosted on an allowed site (rhythmquestgame.com, itch.io).
+
+If you have a browser extension that disables referer tracking, please try disabling it and reloading in order to properly load this demo.
+
+For Firefox, you can also try checking the referer header setting:
+- Navigate to "about:config" in the URL bar
+- If prompted, click on the button to Accept the warning
+- Search for the "network.http.sendRefererHeader" preference
+- Set the value to "2" (the default) which will enable the referer header
+
+If this doesn't work, I would suggest downloading and playing the offline build instead!
+
+Sorry about this!
+                                                                --DDRKirby(ISQ)</source>
+        </trans-unit>
+        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome">
+          <source>Welcome to the Rhythm Quest Demo!</source>
+        </trans-unit>
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+          <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
+
+If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
+
+Have fun, and thanks for playing!
+                                                                --DDRKirby(ISQ)</source>
+        </trans-unit>
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
+          <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
+
+Please make sure hardware graphics acceleration is enabled for your browser for better performance.
+
+Save data is stored in your browser and may potentially not persist across version updates.
+
+For the best experience, feel free to try the standalone offline build instead!</source>
+        </trans-unit>
+        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
+          <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
+        </trans-unit>
+        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite">
+          <source>Visit the Website</source>
+        </trans-unit>
+        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
+          <source>Join the Discord</source>
+        </trans-unit>
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+          <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
+        </trans-unit>
+        <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
+          <source>Next</source>
+        </trans-unit>
+        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3">
+          <source>Wishlist and follow Rhythm Quest online for future updates!</source>
+        </trans-unit>
+        <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description">
+          <source>Resolution and screen mode settings.</source>
+        </trans-unit>
+        <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description">
+          <source>Zoom and scale settings.</source>
+        </trans-unit>
+        <trans-unit id="123203557332398080" xml:space="preserve" resname="settings_menu_effects">
+          <source>Visual effects and readability settings.</source>
+        </trans-unit>
+        <trans-unit id="123203967791181824" xml:space="preserve" resname="menu_settings_resolution">
+          <source>Resolution Settings...</source>
+        </trans-unit>
+        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata">
+          <source>Data Reset...</source>
+        </trans-unit>
+        <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description">
+          <source>Resets settings to default values.</source>
+        </trans-unit>
+        <trans-unit id="123208891287515136" xml:space="preserve" resname="resetprefs_confirmed">
+          <source>Settings have been reset to default values.
+(Audio recalibration is recommended)</source>
+        </trans-unit>
+        <trans-unit id="123210343288451072" xml:space="preserve" resname="settings_resetprefs">
+          <source>Reset Preferences</source>
+        </trans-unit>
+        <trans-unit id="123232676979978240" xml:space="preserve" resname="menu_settings_screenfilter">
+          <source>Screen Filter Settings...</source>
+        </trans-unit>
+        <trans-unit id="123233005876326400" xml:space="preserve" resname="settings_menu_screenfilter">
+          <source>Configure a backdrop filter to make foreground elements more visible.</source>
+        </trans-unit>
+        <trans-unit id="123233399918604288" xml:space="preserve" resname="settings_screenfilter">
+          <source>Screen Filter</source>
+        </trans-unit>
+        <trans-unit id="123235128538083328" xml:space="preserve" resname="settings_screenfilter_fade">
+          <source>Fade</source>
+        </trans-unit>
+        <trans-unit id="123235175392653312" xml:space="preserve" resname="settings_screenfilter_darken">
+          <source>Darken</source>
+        </trans-unit>
+        <trans-unit id="123235228018585600" xml:space="preserve" resname="settings_screenfilter_desaturate">
+          <source>Desaturate</source>
+        </trans-unit>
+        <trans-unit id="123235460978618368" xml:space="preserve" resname="settings_screenfilter_description_disabled">
+          <source>Screen filter is disabled.</source>
+        </trans-unit>
+        <trans-unit id="123235499293585408" xml:space="preserve" resname="settings_screenfilter_description_fade">
+          <source>Fades backdrops toward primary background color.</source>
+        </trans-unit>
+        <trans-unit id="123235512304316416" xml:space="preserve" resname="settings_screenfilter_description_darken">
+          <source>Darkens backdrops towards black.</source>
+        </trans-unit>
+        <trans-unit id="123235528121036800" xml:space="preserve" resname="settings_screenfilter_description_desaturate">
+          <source>Desaturates backdrops toward grayscale.</source>
+        </trans-unit>
+        <trans-unit id="123512785343393792" xml:space="preserve" resname="settings_menu_calibration_description">
+          <source>Calibrate audio latency so that audio and gameplay are in sync.</source>
+        </trans-unit>
+        <trans-unit id="124685491216625664" xml:space="preserve" resname="settings_haptics">
+          <source>Haptic Feedback Settings...</source>
+        </trans-unit>
+        <trans-unit id="124685691133931520" xml:space="preserve" resname="settings_hapticattack_description_disabled">
+          <source>Disables vibration on successful attacks.</source>
+        </trans-unit>
+        <trans-unit id="124685702768930816" xml:space="preserve" resname="settings_hapticattack_description_enabled">
+          <source>Enables vibration on successful attacks.</source>
+        </trans-unit>
+        <trans-unit id="124686712975437824" xml:space="preserve" resname="settings_hapticattack">
+          <source>Attack Rumble</source>
+        </trans-unit>
+        <trans-unit id="124686714758017024" xml:space="preserve" resname="settings_hapticjump">
+          <source>Jump Rumble</source>
+        </trans-unit>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
+          <source>Ui Rumble</source>
+        </trans-unit>
+        <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
+          <source>Disables vibration on successful jumps.</source>
+        </trans-unit>
+        <trans-unit id="124687024733859840" xml:space="preserve" resname="settings_hapticjump_description_enabled">
+          <source>Enables vibration on successful jumps.</source>
+        </trans-unit>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
+          <source>Disables vibration for ui elements.</source>
+        </trans-unit>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
+          <source>Enables vibration for ui elements.</source>
+        </trans-unit>
+        <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
+          <source>Haptic vibration feedback settings.</source>
+        </trans-unit>
+        <trans-unit id="126828106082988032" xml:space="preserve" resname="settings_menu_audiocues_description">
+          <source>Adjust audio-based cues for the blind and visually impaired.</source>
+        </trans-unit>
+        <trans-unit id="126828476838490112" xml:space="preserve" resname="menu_settings_audiocueconfig">
+          <source>Audio Cue Config...</source>
+        </trans-unit>
+        <trans-unit id="126840626063650816" xml:space="preserve" resname="settings_audiocuepanning">
+          <source>Panning</source>
+        </trans-unit>
+        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description">
+          <source>-100%: Attack cues on left, Jump cues on right
+100%: Jump cues on left, attack cues on right
+0%: Centered cues</source>
+        </trans-unit>
+        <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump">
+          <source>Jump</source>
+        </trans-unit>
+        <trans-unit id="126862293653565440" xml:space="preserve" resname="settings_audiocueattack">
+          <source>Attack</source>
+        </trans-unit>
+        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold">
+          <source>Jump Hold</source>
+        </trans-unit>
+        <trans-unit id="126862339107237888" xml:space="preserve" resname="settings_audiocuejumprelease">
+          <source>Jump Release</source>
+        </trans-unit>
+        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack">
+          <source>Jump + Attack</source>
+        </trans-unit>
+        <trans-unit id="126940109233500160" xml:space="preserve" resname="settings_audiocuevolume">
+          <source>Volume Balance</source>
+        </trans-unit>
+        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description">
+          <source>Adjust balance between game sound and cue track. (0% = cues disabled)</source>
+        </trans-unit>
+        <trans-unit id="128297471466844160" xml:space="preserve" resname="menu_settings_haptics">
+          <source>Haptic Feedback...</source>
+        </trans-unit>
+        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description">
+          <source>Select a cue sound to play one beat before a jump.</source>
+        </trans-unit>
+        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description">
+          <source>Select a cue sound to play one beat before an attack.</source>
+        </trans-unit>
+        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description">
+          <source>Select a cue sound to play one beat before beginning a jump hold.</source>
+        </trans-unit>
+        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description">
+          <source>Select a cue sound to play one beat before releasing a jump hold.</source>
+        </trans-unit>
+        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
+          <source>Select a cue sound to play one beat before a combined jump + attack.</source>
+        </trans-unit>
+        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
+          <source>Keep going...</source>
+        </trans-unit>
+        <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
+          <source>Screenreader Mode</source>
+        </trans-unit>
+        <trans-unit id="134459975284862976" xml:space="preserve" resname="settings_screenreadermode_description_disabled">
+          <source>Screenreader is disabled.</source>
+        </trans-unit>
+        <trans-unit id="134459976639623168" xml:space="preserve" resname="settings_screenreadermode_description_enabled">
+          <source>Enables full screenreader navigation. Normal navigation is disabled.</source>
+        </trans-unit>
+        <trans-unit id="134459977423958016" xml:space="preserve" resname="settings_screenreadermode_description_readonly">
+          <source>Retains normal UI navigation, but reads out selected button.</source>
+        </trans-unit>
+        <trans-unit id="134460282559574016" xml:space="preserve" resname="settings_screenreadermode_readonly">
+          <source>Read Only</source>
+        </trans-unit>
+        <trans-unit id="134460336959696896" xml:space="preserve" resname="settings_screenreadermode_full">
+          <source>Full</source>
+        </trans-unit>
+        <trans-unit id="134464696317947904" xml:space="preserve" resname="settings_menu_screenreadermode_description">
+          <source>Control screenreader functionality and navigation.</source>
+        </trans-unit>
+        <trans-unit id="134464831173210112" xml:space="preserve" resname="menu_settings_screenreadermode">
+          <source>Screenreader Mode...</source>
+        </trans-unit>
+        <trans-unit id="134563955822342144" xml:space="preserve" resname="screenreader_scene_prompt">
+          <source>It looks like you have a screen reader enabled.
+Would you like to enable screen reader mode?
+(This can later be configured in Settings -&gt; Accessibility)</source>
+        </trans-unit>
+        <trans-unit id="134569382538686464" xml:space="preserve" resname="menu_prev_level_accessible">
+          <source>Previous (Level {0} {1})</source>
+        </trans-unit>
+        <trans-unit id="134569383104917504" xml:space="preserve" resname="menu_next_level_accessible">
+          <source>Next (Level {0} {1})</source>
+        </trans-unit>
+        <trans-unit id="135522706851147776" xml:space="preserve" resname="decrement">
+          <source>Decrement</source>
+        </trans-unit>
+        <trans-unit id="135522708604366848" xml:space="preserve" resname="increment">
+          <source>Increment</source>
+        </trans-unit>
+        <trans-unit id="135534588144168960" xml:space="preserve" resname="settings_audiocues">
+          <source>Audio Cues</source>
+        </trans-unit>
+        <trans-unit id="135535616151302144" xml:space="preserve" resname="settings_audiocues_description_disabled">
+          <source>Disables ahead-of-time audio cues.</source>
+        </trans-unit>
+        <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled">
+          <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
+        </trans-unit>
+        <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack">
+          <source>Press {0} or {1} to Attack.</source>
+        </trans-unit>
+        <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump">
+          <source>Press {0} or {1} to Jump.</source>
+        </trans-unit>
+        <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button">
+          <source>right mouse button</source>
+        </trans-unit>
+        <trans-unit id="138026743349686272" xml:space="preserve" resname="left_mouse_button">
+          <source>left mouse button</source>
+        </trans-unit>
+        <trans-unit id="138027777304342528" xml:space="preserve" resname="controller_y">
+          <source>Y</source>
+        </trans-unit>
+        <trans-unit id="138027779527323648" xml:space="preserve" resname="controller_x">
+          <source>X</source>
+        </trans-unit>
+        <trans-unit id="138027780382961664" xml:space="preserve" resname="controller_a">
+          <source>A</source>
+        </trans-unit>
+        <trans-unit id="138027948037681152" xml:space="preserve" resname="controller_b">
+          <source>B</source>
+        </trans-unit>
+        <trans-unit id="138027960914194432" xml:space="preserve" resname="controller_dpad">
+          <source>D-pad</source>
+        </trans-unit>
+        <trans-unit id="138027980287684608" xml:space="preserve" resname="controller_triangle">
+          <source>triangle</source>
+        </trans-unit>
+        <trans-unit id="138028001263398912" xml:space="preserve" resname="controller_cross">
+          <source>X</source>
+        </trans-unit>
+        <trans-unit id="138028045664301056" xml:space="preserve" resname="controller_square">
+          <source>square</source>
+        </trans-unit>
+        <trans-unit id="138033177714012160" xml:space="preserve" resname="tutorial_mobile_jump_normal_uap">
+          <source>Tap the left side of the screen to Jump.</source>
+        </trans-unit>
+        <trans-unit id="138033286258405376" xml:space="preserve" resname="tutorial_mobile_jump_flipped_uap">
+          <source>Tap the right side of the screen to Jump.</source>
+        </trans-unit>
+        <trans-unit id="138033288263282688" xml:space="preserve" resname="tutorial_mobile_attack_normal_uap">
+          <source>Tap the right side of the screen to Attack.</source>
+        </trans-unit>
+        <trans-unit id="138033289026646016" xml:space="preserve" resname="tutorial_mobile_attack_flipped_uap">
+          <source>Tap the left side of the screen to Attack.</source>
+        </trans-unit>
+        <trans-unit id="138034608860868608" xml:space="preserve" resname="controller_sr">
+          <source>SR</source>
+        </trans-unit>
+        <trans-unit id="138034634722947072" xml:space="preserve" resname="controller_sl">
+          <source>SL</source>
+        </trans-unit>
+        <trans-unit id="138034670018015232" xml:space="preserve" resname="controller_dpaddown">
+          <source>D-pad down</source>
+        </trans-unit>
+        <trans-unit id="138034724330057728" xml:space="preserve" resname="controller_dpadleft">
+          <source>D-pad left</source>
+        </trans-unit>
+        <trans-unit id="138034794794364928" xml:space="preserve" resname="controller_analogstick">
+          <source>analog stick</source>
+        </trans-unit>
+        <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap">
+          <source>You can change these controls in the "Settings" menu.</source>
+        </trans-unit>
+        <trans-unit id="145495792350441472" xml:space="preserve" resname="menu_resuming">
+          <source>Resuming...</source>
+        </trans-unit>
+        <trans-unit id="157189498842636288" xml:space="preserve" resname="settings_never">
+          <source>Never</source>
+        </trans-unit>
+        <trans-unit id="157189666698682368" xml:space="preserve" resname="settings_in_game">
+          <source>In-Game</source>
+        </trans-unit>
+        <trans-unit id="157189817408413696" xml:space="preserve" resname="settings_always">
+          <source>Always</source>
+        </trans-unit>
+        <trans-unit id="157189963332444160" xml:space="preserve" resname="settings_hidecursor_description_never">
+          <source>Never hide mouse cursor.</source>
+        </trans-unit>
+        <trans-unit id="157189966771773440" xml:space="preserve" resname="settings_hidecursor_description_in_game">
+          <source>Hide mouse cursor during gameplay.</source>
+        </trans-unit>
+        <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always">
+          <source>Always hide mouse cursor.</source>
+        </trans-unit>
+        <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor">
+          <source>Hide Cursor</source>
+        </trans-unit>
+        <trans-unit id="160981046260301824" xml:space="preserve" resname="medal_coin_totals">
+          <source>Totals</source>
+        </trans-unit>
+        <trans-unit id="161022499091021824" xml:space="preserve" resname="game_auto_play">
+          <source>Auto Play</source>
+        </trans-unit>
+        <trans-unit id="161040045575929856" xml:space="preserve" resname="settings_pixelfont_description_enabled_unavailable">
+          <source>Use pixel-styled font for the interface. &lt;color=red&gt;[Unavailable at this resolution]&lt;/color&gt;</source>
+        </trans-unit>
+        <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
+          <source>Soaring Skyline</source>
+        </trans-unit>
+        <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
+          <source>English</source>
+        </trans-unit>
+        <trans-unit id="176584575212630016" xml:space="preserve" resname="language_de">
+          <source>German</source>
+        </trans-unit>
+        <trans-unit id="176584577615966208" xml:space="preserve" resname="language_fr">
+          <source>French</source>
+        </trans-unit>
+        <trans-unit id="176584581759938560" xml:space="preserve" resname="language_it">
+          <source>Italian</source>
+        </trans-unit>
+        <trans-unit id="176584584880500736" xml:space="preserve" resname="language_ja">
+          <source>Japanese</source>
+        </trans-unit>
+        <trans-unit id="176584587292225536" xml:space="preserve" resname="language_ko">
+          <source>Korean</source>
+        </trans-unit>
+        <trans-unit id="176584753697042432" xml:space="preserve" resname="language_pl">
+          <source>Polish</source>
+        </trans-unit>
+        <trans-unit id="176584755295072256" xml:space="preserve" resname="language_pt-BR">
+          <source>Brazilian Portuguese</source>
+        </trans-unit>
+        <trans-unit id="176584756175876096" xml:space="preserve" resname="language_ru">
+          <source>Russian</source>
+        </trans-unit>
+        <trans-unit id="176584972115423232" xml:space="preserve" resname="language_sv-SE">
+          <source>Swedish</source>
+        </trans-unit>
+        <trans-unit id="176585005158150144" xml:space="preserve" resname="language_uk">
+          <source>Ukrainian</source>
+        </trans-unit>
+        <trans-unit id="176585048514670592" xml:space="preserve" resname="language_vi">
+          <source>Vietnamese</source>
+        </trans-unit>
+        <trans-unit id="176585075731509248" xml:space="preserve" resname="language_zh-CN">
+          <source>Chinese (Simplified)</source>
+        </trans-unit>
+        <trans-unit id="176585124578373632" xml:space="preserve" resname="language_zh-TW">
+          <source>Chinese (Traditional)</source>
+        </trans-unit>
+        <trans-unit id="176585183739031552" xml:space="preserve" resname="credits_translation_header">
+          <source>Translation Credits</source>
+        </trans-unit>
+        <trans-unit id="176875347849818112" xml:space="preserve" resname="language_es-ES">
+          <source>Spanish</source>
+        </trans-unit>
+        <trans-unit id="176933770259902464" xml:space="preserve" resname="language_description_en">
+          <source>Use original English text.</source>
+        </trans-unit>
+        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES">
+          <source>Use Spanish translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de">
+          <source>Use German translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr">
+          <source>Use French translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it">
+          <source>Use Italian translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja">
+          <source>Use Japanese translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko">
+          <source>Use Korean translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl">
+          <source>Use Polish translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR">
+          <source>Use Brazilian Portuguese translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru">
+          <source>Use Russian translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE">
+          <source>Use Swedish translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk">
+          <source>Use Ukrainian translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN">
+          <source>Use Chinese (Simplified) translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW">
+          <source>Use Chinese (Traditional) translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
+          <source>Moonlit Mesa</source>
+        </trans-unit>
+        <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
+          <source>Promotional Art: Kat Jia</source>
+        </trans-unit>
+        <trans-unit id="193899931476209664" xml:space="preserve" resname="settings_checkpoints_description_disabled">
+          <source>Always restart at the beginning of the entire level. Coin/respawn counts are also reset.</source>
+        </trans-unit>
+        <trans-unit id="193899933799854080" xml:space="preserve" resname="settings_checkpoints_description_enabled">
+          <source>Checkpoints behave normally.</source>
+        </trans-unit>
+        <trans-unit id="194143242711511040" xml:space="preserve" resname="language_description_vi">
+          <source>Use Vietnamese translation by {0}.</source>
+        </trans-unit>
+        <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
+          <source>Gleaming Glassway</source>
+        </trans-unit>
+        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
+          <source>Sunken Street</source>
+        </trans-unit>
+        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
+          <source>Crossway Corridor</source>
+        </trans-unit>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
+          <source>Planar Puzzle</source>
+        </trans-unit>
+        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
+          <source>Brilliant Boulevard</source>
+        </trans-unit>
+        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
+          <source>Speedy Starfield</source>
+        </trans-unit>
+        <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
+          <source>Perfect Cleared</source>
+        </trans-unit>
+        <trans-unit id="245806537383075840" xml:space="preserve" resname="menu_settings_keyboardcontrols">
+          <source>Keyboard Bindings...</source>
+        </trans-unit>
+        <trans-unit id="248578831460118528" xml:space="preserve" resname="settings_menu_keyboardcontrols_description">
+          <source>Configure keyboard bindings.</source>
+        </trans-unit>
+        <trans-unit id="248579024104501248" xml:space="preserve" resname="menu_settings_gamepadcontrols">
+          <source>Gamepad Bindings...</source>
+        </trans-unit>
+        <trans-unit id="248579048595042304" xml:space="preserve" resname="settings_menu_gamepadcontrols_description">
+          <source>Configure gamepad bindings.</source>
+        </trans-unit>
+        <trans-unit id="248579730731479040" xml:space="preserve" resname="settings_keyboardcustomcontrols">
+          <source>Keyboard Config</source>
+        </trans-unit>
+        <trans-unit id="248580085129195520" xml:space="preserve" resname="settings_custom">
+          <source>Custom</source>
+        </trans-unit>
+        <trans-unit id="248580203068829696" xml:space="preserve" resname="settings_gamepadcustomcontrols">
+          <source>Gamepad Config</source>
+        </trans-unit>
+        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default">
+          <source>Use default keyboard bindings.</source>
+        </trans-unit>
+        <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom">
+          <source>Use custom keyboard bindings.</source>
+        </trans-unit>
+        <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default">
+          <source>Use default gamepad bindings.</source>
+        </trans-unit>
+        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom">
+          <source>Use custom gamepad bindings.</source>
+        </trans-unit>
+        <trans-unit id="249848469561061376" xml:space="preserve" resname="released_early">
+          <source>Released Early</source>
+        </trans-unit>
+        <trans-unit id="249848490654216192" xml:space="preserve" resname="released_late">
+          <source>Released Late</source>
+        </trans-unit>
+        <trans-unit id="250050013166350336" xml:space="preserve" resname="no_gamepad_detected">
+          <source>No compatible gamepad detected!
+Please connect a supported gamepad device.</source>
+        </trans-unit>
+        <trans-unit id="250053160966336512" xml:space="preserve" resname="control_press_button">
+          <source>Press a button</source>
+        </trans-unit>
+        <trans-unit id="253407677048991744" xml:space="preserve" resname="settings_musicspeed">
+          <source>Music Speed</source>
+        </trans-unit>
+        <trans-unit id="254021560759529472" xml:space="preserve" resname="settings_normal">
+          <source>Normal</source>
+        </trans-unit>
+        <trans-unit id="254021648764416000" xml:space="preserve" resname="settings_low">
+          <source>Low</source>
+        </trans-unit>
+        <trans-unit id="254021836123975680" xml:space="preserve" resname="settings_graphicsquality_description_low">
+          <source>Reduces some background effects to improve framerate.</source>
+        </trans-unit>
+        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal">
+          <source>Full graphics quality.</source>
+        </trans-unit>
+        <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality">
+          <source>Graphics Quality</source>
+        </trans-unit>
+        <trans-unit id="255267299099717632" xml:space="preserve" resname="settings_uivolume">
+          <source>UI Volume</source>
+        </trans-unit>
+        <trans-unit id="255267540179922944" xml:space="preserve" resname="settings_uivolume_description">
+          <source>Adjust the volume of the user interface sounds.</source>
+        </trans-unit>
+        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
+          <source>Game Mods</source>
+        </trans-unit>
+        <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
+          <source>Adjust audio volume settings.</source>
+        </trans-unit>
+        <trans-unit id="255998149349126144" xml:space="preserve" resname="settings_framequeueing">
+          <source>Frame Queueing</source>
+        </trans-unit>
+        <trans-unit id="256003847856369664" xml:space="preserve" resname="menu_settings_performance">
+          <source>Performance Settings...</source>
+        </trans-unit>
+        <trans-unit id="256004031717879808" xml:space="preserve" resname="settings_menu_performance">
+          <source>Adjust performance-related options.</source>
+        </trans-unit>
+        <trans-unit id="256004459872432128" xml:space="preserve" resname="screen_refresh_rate">
+          <source>Current screen refresh rate: {0} Hz</source>
+        </trans-unit>
+        <trans-unit id="256006348328448000" xml:space="preserve" resname="frames_per_second">
+          <source>Current FPS: {0}</source>
+        </trans-unit>
+        <trans-unit id="256006672258740224" xml:space="preserve" resname="settings_framequeueing_latency">
+          <source>Latency</source>
+        </trans-unit>
+        <trans-unit id="256006835362639872" xml:space="preserve" resname="settings_frame_queueing_performance">
+          <source>Performance</source>
+        </trans-unit>
+        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency">
+          <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
+        </trans-unit>
+        <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
+          <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
+        </trans-unit>
+        <trans-unit id="256385837487140864" xml:space="preserve" resname="settings_musicspeed_description">
+          <source>Adjust the music speed to make the game easier or more difficult.</source>
+        </trans-unit>
+        <trans-unit id="256386100084125696" xml:space="preserve" resname="settings_checkpoints">
+          <source>Checkpoints</source>
+        </trans-unit>
+        <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes">
+          <source>Audio Volume...</source>
+        </trans-unit>
+        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
+          <source>Modifiers that affect game timing and speed.</source>
+        </trans-unit>
+        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
+          <source>Modifiers that affect visual display of the game.</source>
+        </trans-unit>
+        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
+          <source>Timing Mods...</source>
+        </trans-unit>
+        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
+          <source>Visual Mods...</source>
+        </trans-unit>
+        <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
+          <source>Timing Windows</source>
+        </trans-unit>
+        <trans-unit id="256643554298605568" xml:space="preserve" resname="settings_timingwindows_extrawide">
+          <source>Extra Wide</source>
+        </trans-unit>
+        <trans-unit id="256643621076119552" xml:space="preserve" resname="settings_timingwindows_strict">
+          <source>Strict</source>
+        </trans-unit>
+        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide">
+          <source>Use extra wide timing windows to make gameplay very forgiving.</source>
+        </trans-unit>
+        <trans-unit id="256645728936177664" xml:space="preserve" resname="settings_timingwindows_description_normal">
+          <source>Use normal timing windows for game obstacles.</source>
+        </trans-unit>
+        <trans-unit id="256645729905061888" xml:space="preserve" resname="settings_timingwindows_description_strict">
+          <source>Use smaller timing windows to increase game difficulty.</source>
+        </trans-unit>
+        <trans-unit id="256672503980404736" xml:space="preserve" resname="settings_ghosthelpers">
+          <source>Ghost Helpers</source>
+        </trans-unit>
+        <trans-unit id="256672787016232960" xml:space="preserve" resname="settings_ghosthelpers_description">
+          <source>Adds translucent markers for ghost enemy positions.</source>
+        </trans-unit>
+        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow">
+          <source>Slow</source>
+        </trans-unit>
+        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast">
+          <source>Fast</source>
+        </trans-unit>
+        <trans-unit id="259823816314499072" xml:space="preserve" resname="settings_respawntiming">
+          <source>Respawn Timing</source>
+        </trans-unit>
+        <trans-unit id="259823939908055040" xml:space="preserve" resname="settings_respawntiming_description_slow">
+          <source>Use a longer respawn duration.</source>
+        </trans-unit>
+        <trans-unit id="259823941657079808" xml:space="preserve" resname="settings_respawntiming_description_normal">
+          <source>Use a normal respawn duration.</source>
+        </trans-unit>
+        <trans-unit id="259823945557782528" xml:space="preserve" resname="settings_respawntiming_description_fast">
+          <source>Respawn very quickly after a mistake.</source>
+        </trans-unit>
+        <trans-unit id="259914650934358016" xml:space="preserve" resname="settings_millisecond_display">
+          <source>{0}ms</source>
+        </trans-unit>
+        <trans-unit id="259917308235657216" xml:space="preserve" resname="settings_timingwindows_normal">
+          <source>Normal</source>
+        </trans-unit>
+        <trans-unit id="259917960366043136" xml:space="preserve" resname="settings_respawntiming_normal">
+          <source>Normal</source>
+        </trans-unit>
+        <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other">
+          <source>Other</source>
+        </trans-unit>
+        <trans-unit id="269934069781671936" xml:space="preserve" resname="settings_runinbackground">
+          <source>Run in Background</source>
+        </trans-unit>
+        <trans-unit id="269934325172842496" xml:space="preserve" resname="settings_runinbackground_description_disabled">
+          <source>Game will automatically pause when losing focus.</source>
+        </trans-unit>
+        <trans-unit id="269934329509752832" xml:space="preserve" resname="settings_runinbackground_description_enabled">
+          <source>Game will continue running when unfocused.</source>
+        </trans-unit>
+        <trans-unit id="269935221868900352" xml:space="preserve" resname="settings_menu_savedata_description">
+          <source>Manage and reset save data.</source>
+        </trans-unit>
+        <trans-unit id="270992986825601024" xml:space="preserve" resname="editor_contextmenu_delete">
+          <source>Delete</source>
+        </trans-unit>
+        <trans-unit id="273376667829579776" xml:space="preserve" resname="settings_inputtimeline">
+          <source>Input Timeline</source>
+        </trans-unit>
+        <trans-unit id="273378692210405376" xml:space="preserve" resname="settings_inputtimeline_description">
+          <source>Adds a timeline display for expected inputs.</source>
+        </trans-unit>
+        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description">
+          <source>&lt;color=#ffff00&gt;Basic Enemies&lt;/color&gt;
+Click to insert red or green basic enemies.</source>
+        </trans-unit>
+        <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description">
+          <source>&lt;color=#ffff00&gt;Flight Paths&lt;/color&gt;
+Click and drag to insert winged flight paths.</source>
+        </trans-unit>
+        <trans-unit id="276961258184159232" xml:space="preserve" resname="editor_tool_delete_description">
+          <source>&lt;color=#ffff00&gt;Delete&lt;/color&gt;
+Click on objects to delete them.</source>
+        </trans-unit>
+        <trans-unit id="276961319072870400" xml:space="preserve" resname="editor_tool_editramp_description">
+          <source>&lt;color=#ffff00&gt;Ramps&lt;/color&gt;
+Click and drag to adjust the slope of ground / flight paths.</source>
+        </trans-unit>
+        <trans-unit id="276961322856132608" xml:space="preserve" resname="editor_tool_scroll_description">
+          <source>&lt;color=#ffff00&gt;Scroll&lt;/color&gt;
+Click and drag to move the camera view.</source>
+        </trans-unit>
+        <trans-unit id="276961323401392128" xml:space="preserve" resname="editor_tool_insertfloor_description">
+          <source>&lt;color=#ffff00&gt;Insert Floor&lt;/color&gt;
+Inserts a new blank section of track at the cursor.</source>
+        </trans-unit>
+        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description">
+          <source>&lt;color=#ffff00&gt;Delete Floor&lt;/color&gt;
+Click and drag to delete sections of track along with the associated objects.</source>
+        </trans-unit>
+        <trans-unit id="276961400211681280" xml:space="preserve" resname="editor_tool_doublehitenemy_description">
+          <source>&lt;color=#ffff00&gt;Double Hit Enemies&lt;/color&gt;
+Click to insert orange double hit enemies.</source>
+        </trans-unit>
+        <trans-unit id="276961400840826880" xml:space="preserve" resname="editor_tool_multihitenemy_description">
+          <source>&lt;color=#ffff00&gt;Ghost Enemies&lt;/color&gt;
+Click to insert purple 3-hit ghost enemies.</source>
+        </trans-unit>
+        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy">
+          <source>Insert basic enemy at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy">
+          <source>Insert double hit enemy at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy">
+          <source>Insert ghost enemy at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint">
+          <source>Insert checkpoint at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description">
+          <source>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
+Click to insert checkpoints.</source>
+        </trans-unit>
+        <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump">
+          <source>Insert jump at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath">
+          <source>Insert flight path from beat {0} to {1}</source>
+        </trans-unit>
+        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp">
+          <source>Edit ramp from beat {0} to {1}</source>
+        </trans-unit>
+        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor">
+          <source>Insert floor at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor">
+          <source>Delete floor from beat {0} to {1}</source>
+        </trans-unit>
+        <trans-unit id="277028911993106432" xml:space="preserve" resname="editor_undo">
+          <source>Undo: {0}</source>
+        </trans-unit>
+        <trans-unit id="277028930653564928" xml:space="preserve" resname="editor_redo">
+          <source>Redo: {0}</source>
+        </trans-unit>
+        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete">
+          <source>Delete {0} at beat {1}</source>
+        </trans-unit>
+        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone">
+          <source>Insert water zone from beat {0} to {1}</source>
+        </trans-unit>
+        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone">
+          <source>Insert speed zone from beat {0} to {1}</source>
+        </trans-unit>
+        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
+          <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
+Click and drag to insert water zones.</source>
+        </trans-unit>
+        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description">
+          <source>&lt;color=#ffff00&gt;Speed Zones&lt;/color&gt;
+Click and drag to insert speed zones.</source>
+        </trans-unit>
+        <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title">
+          <source>Scroll speed: Section {0}</source>
+        </trans-unit>
+        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed">
+          <source>Change scroll speed for section {0}</source>
+        </trans-unit>
+        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy">
+          <source>Insert spike enemy at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description">
+          <source>&lt;color=#ffff00&gt;Spike Enemies&lt;/color&gt;
+Click to insert spike enemy jumps.</source>
+        </trans-unit>
+        <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy">
+          <source>Basic Enemies</source>
+        </trans-unit>
+        <trans-unit id="283376598619303936" xml:space="preserve" resname="editor_tooltip_flightpath">
+          <source>Flight Paths</source>
+        </trans-unit>
+        <trans-unit id="283376599579799552" xml:space="preserve" resname="editor_tooltip_doublehitenemy">
+          <source>Double Hit Enemies</source>
+        </trans-unit>
+        <trans-unit id="283376600330579968" xml:space="preserve" resname="editor_tooltip_multihitenemy">
+          <source>Ghost Enemies</source>
+        </trans-unit>
+        <trans-unit id="283376600972308480" xml:space="preserve" resname="editor_tooltip_editramp">
+          <source>Ramps</source>
+        </trans-unit>
+        <trans-unit id="283376694345904128" xml:space="preserve" resname="editor_tooltip_deletefloor">
+          <source>Delete Floor</source>
+        </trans-unit>
+        <trans-unit id="283376695021187072" xml:space="preserve" resname="editor_tooltip_insertfloor">
+          <source>Insert Floor</source>
+        </trans-unit>
+        <trans-unit id="283376695675498496" xml:space="preserve" resname="editor_tooltip_speedzone">
+          <source>Speed Zones</source>
+        </trans-unit>
+        <trans-unit id="283376941830811648" xml:space="preserve" resname="editor_tooltip_scrollspeed">
+          <source>Scroll Speed</source>
+        </trans-unit>
+        <trans-unit id="283376942418014208" xml:space="preserve" resname="editor_tooltip_spikeenemy">
+          <source>Spike Enemies</source>
+        </trans-unit>
+        <trans-unit id="283377096353165312" xml:space="preserve" resname="editor_tooltip_waterzone">
+          <source>Water Zones</source>
+        </trans-unit>
+        <trans-unit id="283377229648146432" xml:space="preserve" resname="editor_tooltip_delete">
+          <source>Delete</source>
+        </trans-unit>
+        <trans-unit id="283377233372688384" xml:space="preserve" resname="editor_tooltip_checkpoint">
+          <source>Checkpoints</source>
+        </trans-unit>
+        <trans-unit id="283377347306762240" xml:space="preserve" resname="editor_tooltip_scroll">
+          <source>Scroll</source>
+        </trans-unit>
+        <trans-unit id="283377523178123264" xml:space="preserve" resname="editor_tooltip_undo">
+          <source>Undo</source>
+        </trans-unit>
+        <trans-unit id="283377526567120896" xml:space="preserve" resname="editor_tooltip_redo">
+          <source>Redo</source>
+        </trans-unit>
+        <trans-unit id="283389214276235264" xml:space="preserve" resname="menu_customlevels">
+          <source>Custom Levels</source>
+        </trans-unit>
+        <trans-unit id="283403272652107776" xml:space="preserve" resname="menu_customlevels_leveleditor">
+          <source>Level Editor</source>
+        </trans-unit>
+        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description">
+          <source>&lt;color=#ffff00&gt;Scroll Speed&lt;/color&gt;
+Click on a checkpoint section to edit its scrolling speed.</source>
+        </trans-unit>
+        <trans-unit id="285910580783263744" xml:space="preserve" resname="settings_metronome">
+          <source>Metronome</source>
+        </trans-unit>
+        <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
+          <source>Use a metronome that beeps on each beat.</source>
+        </trans-unit>
+        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
+          <source>Modifiers that affect music and audio playback.</source>
+        </trans-unit>
+        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
+          <source>Modifiers that affect gameplay and unlocks.</source>
+        </trans-unit>
+        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
+          <source>Gameplay Mods...</source>
+        </trans-unit>
+        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
+          <source>Audio Mods...</source>
+        </trans-unit>
+        <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
+          <source>No, resume</source>
+        </trans-unit>
+        <trans-unit id="285977877371727872" xml:space="preserve" resname="editor_button_yesquit">
+          <source>Yes, quit</source>
+        </trans-unit>
+        <trans-unit id="285978896759566336" xml:space="preserve" resname="editor_text_quitdialog">
+          <source>Return to the main menu?</source>
+        </trans-unit>
+        <trans-unit id="286249879240224768" xml:space="preserve" resname="editor_menu_respawnloop">
+          <source>Respawn Loop...</source>
+        </trans-unit>
+        <trans-unit id="286250531446108160" xml:space="preserve" resname="editor_button_loadmusic">
+          <source>Load Music</source>
+        </trans-unit>
+        <trans-unit id="286257077416669184" xml:space="preserve" resname="editor_text_musicnotloaded">
+          <source>Music not loaded!</source>
+        </trans-unit>
+        <trans-unit id="286257733451952128" xml:space="preserve" resname="editor_button_replacemusic">
+          <source>Replace</source>
+        </trans-unit>
+        <trans-unit id="286259036123082752" xml:space="preserve" resname="editor_tooltip_preview">
+          <source>Preview</source>
+        </trans-unit>
+        <trans-unit id="286259036676730880" xml:space="preserve" resname="editor_tool_preview_description">
+          <source>&lt;color=#ffff00&gt;Preview&lt;/color&gt;
+Click to start a preview of the level at a given point. Click again to stop.</source>
+        </trans-unit>
+        <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties">
+          <source>Edit music data</source>
+        </trans-unit>
+        <trans-unit id="287731387545202688" xml:space="preserve" resname="editor_input_firstbeattime">
+          <source>First beat time:</source>
+        </trans-unit>
+        <trans-unit id="287731443216199680" xml:space="preserve" resname="editor_input_bpm">
+          <source>Beats per minute:</source>
+        </trans-unit>
+        <trans-unit id="287740139530924032" xml:space="preserve" resname="editor_button_musicautodetect">
+          <source>Auto-detect</source>
+        </trans-unit>
+        <trans-unit id="287740270351265792" xml:space="preserve" resname="editor_text_musicfilename">
+          <source>Song loaded: {0}</source>
+        </trans-unit>
+        <trans-unit id="287740271756357632" xml:space="preserve" resname="editor_text_musicduration">
+          <source>Duration: {0}</source>
+        </trans-unit>
+        <trans-unit id="287740272452612096" xml:space="preserve" resname="editor_text_musicfilesize">
+          <source>Filesize: {0}</source>
+        </trans-unit>
+        <trans-unit id="287815658003804160" xml:space="preserve" resname="editor_input_beatspermeasure">
+          <source>Beats per measure:</source>
+        </trans-unit>
+        <trans-unit id="299037457861357568" xml:space="preserve" resname="editor_button_loadlevel">
+          <source>Load</source>
+        </trans-unit>
+        <trans-unit id="299037631564263424" xml:space="preserve" resname="editor_button_savelevel">
+          <source>Save</source>
+        </trans-unit>
+        <trans-unit id="299037665160638464" xml:space="preserve" resname="editor_button_savelevelas">
+          <source>Save As</source>
+        </trans-unit>
+        <trans-unit id="299037803648167936" xml:space="preserve" resname="editor_button_newlevel">
+          <source>New</source>
+        </trans-unit>
+        <trans-unit id="299088209224970240" xml:space="preserve" resname="editor_notification_save">
+          <source>Level saved: {0}</source>
+        </trans-unit>
+        <trans-unit id="299088242817150976" xml:space="preserve" resname="editor_notification_load">
+          <source>Level loaded: {0}</source>
+        </trans-unit>
+        <trans-unit id="299088264182935552" xml:space="preserve" resname="editor_notification_new">
+          <source>New level created</source>
+        </trans-unit>
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+          <source>File...</source>
+        </trans-unit>
+        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
+          <source>Music</source>
+        </trans-unit>
+        <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test">
+          <source>Test Level</source>
+        </trans-unit>
+        <trans-unit id="299090153335205888" xml:space="preserve" resname="editor_menu_quit">
+          <source>Quit</source>
+        </trans-unit>
+        <trans-unit id="299097886033752064" xml:space="preserve" resname="editor_input_songname">
+          <source>Song name:</source>
+        </trans-unit>
+        <trans-unit id="299098666916687872" xml:space="preserve" resname="editor_input_musicartist">
+          <source>Music artist:</source>
+        </trans-unit>
+        <trans-unit id="299098779676356608" xml:space="preserve" resname="editor_input_chartauthor">
+          <source>Chart author:</source>
+        </trans-unit>
+        <trans-unit id="300430651064889344" xml:space="preserve" resname="editor_action_levelmetadata">
+          <source>Edit level metadata</source>
+        </trans-unit>
+        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges">
+          <source>You have unsaved changes!
+Do you want to save them first?</source>
+        </trans-unit>
+        <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges">
+          <source>Save</source>
+        </trans-unit>
+        <trans-unit id="300438281497915392" xml:space="preserve" resname="editor_button_dontsaveunsavedchanges">
+          <source>Don't Save</source>
+        </trans-unit>
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+          <source>Settings...</source>
+        </trans-unit>
+        <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
+          <source>Blur</source>
+        </trans-unit>
+        <trans-unit id="302756094422069248" xml:space="preserve" resname="editor_type_airjump">
+          <source>air jump</source>
+        </trans-unit>
+        <trans-unit id="302756097253224448" xml:space="preserve" resname="editor_type_checkpoint">
+          <source>checkpoint</source>
+        </trans-unit>
+        <trans-unit id="302756127649345536" xml:space="preserve" resname="editor_type_doublehitenemy">
+          <source>double hit enemy</source>
+        </trans-unit>
+        <trans-unit id="302756131201921024" xml:space="preserve" resname="editor_type_flightpath">
+          <source>flight path</source>
+        </trans-unit>
+        <trans-unit id="302756236906770432" xml:space="preserve" resname="editor_type_levelend">
+          <source>level end</source>
+        </trans-unit>
+        <trans-unit id="302756238425108480" xml:space="preserve" resname="editor_type_multihitenemy">
+          <source>ghost enemy</source>
+        </trans-unit>
+        <trans-unit id="302756239138140160" xml:space="preserve" resname="editor_type_jump">
+          <source>jump</source>
+        </trans-unit>
+        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup">
+          <source>jump (up)</source>
+        </trans-unit>
+        <trans-unit id="302756293387268096" xml:space="preserve" resname="editor_type_jumpdown">
+          <source>jump (down)</source>
+        </trans-unit>
+        <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy">
+          <source>basic enemy</source>
+        </trans-unit>
+        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone">
+          <source>speed zone</source>
+        </trans-unit>
+        <trans-unit id="302756394008621056" xml:space="preserve" resname="editor_type_spikeenemy">
+          <source>spike enemy</source>
+        </trans-unit>
+        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone">
+          <source>water zone</source>
+        </trans-unit>
+        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move">
+          <source>Move {0} from {1} to {2}</source>
+        </trans-unit>
+        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend">
+          <source>speed zone end</source>
+        </trans-unit>
+        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend">
+          <source>water zone end</source>
+        </trans-unit>
+        <trans-unit id="302761730312548352" xml:space="preserve" resname="editor_type_flightpathend">
+          <source>flight path end</source>
+        </trans-unit>
+        <trans-unit id="302761932066959360" xml:space="preserve" resname="editor_tooltip_move">
+          <source>Move</source>
+        </trans-unit>
+        <trans-unit id="302761961007656960" xml:space="preserve" resname="editor_tool_move_description">
+          <source>&lt;color=#ffff00&gt;Move&lt;/color&gt;
+Click and drag objects to move them.</source>
+        </trans-unit>
+        <trans-unit id="303377087901511680" xml:space="preserve" resname="editor_invalid_checkpoint">
+          <source>Checkpoint #{0} does not exist!</source>
+        </trans-unit>
+        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Normal)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer grounded jumps when possible.</source>
+        </trans-unit>
+        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Up)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer grounded rising jumps when possible.</source>
+        </trans-unit>
+        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Down)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer grounded falling jumps when possible.</source>
+        </trans-unit>
+        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
+          <source>&lt;color=#ffff00&gt;Jumps (Air)&lt;/color&gt;
+Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</source>
+        </trans-unit>
+        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal">
+          <source>Jumps (Normal)</source>
+        </trans-unit>
+        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup">
+          <source>Jumps (Up)</source>
+        </trans-unit>
+        <trans-unit id="306241843503083520" xml:space="preserve" resname="editor_tooltip_jumpdown">
+          <source>Jumps (Down)</source>
+        </trans-unit>
+        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair">
+          <source>Jumps (Air)</source>
+        </trans-unit>
+        <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations">
+          <source>Congratulations!</source>
+        </trans-unit>
+        <trans-unit id="306547645476548608" xml:space="preserve" resname="menu_customlevels_playcustomlevels">
+          <source>Play Custom Levels</source>
+        </trans-unit>
+        <trans-unit id="306547814062403584" xml:space="preserve" resname="menu_customlevels_opencustomlevelfolder">
+          <source>Open Custom Level Folder</source>
+        </trans-unit>
+        <trans-unit id="306723067694723072" xml:space="preserve" resname="error_parsecustomlevel">
+          <source>Error reading level</source>
+        </trans-unit>
+        <trans-unit id="307052606329237504" xml:space="preserve" resname="editor_input_description">
+          <source>Description:</source>
+        </trans-unit>
+        <trans-unit id="307087429873741824" xml:space="preserve" resname="editor_label_banner">
+          <source>Banner (cropped to 4:1 aspect ratio):</source>
+        </trans-unit>
+        <trans-unit id="307358902068752384" xml:space="preserve" resname="editor_button_loadimage">
+          <source>Load Image</source>
+        </trans-unit>
+        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
+          <source>Replace Image</source>
+        </trans-unit>
+        <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
+          <source>Estimated Difficulty: {0}</source>
+        </trans-unit>
+        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize">
+          <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
+        </trans-unit>
+        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay">
+          <source>Chart by {0}</source>
+        </trans-unit>
+        <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder">
+          <source>Open levels folder</source>
+        </trans-unit>
+        <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu">
+          <source>Back to Menu</source>
+        </trans-unit>
+        <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
+          <source>Error loading level</source>
+        </trans-unit>
+        <trans-unit id="307819786427740160" xml:space="preserve" resname="menu_description_opencustomlevelfolder">
+          <source>Opens the directory where custom levels are stored.</source>
+        </trans-unit>
+        <trans-unit id="307868138548801536" xml:space="preserve" resname="customlevel_bpm">
+          <source>{0} BPM</source>
+        </trans-unit>
+        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
+          <source>Export</source>
+        </trans-unit>
+        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export">
+          <source>Level exported: {0}</source>
+        </trans-unit>
+        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing">
+          <source>Couldn't find music for this level</source>
+        </trans-unit>
+        <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth">
+          <source>fast ghost enemy</source>
+        </trans-unit>
+        <trans-unit id="320058758105182208" xml:space="preserve" resname="editor_tool_multihitenemyeighth_description">
+          <source>&lt;color=#ffff00&gt;Fast Ghost Enemies&lt;/color&gt;
+Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
+        </trans-unit>
+        <trans-unit id="320059068060053504" xml:space="preserve" resname="editor_action_multihitenemyeighth">
+          <source>Insert fast ghost enemy at beat {0}</source>
+        </trans-unit>
+        <trans-unit id="320059176046604288" xml:space="preserve" resname="editor_tooltip_multihitenemyeighth">
+          <source>Fast Ghost Enemies</source>
+        </trans-unit>
+        <trans-unit id="320104325116112896" xml:space="preserve" resname="editor_leveltest_jumptocheckpoint_header">
+          <source>Jump to Checkpoint</source>
+        </trans-unit>
+        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip">
+          <source>Preview Clip...</source>
+        </trans-unit>
+        <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime">
+          <source>Preview start time:</source>
+        </trans-unit>
+        <trans-unit id="323256665646084096" xml:space="preserve" resname="editor_input_previewendtime">
+          <source>Preview end time:</source>
+        </trans-unit>
+        <trans-unit id="323263949176614912" xml:space="preserve" resname="editor_button_playpreview">
+          <source>Play Preview</source>
+        </trans-unit>
+        <trans-unit id="323269419270451200" xml:space="preserve" resname="editor_text_previewduration">
+          <source>Preview Duration: {0} seconds</source>
+        </trans-unit>
+        <trans-unit id="323335517437210624" xml:space="preserve" resname="menu_importlevels">
+          <source>Import New Levels</source>
+        </trans-unit>
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+          <source>({0} Levels)</source>
+        </trans-unit>
+        <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
+          <source>Already in custom level directory</source>
+        </trans-unit>
+        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading">
+          <source>Downloading...</source>
+        </trans-unit>
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+          <source>Download failed</source>
+        </trans-unit>
+        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
+          <source>Missing {0} file</source>
+        </trans-unit>
+        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists">
+          <source>File already exists:</source>
+        </trans-unit>
+        <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting">
+          <source>Extracting...</source>
+        </trans-unit>
+        <trans-unit id="326502270073876480" xml:space="preserve" resname="customlevelimporter_musicneeded">
+          <source>No music included</source>
+        </trans-unit>
+        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success">
+          <source>Success</source>
+        </trans-unit>
+        <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse">
+          <source>Browse from disk</source>
+        </trans-unit>
+        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu">
+          <source>Download from URL(s)</source>
+        </trans-unit>
+        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
+          <source>Drag .rqzip files here</source>
+        </trans-unit>
+        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
+          <source>or</source>
+        </trans-unit>
+        <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
+          <source>Browse custom levels on mod.io</source>
+        </trans-unit>
+        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
+          <source>Import new custom levels.
+
+You can import levels from:
+- Locally-saved ".rqzip" files
+- Public ".rqzip" URL downloads
+- Fan creations in Steam Workshop</source>
+        </trans-unit>
+        <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
+          <source>Enter one or more URL(s) to .rqzip files to download:
+(place each URL on a separate line)</source>
+        </trans-unit>
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+          <source>Download</source>
+        </trans-unit>
+        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
+          <source>Paste from Clipboard</source>
+        </trans-unit>
+        <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics">
+          <source>Graphics</source>
+        </trans-unit>
+        <trans-unit id="330145080736002048" xml:space="preserve" resname="editor_action_graphicsdata">
+          <source>Edit level graphics</source>
+        </trans-unit>
+        <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset">
+          <source>Tile Set</source>
+        </trans-unit>
+        <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset">
+          <source>Backdrop Set</source>
+        </trans-unit>
+        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
+          <source>Green Grasslands (+ grass)</source>
+        </trans-unit>
+        <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
+          <source>Sfx Pitch...</source>
+        </trans-unit>
+        <trans-unit id="334159095082561536" xml:space="preserve" resname="editor_text_sfxpitchdescription">
+          <source>Select the main pitch/key of your song.
+Note: Coin Sfx play in perfect fifths
+(Example: Key of C -&gt; Coin notes will be C and G)</source>
+        </trans-unit>
+        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
+          <source>Palette: Section {0}</source>
+        </trans-unit>
+        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
+          <source>Change color palette for section {0}</source>
+        </trans-unit>
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+          <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
+Click on a checkpoint section to edit its color palette.</source>
+        </trans-unit>
+        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
+          <source>Palettes</source>
+        </trans-unit>
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
+Do you still want to continue?</source>
+        </trans-unit>
+        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
+          <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
+Click on a checkpoint section to edit its particle effects.</source>
+        </trans-unit>
+        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
+          <source>Particles</source>
+        </trans-unit>
+        <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
+          <source>Change particle effects for section {0}</source>
+        </trans-unit>
+        <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title">
+          <source>Particles: Section {0}</source>
+        </trans-unit>
+        <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
+          <source>None</source>
+        </trans-unit>
+        <trans-unit id="338840010459230208" xml:space="preserve" resname="particles_leaves">
+          <source>Leaves</source>
+        </trans-unit>
+        <trans-unit id="338840034714890240" xml:space="preserve" resname="particles_diamonds">
+          <source>Diamonds</source>
+        </trans-unit>
+        <trans-unit id="338840047004200960" xml:space="preserve" resname="particles_snow">
+          <source>Snow</source>
+        </trans-unit>
+        <trans-unit id="338840057573847040" xml:space="preserve" resname="particles_dots">
+          <source>Dots</source>
+        </trans-unit>
+        <trans-unit id="338840066604183552" xml:space="preserve" resname="particles_stars">
+          <source>Stars</source>
+        </trans-unit>
+        <trans-unit id="338840116910665728" xml:space="preserve" resname="particles_petals">
+          <source>Petals</source>
+        </trans-unit>
+        <trans-unit id="338840185495924736" xml:space="preserve" resname="particles_trails">
+          <source>Trails</source>
+        </trans-unit>
+        <trans-unit id="338840195809718272" xml:space="preserve" resname="particles_rain">
+          <source>Rain</source>
+        </trans-unit>
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+          <source>Violet Hyperwave</source>
+        </trans-unit>
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+          <source>A Single Leaf Flutters in the Wind</source>
+        </trans-unit>
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+          <source>Standing Here Alone (Expert Mix)</source>
+        </trans-unit>
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero">
+          <source>Super Mega Zero (RQ Edit)</source>
+        </trans-unit>
+        <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
+          <source>Colors</source>
+        </trans-unit>
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+          <source>As the Cherry Blossom Falls</source>
+        </trans-unit>
+        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
+          <source>Adjust the visual position of enemies relative to the beat.</source>
+        </trans-unit>
+        <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
+          <source>Enemy Spacing</source>
+        </trans-unit>
+        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description">
+          <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
+        </trans-unit>
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+          <source>Let's Have an Adventure!</source>
+        </trans-unit>
+        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
+          <source>Scaling Windows</source>
+        </trans-unit>
+        <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled">
+          <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
+        </trans-unit>
+        <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled">
+          <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
+        </trans-unit>
+        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
+          <source>Crimson Halls</source>
+        </trans-unit>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
+          <source>Color Skins...</source>
+        </trans-unit>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
+          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
+        </trans-unit>
+        <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
+          <source>Beat Grid</source>
+        </trans-unit>
+        <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies">
+          <source>Enemies</source>
+        </trans-unit>
+        <trans-unit id="357290038781587456" xml:space="preserve" resname="menu_settings_colorskins_wings">
+          <source>Wings</source>
+        </trans-unit>
+        <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes">
+          <source>Spikes</source>
+        </trans-unit>
+        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description">
+          <source>Change the color of floor beat markers.</source>
+        </trans-unit>
+        <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description">
+          <source>Change the color of enemies.</source>
+        </trans-unit>
+        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description">
+          <source>Change the color of rolling spike obstacles.</source>
+        </trans-unit>
+        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
+          <source>Tweak obstacle color palettes.</source>
+        </trans-unit>
+        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
+          <source>Change the color of floating wings.</source>
+        </trans-unit>
+        <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits">
+          <source>Actions Only</source>
+        </trans-unit>
+        <trans-unit id="357292667922329600" xml:space="preserve" resname="settings_colorskins_all">
+          <source>All</source>
+        </trans-unit>
+        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
+          <source>Action Type</source>
+        </trans-unit>
+        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description">
+          <source>Floor beat grid markers match level background colors.</source>
+        </trans-unit>
+        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
+          <source>Beat grid markers with obstacles will be colored according beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description">
+          <source>All beat grid markers will be colored according to beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description">
+          <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
+        </trans-unit>
+        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly">
+          <source>Basic Only</source>
+        </trans-unit>
+        <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description">
+          <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
+Other enemies colored based on enemy type.</source>
+        </trans-unit>
+        <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description">
+          <source>Basic enemies colored based on beat offset.
+Other enemies colored based on enemy type.</source>
+        </trans-unit>
+        <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description">
+          <source>All enemies colored based on beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description">
+          <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
+        </trans-unit>
+        <trans-unit id="357296044181860352" xml:space="preserve" resname="settings_colorskins_beatoffset">
+          <source>Beat Offset</source>
+        </trans-unit>
+        <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description">
+          <source>All rolling spikes are colored blue.</source>
+        </trans-unit>
+        <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description">
+          <source>Rolling spikes are colored according to beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
+          <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
+        </trans-unit>
+        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
+          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        </trans-unit>
+        <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
+          <source>All wings are colored based on beat offset.</source>
+        </trans-unit>
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
+          <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+        </trans-unit>
+        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
+          <source>Alternate Green</source>
+        </trans-unit>
+        <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description">
+          <source>Use default color scheme for obstacles.</source>
+        </trans-unit>
+        <trans-unit id="357297589212459008" xml:space="preserve" resname="settings_colorskins_colors_altgreen_description">
+          <source>Use alternate green color (less blue tinted).</source>
+        </trans-unit>
+        <trans-unit id="357298079404961792" xml:space="preserve" resname="menu_settings_enemyspacing">
+          <source>Enemy Spacing...</source>
+        </trans-unit>
+        <trans-unit id="363440841560993792" xml:space="preserve" resname="menu_shop_companions">
+          <source>Companions</source>
+        </trans-unit>
+        <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username">
+          <source>Username: {0}</source>
+        </trans-unit>
+        <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid">
+          <source>User ID: {0}</source>
+        </trans-unit>
+        <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat">
+          <source>Invalid email format. Please enter a valid email address.</source>
+        </trans-unit>
+        <trans-unit id="367586958670344192" xml:space="preserve" resname="modio_levelstatus_neverpublished">
+          <source>This level has never been published to mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367587181270446080" xml:space="preserve" resname="modio_levelstatus_fetching">
+          <source>Retrieving level data from mod.io...</source>
+        </trans-unit>
+        <trans-unit id="367587431410348032" xml:space="preserve" resname="modio_levelstatus_notfound">
+          <source>This level has mod.io ID {0} but was not found on mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367587778312843264" xml:space="preserve" resname="modio_leveldescription">
+          <source>Level ID: {0}
+
+Author: {1}
+
+Last updated: {2}</source>
+        </trans-unit>
+        <trans-unit id="367588344128647168" xml:space="preserve" resname="editor_button_publishmodiomenu">
+          <source>Publish to mod.io...</source>
+        </trans-unit>
+        <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile">
+          <source>Export as .rqzip</source>
+        </trans-unit>
+        <trans-unit id="367588807787982848" xml:space="preserve" resname="editor_button_loginwithemail">
+          <source>Login/Register with Email</source>
+        </trans-unit>
+        <trans-unit id="367588986071068672" xml:space="preserve" resname="editor_button_loginwithsteam">
+          <source>Login/Register with Steam</source>
+        </trans-unit>
+        <trans-unit id="367589064479387648" xml:space="preserve" resname="editor_button_logout">
+          <source>Logout</source>
+        </trans-unit>
+        <trans-unit id="367592610323017728" xml:space="preserve" resname="menu_submit">
+          <source>Submit</source>
+        </trans-unit>
+        <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published">
+          <source>This level has previously been published on mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description">
+          <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
+        </trans-unit>
+        <trans-unit id="367861684986753024" xml:space="preserve" resname="modio_submitsecuritycode_description">
+          <source>Enter the security code that was sent to {0}.</source>
+        </trans-unit>
+        <trans-unit id="367888009894080512" xml:space="preserve" resname="modio_loginstatus_loggedout">
+          <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
+
+You need an account in order to publish levels to mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367888055163203584" xml:space="preserve" resname="modio_loginstatus_loggedin">
+          <source>You are logged into mod.io as:</source>
+        </trans-unit>
+        <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount">
+          <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount">
+          <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367898188933017600" xml:space="preserve" resname="editor_button_viewmodioprofile">
+          <source>View profile on web</source>
+        </trans-unit>
+        <trans-unit id="367898503329656832" xml:space="preserve" resname="editor_button_viewlevelonmodio">
+          <source>View on mod.io</source>
+        </trans-unit>
+        <trans-unit id="367898658577625088" xml:space="preserve" resname="editor_button_publishleveltomodio">
+          <source>Publish to mod.io</source>
+        </trans-unit>
+        <trans-unit id="367903324854071296" xml:space="preserve" resname="editor_button_publishupdatetomodio">
+          <source>Publish new version</source>
+        </trans-unit>
+        <trans-unit id="367905145777598464" xml:space="preserve" resname="editor_button_accountdetails">
+          <source>Account details...</source>
+        </trans-unit>
+        <trans-unit id="367905147346268160" xml:space="preserve" resname="editor_button_loginregister">
+          <source>Login/Register...</source>
+        </trans-unit>
+        <trans-unit id="367907839682588672" xml:space="preserve" resname="modio_createloginaccount_calltoaction">
+          <source>mod.io is a free service used for hosting and sharing Rhythm Quest levels.
+
+Login or register an account to publish levels to mod.io.</source>
+        </trans-unit>
+        <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode">
+          <source>Invalid security code.
+Check the code and try again.</source>
+        </trans-unit>
+        <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio">
+          <source>Publishing to mod.io</source>
+        </trans-unit>
+        <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile">
+          <source>Creating mod.io mod profile...</source>
+        </trans-unit>
+        <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid">
+          <source>Got mod.io level ID: {0}</source>
+        </trans-unit>
+        <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel">
+          <source>Packaging level data...</source>
+        </trans-unit>
+        <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel">
+          <source>Uploading level data...</source>
+        </trans-unit>
+        <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess">
+          <source>Successfully published level!</source>
+        </trans-unit>
+        <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess">
+          <source>Successfully updated level!</source>
+        </trans-unit>
+        <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction">
+          <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
+        </trans-unit>
+        <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid">
+          <source>Saving new level ID into .rqe file...</source>
+        </trans-unit>
+        <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout">
+          <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
+        </trans-unit>
+        <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin">
+          <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
+        </trans-unit>
+        <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile">
+          <source>Updating mod.io mod profile...</source>
+        </trans-unit>
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+          <source>Spellbound Nebula</source>
+        </trans-unit>
+        <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
+          <source>Coin Outlines</source>
+        </trans-unit>
+        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled">
+          <source>(Default) Already-collected coins do not show on respawn.</source>
+        </trans-unit>
+        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled">
+          <source>Shows faint coin outlines on respawn for already-collected coins.</source>
+        </trans-unit>
+        <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
+          <source>Steam ID: {0}</source>
+        </trans-unit>
+        <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description">
+          <source>Register/login to mod.io using the following active Steam account?</source>
+        </trans-unit>
+        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm">
+          <source>Confirm</source>
+        </trans-unit>
+        <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication">
+          <source>Error passing Steam authentication to mod.io.</source>
+        </trans-unit>
+        <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree">
+          <source>I Agree</source>
+        </trans-unit>
+        <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio">
+          <source>Visit mod.io page</source>
+        </trans-unit>
+        <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade">
+          <source>Fade out</source>
+        </trans-unit>
+        <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings">
+          <source>Music Export Settings</source>
+        </trans-unit>
+        <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem">
+          <source>Fix</source>
+        </trans-unit>
+        <trans-unit id="375062025612341248" xml:space="preserve" resname="editor_check_noproblems">
+          <source>No problems found!</source>
+        </trans-unit>
+        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
+          <source>Song name/artist and chart author needs to be filled out</source>
+        </trans-unit>
+        <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
+          <source>Level is missing a Description</source>
+        </trans-unit>
+        <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
+          <source>Level has no music audio</source>
+        </trans-unit>
+        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
+          <source>Music export options need to be set</source>
+        </trans-unit>
+        <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
+          <source>Music audio will not be included in export</source>
+        </trans-unit>
+        <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder">
+          <source>(name of the music track)</source>
+        </trans-unit>
+        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder">
+          <source>(credit the song's artist)</source>
+        </trans-unit>
+        <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder">
+          <source>(your name)</source>
+        </trans-unit>
+        <trans-unit id="375933356973273088" xml:space="preserve" resname="editor_input_description_placeholder">
+          <source>(enter notes or details about your level here)</source>
+        </trans-unit>
+        <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist">
+          <source>Export Checklist</source>
+        </trans-unit>
+        <trans-unit id="375935884045627392" xml:space="preserve" resname="editor_check_nobannerimage">
+          <source>No banner image provided, default will be used</source>
+        </trans-unit>
+        <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
+          <source>Applies a blur effect to backdrops so they are less focused.</source>
+        </trans-unit>
+        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
+          <source>Mods and Assists</source>
+        </trans-unit>
+        <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
+          <source>Assists...</source>
+        </trans-unit>
+        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
+          <source>Assist features that can help with difficult gameplay sections.</source>
+        </trans-unit>
+        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
+          <source>Track Preview</source>
+        </trans-unit>
+        <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
+          <source>Practice Mode</source>
+        </trans-unit>
+        <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats">
+          <source>Temporary Cheats...</source>
+        </trans-unit>
+        <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description">
+          <source>Repeatedly practice the current section with various assists.</source>
+        </trans-unit>
+        <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description">
+          <source>Allows you to scroll left and right to see the rest of the track.</source>
+        </trans-unit>
+        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description">
+          <source>Options for making the current section easier.</source>
+        </trans-unit>
+        <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats">
+          <source>(These settings will reset after the current section is complete)</source>
+        </trans-unit>
+        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt">
+          <source>It looks like you're having trouble with this section.
+Would you like to enable game assist features?</source>
+        </trans-unit>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
+          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
+        </trans-unit>
+        <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
+          <source>Practice Mode Settings</source>
+        </trans-unit>
+        <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze">
+          <source>Track Freezing</source>
+        </trans-unit>
+        <trans-unit id="380976066813800448" xml:space="preserve" resname="speedoverride_nooverride">
+          <source>(Unchanged)</source>
+        </trans-unit>
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+          <source>Piano Sonata No. 16 in C Major
+I. Allegro</source>
+        </trans-unit>
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+          <source>Eine kleine Nachtmusik
+I. Allegro</source>
+        </trans-unit>
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
+          <source>Song of the Sea (Expert Mix)</source>
+        </trans-unit>
+        <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
+          <source>Track freezing is disabled.</source>
+        </trans-unit>
+        <trans-unit id="384489774835871744" xml:space="preserve" resname="settings_trackfreeze_description_enabled">
+          <source>Track freezing is enabled. Level scrolling will stop automatically to wait for correct inputs.</source>
+        </trans-unit>
+        <trans-unit id="384827780239241216" xml:space="preserve" resname="description_trackpreview_keyboard">
+          <source>Press &lt;- and -&gt; to scroll.
+Press Enter to return.</source>
+        </trans-unit>
+        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
+          <source>Click and drag to scroll left/right.</source>
+        </trans-unit>
+        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
+          <source>Tap and drag to scroll left/right.</source>
+        </trans-unit>
+        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
+          <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
+Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
+        </trans-unit>
+        <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
+          <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
+Press &lt;sprite name="controller_icons_100"&gt; to return.</source>
+        </trans-unit>
+        <trans-unit id="384828245819568128" xml:space="preserve" resname="description_trackpreview_playstation">
+          <source>Use &lt;sprite name="controller_icons_16"&gt; to scroll.
+Press &lt;sprite name="controller_icons_37"&gt; to return.</source>
+        </trans-unit>
+        <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description">
+          <source>Adjust in-game controls.</source>
+        </trans-unit>
+        <trans-unit id="387446493811617792" xml:space="preserve" resname="editor_button_properties">
+          <source>Properties</source>
+        </trans-unit>
+        <trans-unit id="387446662712045568" xml:space="preserve" resname="editor_button_level">
+          <source>Level...</source>
+        </trans-unit>
+        <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap">
+          <source>Grid Snap</source>
+        </trans-unit>
+        <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine">
+          <source>Fine</source>
+        </trans-unit>
+        <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers">
+          <source>Helpers</source>
+        </trans-unit>
+        <trans-unit id="392089435390128128" xml:space="preserve" resname="settings_practicehelpers_description_disabled">
+          <source>Don't override settings for visual/audio aids.</source>
+        </trans-unit>
+        <trans-unit id="392089436757471232" xml:space="preserve" resname="settings_practicehelpers_description_enabled">
+          <source>Force-enables visual/audio aids such as metronome and input timeline.</source>
+        </trans-unit>
+        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
+          <source>Exit Practice</source>
+        </trans-unit>
+        <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
+          <source>Practice Mode
+Press Esc for settings</source>
+        </trans-unit>
+        <trans-unit id="392133202063175680" xml:space="preserve" resname="description_practicemode_mouse">
+          <source>Practice Mode</source>
+        </trans-unit>
+        <trans-unit id="392133202528743424" xml:space="preserve" resname="description_practicemode_touch">
+          <source>Practice Mode</source>
+        </trans-unit>
+        <trans-unit id="392133203023671296" xml:space="preserve" resname="description_practicemode_playstation">
+          <source>Practice Mode
+Press &lt;sprite name="controller_icons_100"&gt; for settings</source>
+        </trans-unit>
+        <trans-unit id="392133203501821952" xml:space="preserve" resname="description_practicemode_switch">
+          <source>Practice Mode
+Press &lt;sprite name="controller_icons_65"&gt; for settings</source>
+        </trans-unit>
+        <trans-unit id="392133312578891776" xml:space="preserve" resname="description_practicemode_xbox">
+          <source>Practice Mode
+Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
+        </trans-unit>
+        <trans-unit id="392134441727471616" xml:space="preserve" resname="button_practice_settings">
+          <source>Practice Settings</source>
+        </trans-unit>
+        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
+          <source>Quantum Orbit</source>
+        </trans-unit>
+        <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
+          <source>Additional Settings...</source>
+        </trans-unit>
+        <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description">
+          <source>Edit additional audio settings.</source>
+        </trans-unit>
+        <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx">
+          <source>Coin Sfx</source>
+        </trans-unit>
+        <trans-unit id="396783207449407488" xml:space="preserve" resname="settings_coinsfx_description_disabled">
+          <source>Coin collection is silent.</source>
+        </trans-unit>
+        <trans-unit id="396783208049192960" xml:space="preserve" resname="settings_coinsfx_description_enabled">
+          <source>(Default) Plays a chime whenever a coin is collected.</source>
+        </trans-unit>
+        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch">
+          <source>Rumble...</source>
+        </trans-unit>
+        <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch">
+          <source>Configure Controls...</source>
+        </trans-unit>
+        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
+          <source>Configure controller bindings.</source>
+        </trans-unit>
+        <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
+          <source>Controller Config</source>
+        </trans-unit>
+        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
+          <source>Use default controller bindings.</source>
+        </trans-unit>
+        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
+          <source>Use custom controller bindings.</source>
+        </trans-unit>
+        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
+          <source>Flower Fang (Expert Mix)</source>
+        </trans-unit>
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+          <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11</source>
+        </trans-unit>
+        <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
+          <source>Controls...</source>
+        </trans-unit>
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+          <source>Midnight Moon</source>
+        </trans-unit>
+        <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu">
+          <source>Return to the main menu.</source>
+        </trans-unit>
+        <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise">
+          <source>Für Elise</source>
+        </trans-unit>
+        <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee">
+          <source>Flight of the Bumblebee</source>
+        </trans-unit>
+        <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4">
+          <source>Cosmic Conflux</source>
+        </trans-unit>
+        <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial">
+          <source>Skip Tutorial</source>
+        </trans-unit>
+        <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey">
+          <source>Level {0}</source>
+        </trans-unit>
+        <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor">
+          <source>by {0}</source>
+        </trans-unit>
+        <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber">
+          <source>World {0}</source>
+        </trans-unit>
+        <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label">
+          <source>Difficulty: {0}</source>
+        </trans-unit>
+        <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy">
+          <source>Easy</source>
+        </trans-unit>
+        <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal">
+          <source>Normal</source>
+        </trans-unit>
+        <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard">
+          <source>Hard</source>
+        </trans-unit>
+        <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1">
+          <source>For those who want an easy-going experience.</source>
+        </trans-unit>
+        <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2">
+          <source>Difficulty increases slowly and never gets too hard.</source>
+        </trans-unit>
+        <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description">
+          <source>You can change difficulties freely between levels.</source>
+        </trans-unit>
+        <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title">
+          <source>Select Difficulty</source>
+        </trans-unit>
+        <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1">
+          <source>The way Rhythm Quest was meant to be played.</source>
+        </trans-unit>
+        <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2">
+          <source>Starts simple, but gets complex!</source>
+        </trans-unit>
+        <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1">
+          <source>For those who are experienced with rhythm games.</source>
+        </trans-unit>
+        <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2">
+          <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        </trans-unit>
+        <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser">
+          <source>Level Browser</source>
+        </trans-unit>
+        <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline">
+          <source>Difficulty:
+{0}</source>
+        </trans-unit>
+        <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice">
+          <source>Purchase for
+{0}</source>
+        </trans-unit>
+        <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button">
+          <source>Purchase Level</source>
+        </trans-unit>
+        <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button">
+          <source>Play Level</source>
+        </trans-unit>
+        <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description">
+          <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        </trans-unit>
+        <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins">
+          <source>(Owned: {0})</source>
+        </trans-unit>
+        <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient">
+          <source>Not enough coins!</source>
+        </trans-unit>
+        <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation">
+          <source>Purchase
+{0}
+for {1}?</source>
+        </trans-unit>
+        <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect">
+          <source>Back to Level Select</source>
+        </trans-unit>
+        <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description">
+          <source>Return to the main menu.</source>
+        </trans-unit>
+        <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description">
+          <source>Return to the level selection menu.</source>
+        </trans-unit>
+        <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up">
+          <source>Bottled Up (RQ Edit)</source>
+        </trans-unit>
+        <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn">
+          <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        </trans-unit>
+        <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia">
+          <source>Claustrophobia</source>
+        </trans-unit>
+        <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description">
+          <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        </trans-unit>
+        <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description">
+          <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        </trans-unit>
+        <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description">
+          <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        </trans-unit>
+        <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description">
+          <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        </trans-unit>
+        <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description">
+          <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        </trans-unit>
+        <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description">
+          <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        </trans-unit>
+        <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description">
+          <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        </trans-unit>
+        <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description">
+          <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        </trans-unit>
+        <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description">
+          <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        </trans-unit>
+        <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description">
+          <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        </trans-unit>
+        <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description">
+          <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        </trans-unit>
+        <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description">
+          <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        </trans-unit>
+        <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description">
+          <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        </trans-unit>
+        <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description">
+          <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        </trans-unit>
+        <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description">
+          <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        </trans-unit>
+        <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description">
+          <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        </trans-unit>
+        <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description">
+          <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        </trans-unit>
+        <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description">
+          <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        </trans-unit>
+        <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description">
+          <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        </trans-unit>
+        <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode">
+          <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        </trans-unit>
+        <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock">
+          <source>Section Lock</source>
+        </trans-unit>
+        <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled">
+          <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        </trans-unit>
+        <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled">
+          <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        </trans-unit>
+        <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description">
+          <source>Warp to a specific checkpoint of the level.</source>
+        </trans-unit>
+        <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice">
+          <source>Resume practicing.</source>
+        </trans-unit>
+        <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science">
+          <source>Scherzo of Magical Science (RQ Edit)</source>
+        </trans-unit>
+        <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description">
+          <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        </trans-unit>
+        <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds">
+          <source>Diamonds</source>
+        </trans-unit>
+        <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description">
+          <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        </trans-unit>
+        <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat">
+          <source>Beat</source>
+        </trans-unit>
+        <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats">
+          <source>Downbeats</source>
+        </trans-unit>
+        <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats">
+          <source>Offbeats</source>
+        </trans-unit>
+        <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description">
+          <source>Display diamonds on obstacles that are on downbeats.</source>
+        </trans-unit>
+        <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description">
+          <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        </trans-unit>
+        <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description">
+          <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        </trans-unit>
+        <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description">
+          <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        </trans-unit>
+        <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description">
+          <source>Show diamond rhythm indicators for all obstacle types.</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
