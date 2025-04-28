@@ -3405,6 +3405,66 @@ por {1}?</target>
         <source>Return to the main menu.</source>
         <target state="final">Voltar ao menu principal.</target>
       </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="yes">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="final">The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="yes">
+        <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        <target state="final">Esta faixa foi composta em uma hora e ficou em primeiro lugar na rodada 569 do "One Hour Compo", uma competição semanal de composição on-line.
+Ela faz uso intenso de uma biblioteca de instrumentos guzheng (cítara chinesa dedilhada).</target>
+      </trans-unit>
+      <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="yes">
+        <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        <target state="final">Originalmente apresentado no jogo de ritmo "Samurai Shaver" no qual eu trabalhei em 2017 para a game jam Ludum Dare.
+Esta foi a primeira faixa adicionada ao jogo após o término da game jam e usa um andamento mais lento.</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="yes">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="final">Pressione {0} ou {1} para Atacar.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="yes">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="final">Pressione {0} ou {1} para Pular.</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="yes">
+        <source>Claustrophobia</source>
+        <target state="final">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="yes">
+        <source>Return to the level selection menu.</source>
+        <target state="final">Retornar ao menu de seleção de nível.</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="yes">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="final">Bottled Up (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="yes">
+        <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        <target state="final">Originalmente apresentado no jogo "Nyamo's Adventure" no qual trabalhei em 2016 para a game jam Ludum Dare. 
+Nyamo's Adventure é um jogo de plataforma 2D no estilo "metroidvania" sobre uma bolha que muda de forma.</target>
+      </trans-unit>
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="yes">
+        <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        <target state="final">Uma música que escrevi em 2019 como uma das várias faixas com foco em sons e ritmos percussivos interessantes, um pouco inspirada nas faixas da dupla "Made in Heights".
+Ela faz uso de vários samples que eu mesmo gravei usando garrafas de vidro.</target>
+      </trans-unit>
+      <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="yes">
+        <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        <target state="final">Uma música rápida com instrumentos do leste asiático, como tambores taiko e guzheng (cítara chinesa dedilhada).
+Este nível se concentra apenas na mecânica básica e pode ser jogado mesmo que você ainda não tenha alcançado os mundos posteriores.</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="yes">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="final">Uma faixa de chiptune originalmente planejada para ser incluída no mundo 3.
+Este nível introduziu originalmente o combo de ataque verde + pulo dos inimigos, antes que essa mecânica fosse transferida para o mundo 5.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
