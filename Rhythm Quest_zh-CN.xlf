@@ -1918,11 +1918,11 @@ Click to insert spike enemy jumps.</source>
           <source>Level Editor</source>
           <target>关卡编辑器</target>
         </trans-unit>
-        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description">
+        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description" approved="no">
           <source>&lt;color=#ffff00&gt;Scroll Speed&lt;/color&gt;
 Click on a checkpoint section to edit its scrolling speed.</source>
-          <target>&lt;color=#ffff00&gt;滚动速度&lt;/color&gt;
-点击存档点段落以更改其滚动速度。</target>
+          <target state="translated">&lt;color=#ffff00&gt;滚动速度&lt;/color&gt;
+点击存档点区域以更改其滚动速度。</target>
         </trans-unit>
         <trans-unit id="285910580783263744" xml:space="preserve" resname="settings_metronome">
           <source>Metronome</source>
@@ -2468,11 +2468,11 @@ Note: Coin Sfx play in perfect fifths
           <source>Change color palette for section {0}</source>
           <target>更改区域 {0} 的色板</target>
         </trans-unit>
-        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description" approved="no">
           <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
 Click on a checkpoint section to edit its color palette.</source>
-          <target>&lt;color=#ffff00&gt;色板&lt;/color&gt;
-点击存档点来编辑区域的色板。</target>
+          <target state="translated">&lt;color=#ffff00&gt;色板&lt;/color&gt;
+点击存档点区域来编辑其色板。</target>
         </trans-unit>
         <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
           <source>Palettes</source>
@@ -3412,7 +3412,7 @@ The identity of the titular "Elise" is uncertain, but is thought to be an close 
       <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
         <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
 The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
-        <target state="needs-translation">由沃尔夫冈·阿玛多伊斯·莫扎特创作的 A 大调第 11 号钢琴奏鸣曲的第三乐章，也被称作 “土耳其进行曲”，其旋律很容易就能辨认出来。
+        <target state="translated">由沃尔夫冈·阿玛多伊斯·莫扎特创作的 A 大调第 11 号钢琴奏鸣曲的第三乐章，也被称作 “土耳其进行曲”，其旋律很容易就能辨认出来。
 据说这首作品模仿了土耳其帝国军乐队的风格。</target>
       </trans-unit>
       <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
@@ -3424,7 +3424,7 @@ Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Q
       <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
         <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
 This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
-        <target state="needs-translation">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
+        <target state="translated">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
 这是那个游戏中最慢的一首歌曲，旨在引入被击打后会传送到你身后的蓝色敌人这个机制。</target>
       </trans-unit>
       <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
@@ -3495,7 +3495,7 @@ This was the first track added to the game after the game jam ended, and uses a 
         <source>A chiptune track originally intended for inclusion in world 3.
 This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
         <target state="translated">一首原本打算收录于世界 3 的芯片音乐曲子。
-这个关卡最初引入了绿色攻击 + 跳跃连击敌人，但这个机制后来移到了世界 5。</target>
+这个关卡最初引入了绿色攻击 + 跳跃连击敌人，但这个机制后来被移到了世界 5。</target>
       </trans-unit>
       <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
         <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
@@ -3537,13 +3537,97 @@ This is the "expert mix" of the song, added to increase the difficulty in a post
         <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
 This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
         <target state="translated">最初出现在我更早的节奏游戏 “Ripple Runner Deluxe” 上，它是 Rhythm Quest 的精神前作。
-这是那个游戏中节奏最慢的歌曲，特点是对锁链尖刺平台的巧妙运用。</target>
+这是那个游戏中节奏最慢的歌曲，关卡特点是对锁链尖刺平台的巧妙运用。</target>
       </trans-unit>
       <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
         <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
 This song was designed to be energetic and fast-paced to get players excited about the game.</source>
-        <target state="translated">“Super Mega Zero” 的标题曲目及预告片音乐，这是 Silkworm 开发的一款平台跳跃游戏，我受托以我经典的 “9-bit” 风格为其创作了这首音乐。
+        <target state="translated">“Super Mega Zero” 的标题曲及预告片音乐，这是由 Silkworm 开发的一款平台跳跃游戏，我受托以我经典的 “9-bit” 风格为其创作了这首音乐。
 这首歌曲要求要充满活力且要快节奏，这样能让玩家对这个游戏兴奋起来。</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">按下 {0} 或 {1} 以攻击。</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">受托为“Hero Hours Contract”创作的一首曲子，这是由 Steve O'Gorman 开发的一款回合制战术游戏。
+这首曲子是其中“Magical Science Girl”的主题曲，她是三位主角中最年轻的一位，喜欢剧烈的科学实验。</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="translated">强拍</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="no">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="translated">在处于强拍的障碍上显示菱形标志。</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="no">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="translated">（默认）只在飞翼上显示菱形节奏指示标志。</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">按下 {0} 或 {1} 以跳跃。</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="no">
+        <source>Offbeats</source>
+        <target state="translated">弱拍</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="no">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="translated">退出练习模式，回到你之前游玩的存档点。</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
+        <source>Section Lock</source>
+        <target state="translated">区域锁</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="no">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="translated">传送到关卡的特定存档点。</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+        <source>Resume practicing.</source>
+        <target state="translated">继续练习。</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="translated">正常通过歌曲的各个区域。
+到达关卡末尾后从头开始。</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="translated">到达下一个存档点时，自动重玩当前区域。</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
+        <source>Diamonds</source>
+        <target state="translated">菱形标志</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="no">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="translated">切换或调整指示强拍/弱拍的菱形标志。</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="no">
+        <source>Beat</source>
+        <target state="translated">拍子</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="translated">（默认）在处于弱拍的障碍上显示菱形标志。</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="no">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="translated">不要在任何障碍上显示菱形节奏指示标志。</target>
+      </trans-unit>
+      <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description" approved="no">
+        <source>Show diamond rhythm indicators for all obstacle types.</source>
+        <target state="translated">在所有种类的障碍上显示菱形节奏指示标志。</target>
       </trans-unit>
     </body>
   </file>
