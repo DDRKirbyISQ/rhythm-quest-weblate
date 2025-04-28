@@ -2916,9 +2916,9 @@ Check the code and try again.</source>
           <source>Updating mod.io mod profile...</source>
           <target state="translated">Оновлення профілю mod.io...</target>
         </trans-unit>
-        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="no">
           <source>Spellbound Nebula</source>
-          <target>Швидкісна Галактика</target>
+          <target state="translated">Зачарована Туманність</target>
         </trans-unit>
         <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
           <source>Coin Outlines</source>
@@ -3088,10 +3088,10 @@ I. Allegro</source>
           <target>Piano Sonata No. 16 in C Major
 I. Allegro</target>
         </trans-unit>
-        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
+        <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="no">
           <source>Eine kleine Nachtmusik
 I. Allegro</source>
-          <target>Eine kleine Nachtmusik
+          <target state="translated">Маленька нічна серенада
 I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
@@ -3262,11 +3262,11 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <source>Flower Fang (Expert Mix)</source>
           <target>Flower Fang (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11</source>
-          <target>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11</target>
+          <target state="translated">Турецький Марш (Rondo alla Turca)
+з Piano Sonata No. 11</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
@@ -3283,7 +3283,7 @@ from Piano Sonata No. 11</target>
     <body>
       <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
         <source>Für Elise</source>
-        <target state="translated">Für Elise</target>
+        <target state="translated">До Елізи</target>
       </trans-unit>
       <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
         <source>Cosmic Conflux</source>
@@ -3299,7 +3299,7 @@ from Piano Sonata No. 11</target>
       </trans-unit>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
         <source>Flight of the Bumblebee</source>
-        <target state="translated">Flight of the Bumblebee</target>
+        <target state="translated">Політ Джмеля</target>
       </trans-unit>
       <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
         <source>Level {0}</source>
@@ -3307,7 +3307,7 @@ from Piano Sonata No. 11</target>
       </trans-unit>
       <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
         <source>by {0}</source>
-        <target state="translated">на {0}</target>
+        <target state="translated">від {0}</target>
       </trans-unit>
       <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
         <source>World {0}</source>
