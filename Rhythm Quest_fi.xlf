@@ -45,29 +45,123 @@
         <source>Controls</source>
         <target state="final">Kontrollit</target>
       </trans-unit>
-      <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="no">
+      <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="yes">
         <source>(Locked)</source>
-        <target state="translated">(Lukittu)</target>
+        <target state="final">(Lukittu)</target>
       </trans-unit>
       <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="yes">
         <source>Press a key</source>
-        <target state="final">Paina nappia</target>
+        <target state="final">Paina näppäintä</target>
       </trans-unit>
-      <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="no">
+      <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="yes">
         <source>Accessibility</source>
-        <target state="translated">Käyttöapu</target>
+        <target state="final">Käyttöapu</target>
       </trans-unit>
       <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="yes">
         <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
         <target state="final">(Oletus) Paina ruudun vasenta puolta hyppääksesi, paina oikeaa puolta hyökkääksesi.</target>
       </trans-unit>
-      <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="no">
+      <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="yes">
         <source>Tap left half of screen to attack, tap right half to jump.</source>
-        <target state="translated">Paina ruudun vaselta puolta hyökkääksesi, paina oikeaa puolta hyppääksesi.</target>
+        <target state="final">Paina ruudun vaselta puolta hyökkääksesi, paina oikeaa puolta hyppääksesi.</target>
       </trans-unit>
-      <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
+      <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="yes">
         <source>Lag Calibration...</source>
-        <target state="translated">lakibraatio...</target>
+        <target state="final">Viiveen kalibraatio...</target>
+      </trans-unit>
+      <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="yes">
+        <source>Interface Settings</source>
+        <target state="final">Käyttöliittymän Asetukset</target>
+      </trans-unit>
+      <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="yes">
+        <source>Flexible</source>
+        <target state="final">Joustava</target>
+      </trans-unit>
+      <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="yes">
+        <source>Pixel Perfect</source>
+        <target state="final">Pikselin Tarkka</target>
+      </trans-unit>
+      <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="yes">
+        <source>Screen Mode</source>
+        <target state="final">Näyttötila-asetukset</target>
+      </trans-unit>
+      <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="yes">
+        <source>Maximized</source>
+        <target state="final">Laajennettu</target>
+      </trans-unit>
+      <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="yes">
+        <source>Windowed</source>
+        <target state="final">Ikkunoitu</target>
+      </trans-unit>
+      <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen" approved="yes">
+        <source>Fullscreen</source>
+        <target state="final">Kokoruutu</target>
+      </trans-unit>
+      <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="yes">
+        <source>Game will run in a maximized window.</source>
+        <target state="final">Peli tulee olemaan laajennetussa ikkunassa.</target>
+      </trans-unit>
+      <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="yes">
+        <source>Game will run in exclusive fullscreen mode.</source>
+        <target state="final">Peli tulee olemaan kokoruudun tilassa.</target>
+      </trans-unit>
+      <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="yes">
+        <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
+        <target state="final">(Oletus) Käyttöliittymä ja kamera muttaa kokoaan vain kokonaoslukujen verran. Varmistaa että pikselit pysyvät neliöinä, mutta saattaa tarvita kauempaa näkymää.</target>
+      </trans-unit>
+      <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
+        <source>Resolution</source>
+        <target state="final">Resoluutio</target>
+      </trans-unit>
+      <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="yes">
+        <source>Quit to Menu</source>
+        <target state="final">Palaa valikkoon</target>
+      </trans-unit>
+      <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next" approved="yes">
+        <source>Next</source>
+        <target state="final">Seuraava</target>
+      </trans-unit>
+      <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description" approved="yes">
+        <source>Resolution and screen mode settings.</source>
+        <target state="final">Resoluutio- ja näyttötila-asetukset.</target>
+      </trans-unit>
+      <trans-unit id="123203494845657088" xml:space="preserve" resname="settings_menu_scaling_description" approved="yes">
+        <source>Zoom and scale settings.</source>
+        <target state="final">Lähennys- ja kokoasetukset.</target>
+      </trans-unit>
+      <trans-unit id="123203967791181824" xml:space="preserve" resname="menu_settings_resolution" approved="yes">
+        <source>Resolution Settings...</source>
+        <target state="final">Resoluutio Asetukset...</target>
+      </trans-unit>
+      <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description" approved="yes">
+        <source>Resets settings to default values.</source>
+        <target state="final">Palauta asetukset oletuksiin.</target>
+      </trans-unit>
+      <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3" approved="yes">
+        <source>Wishlist and follow Rhythm Quest online for future updates!</source>
+        <target state="final">Seuraa ja laita Rhythm Quest toivelistalle saadaksesi päivityksiä tulevaisuudessa!</target>
+      </trans-unit>
+      <trans-unit id="123208891287515136" xml:space="preserve" resname="resetprefs_confirmed" approved="yes">
+        <source>Settings have been reset to default values.
+(Audio recalibration is recommended)</source>
+        <target state="final">Asetukset on palautettu oletuksiin.
+(äänen uudelleenkalibrointi on suositeltua)</target>
+      </trans-unit>
+      <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview" approved="yes">
+        <source>Preview</source>
+        <target state="final">Esikatselu</target>
+      </trans-unit>
+      <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="yes">
+        <source>Scaling Mode</source>
+        <target state="final">Skaalaus moodi</target>
+      </trans-unit>
+      <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed" approved="yes">
+        <source>Game will be run in a window. Can be resized.</source>
+        <target state="final">Peli tulee olemaan ikkunoitu. Voi muuttaa kokoa.</target>
+      </trans-unit>
+      <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="yes">
+        <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
+        <target state="final">Käyttöliittymä ja kamera muuttaa kokoaan mahtuakseen ikkunaan. Saattaa aiheuttaa pyöreitä pikseleitä, varsinkin alemmissa resoluutioissa.</target>
       </trans-unit>
     </body>
   </file>
