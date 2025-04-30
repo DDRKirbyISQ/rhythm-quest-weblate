@@ -65,6 +65,10 @@
         <source>Tap left half of screen to attack, tap right half to jump.</source>
         <target state="translated">Paina ruudun vaselta puolta hyökkääksesi, paina oikeaa puolta hyppääksesi.</target>
       </trans-unit>
+      <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
+        <source>Lag Calibration...</source>
+        <target state="translated">lakibraatio...</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
