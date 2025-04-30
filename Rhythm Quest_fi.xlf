@@ -11,4 +11,60 @@
         </group>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="fi" datatype="plaintext">
+    <body>
+      <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings" approved="yes">
+        <source>Settings</source>
+        <target state="final">Asetukset</target>
+      </trans-unit>
+      <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="yes">
+        <source>Start Game</source>
+        <target state="final">Aloita peli</target>
+      </trans-unit>
+      <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="yes">
+        <source>Extras</source>
+        <target state="final">Ekstrat</target>
+      </trans-unit>
+      <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="yes">
+        <source>Quit</source>
+        <target state="final">Lopeta</target>
+      </trans-unit>
+      <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back" approved="yes">
+        <source>Back</source>
+        <target state="final">Takaisin</target>
+      </trans-unit>
+      <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics" approved="yes">
+        <source>Graphics</source>
+        <target state="final">Grafiikat</target>
+      </trans-unit>
+      <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio" approved="yes">
+        <source>Audio</source>
+        <target state="final">Ääni</target>
+      </trans-unit>
+      <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls" approved="yes">
+        <source>Controls</source>
+        <target state="final">Kontrollit</target>
+      </trans-unit>
+      <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="no">
+        <source>(Locked)</source>
+        <target state="translated">(Lukittu)</target>
+      </trans-unit>
+      <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="yes">
+        <source>Press a key</source>
+        <target state="final">Paina nappia</target>
+      </trans-unit>
+      <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="no">
+        <source>Accessibility</source>
+        <target state="translated">Käyttöapu</target>
+      </trans-unit>
+      <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="yes">
+        <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
+        <target state="final">(Oletus) Paina ruudun vasenta puolta hyppääksesi, paina oikeaa puolta hyökkääksesi.</target>
+      </trans-unit>
+      <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="no">
+        <source>Tap left half of screen to attack, tap right half to jump.</source>
+        <target state="translated">Paina ruudun vaselta puolta hyökkääksesi, paina oikeaa puolta hyppääksesi.</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
