@@ -68,17 +68,17 @@
           <source>Screen Mode</source>
           <target>显示模式</target>
         </trans-unit>
-        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="yes">
           <source>Windowed</source>
-          <target>窗口化</target>
+          <target state="final">窗口化</target>
         </trans-unit>
         <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
           <source>Maximized</source>
           <target>全屏窗口</target>
         </trans-unit>
-        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
+        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen" approved="yes">
           <source>Fullscreen</source>
-          <target>全屏</target>
+          <target state="final">全屏</target>
         </trans-unit>
         <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed">
           <source>Game will be run in a window. Can be resized.</source>
@@ -100,17 +100,17 @@
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
           <target>（默认）界面和镜头只会按整数倍缩放。这样可以确保像素是正方形，但界面可能偏小。</target>
         </trans-unit>
-        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
           <source>Resolution</source>
-          <target>分辨率</target>
+          <target state="final">分辨率</target>
         </trans-unit>
         <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
           <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
           <target>将窗口分辨率调整为预设值。（全屏时无法更改）</target>
         </trans-unit>
-        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="yes">
           <source>Vertical Sync</source>
-          <target>垂直同步</target>
+          <target state="final">垂直同步</target>
         </trans-unit>
         <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
@@ -260,13 +260,13 @@
           <source>Press Enter to Continue</source>
           <target state="final">按下Enter以继续</target>
         </trans-unit>
-        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse">
+        <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="yes">
           <source>Click to Continue</source>
-          <target>点击以继续</target>
+          <target state="final">点击以继续</target>
         </trans-unit>
-        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch">
+        <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="yes">
           <source>Tap to Continue</source>
-          <target>点击以继续</target>
+          <target state="final">点击以继续</target>
         </trans-unit>
         <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox">
           <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
@@ -284,13 +284,13 @@
           <source>Font Style</source>
           <target>字体风格</target>
         </trans-unit>
-        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled">
+        <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="yes">
           <source>Pixel Font</source>
-          <target>像素字体</target>
+          <target state="final">像素字体</target>
         </trans-unit>
-        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled">
+        <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled" approved="yes">
           <source>Smooth Font</source>
-          <target>平滑字体</target>
+          <target state="final">平滑字体</target>
         </trans-unit>
         <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled">
           <source>Use smooth font for the interface.</source>
@@ -320,9 +320,9 @@
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
           <target>虚拟按钮将显示。（您可以不点击它们）</target>
         </trans-unit>
-        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
+        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog" approved="yes">
           <source>Changelog</source>
-          <target>更新日志</target>
+          <target state="final">更新日志</target>
         </trans-unit>
         <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
           <source>Green Grasslands</source>
@@ -518,9 +518,9 @@ Are you sure you want to proceed?</source>
           <source>Do you want to calibrate audio lag now?</source>
           <target>您要立即校准音频延迟吗？</target>
         </trans-unit>
-        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>
-          <target>如何游玩</target>
+          <target state="final">如何游玩</target>
         </trans-unit>
         <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
@@ -550,9 +550,9 @@ Are you sure you want to proceed?</source>
           <source>Flipped</source>
           <target>反转</target>
         </trans-unit>
-        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="yes">
           <source>Calibration complete!</source>
-          <target>校准完成！</target>
+          <target state="final">校准完成！</target>
         </trans-unit>
         <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
           <source>The flashing squares should now match the beeps.
@@ -560,9 +560,9 @@ Otherwise, adjust manually until synced.</source>
           <target>闪光的方块应该和哔哔声同步。
 如果未同步，请手动调整直到同步。</target>
         </trans-unit>
-        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
-          <target>音频延迟：{0}ms</target>
+          <target state="final">音频延迟：{0}ms</target>
         </trans-unit>
         <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
           <source>Audio Lag Calibration</source>
@@ -592,9 +592,9 @@ Otherwise, adjust manually until synced.</source>
           <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
           <target>跟着哔哔声按下&lt;sprite name="controller_icons_60"&gt;</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
+        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
           <source>Yes (Recommended)</source>
-          <target>是（推荐）</target>
+          <target state="final">是（推荐）</target>
         </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
@@ -632,9 +632,9 @@ Otherwise, adjust manually until synced.</source>
           <source>Restart Level</source>
           <target>重新开始关卡</target>
         </trans-unit>
-        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
+        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="yes">
           <source>Cancel</source>
-          <target>取消</target>
+          <target state="final">取消</target>
         </trans-unit>
         <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
           <source>Calibration failed -- try again!
@@ -648,17 +648,17 @@ Focus on matching the sound of your tap to the beep.
           <source>Your accuracy: {0}%</source>
           <target>你的准确度：{0}%</target>
         </trans-unit>
-        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu">
+        <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="yes">
           <source>Quit to Menu</source>
-          <target>退出到主菜单</target>
+          <target state="final">退出到主菜单</target>
         </trans-unit>
-        <trans-unit id="34008930576228352" xml:space="preserve" resname="new">
+        <trans-unit id="34008930576228352" xml:space="preserve" resname="new" approved="yes">
           <source>New</source>
-          <target>新</target>
+          <target state="final">新</target>
         </trans-unit>
-        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
+        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop" approved="yes">
           <source>Shop</source>
-          <target>商店</target>
+          <target state="final">商店</target>
         </trans-unit>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
           <source>Characters</source>
@@ -714,9 +714,9 @@ Remaining:</source>
           <source>Enchanted Oasis</source>
           <target>魔力绿洲</target>
         </trans-unit>
-        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
+        <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="yes">
           <source>Gameplay Trailer</source>
-          <target state="translated">游戏玩法预告片</target>
+          <target state="final">游戏玩法预告片</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -726,9 +726,9 @@ Remaining:</source>
           <source>Stratosphere</source>
           <target>空中漫步</target>
         </trans-unit>
-        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
+        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam" approved="yes">
           <source>Wishlist on Steam</source>
-          <target>加入Steam愿望清单</target>
+          <target state="final">加入Steam愿望清单</target>
         </trans-unit>
         <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start" approved="yes">
           <source>Start</source>
@@ -1030,9 +1030,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Jump Release</source>
           <target>松开跳跃</target>
         </trans-unit>
-        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack">
+        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack" approved="yes">
           <source>Jump + Attack</source>
-          <target>跳跃+攻击</target>
+          <target state="final">跳跃+攻击</target>
         </trans-unit>
         <trans-unit id="126940109233500160" xml:space="preserve" resname="settings_audiocuevolume">
           <source>Volume Balance</source>
@@ -1042,9 +1042,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Adjust balance between game sound and cue track. (0% = cues disabled)</source>
           <target>调整游戏声音和提示音之间的音量平衡。（0% = 关闭提示音）</target>
         </trans-unit>
-        <trans-unit id="128297471466844160" xml:space="preserve" resname="menu_settings_haptics">
+        <trans-unit id="128297471466844160" xml:space="preserve" resname="menu_settings_haptics" approved="yes">
           <source>Haptic Feedback...</source>
-          <target>触觉反馈…</target>
+          <target state="final">触觉反馈…</target>
         </trans-unit>
         <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description">
           <source>Select a cue sound to play one beat before a jump.</source>
@@ -1070,9 +1070,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Keep going...</source>
           <target state="final">继续……</target>
         </trans-unit>
-        <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
+        <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode" approved="yes">
           <source>Screenreader Mode</source>
-          <target>屏幕朗读模式</target>
+          <target state="final">屏幕朗读模式</target>
         </trans-unit>
         <trans-unit id="134459975284862976" xml:space="preserve" resname="settings_screenreadermode_description_disabled">
           <source>Screenreader is disabled.</source>
@@ -1146,37 +1146,37 @@ Would you like to enable screen reader mode?
           <source>left mouse button</source>
           <target>鼠标左键</target>
         </trans-unit>
-        <trans-unit id="138027777304342528" xml:space="preserve" resname="controller_y">
+        <trans-unit id="138027777304342528" xml:space="preserve" resname="controller_y" approved="yes">
           <source>Y</source>
-          <target>Y 键</target>
+          <target state="final">Y 键</target>
         </trans-unit>
-        <trans-unit id="138027779527323648" xml:space="preserve" resname="controller_x">
+        <trans-unit id="138027779527323648" xml:space="preserve" resname="controller_x" approved="yes">
           <source>X</source>
-          <target>X 键</target>
+          <target state="final">X 键</target>
         </trans-unit>
-        <trans-unit id="138027780382961664" xml:space="preserve" resname="controller_a">
+        <trans-unit id="138027780382961664" xml:space="preserve" resname="controller_a" approved="yes">
           <source>A</source>
-          <target>A 键</target>
+          <target state="final">A 键</target>
         </trans-unit>
-        <trans-unit id="138027948037681152" xml:space="preserve" resname="controller_b">
+        <trans-unit id="138027948037681152" xml:space="preserve" resname="controller_b" approved="yes">
           <source>B</source>
-          <target>B 键</target>
+          <target state="final">B 键</target>
         </trans-unit>
-        <trans-unit id="138027960914194432" xml:space="preserve" resname="controller_dpad">
+        <trans-unit id="138027960914194432" xml:space="preserve" resname="controller_dpad" approved="yes">
           <source>D-pad</source>
-          <target>方向键</target>
+          <target state="final">方向键</target>
         </trans-unit>
-        <trans-unit id="138027980287684608" xml:space="preserve" resname="controller_triangle">
+        <trans-unit id="138027980287684608" xml:space="preserve" resname="controller_triangle" approved="yes">
           <source>triangle</source>
-          <target>三角键</target>
+          <target state="final">三角键</target>
         </trans-unit>
-        <trans-unit id="138028001263398912" xml:space="preserve" resname="controller_cross">
+        <trans-unit id="138028001263398912" xml:space="preserve" resname="controller_cross" approved="yes">
           <source>X</source>
-          <target>叉键</target>
+          <target state="final">叉键</target>
         </trans-unit>
-        <trans-unit id="138028045664301056" xml:space="preserve" resname="controller_square">
+        <trans-unit id="138028045664301056" xml:space="preserve" resname="controller_square" approved="yes">
           <source>square</source>
-          <target>方形键</target>
+          <target state="final">方形键</target>
         </trans-unit>
         <trans-unit id="138033177714012160" xml:space="preserve" resname="tutorial_mobile_jump_normal_uap">
           <source>Tap the left side of the screen to Jump.</source>
@@ -1194,13 +1194,13 @@ Would you like to enable screen reader mode?
           <source>Tap the left side of the screen to Attack.</source>
           <target>点击屏幕左侧以攻击。</target>
         </trans-unit>
-        <trans-unit id="138034608860868608" xml:space="preserve" resname="controller_sr">
+        <trans-unit id="138034608860868608" xml:space="preserve" resname="controller_sr" approved="yes">
           <source>SR</source>
-          <target>SR 键</target>
+          <target state="final">SR 键</target>
         </trans-unit>
-        <trans-unit id="138034634722947072" xml:space="preserve" resname="controller_sl">
+        <trans-unit id="138034634722947072" xml:space="preserve" resname="controller_sl" approved="yes">
           <source>SL</source>
-          <target>SL 键</target>
+          <target state="final">SL 键</target>
         </trans-unit>
         <trans-unit id="138034670018015232" xml:space="preserve" resname="controller_dpaddown">
           <source>D-pad down</source>
@@ -1210,9 +1210,9 @@ Would you like to enable screen reader mode?
           <source>D-pad left</source>
           <target>方向左键</target>
         </trans-unit>
-        <trans-unit id="138034794794364928" xml:space="preserve" resname="controller_analogstick">
+        <trans-unit id="138034794794364928" xml:space="preserve" resname="controller_analogstick" approved="yes">
           <source>analog stick</source>
-          <target>类比摇杆</target>
+          <target state="final">类比摇杆</target>
         </trans-unit>
         <trans-unit id="138037685856808960" xml:space="preserve" resname="tutorial_outro_desktop_uap">
           <source>You can change these controls in the "Settings" menu.</source>
@@ -1250,9 +1250,9 @@ Would you like to enable screen reader mode?
           <source>Hide Cursor</source>
           <target>隐藏指针</target>
         </trans-unit>
-        <trans-unit id="160981046260301824" xml:space="preserve" resname="medal_coin_totals">
+        <trans-unit id="160981046260301824" xml:space="preserve" resname="medal_coin_totals" approved="yes">
           <source>Totals</source>
-          <target>总数</target>
+          <target state="final">总数</target>
         </trans-unit>
         <trans-unit id="161022499091021824" xml:space="preserve" resname="game_auto_play">
           <source>Auto Play</source>
@@ -1556,9 +1556,9 @@ Please connect a supported gamepad device.</source>
           <source>Current FPS: {0}</source>
           <target>当前帧率：{0}</target>
         </trans-unit>
-        <trans-unit id="256006672258740224" xml:space="preserve" resname="settings_framequeueing_latency">
+        <trans-unit id="256006672258740224" xml:space="preserve" resname="settings_framequeueing_latency" approved="yes">
           <source>Latency</source>
-          <target>延迟</target>
+          <target state="final">延迟</target>
         </trans-unit>
         <trans-unit id="256006835362639872" xml:space="preserve" resname="settings_frame_queueing_performance">
           <source>Performance</source>
@@ -2356,9 +2356,9 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>Downloading...</source>
           <target>正在下载...</target>
         </trans-unit>
-        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload" approved="yes">
           <source>Download failed</source>
-          <target>下载失败</target>
+          <target state="final">下载失败</target>
         </trans-unit>
         <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
           <source>Missing {0} file</source>
@@ -2392,9 +2392,9 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>Drag .rqzip files here</source>
           <target>将.rqzip 文件拖到这里</target>
         </trans-unit>
-        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
+        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or" approved="yes">
           <source>or</source>
-          <target>或</target>
+          <target state="final">或</target>
         </trans-unit>
         <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
           <source>Browse custom levels on mod.io</source>
@@ -2420,9 +2420,9 @@ You can import levels from:
           <target>输入一个或多个到.rqzip 文件的下载链接：
 (将每个链接放在单独行上)</target>
         </trans-unit>
-        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download" approved="yes">
           <source>Download</source>
-          <target>下载</target>
+          <target state="final">下载</target>
         </trans-unit>
         <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
           <source>Paste from Clipboard</source>
@@ -2490,9 +2490,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <target>&lt;color=#ffff00&gt;粒子&lt;/color&gt;
 点击存档点来编辑区域的粒子效果。</target>
         </trans-unit>
-        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
+        <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles" approved="yes">
           <source>Particles</source>
-          <target>粒子效果</target>
+          <target state="final">粒子效果</target>
         </trans-unit>
         <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles">
           <source>Change particle effects for section {0}</source>
@@ -2940,9 +2940,9 @@ Check the code and try again.</source>
           <source>Register/login to mod.io using the following active Steam account?</source>
           <target>是否使用以下Steam帐户注册/登录到 mod.io ？</target>
         </trans-unit>
-        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm">
+        <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm" approved="yes">
           <source>Confirm</source>
-          <target>确认</target>
+          <target state="final">确认</target>
         </trans-unit>
         <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication">
           <source>Error passing Steam authentication to mod.io.</source>
@@ -3281,9 +3281,9 @@ from Piano Sonata No. 11</source>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="zh-CN" datatype="plaintext">
     <body>
-      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
+      <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="yes">
         <source>Return to the main menu.</source>
-        <target state="translated">返回主菜单。</target>
+        <target state="final">返回主菜单。</target>
       </trans-unit>
       <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
         <source>Für Elise</source>
@@ -3361,14 +3361,14 @@ from Piano Sonata No. 11</source>
         <source>Difficulty ramps up more quickly and becomes quite intense!</source>
         <target state="translated">难度上升得更快而且变得很激烈！</target>
       </trans-unit>
-      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
         <source>The way Rhythm Quest was meant to be played.</source>
-        <target state="translated">Rhythm Quest 本该游玩的方式。</target>
+        <target state="final">Rhythm Quest 本该游玩的方式。</target>
       </trans-unit>
-      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="yes">
         <source>Difficulty:
 {0}</source>
-        <target state="translated">难度：
+        <target state="final">难度：
 {0}</target>
       </trans-unit>
       <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
@@ -3545,9 +3545,9 @@ This song was designed to be energetic and fast-paced to get players excited abo
         <target state="translated">“Super Mega Zero” 的标题曲及预告片音乐，这是由 Silkworm 开发的一款平台跳跃游戏，我受托以我经典的 “9-bit” 风格为其创作了这首音乐。
 这首歌曲要求要充满活力且要快节奏，这样能让玩家对这个游戏兴奋起来。</target>
       </trans-unit>
-      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="yes">
         <source>Press {0} or {1} to Attack.</source>
-        <target state="translated">按下 {0} 或 {1} 以攻击。</target>
+        <target state="final">按下 {0} 或 {1} 以攻击。</target>
       </trans-unit>
       <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
         <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
@@ -3567,9 +3567,9 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
         <source>(Default) Show diamond rhythm indicators for wings only.</source>
         <target state="translated">（默认）只在飞翼上显示菱形节奏指示标志。</target>
       </trans-unit>
-      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="yes">
         <source>Press {0} or {1} to Jump.</source>
-        <target state="translated">按下 {0} 或 {1} 以跳跃。</target>
+        <target state="final">按下 {0} 或 {1} 以跳跃。</target>
       </trans-unit>
       <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="no">
         <source>Offbeats</source>
@@ -3613,9 +3613,9 @@ Restart from the beginning when reaching the end of the level.</source>
         <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
         <target state="translated">切换或调整指示强拍/弱拍的菱形标志。</target>
       </trans-unit>
-      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="no">
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="yes">
         <source>Beat</source>
-        <target state="translated">拍子</target>
+        <target state="final">拍子</target>
       </trans-unit>
       <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
         <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
