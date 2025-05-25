@@ -2552,7 +2552,7 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="needs-translation">Super Mega Zero</target>
+          <target state="translated">Super Mega Zero (RQ Edit)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -2772,7 +2772,7 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="no">
           <source>Packaging level data...</source>
-          <target state="needs-translation">레벨 정보를 꾸러미에 싸는 중...</target>
+          <target state="translated">레벨 정보를 꾸러미에 싸는 중...</target>
         </trans-unit>
         <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel">
           <source>Uploading level data...</source>
@@ -3211,7 +3211,7 @@ mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하�
       </trans-unit>
       <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description" approved="no">
         <source>Register/login to mod.io using the following active Steam account?</source>
-        <target state="needs-translation">다음 Steam 계정으로 mod.io에 등록/로그인하시겠습니까?</target>
+        <target state="translated">다음 Steam 계정으로 mod.io에 등록/로그인하시겠습니까?</target>
       </trans-unit>
       <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="no">
         <source>Fade out</source>
@@ -3222,8 +3222,8 @@ mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하�
         <target state="needs-translation">mod.io 프로필 생성 중...</target>
       </trans-unit>
       <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
-        <source>Updating mod.iod mod profile...</source>
-        <target state="needs-translation">mod.io 프로필 갱신 중...</target>
+        <source>Updating mod.io mod profile...</source>
+        <target state="translated">mod.io 프로필 갱신 중...</target>
       </trans-unit>
       <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="no">
         <source>Tap and drag to scroll left/right.</source>
@@ -3231,15 +3231,15 @@ mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하�
       </trans-unit>
       <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="no">
         <source>Fix</source>
-        <target state="needs-translation">고치기</target>
+        <target state="translated">고치기</target>
       </trans-unit>
       <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="no">
         <source>(credit the song's artist)</source>
-        <target state="needs-translation">(음악의 작곡가)</target>
+        <target state="translated">(노래의 작곡가를 적어주세요)</target>
       </trans-unit>
       <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="no">
         <source>(your name)</source>
-        <target state="needs-translation">(플레이어의 이름)</target>
+        <target state="translated">(당신의 이름)</target>
       </trans-unit>
       <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="no">
         <source>Export Checklist</source>
@@ -3299,7 +3299,7 @@ mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하�
       </trans-unit>
       <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="no">
         <source>Helpers</source>
-        <target state="needs-translation">도움</target>
+        <target state="translated">도움</target>
       </trans-unit>
       <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
         <source>Play Level</source>
@@ -3360,7 +3360,7 @@ for {1}?</source>
       <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
         <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
 This was the final and most difficult level added to the game in a post-jam update.</source>
-        <target state="needs-translation">본래 Rhythm Quest의 정신적 전신인 제 오래된 리듬 게임 "Ripple Runner Deluxe"에 등장했습니다.
+        <target state="translated">본래 Rhythm Quest의 정신적 전신인 저의 전작 리듬 게임 "Ripple Runner Deluxe"에 등장했습니다.
 이것은 post-jam 업데이트에서 최후이자 마지막으로 게임에 추가된 가장 어려운 레벨이었습니다.</target>
       </trans-unit>
       <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
@@ -3419,7 +3419,7 @@ This level focuses only on basic mechanics and is playable even if you haven't y
       </trans-unit>
       <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
         <source>You can change difficulties freely between levels.</source>
-        <target state="needs-translation">레벨 간 자유롭게 난이도를 바꿀 수 있습니다.</target>
+        <target state="translated">레벨 간 자유롭게 난이도를 바꿀 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
         <source>Select Difficulty</source>
@@ -3442,12 +3442,54 @@ This was the first track added to the game after the game jam ended, and uses a 
       <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
         <source>A chiptune track originally intended for inclusion in world 3.
 This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
-        <target state="needs-translation">원래는 월드 3에 포함될 예정이었던 칩튠 트랙입니다.
+        <target state="translated">원래는 월드 3에 포함될 예정이었던 칩튠 트랙입니다.
 이 레벨은 원래 그린 어택 + 점프 콤보 적을 도입했지만, 이 메커니즘은 대신 월드 5로 이전되었습니다.</target>
       </trans-unit>
       <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
         <source>Section Lock</source>
         <target state="translated">섹션 잠금</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="translated">Bottled Up (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="needs-translation">The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+        <source>Claustrophobia</source>
+        <target state="translated">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">{0} 또는 {1}을 눌러 공격하세요.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">{0} 또는 {1} 을 눌러 점프하세요.</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
+        <source>Difficulty: {0}</source>
+        <target state="translated">난이도: {0}</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
+        <source>Level {0}</source>
+        <target state="translated">레벨 {0}</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="no">
+        <source>by {0}</source>
+        <target state="translated">by {0}</target>
+      </trans-unit>
+      <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
+        <source>World {0}</source>
+        <target state="translated">월드 {0}</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="translated">바가텔 25번 가단조, 잘 알려진 이름으로는 "엘리제를 위하여 (Für Elise)" 는 베토벤의 유명한 악곡입니다.
+"엘리제"가 누구인지는 알려지지 않았지만, 그의 삶에서 가깝거나 중요한 인물일것으로 생각되곤 합니다.</target>
       </trans-unit>
     </body>
   </file>
