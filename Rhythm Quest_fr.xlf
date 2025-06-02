@@ -3272,9 +3272,9 @@ de la Sonate pour piano n°11</target>
           <source>Controls...</source>
           <target>Contrôles...</target>
         </trans-unit>
-        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon">
+        <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="yes">
           <source>Midnight Moon</source>
-          <target>Lune de Minuit</target>
+          <target state="final">Midnight Moon</target>
         </trans-unit>
       </group>
     </body>
@@ -3413,10 +3413,10 @@ The piece was originally written as a composition for a string quintet.</source>
         <target state="final">Le premier mouvement de la Sérénade n°13 pour cordes en sol majeur de Mozart, "Eine kleine Nachtmusik" ou "Une petite musique de nuit", est une de ses oeuvres les plus connues.
 Le morceau était originalement écrit pour un quintette d'instruments à cordes.</target>
       </trans-unit>
-      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="yes">
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
         <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
 Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
-        <target state="final">Une musique originale provenant de "Melody Muncher", un jeu de rythme à deux boutons que j'ai créé durant la game jam Ludum Dare de 2015.
+        <target state="translated">Musique originale de "Melody Muncher", un jeu de rythme à deux boutons que j'ai créé en 2015 pour la game jam Ludum Dare.
 Les musiques de Melody Muncher se prêtent naturellement à une réinterprétation dans Rhythm Quest dû aux méchaniques similaires.</target>
       </trans-unit>
       <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="yes">
@@ -3506,6 +3506,128 @@ Il devait s'agir de la première apparition des ennemis verts (attaque + saut) a
       <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
         <source>Section Lock</source>
         <target state="translated">Vérouillage Section</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">Une piste commisionnée pour "Hero Hours Contract", un jeu de stratégie au tour par tour développé par Steve O'Gorman.
+Il s'agit du thème de la "Fille aux Sciences Magiques", la plus jeune des trois protagonistes qui aime les expériences scientifiques.</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="translated">La piste de l'écran titre et du trailer de "Super Mega Zero", un platformeur dévelopé par Silkworm pour lequel j'ai été commissioné pour écrire la musique dans mon style "9-bit" classique.
+Cette chanson a été concue rapide et pleine d'énergie pour exciter les joueurs à propos du jeu.</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="translated">Musique originale de "Melody Muncher", un jeu de rythme à deux boutons que j'ai créé en 2015 pour la game jam Ludum Dare.
+C'est la piste la plus lente du jeu, conçue comme l'introduction de la mécanique des ennemis bleu qui se téléportent derrière le joueur après avoir été touchés.</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="translated">Une musique chiptune au ton optimiste que j'ai composé en 3 heures après avoir été inspiré par la musique d'"Aivi &amp; Surasshu".
+La mélodie d'intro contient une référence à "Lonely Rolling Star" car nous avons tous les deux créé des arangements de cette chanson.</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="translated">Originalement de "Ripple Runner Deluxe", un de mes anciens jeux de rythme et l'ancètre spirituel de Rhythm Quest.
+Il s'agissait de la chanson au tempo le plus lent de ce jeu, remarquable pour son utilisation de plateformes à piques enchaînées.</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="translated">Une piste utilisant des éléments de musique "synthwave", incluant des synthés analogiques chaleureux.
+J'ai utilisé des effets d'émulation de vinyles pour lui donner un style "vintage" au son.</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="translated">Musique originale de "Melody Muncher", un jeu de rythme à deux boutons que j'ai créé en 2015 pour la game jam Ludum Dare.
+Il s'agit de la version "expert mix", ajoutée pour augmenter la difficulté dans une update post-jam.</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="translated">Progresser normalement de section en section.
+Recommencer du début une fois la fin du niveau atteinte.</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="translated">Recommencer la section de niveau quand le point de passage suivant est atteint.</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="no">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="translated">Aller à un point de passage spécifique.</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+        <source>Resume practicing.</source>
+        <target state="translated">Reprendre l'entrainement.</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
+        <source>Diamonds</source>
+        <target state="translated">Losanges</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="no">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="translated">Activer, désactiver ou ajuster les losanges qui indiquent les contretemps.</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="no">
+        <source>Beat</source>
+        <target state="translated">Temps</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="yes">
+        <source>Offbeats</source>
+        <target state="final">Contretemps</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="translated">Temps Forts</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="no">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="translated">Afficher des losanges sur les obstacles des temps forts.</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="translated">(Par défaut) Afficher des losanges sur les obstacles des contretemps.</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="no">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="translated">Ne pas afficher de losanges sur les obstacles.</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="no">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="translated">(Par défaut) Afficher un losange seulement pour les ailes.</target>
+      </trans-unit>
+      <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description" approved="no">
+        <source>Show diamond rhythm indicators for all obstacle types.</source>
+        <target state="translated">Afficher un losange pour tous les types d'obstacles.</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="translated">Le troisième mouvement de la Sonate pour piano n°11 en La majeur par Wolfgang Amadeus Mozart est aussi connu sous le nom "Rondo alla Turca" et est une mélodie immédiatement reconnaissable.
+On dit que la composition immite le style des orchestres militaires de l'empire turc.</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">Le premier mouvement de la Sonate pour piano n°16 en do majeur de Wolfgang Amadeus Mozart a une mélodie vive et familière typique de ce compositeur.
+Il est aussi connu sous le nom "Sonata facile" ou "Sonata semplice".</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">"Le Vol du Bourdon" est un interlude orchestral écrit pour l'opépa "Le Conte du tsar Saltan", évoquant le vol chaotique d'un bourdon.
+L'utilisation constante de doubles croches lui donne une énergie frénétique.</target>
       </trans-unit>
     </body>
   </file>
