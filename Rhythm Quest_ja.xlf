@@ -172,9 +172,9 @@
           <source>Adjust the volume of the game music.</source>
           <target>BGMの音量を調整します。</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="no">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>ゲームやUIの効果音の音量を調整します。</target>
+          <target state="translated">効果音の音量を調整します。</target>
         </trans-unit>
         <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
           <source>Sfx Volume</source>
@@ -200,13 +200,13 @@
           <source>Screen Flashes</source>
           <target>画面の点滅</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="no">
           <source>Enables screen flash effects.</source>
-          <target>画面の点滅演出を無効にします。</target>
+          <target state="translated">画面の点滅演出を有効にします。</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="no">
           <source>Disables screen flash effects.</source>
-          <target>画面の点滅演出を有効にします。</target>
+          <target state="translated">画面の点滅演出を無効にします。</target>
         </trans-unit>
         <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
           <source>Sfx Prescheduling</source>
@@ -240,9 +240,9 @@
           <source>Unlock All Levels</source>
           <target>全レベル解禁</target>
         </trans-unit>
-        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="no">
           <source>Auto play is disabled.</source>
-          <target>オートプレイモードが無効になっています。</target>
+          <target state="translated">オートプレイモードを無効にします。</target>
         </trans-unit>
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
@@ -330,7 +330,7 @@
         </trans-unit>
         <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="no">
           <source>Cloudy Courseway</source>
-          <target state="translated">雲間の道</target>
+          <target state="translated">雲を越えて</target>
         </trans-unit>
         <trans-unit id="744201462046720" xml:space="preserve" resname="world_3">
           <source>Retro Ridge</source>
@@ -338,7 +338,7 @@
         </trans-unit>
         <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="no">
           <source>Magical Metropolis</source>
-          <target state="translated">魔法の都</target>
+          <target state="translated">幻想の都</target>
         </trans-unit>
         <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="no">
           <source>Crystal Caverns</source>
@@ -348,33 +348,33 @@
           <source>Space Sojourn</source>
           <target state="translated">星の旅路</target>
         </trans-unit>
-        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="no">
           <source>Sunrise Vista</source>
-          <target>日の出のかなた</target>
+          <target state="translated">朝焼けを眺めて</target>
         </trans-unit>
         <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
           <source>Raceway Plain</source>
           <target>草原を駆け抜けて</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="no">
           <source>River Crossing</source>
-          <target>河川を渡って</target>
+          <target state="translated">川を渡って</target>
         </trans-unit>
-        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="no">
           <source>Mystic Forest</source>
-          <target>神秘の森</target>
+          <target state="translated">神秘の森へ</target>
         </trans-unit>
-        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="no">
           <source>Skyward Summit</source>
-          <target>天空の頂</target>
+          <target state="translated">空へと続く嶺</target>
         </trans-unit>
-        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="no">
           <source>Winged Airways</source>
-          <target>空中散歩</target>
+          <target state="translated">鳥たちの通り道</target>
         </trans-unit>
         <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="no">
           <source>Twilight Flight</source>
-          <target state="translated">黄昏飛行</target>
+          <target state="translated">黄昏の空中散歩</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -464,17 +464,17 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Flipped</source>
           <target>反転</target>
         </trans-unit>
-        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="no">
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
-          <target>左クリックで&lt;Jump&gt;、右クリックで&lt;Attack&gt;。</target>
+          <target state="translated">左クリックで&lt;Jump&gt;、右クリックで&lt;Attack&gt;をします。</target>
         </trans-unit>
-        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
+        <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled" approved="no">
           <source>In-game mouse controls are disabled.</source>
-          <target>ゲーム内のマウス操作が無効化されています。</target>
+          <target state="translated">ゲーム内のマウス操作を無効にします。</target>
         </trans-unit>
-        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled">
+        <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled" approved="no">
           <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
-          <target>右クリックで&lt;Jump&gt;、左クリックで&lt;Attack&gt;。</target>
+          <target state="translated">右クリックで&lt;Jump&gt;、左クリックで&lt;Attack&gt;をします。</target>
         </trans-unit>
         <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata">
           <source>Reset Game Data</source>
@@ -710,21 +710,21 @@ Remaining:</source>
           <source>City in the Rain</source>
           <target>雨が降る街</target>
         </trans-unit>
-        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1" approved="no">
           <source>Enchanted Oasis</source>
-          <target>魔法のオアシス</target>
+          <target state="translated">魅惑のオアシス</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
           <target state="translated">ゲームプレイトレーラー</target>
         </trans-unit>
-        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
+        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="no">
           <source>Snowy Peak</source>
-          <target>白銀の嶺</target>
+          <target state="translated">白銀の頂にて</target>
         </trans-unit>
         <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5" approved="no">
           <source>Stratosphere</source>
-          <target state="translated">成層圏へ</target>
+          <target state="translated">成層圏の彼方</target>
         </trans-unit>
         <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
           <source>Wishlist on Steam</source>
@@ -738,13 +738,13 @@ Remaining:</source>
           <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
           <target>このコンテンツは製品版「Rhythm Quest」でのみ利用可能です。（近日公開）</target>
         </trans-unit>
-        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
+        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow" approved="no">
           <source>&lt; World {0}</source>
-          <target>&lt; World {0}</target>
+          <target state="translated">&lt; ワールド {0}</target>
         </trans-unit>
-        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow">
+        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow" approved="no">
           <source>World {0} &gt;</source>
-          <target>World {0} &gt;</target>
+          <target state="translated">ワールド {0} &gt;</target>
         </trans-unit>
         <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame" approved="no">
           <source>Adjusts audio latency calibration.
@@ -764,9 +764,9 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <source>Twilight Tunnel</source>
           <target>夕暮れトンネル</target>
         </trans-unit>
-        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4" approved="no">
           <source>Midnight Marathon</source>
-          <target>真夜中マラソン</target>
+          <target state="translated">真夜中の行進</target>
         </trans-unit>
         <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
           <source>Gearwheel Factory</source>
@@ -774,11 +774,11 @@ Lower if audio is too early. Raise if audio is too late.</source>
         </trans-unit>
         <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="no">
           <source>Outerworld Highway</source>
-          <target state="translated">異界のハイウェイ</target>
+          <target state="translated">異界の高速道</target>
         </trans-unit>
-        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
+        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2" approved="no">
           <source>Misty Meadow</source>
-          <target>霧の草地</target>
+          <target state="translated">霧に包まれた草地</target>
         </trans-unit>
         <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation" approved="no">
           <source>Copy Protection Violation detected!</source>
@@ -860,9 +860,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Join the Discord</source>
           <target>Discordに参加</target>
         </trans-unit>
-        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="no">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target>Rhythm Quest の完全版では、6つのWorldで30個のレベルや、アンロック可能なボーナスステージ、さらに多くの仕掛けが用意されています！</target>
+          <target state="translated">Rhythm Quest の完全版では、6つのワールドの30個のレベルやアンロック可能なボーナスステージ、そしてさらに多くのギミックで遊ぶことができます！</target>
         </trans-unit>
         <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
           <source>Next</source>
@@ -910,9 +910,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Screen Filter Settings...</source>
           <target>画面フィルター設定...</target>
         </trans-unit>
-        <trans-unit id="123233005876326400" xml:space="preserve" resname="settings_menu_screenfilter">
+        <trans-unit id="123233005876326400" xml:space="preserve" resname="settings_menu_screenfilter" approved="no">
           <source>Configure a backdrop filter to make foreground elements more visible.</source>
-          <target>前面の要素をより見やすくするための背景フィルターを設定します。</target>
+          <target state="translated">画面手前の要素をより見やすくするための背景フィルターを設定します。</target>
         </trans-unit>
         <trans-unit id="123233399918604288" xml:space="preserve" resname="settings_screenfilter">
           <source>Screen Filter</source>
@@ -994,25 +994,25 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Haptic vibration feedback settings.</source>
           <target state="translated">触覚振動フィードバックの設定。</target>
         </trans-unit>
-        <trans-unit id="126828106082988032" xml:space="preserve" resname="settings_menu_audiocues_description">
+        <trans-unit id="126828106082988032" xml:space="preserve" resname="settings_menu_audiocues_description" approved="no">
           <source>Adjust audio-based cues for the blind and visually impaired.</source>
-          <target>目の不自由な方向けの、音声合図の設定します。</target>
+          <target state="translated">目の不自由な方向けの音声ヒントの設定をします。</target>
         </trans-unit>
-        <trans-unit id="126828476838490112" xml:space="preserve" resname="menu_settings_audiocueconfig">
+        <trans-unit id="126828476838490112" xml:space="preserve" resname="menu_settings_audiocueconfig" approved="no">
           <source>Audio Cue Config...</source>
-          <target>音声による合図の設定...</target>
+          <target state="translated">音声ヒントの設定...</target>
         </trans-unit>
         <trans-unit id="126840626063650816" xml:space="preserve" resname="settings_audiocuepanning">
           <source>Panning</source>
           <target>パンニング</target>
         </trans-unit>
-        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description">
+        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description" approved="no">
           <source>-100%: Attack cues on left, Jump cues on right
 100%: Jump cues on left, attack cues on right
 0%: Centered cues</source>
-          <target>-100%: 左から攻撃の合図、右からジャンプの合図
-100%: 左からジャンプの合図、右から攻撃の合図
-0%: 中央から両方の合図</target>
+          <target state="translated">-100%: 左から攻撃のヒント音、右からジャンプのヒント音
+100%: 左からジャンプのヒント音、右から攻撃のヒント音
+0%: 中央から両方のヒント音</target>
         </trans-unit>
         <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump">
           <source>Jump</source>
@@ -1038,33 +1038,33 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Volume Balance</source>
           <target>音量バランス</target>
         </trans-unit>
-        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description">
+        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description" approved="no">
           <source>Adjust balance between game sound and cue track. (0% = cues disabled)</source>
-          <target>ゲーム音と合図のバランスを調整してください。（0% = 合図無効）</target>
+          <target state="translated">ゲーム音とヒント音のバランスを調整してください。（0% = ヒント音無効）</target>
         </trans-unit>
         <trans-unit id="128297471466844160" xml:space="preserve" resname="menu_settings_haptics">
           <source>Haptic Feedback...</source>
           <target>触覚フィードバック...</target>
         </trans-unit>
-        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description">
+        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description" approved="no">
           <source>Select a cue sound to play one beat before a jump.</source>
-          <target>ジャンプの1拍前に鳴らす合図の音を選択してください。</target>
+          <target state="translated">ジャンプの1拍前に鳴らすヒント音を選択してください。</target>
         </trans-unit>
-        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description">
+        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description" approved="no">
           <source>Select a cue sound to play one beat before an attack.</source>
-          <target>攻撃の1拍前に鳴らす合図の音を選択してください。</target>
+          <target state="translated">攻撃の1拍前に鳴らすヒント音を選択してください。</target>
         </trans-unit>
-        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description">
+        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description" approved="no">
           <source>Select a cue sound to play one beat before beginning a jump hold.</source>
-          <target>ジャンプを長押しする1拍前に鳴らす合図の音を選択してください。</target>
+          <target state="translated">ジャンプを長押しする1拍前に鳴らすヒント音を選択してください。</target>
         </trans-unit>
-        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description">
+        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description" approved="no">
           <source>Select a cue sound to play one beat before releasing a jump hold.</source>
-          <target>ジャンプの長押しをやめる1拍前に鳴らす合図の音を選択してください。</target>
+          <target state="translated">ジャンプの長押しをやめる1拍前に鳴らすヒント音を選択してください。</target>
         </trans-unit>
-        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
+        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description" approved="no">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
-          <target>ジャンプ + 攻撃の1拍前に鳴らす合図の音を選択してください。</target>
+          <target state="translated">ジャンプ + 攻撃の1拍前に鳴らすヒント音を選択してください。</target>
         </trans-unit>
         <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
           <source>Keep going...</source>
@@ -1126,17 +1126,17 @@ Would you like to enable screen reader mode?
           <source>Increment</source>
           <target>増やす</target>
         </trans-unit>
-        <trans-unit id="135534588144168960" xml:space="preserve" resname="settings_audiocues">
+        <trans-unit id="135534588144168960" xml:space="preserve" resname="settings_audiocues" approved="no">
           <source>Audio Cues</source>
-          <target>音声合図</target>
+          <target state="translated">音声ヒント</target>
         </trans-unit>
-        <trans-unit id="135535616151302144" xml:space="preserve" resname="settings_audiocues_description_disabled">
+        <trans-unit id="135535616151302144" xml:space="preserve" resname="settings_audiocues_description_disabled" approved="no">
           <source>Disables ahead-of-time audio cues.</source>
-          <target>音声合図を無効にします。</target>
+          <target state="translated">目の不自由な方向けの音声ヒントを無効にします。</target>
         </trans-unit>
-        <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled">
+        <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled" approved="no">
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
-          <target>目の不自由な方向けの、音声合図を有効にします。</target>
+          <target state="translated">目の不自由な方向けの、音声ヒントを有効にします。</target>
         </trans-unit>
         <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button">
           <source>right mouse button</source>
@@ -1244,7 +1244,7 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always" approved="no">
           <source>Always hide mouse cursor.</source>
-          <target state="translated">マウスカーソルを常に非表示します。</target>
+          <target state="translated">マウスカーソルを常に非表示にします。</target>
         </trans-unit>
         <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor">
           <source>Hide Cursor</source>
@@ -1406,13 +1406,13 @@ Would you like to enable screen reader mode?
           <source>Use Vietnamese translation by {0}.</source>
           <target>{0} によるベトナム語の翻訳を使用する。</target>
         </trans-unit>
-        <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
+        <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1" approved="no">
           <source>Gleaming Glassway</source>
-          <target>キラキラガラスロード</target>
+          <target state="translated">輝くガラスの道</target>
         </trans-unit>
         <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2" approved="no">
           <source>Sunken Street</source>
-          <target state="translated">沈んだ街道</target>
+          <target state="translated">沈みゆく街路</target>
         </trans-unit>
         <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3" approved="no">
           <source>Crossway Corridor</source>
@@ -1424,11 +1424,11 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="no">
           <source>Brilliant Boulevard</source>
-          <target state="translated">煌びやかな大通り</target>
+          <target state="translated">煌く大通り</target>
         </trans-unit>
         <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2" approved="no">
           <source>Speedy Starfield</source>
-          <target state="translated">加速する星空</target>
+          <target state="translated">加速する星空を駆けて</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -1508,25 +1508,25 @@ Please connect a supported gamepad device.</source>
           <source>Low</source>
           <target>低い</target>
         </trans-unit>
-        <trans-unit id="254021836123975680" xml:space="preserve" resname="settings_graphicsquality_description_low">
+        <trans-unit id="254021836123975680" xml:space="preserve" resname="settings_graphicsquality_description_low" approved="no">
           <source>Reduces some background effects to improve framerate.</source>
-          <target>フレームレートを向上させるために背景エフェクトを一部減らす。</target>
+          <target state="translated">フレームレートを向上させるために背景エフェクトの一部を減らします。</target>
         </trans-unit>
         <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal" approved="no">
           <source>Full graphics quality.</source>
-          <target state="translated">フルグラフィック品質。</target>
+          <target state="translated">フルグラフィック品質です。</target>
         </trans-unit>
         <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality">
           <source>Graphics Quality</source>
           <target>グラフィック品質</target>
         </trans-unit>
-        <trans-unit id="255267299099717632" xml:space="preserve" resname="settings_uivolume">
+        <trans-unit id="255267299099717632" xml:space="preserve" resname="settings_uivolume" approved="no">
           <source>UI Volume</source>
-          <target>UIボリューム</target>
+          <target state="translated">UI</target>
         </trans-unit>
-        <trans-unit id="255267540179922944" xml:space="preserve" resname="settings_uivolume_description">
+        <trans-unit id="255267540179922944" xml:space="preserve" resname="settings_uivolume_description" approved="no">
           <source>Adjust the volume of the user interface sounds.</source>
-          <target>ユーザーインターフェースの音量を調整します。</target>
+          <target state="translated">UIの音量を調整します。</target>
         </trans-unit>
         <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
           <source>Game Mods</source>
@@ -1564,17 +1564,17 @@ Please connect a supported gamepad device.</source>
           <source>Performance</source>
           <target>パフォーマンス</target>
         </trans-unit>
-        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency">
+        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
           <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target>複数のフレームをキューに入れないようにすることで、低遅延に最適化します。</target>
+          <target state="translated">複数のフレームをキューに入れないようにすることで、低遅延を目指します。</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
           <target>レンダリングフレームのキュー入りを許可することで、よりスムーズなパフォーマンスに最適化します。ゲームプレイ中にフレームレートが落ちた場合に使用します。</target>
         </trans-unit>
-        <trans-unit id="256385837487140864" xml:space="preserve" resname="settings_musicspeed_description">
+        <trans-unit id="256385837487140864" xml:space="preserve" resname="settings_musicspeed_description" approved="no">
           <source>Adjust the music speed to make the game easier or more difficult.</source>
-          <target>音楽の速度を調整することでゲームの難易度を調整できる。</target>
+          <target state="translated">音楽の速度を調整することでゲームの難易度を調整できます。</target>
         </trans-unit>
         <trans-unit id="256386100084125696" xml:space="preserve" resname="settings_checkpoints">
           <source>Checkpoints</source>
@@ -1584,13 +1584,13 @@ Please connect a supported gamepad device.</source>
           <source>Audio Volume...</source>
           <target>音量...</target>
         </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
+        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description" approved="no">
           <source>Modifiers that affect game timing and speed.</source>
-          <target>ゲームのタイミングと速度に影響を与える変更。</target>
+          <target state="translated">ゲームのタイミングと速度に影響を与える変更です。</target>
         </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
+        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description" approved="no">
           <source>Modifiers that affect visual display of the game.</source>
-          <target>ゲームのビジュアル表示に影響を与える変更。</target>
+          <target state="translated">ゲームのビジュアル表示に影響を与える変更です。</target>
         </trans-unit>
         <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
           <source>Timing Mods...</source>
@@ -1696,9 +1696,9 @@ Please connect a supported gamepad device.</source>
           <source>Input Timeline</source>
           <target>タイムラインの入力</target>
         </trans-unit>
-        <trans-unit id="273378692210405376" xml:space="preserve" resname="settings_inputtimeline_description">
+        <trans-unit id="273378692210405376" xml:space="preserve" resname="settings_inputtimeline_description" approved="no">
           <source>Adds a timeline display for expected inputs.</source>
-          <target>タイムラインに入力のタイミング表示を挿入する。</target>
+          <target state="translated">タイムラインに入力のタイミングを表示します。</target>
         </trans-unit>
         <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description" approved="no">
           <source>&lt;color=#ffff00&gt;Basic Enemies&lt;/color&gt;
@@ -1932,13 +1932,13 @@ Click on a checkpoint section to edit its scrolling speed.</source>
           <source>Use a metronome that beeps on each beat.</source>
           <target>ビートごとにピー音を鳴らすメトロノームを使用します。</target>
         </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
+        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description" approved="no">
           <source>Modifiers that affect music and audio playback.</source>
-          <target>音楽とオーディオ再生に影響を与える変更。</target>
+          <target state="translated">音楽とオーディオ再生に影響を与える変更です。</target>
         </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
+        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description" approved="no">
           <source>Modifiers that affect gameplay and unlocks.</source>
-          <target>ゲームプレイに影響を与えたりロックを解除したりする変更。</target>
+          <target state="translated">ゲームプレイに影響を与えたり、ロックを解除したりする変更です。</target>
         </trans-unit>
         <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
           <source>Gameplay Mods...</source>
@@ -2272,7 +2272,7 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
         </trans-unit>
         <trans-unit id="307808237982101504" xml:space="preserve" resname="menu_navigatebacktomenu" approved="no">
           <source>Back to Menu</source>
-          <target state="needs-translation">メニューに戻る</target>
+          <target state="translated">メニューに戻る</target>
         </trans-unit>
         <trans-unit id="307817093336444928" xml:space="preserve" resname="customlevel_loaderror">
           <source>Error loading level</source>
@@ -2495,7 +2495,7 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
         <source>Super Mega Zero (RQ Edit)</source>
-        <target state="needs-translation">Super Mega Zero</target>
+        <target state="translated">Super Mega Zero (RQ Edit)</target>
       </trans-unit>
       <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="no">
         <source>Colors</source>
@@ -2531,7 +2531,7 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
         <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-        <target state="translated">障害物の色を変更して、パターンを読みやすくします。</target>
+        <target state="translated">障害物の色を変更して、パターンを見やすくします。</target>
       </trans-unit>
       <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="no">
         <source>Beat Grid</source>
@@ -2637,7 +2637,7 @@ Other enemies colored based on enemy type.</source>
       </trans-unit>
       <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
         <source>Cosmic Conflux</source>
-        <target state="translated">星々の調和</target>
+        <target state="translated">宇宙の交差点で</target>
       </trans-unit>
       <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel" approved="no">
         <source>Export</source>
@@ -2753,7 +2753,7 @@ Other enemies colored based on enemy type.</source>
       </trans-unit>
       <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="no">
         <source>Quantum Orbit</source>
-        <target state="translated">量子軌道</target>
+        <target state="translated">量子の軌道に乗って</target>
       </trans-unit>
       <trans-unit id="367595060765437952" xml:space="preserve" resname="modio_levelstatus_published" approved="no">
         <source>This level has previously been published on mod.io.</source>
@@ -2785,7 +2785,7 @@ mod.io にレベルを公開するには、ログインまたはアカウント�
       </trans-unit>
       <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled" approved="no">
         <source>(Default) Already-collected coins do not show on respawn.</source>
-        <target state="translated">（デフォルト）リスポーン時に、取得済みのコインは表示されません。</target>
+        <target state="translated">（デフォルト）リスポーン時に、取得済みのコインを表示しません。</target>
       </trans-unit>
       <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="no">
         <source>Fade out</source>
@@ -3049,7 +3049,7 @@ Check the code and try again.</source>
       </trans-unit>
       <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled" approved="no">
         <source>Shows faint coin outlines on respawn for already-collected coins.</source>
-        <target state="translated">リスポーン時に、取得済みのコインは薄く表示されます。</target>
+        <target state="translated">リスポーン時に、取得済みのコインを薄く表示します。</target>
       </trans-unit>
       <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="no">
         <source>Fix</source>
@@ -3237,7 +3237,7 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
       </trans-unit>
       <trans-unit id="396782635304398848" xml:space="preserve" resname="settings_menu_additionalaudio_description" approved="no">
         <source>Edit additional audio settings.</source>
-        <target state="translated">その他のオーディオ設定を編集する。</target>
+        <target state="translated">その他のオーディオ設定です。</target>
       </trans-unit>
       <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings" approved="no">
         <source>Additional Settings...</source>
@@ -3312,6 +3312,322 @@ from Piano Sonata No. 11</source>
       <trans-unit id="435976866795139072" xml:space="preserve" resname="worldnumber" approved="no">
         <source>World {0}</source>
         <target state="translated">ワールド {0}</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">{0} か {1} を押してジャンプ。</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">{0} か {1} を押して攻撃。</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="translated">ベートーヴェンのバガテル第25番 イ短調は、「エリーゼのために」として知られ、彼の代表的な作品の1つです。
+タイトルの「エリーゼ」の正体は不明ですが、彼の親しい友人か人生で重要な人物であったと考えられています。</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="translated">モーツァルトのセレナード第13番 ト長調 第1楽章は「アイネ・クライネ・ナハトムジーク」や「小さな夜の音楽」として知られ、彼の代表的な作品の1つです。
+この楽曲は、当初は弦楽五重奏のために作られました。</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="translated">2015年に Ludam Dare ゲームジャムで制作した2ボタンで遊べるリズムゲーム「Melody Muncher」に収録された楽曲です。
+このゲームは Rhtyhm Quest に似たゲーム性を持っているため、自然に譜面を作ることができました。</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="translated">2015年に Ludam Dare ゲームジャムで制作した2ボタンで遊べるリズムゲーム「Melody Muncher」に収録された楽曲です。
+ゲームジャム後のアップデートで難易度を上げるために追加された "エキスパートミックス” バージョンになります。</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="translated">2015年に Ludam Dare ゲームジャムで制作した2ボタンで遊べるリズムゲーム「Melody Muncher」に収録された楽曲です。
+ゲーム内で最もテンポの遅い曲で、攻撃した後に反対側にワープする青い敵を紹介するために作られました。</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="translated">「Aivi &amp; Surasshu」の音楽に刺激を受けて、3時間ほどで一気に書き上げたテンポが良く明るいチップチューントラックです。
+「Lonely Rolling Star」のアレンジをお互いに手がけたこともあり、イントロのメロディにはその曲へのオマージュが込められています。</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="no">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="translated">拍頭や裏拍を示すひし形マーカーの切り替えや位置の調整を行います。</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="no">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="translated">（デフォルト）羽のついた敵にのみ、ひし形マーカーを表示します。</target>
+      </trans-unit>
+      <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="no">
+        <source>Difficulty increases slowly and never gets too hard.</source>
+        <target state="translated">少しずつステップアップ、ずっとやさしめ。</target>
+      </trans-unit>
+      <trans-unit id="437423780900155392" xml:space="preserve" resname="difficulty_change_description" approved="no">
+        <source>You can change difficulties freely between levels.</source>
+        <target state="translated">レベルごとに難易度を自由に変更できます。</target>
+      </trans-unit>
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
+        <source>The way Rhythm Quest was meant to be played.</source>
+        <target state="translated">これが Rhythm Quest 本来の難しさ。</target>
+      </trans-unit>
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
+        <source>Starts simple, but gets complex!</source>
+        <target state="translated">最初はやさしめ、だけど歯ごたえ十分！</target>
+      </trans-unit>
+      <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="no">
+        <source>For those who are experienced with rhythm games.</source>
+        <target state="translated">リズムゲームに自信がある方はこちら。</target>
+      </trans-unit>
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
+        <source>Difficulty ramps up more quickly and becomes quite intense!</source>
+        <target state="translated">どんどん難しくなるよ！</target>
+      </trans-unit>
+      <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="no">
+        <source>Difficulty:
+{0}</source>
+        <target state="translated">難易度：
+{0}</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
+        <source>Purchase Level</source>
+        <target state="translated">レベルを買う</target>
+      </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
+        <source>Play Level</source>
+        <target state="translated">レベルで遊ぶ</target>
+      </trans-unit>
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
+        <source>Purchase for
+{0}</source>
+        <target state="translated">{0}
+で購入</target>
+      </trans-unit>
+      <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
+        <source>(Owned: {0})</source>
+        <target state="translated">(所持： {0})</target>
+      </trans-unit>
+      <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
+        <source>Not enough coins!</source>
+        <target state="translated">コインが足りません！</target>
+      </trans-unit>
+      <trans-unit id="455549789977489408" xml:space="preserve" resname="songselect_purchase_confirmation" approved="no">
+        <source>Purchase
+{0}
+for {1}?</source>
+        <target state="translated">{0}
+を {1} で
+購入しますか？</target>
+      </trans-unit>
+      <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
+        <source>Back to Level Select</source>
+        <target state="translated">レベルセレクトに戻る</target>
+      </trans-unit>
+      <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
+        <source>Return to the main menu.</source>
+        <target state="translated">メインメニューに戻ります。</target>
+      </trans-unit>
+      <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
+        <source>Return to the level selection menu.</source>
+        <target state="translated">レベル選択メニューに戻ります。</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="translated">Bottled Up (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="translated">The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+        <source>Claustrophobia</source>
+        <target state="translated">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target state="translated">以前制作した、Rhythm Questの精神的原点となる「Ripple Runner Deluxe」に収録されていた楽曲です。
+この曲はゲームの後期アップデートで追加された、最後にして最も難しいレベルで使用されました。</target>
+      </trans-unit>
+      <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
+        <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
+Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
+        <target state="translated">2016年に Ludum Dare ゲームジャムで制作した「Nyamo's Adventure」に収録された楽曲です。
+Nyamo's Adventure は、変身する不思議な生き物を操作する2Dメトロイドヴァニアゲームです。</target>
+      </trans-unit>
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
+        <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
+It makes use of several samples I recorded myself using glass bottles.</source>
+        <target state="translated">2019年に音楽グループ「Made in Heights」に影響を受け、不思議な打楽器の音とリズムに焦点を当てて制作した曲のうちの1つです。
+この曲には、ガラス瓶を使って録音した様々な音を取り入れています。</target>
+      </trans-unit>
+      <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="no">
+        <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        <target state="translated">東アジアの楽器（太鼓や古箏など）を特徴としたアップテンポの曲です。
+このレベルは基本操作が中心で、後半のレベルをまだ遊んでいない方でも楽しむことができます。</target>
+      </trans-unit>
+      <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="no">
+        <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
+It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
+        <target state="translated">この曲は、1時間で作曲をする週次オンライン作曲コンテスト「One Hour Compo」の第569回で1位を獲得しました。
+中国の伝統的な撥弦楽器である古箏が特徴的な楽曲です。</target>
+      </trans-unit>
+      <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
+        <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        <target state="translated">2017年に Ludam Dare ゲームジャムで制作した「Samurai Shaver」に収録された楽曲です。
+ゲームジャム終了後に追加された最初の楽曲で、ゆっくりとしたテンポを採用しています。</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="translated">「liquid drum and bass」に影響を受けた楽曲です。BPMは170と非常に速くなっています。
+豊かなメロディーと広がるようなパッドに対して、高速なドラムパターンが対照的になっています。</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="translated">モーツァルトのピアノソナタ第11番 イ長調 第3楽章は「トルコ行進曲」として知られ、誰もが一度は聴いたことのある曲です。
+この作品は、オスマン帝国の軍楽隊の行進曲を模倣したものと言われています。</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">モーツァルトのピアノソナタ第16番 ハ長調 第1楽章は、快活で親しみやすいメロディが特徴の作品です。
+初心者向けの作品としても知られており、シンプルながらも彼らしさを感じることができます。</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="translated">チップチューンの楽曲で、当初はワールド3 への収録を予定していました。
+このレベルでは緑の攻撃とジャンプの敵が初登場することになっていましたが、後にそのギミックは World 5 に移動されました。</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">熊蜂の飛行は、オペラ「サルタン皇帝の物語」のために書かれた管弦楽の間奏曲で、熊蜂が複雑に飛ぶ様子を表現しています。
+絶え間なく続く16分音符が、慌ただしくエネルギッシュな印象を与える曲です。</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="translated">暖かみのあるアナログシンセなどの "シンセウェーブ" と呼ばれる要素を取り入れた楽曲です。
+音にちょっとしたヴィンテージ感を加えるため、レコード風のエフェクトを使っています。</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="translated">以前制作した、Rhythm Questの精神的原点となる「Ripple Runner Deluxe」に収録されていた楽曲です。
+ゲーム内で最もテンポの遅い曲で、次々に出現するトゲ付きの足場を使ったギミックが特徴的なレベルで使用されました。</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="translated">私が得意とする "9-bit" スタイルで制作を依頼され、Silkworm が開発したゲーム「Super Mega Zero」のタイトル曲およびトレーラーミュージックとして手掛けた楽曲です。
+プレイヤーの気分が高まるよう、エネルギッシュで疾走感あふれるサウンドに仕上げました。</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="no">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="translated">練習モードを終了し、直前のチェックポイントに戻ります。</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
+        <source>Section Lock</source>
+        <target state="translated">セクションのロック</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="translated">曲のセクションを通常通り進めます。
+レベル終了時に曲の最初から再開します。</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="translated">次のチェックポイントに到達した際に、現在のセクションの始めに戻ります。</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="no">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="translated">レベル内の特定のチェックポイントにワープします。</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+        <source>Resume practicing.</source>
+        <target state="translated">練習を再開する。</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">Steve O'Gorman が開発したターン制戦略ゲーム「Hero Hours Contract」のために制作を依頼された楽曲です。
+この曲は、主人公3人のうち、最年少で危なっかしい実験が大好きな "マジカルサイエンスガール" のテーマ曲です。</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
+        <source>Diamonds</source>
+        <target state="translated">ひし形マーカー</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="no">
+        <source>Beat</source>
+        <target state="translated">拍</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="no">
+        <source>Offbeats</source>
+        <target state="translated">裏拍</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="translated">拍頭</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="no">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="translated">拍頭に配置された障害物に、ひし形マーカーを表示します。</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="translated">（デフォルト）裏拍に配置された障害物に、ひし形マーカーを表示します。</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="no">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="translated">全ての障害物に対して、ひし形マーカーを表示しません。</target>
+      </trans-unit>
+      <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description" approved="no">
+        <source>Show diamond rhythm indicators for all obstacle types.</source>
+        <target state="translated">全ての障害物に対して、ひし形マーカーを表示します。</target>
+      </trans-unit>
+      <trans-unit id="437422163819802624" xml:space="preserve" resname="difficulty_hard" approved="no">
+        <source>Hard</source>
+        <target state="translated">むずかしい</target>
+      </trans-unit>
+      <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
+        <source>Easy</source>
+        <target state="translated">かんたん</target>
+      </trans-unit>
+      <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
+        <source>Difficulty: {0}</source>
+        <target state="translated">難易度： {0}</target>
+      </trans-unit>
+      <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
+        <source>Normal</source>
+        <target state="translated">ふつう</target>
+      </trans-unit>
+      <trans-unit id="437426718175440896" xml:space="preserve" resname="difficulty_select_title" approved="no">
+        <source>Select Difficulty</source>
+        <target state="translated">難易度設定</target>
+      </trans-unit>
+      <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="no">
+        <source>For those who want an easy-going experience.</source>
+        <target state="translated">気軽に楽しみたい人におすすめ。</target>
+      </trans-unit>
+      <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
+        <source>Level Browser</source>
+        <target state="translated">レベルブラウザ</target>
       </trans-unit>
     </body>
   </file>
