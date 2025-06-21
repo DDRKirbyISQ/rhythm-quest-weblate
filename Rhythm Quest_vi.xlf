@@ -498,10 +498,6 @@ Bạn có chắc rằng bạn muốn tiếp tục?</target>
           <source>Game data has successfully been erased.</source>
           <target>Dữ liệu trò chơi đã được xóa thành công.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
-          <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target>Rhythm Quest được chơi tốt nhất khi đồng bộ âm thanh được hiệu chỉnh chặt chẽ.</target>
-        </trans-unit>
         <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
           <target>Nếu bạn muốn hiệu chỉnh độ trễ sau, ban có thể làm vậy ở mục &lt;color=yellow&gt;Cài đặt&lt;/color&gt;.</target>
@@ -513,10 +509,6 @@ Bạn có chắc rằng bạn muốn tiếp tục?</target>
         <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
           <source>Continue</source>
           <target>Tiếp tục</target>
-        </trans-unit>
-        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
-          <source>Do you want to calibrate audio lag now?</source>
-          <target>Bạn có muốn hiệu chỉnh độ trễ âm thanh ngay bây giờ không?</target>
         </trans-unit>
         <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
           <source>How to Play</source>

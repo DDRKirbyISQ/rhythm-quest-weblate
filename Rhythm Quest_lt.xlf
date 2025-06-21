@@ -498,10 +498,6 @@ Ar tikrai norite tęsti?</target>
           <source>Game data has successfully been erased.</source>
           <target state="final">Žaidimo duomenys sėkmingai ištrinti.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt" approved="yes">
-          <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target state="final">„Rhythm Quest“ geriausia žaisti su gerai sukalibruota garso sinchronizacija.</target>
-        </trans-unit>
         <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled" approved="yes">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
           <target state="final">Jei vėlavimo kalibravimą norite atlikti vėliau, visada galite tai padaryti &lt;color=yellow&gt;Nustatymų&lt;/color&gt; meniu.</target>
@@ -513,10 +509,6 @@ Ar tikrai norite tęsti?</target>
         <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="yes">
           <source>Continue</source>
           <target state="final">Tęsti</target>
-        </trans-unit>
-        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2" approved="yes">
-          <source>Do you want to calibrate audio lag now?</source>
-          <target state="final">Ar norite kalibruoti garso atsilikimą dabar?</target>
         </trans-unit>
         <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>

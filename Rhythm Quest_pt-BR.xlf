@@ -498,10 +498,6 @@ Tem certeza de que deseja continuar?</target>
           <source>Game data has successfully been erased.</source>
           <target state="final">Os dados do jogo foram apagados com sucesso.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt" approved="yes">
-          <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target state="final">Rhythm Quest é melhor aproveitado uma sincronização de áudio bem calibrada.</target>
-        </trans-unit>
         <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled" approved="yes">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
           <target state="final">Se quiser fazer a calibração de atraso mais tarde, pode fazê-lo no menu de &lt;color=yellow&gt;Configurações&lt;/color&gt;.</target>
@@ -513,10 +509,6 @@ Tem certeza de que deseja continuar?</target>
         <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="yes">
           <source>Continue</source>
           <target state="final">Continuar</target>
-        </trans-unit>
-        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2" approved="yes">
-          <source>Do you want to calibrate audio lag now?</source>
-          <target state="final">Você quer calibrar o atraso do áudio agora?</target>
         </trans-unit>
         <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>
