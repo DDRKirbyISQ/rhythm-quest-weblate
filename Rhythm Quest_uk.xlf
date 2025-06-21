@@ -3621,6 +3621,42 @@ Restart from the beginning when reaching the end of the level.</source>
         <source>Show diamond rhythm indicators for all obstacle types.</source>
         <target state="needs-translation">Показувати діамантові індикатори для всіх типів перешкод.</target>
       </trans-unit>
+      <trans-unit id="506959562605899776" xml:space="preserve" resname="settings_autoplay_jukebox" approved="no">
+        <source>Jukebox</source>
+        <target state="needs-translation">Музична скринька</target>
+      </trans-unit>
+      <trans-unit id="506959737747451904" xml:space="preserve" resname="settings_autoplay_description_jukebox" approved="no">
+        <source>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</source>
+        <target state="needs-translation">Рівні відіграватимуться автоматично, але прогрес не буде збереженою</target>
+      </trans-unit>
+      <trans-unit id="511738384274468864" xml:space="preserve" resname="settings_tabletmode_description_enabled" approved="no">
+        <source>Touchscreen controls are enabled.
+Tap left half of screen to jump, tap right half to attack.</source>
+        <target state="needs-translation">Сенсорне керування увімкнено.
+Торкнись лівої половини екрана, щоб стрибнути, торкнись правої половини, щоб атакувати.</target>
+      </trans-unit>
+      <trans-unit id="505887861294018560" xml:space="preserve" resname="bugreport_title" approved="no">
+        <source>Report Bug/Feedback</source>
+        <target state="translated">Повідомити про помилки</target>
+      </trans-unit>
+      <trans-unit id="511679838321160192" xml:space="preserve" resname="button_skip" approved="no">
+        <source>Skip</source>
+        <target state="translated">Пропустити</target>
+      </trans-unit>
+      <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode" approved="no">
+        <source>Tablet Mode</source>
+        <target state="needs-translation">Режим планшета</target>
+      </trans-unit>
+      <trans-unit id="511738384932974592" xml:space="preserve" resname="settings_tabletmode_description_flipped" approved="no">
+        <source>Touchscreen controls are enabled.
+Tap right half of screen to jump, tap left half to attack.</source>
+        <target state="needs-translation">Сенсорне керування увімкнено.
+Торкнись правої половини екрана, щоб стрибнути, торкнись лівої половини, щоб атакувати.</target>
+      </trans-unit>
+      <trans-unit id="511738381502033920" xml:space="preserve" resname="settings_tabletmode_description_disabled" approved="no">
+        <source>Touchscreen controls are disabled.</source>
+        <target state="needs-translation">Сенсорне керування вимкнено.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
