@@ -676,7 +676,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="no">
           <source>Purchase for {0}?</source>
-          <target state="needs-translation">&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} 코인을 사용해 구매할까요?</target>
+          <target state="translated">{0} 코인을 사용해 구매할까요?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
           <source>Take It to the Limit</source>
