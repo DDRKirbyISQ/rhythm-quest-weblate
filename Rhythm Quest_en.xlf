@@ -498,10 +498,6 @@ Are you sure you want to proceed?</target>
           <source>Game data has successfully been erased.</source>
           <target>Game data has successfully been erased.</target>
         </trans-unit>
-        <trans-unit id="3945207941816320" xml:space="preserve" resname="calibration_prompt">
-          <source>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</source>
-          <target>Rhythm Quest is best enjoyed with tightly calibrated audio synchronization.</target>
-        </trans-unit>
         <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
           <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
           <target>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</target>
@@ -513,10 +509,6 @@ Are you sure you want to proceed?</target>
         <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue">
           <source>Continue</source>
           <target>Continue</target>
-        </trans-unit>
-        <trans-unit id="5037847531315200" xml:space="preserve" resname="calibration_prompt_2">
-          <source>Do you want to calibrate audio lag now?</source>
-          <target>Do you want to calibrate audio lag now?</target>
         </trans-unit>
         <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
           <source>How to Play</source>
@@ -683,8 +675,8 @@ Remaining:</target>
           <target>Selected</target>
         </trans-unit>
         <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase">
-          <source>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</source>
-          <target>Purchase for  &lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0} ?</target>
+          <source>Purchase for {0}?</source>
+          <target>Purchase for {0}?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
           <source>Take It to the Limit</source>
@@ -3623,6 +3615,42 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
         <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description">
           <source>Show diamond rhythm indicators for all obstacle types.</source>
           <target>Show diamond rhythm indicators for all obstacle types.</target>
+        </trans-unit>
+        <trans-unit id="505887861294018560" xml:space="preserve" resname="bugreport_title">
+          <source>Report Bug/Feedback</source>
+          <target>Report Bug/Feedback</target>
+        </trans-unit>
+        <trans-unit id="506959562605899776" xml:space="preserve" resname="settings_autoplay_jukebox">
+          <source>Jukebox</source>
+          <target>Jukebox</target>
+        </trans-unit>
+        <trans-unit id="506959737747451904" xml:space="preserve" resname="settings_autoplay_description_jukebox">
+          <source>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</source>
+          <target>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</target>
+        </trans-unit>
+        <trans-unit id="511679838321160192" xml:space="preserve" resname="button_skip">
+          <source>Skip</source>
+          <target>Skip</target>
+        </trans-unit>
+        <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode">
+          <source>Tablet Mode</source>
+          <target>Tablet Mode</target>
+        </trans-unit>
+        <trans-unit id="511738381502033920" xml:space="preserve" resname="settings_tabletmode_description_disabled">
+          <source>Touchscreen controls are disabled.</source>
+          <target>Touchscreen controls are disabled.</target>
+        </trans-unit>
+        <trans-unit id="511738384274468864" xml:space="preserve" resname="settings_tabletmode_description_enabled">
+          <source>Touchscreen controls are enabled.
+Tap left half of screen to jump, tap right half to attack.</source>
+          <target>Touchscreen controls are enabled.
+Tap left half of screen to jump, tap right half to attack.</target>
+        </trans-unit>
+        <trans-unit id="511738384932974592" xml:space="preserve" resname="settings_tabletmode_description_flipped">
+          <source>Touchscreen controls are enabled.
+Tap right half of screen to jump, tap left half to attack.</source>
+          <target>Touchscreen controls are enabled.
+Tap right half of screen to jump, tap left half to attack.</target>
         </trans-unit>
       </group>
     </body>
