@@ -1400,7 +1400,7 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1" approved="no">
           <source>Gleaming Glassway</source>
-          <target state="translated">輝くガラスの道</target>
+          <target state="translated">キラキラガラスロード</target>
         </trans-unit>
         <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2" approved="no">
           <source>Sunken Street</source>
