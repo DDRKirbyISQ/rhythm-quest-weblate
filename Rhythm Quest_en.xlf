@@ -3652,6 +3652,30 @@ Tap right half of screen to jump, tap left half to attack.</source>
           <target>Touchscreen controls are enabled.
 Tap right half of screen to jump, tap left half to attack.</target>
         </trans-unit>
+        <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay">
+          <source>Timing Display</source>
+          <target>Timing Display</target>
+        </trans-unit>
+        <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled">
+          <source>Timing display is disabled.</source>
+          <target>Timing display is disabled.</target>
+        </trans-unit>
+        <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static">
+          <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+          <target>Enables a fixed display that indicates how early or late you were on each successful action.</target>
+        </trans-unit>
+        <trans-unit id="514338806164140032" xml:space="preserve" resname="settings_timingdisplay_description_each">
+          <source>Shows a number above each obstacle indicating how early or late you were on each successful action.</source>
+          <target>Shows a number above each obstacle indicating how early or late you were on each successful action.</target>
+        </trans-unit>
+        <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static">
+          <source>Static</source>
+          <target>Static</target>
+        </trans-unit>
+        <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each">
+          <source>Each</source>
+          <target>Each</target>
+        </trans-unit>
       </group>
     </body>
   </file>
