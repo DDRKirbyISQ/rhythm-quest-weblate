@@ -8,249 +8,249 @@
     </header>
     <body>
       <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
-        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings" approved="yes">
           <source>Settings</source>
-          <target>Ajustes</target>
+          <target state="final">Ajustes</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="yes">
           <source>Start Game</source>
-          <target>Iniciar Juego</target>
+          <target state="final">Iniciar Juego</target>
         </trans-unit>
-        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="yes">
           <source>Extras</source>
-          <target>Extras</target>
+          <target state="final">Extras</target>
         </trans-unit>
-        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="yes">
           <source>Quit</source>
-          <target>Salir</target>
+          <target state="final">Salir</target>
         </trans-unit>
-        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back" approved="yes">
           <source>Back</source>
-          <target>Atrás</target>
+          <target state="final">Atrás</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="yes">
           <source>Lag Calibration...</source>
-          <target state="translated">Calibración de lag...</target>
+          <target state="final">Calibración de lag...</target>
         </trans-unit>
-        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics" approved="yes">
           <source>Graphics</source>
-          <target>Gráficos</target>
+          <target state="final">Gráficos</target>
         </trans-unit>
-        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio" approved="yes">
           <source>Audio</source>
-          <target>Audio</target>
+          <target state="final">Audio</target>
         </trans-unit>
-        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="yes">
           <source>Interface Settings</source>
-          <target>Configuración de interfaz</target>
+          <target state="final">Configuración de Interfaz</target>
         </trans-unit>
-        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
+        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls" approved="yes">
           <source>Controls</source>
-          <target>Controles</target>
+          <target state="final">Controles</target>
         </trans-unit>
-        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility">
+        <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="yes">
           <source>Accessibility</source>
-          <target>Accesibilidad</target>
+          <target state="final">Accesibilidad</target>
         </trans-unit>
-        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="no">
+        <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="yes">
           <source>Scaling Mode</source>
-          <target state="translated">Modo de escala</target>
+          <target state="final">Modo de Escala</target>
         </trans-unit>
-        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible">
+        <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="yes">
           <source>Flexible</source>
-          <target>Flexible</target>
+          <target state="final">Flexible</target>
         </trans-unit>
         <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="no">
           <source>Pixel Perfect</source>
-          <target state="translated">Píxel perfecto</target>
+          <target state="translated">Píxel Perfecto</target>
         </trans-unit>
-        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="no">
+        <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="yes">
           <source>Screen Mode</source>
-          <target state="translated">Modo de pantalla</target>
+          <target state="final">Modo de Pantalla</target>
         </trans-unit>
-        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed">
+        <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="yes">
           <source>Windowed</source>
-          <target>Ventana</target>
+          <target state="final">Ventana</target>
         </trans-unit>
-        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized">
+        <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="yes">
           <source>Maximized</source>
-          <target>Maximizado</target>
+          <target state="final">Maximizado</target>
         </trans-unit>
-        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen">
+        <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen" approved="yes">
           <source>Fullscreen</source>
-          <target>Pantalla Completa</target>
+          <target state="final">Pantalla Completa</target>
         </trans-unit>
-        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed">
+        <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed" approved="yes">
           <source>Game will be run in a window. Can be resized.</source>
-          <target>El juego se ejecutará en modo ventana. Puede cambiarse el tamaño.</target>
+          <target state="final">El juego se ejecutará en modo ventana. Puede cambiarse el tamaño.</target>
         </trans-unit>
-        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized">
+        <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="yes">
           <source>Game will run in a maximized window.</source>
-          <target>El juego se ejecutará en una ventana maximizada.</target>
+          <target state="final">El juego se ejecutará en una ventana maximizada.</target>
         </trans-unit>
-        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen">
+        <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="yes">
           <source>Game will run in exclusive fullscreen mode.</source>
-          <target>El juego se ejecutará en pantalla completa exclusiva.</target>
+          <target state="final">El juego se ejecutará en pantalla completa exclusiva.</target>
         </trans-unit>
-        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible">
+        <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="yes">
           <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
-          <target>La interfaz y cámara cambiarán de tamaño para caber en la pantalla. Puede resultar en pixeles no-cuadrados.</target>
+          <target state="final">La interfaz y cámara cambiarán de tamaño para caber en la pantalla. Puede resultar en pixeles no-cuadrados, especialmente en bajas resoluciones.</target>
         </trans-unit>
-        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect">
+        <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="yes">
           <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
-          <target>(Por defecto) La interfaz y cámara escalarán por cantidades enteras. Asegura que los pixeles sean perfectos, pero puede necesitar hacer zoom.</target>
+          <target state="final">(Por defecto) La interfaz y cámara escalarán por cantidades enteras. Asegura que los pixeles sean perfectos, pero puede necesitar hacer zoom.</target>
         </trans-unit>
-        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution">
+        <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="yes">
           <source>Resolution</source>
-          <target>Resolución</target>
+          <target state="final">Resolución</target>
         </trans-unit>
-        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description">
+        <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="yes">
           <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
-          <target>Ajusta la resolución de la ventana a valores predeterminados (Resolución de pantalla completa no puede cambiarse)</target>
+          <target state="final">Ajusta la resolución de la ventana a valores predeterminados (Resolución de pantalla completa no puede cambiarse)</target>
         </trans-unit>
-        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync">
+        <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="yes">
           <source>Vertical Sync</source>
-          <target>V-Sync</target>
+          <target state="final">V-Sync</target>
         </trans-unit>
-        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled">
+        <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled" approved="yes">
           <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
-          <target>Deshabilita refrescos de sincronización de imagen. Puede resultar en más rápida renderización. Pero pueden aparecer cortes en la pantalla.</target>
+          <target state="final">Deshabilita refrescos de sincronización de pantalla. Puede resultar en más rápida renderización. Pero pueden aparecer cortes en la pantalla.</target>
         </trans-unit>
-        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="no">
+        <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="yes">
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
-          <target state="translated">(Por defecto) Sincroniza la renderización con la tasa de refrescos de la pantalla. Previene cortes en la pantalla.</target>
+          <target state="final">(Por defecto) Sincroniza la renderización con la tasa de refrescos de la pantalla. Previene cortes en la pantalla.</target>
         </trans-unit>
-        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="yes">
           <source>Disabled</source>
-          <target>Desactivado</target>
+          <target state="final">Desactivado</target>
         </trans-unit>
-        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
           <source>Enabled</source>
-          <target>Activado</target>
+          <target state="final">Activado</target>
         </trans-unit>
-        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling">
+        <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="no">
           <source>Scaling Settings...</source>
-          <target>Opciones de escalado...</target>
+          <target state="translated">Opciones de Escalado...</target>
         </trans-unit>
-        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description">
+        <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="yes">
           <source>Return to the previous menu.</source>
-          <target>Regresar al menú anterior.</target>
+          <target state="final">Regresar al menú anterior.</target>
         </trans-unit>
-        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="yes">
           <source>Zoom Level</source>
-          <target>Nivel de zoom</target>
+          <target state="final">Nivel de Zoom</target>
         </trans-unit>
-        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default">
+        <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
           <source>Default</source>
-          <target>Por defecto</target>
+          <target state="final">Por defecto</target>
         </trans-unit>
-        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far">
+        <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="yes">
           <source>Far</source>
-          <target>Lejos</target>
+          <target state="final">Lejos</target>
         </trans-unit>
-        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="no">
+        <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="yes">
           <source>Near</source>
-          <target state="translated">Cerca</target>
+          <target state="final">Cerca</target>
         </trans-unit>
-        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default">
+        <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default" approved="yes">
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
-          <target>Usa el zoom por defecto. Es suficiente en muchos casos.</target>
+          <target state="final">Usa el zoom por defecto para el juego. Es suficiente en muchos casos.</target>
         </trans-unit>
-        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far" approved="yes">
           <source>Forces a zoomed-out gameplay view.</source>
-          <target>Fuerza una vista con un zoom lejano.</target>
+          <target state="final">Fuerza una vista de juego con un zoom lejano.</target>
         </trans-unit>
-        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near" approved="yes">
           <source>Forces a zoomed-in gameplay view.</source>
-          <target>Fuerza una vista con zoom cercano.</target>
+          <target state="final">Fuerza una vista de juego con zoom cercano.</target>
         </trans-unit>
-        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
+        <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="yes">
           <source>Music Volume</source>
-          <target>Volumen de música</target>
+          <target state="final">Volumen de Música</target>
         </trans-unit>
-        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description">
+        <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="yes">
           <source>Adjust the volume of the game music.</source>
-          <target>Ajusta el volumen de la música.</target>
+          <target state="final">Ajusta el volumen de la música del juego.</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="yes">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>Ajusta el volumen de los efectos de sonido en el juego.</target>
+          <target state="final">Ajusta el volumen de los efectos de sonido en el juego.</target>
         </trans-unit>
-        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="yes">
           <source>Sfx Volume</source>
-          <target>Volumen de los SFX</target>
+          <target state="final">Volumen de los SFX</target>
         </trans-unit>
-        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects">
+        <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="yes">
           <source>Effect Settings...</source>
-          <target>Ajuste de efectos...</target>
+          <target state="final">Ajuste de Efectos...</target>
         </trans-unit>
-        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake">
+        <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake" approved="yes">
           <source>Screen Shake</source>
-          <target>Temblor de pantalla</target>
+          <target state="final">Temblor de Pantalla</target>
         </trans-unit>
-        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled">
+        <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="yes">
           <source>Disables screen shake effects.</source>
-          <target>Desactiva los efectos de temblor.</target>
+          <target state="final">Desactiva los efectos de temblor de pantalla.</target>
         </trans-unit>
-        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled">
+        <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="yes">
           <source>Enables screen shake effects.</source>
-          <target>Activa los efectos de temblor.</target>
+          <target state="final">Activa los efectos de temblor de pantalla.</target>
         </trans-unit>
-        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="no">
+        <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="yes">
           <source>Screen Flashes</source>
-          <target state="translated">Parpadeo de luces en pantalla</target>
+          <target state="final">Destellos en Pantalla</target>
         </trans-unit>
-        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled">
+        <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="yes">
           <source>Enables screen flash effects.</source>
-          <target>Activar las parpadeos de pantalla.</target>
+          <target state="final">Activa los efectos de destello en la pantalla.</target>
         </trans-unit>
-        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled">
+        <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="yes">
           <source>Disables screen flash effects.</source>
-          <target>Desactiva los parpadeos de pantalla.</target>
+          <target state="final">Desactiva los efectos de destello en la pantalla.</target>
         </trans-unit>
-        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling">
+        <trans-unit id="363938668175360" xml:space="preserve" resname="settings_soundscheduling" approved="yes">
           <source>Sfx Prescheduling</source>
-          <target>Pre-programar SFX</target>
+          <target state="final">Pre-programar SFX</target>
         </trans-unit>
-        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled">
+        <trans-unit id="364049422966784" xml:space="preserve" resname="settings_soundscheduling_description_disabled" approved="yes">
           <source>Action sounds will always be played in response to input. Only recommended for low latencies. The extra sound delay can throw off your rhythm.</source>
-          <target>Los sonidos de acción siempre sonarán al tocar botones. Solo recomendado con bajas latencias. El retraso de sonido puede afectar tu ritmo.</target>
+          <target state="final">Los sonidos de acción siempre sonarán al tocar botones. Solo recomendado con bajas latencias. El retraso de sonido puede afectar tu ritmo.</target>
         </trans-unit>
-        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled">
+        <trans-unit id="364064849616896" xml:space="preserve" resname="settings_soundscheduling_description_enabled" approved="yes">
           <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
-          <target>(Por defecto) Los sonidos de acción serán pre-programados para estar en sincronización.</target>
+          <target state="final">(Por defecto) Los sonidos de acción serán pre-programados para estar en sincronización. Sonaran incluso si se falla.</target>
         </trans-unit>
-        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="yes">
           <source>Audio Offset</source>
-          <target>Calibración de audio</target>
+          <target state="final">Calibración de Audio</target>
         </trans-unit>
-        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
+        <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description" approved="yes">
           <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
-          <target>Ajusta el valor hasta que los "beeps" estén en sincronía con las luces.</target>
+          <target state="final">Ajusta el valor hasta que los beeps estén en perfecta sincronía con las luces.</target>
         </trans-unit>
-        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats">
+        <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats" approved="yes">
           <source>Cheats</source>
-          <target>Trucos/Trampas</target>
+          <target state="final">Trucos/Trampas</target>
         </trans-unit>
-        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay">
+        <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="yes">
           <source>Auto Play</source>
-          <target>Juego automático</target>
+          <target state="final">Juego Automático</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
+        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
           <source>Unlock All Levels</source>
-          <target>Desbloquear todos los niveles</target>
+          <target state="final">Desbloquear todos los niveles</target>
         </trans-unit>
-        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
+        <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="yes">
           <source>Auto play is disabled.</source>
-          <target>Juego automático está deshabilitado.</target>
+          <target state="final">Juego automático está deshabilitado.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target state="translated">Juego automático activado. Los niveles se jugarán automáticamente sin la entrada del jugador. (El progreso se seguirá guardado)</target>
+          <target state="final">Juego automático activado. Los niveles se jugarán automáticamente sin aporte del jugador. (El progreso se seguirá guardado)</target>
         </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
+        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
           <source>Levels must be unlocked normally.</source>
-          <target>Los niveles se deben desbloquear normalmente.</target>
+          <target state="final">Los niveles se deben desbloquear normalmente.</target>
         </trans-unit>
         <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
           <source>All levels are unlocked from the start. (Progress will still be saved)</source>
@@ -2871,9 +2871,9 @@ Necesitas una cuenta en orden para publicar niveles a mod.io.</target>
         <source>Updating mod.io mod profile...</source>
         <target state="translated">Actualizando perfil de mod de mod.io...</target>
       </trans-unit>
-      <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction" approved="yes">
+      <trans-unit id="367935904353660928" xml:space="preserve" resname="modio_publishlevel_calltoaction" approved="no">
         <source>Publish this level to mod.io to share it with other Rhythm Quest players!</source>
-        <target state="final">Publica este nivel a mod.io para compartirlo con otros jugadores de Rhythm Quest!</target>
+        <target state="translated">Publica este nivel en mod.io para compartirlo con otros jugadores de Rhythm Quest!</target>
       </trans-unit>
       <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled" approved="yes">
         <source>Shows faint coin outlines on respawn for already-collected coins.</source>
@@ -2899,11 +2899,11 @@ Login or register an account to publish levels to mod.io.</source>
 
 Inicie sesion o registre una cuenta para publicar niveles a mod.io.</target>
       </trans-unit>
-      <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="yes">
+      <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="no">
         <source>Invalid security code.
 Check the code and try again.</source>
-        <target state="final">Código de seguridad invalido.
-Mire el código e intente de nuevo.</target>
+        <target state="translated">Código de seguridad inválido.
+Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="367916063186006016" xml:space="preserve" resname="editor_header_publishingtomodio" approved="yes">
         <source>Publishing to mod.io</source>
@@ -2921,13 +2921,13 @@ Mire el código e intente de nuevo.</target>
         <source>Packaging level data...</source>
         <target state="final">Empacando informacion de nivel...</target>
       </trans-unit>
-      <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel" approved="yes">
+      <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel" approved="no">
         <source>Uploading level data...</source>
-        <target state="final">Subiendo informacion de nivel...</target>
+        <target state="translated">Subiendo información de nivel...</target>
       </trans-unit>
-      <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess" approved="yes">
+      <trans-unit id="367934606879272960" xml:space="preserve" resname="modio_publishflow_publishsuccess" approved="no">
         <source>Successfully published level!</source>
-        <target state="final">Nivel publicado con exito!</target>
+        <target state="translated">Nivel publicado con éxito!</target>
       </trans-unit>
       <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess" approved="yes">
         <source>Successfully updated level!</source>
@@ -3620,6 +3620,42 @@ por {1}?</target>
 It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
         <target state="translated">Esta pista fue compuesta en una hora y obtuvo el primer lugar en la ronda Nº569 de "One Hour Compo" una competición de composición en línea.
 Hace uso extenso de una librería de guzheng (instrumento de cuerda Chino).</target>
+      </trans-unit>
+      <trans-unit id="511738384274468864" xml:space="preserve" resname="settings_tabletmode_description_enabled" approved="yes">
+        <source>Touchscreen controls are enabled.
+Tap left half of screen to jump, tap right half to attack.</source>
+        <target state="final">Controles táctiles estan abilitados.
+Toca la mitad izquierda de la pantalla para saltar, toca la mitad derecha para atacar.</target>
+      </trans-unit>
+      <trans-unit id="505887861294018560" xml:space="preserve" resname="bugreport_title" approved="yes">
+        <source>Report Bug/Feedback</source>
+        <target state="final">Reportar Error/Comentarios</target>
+      </trans-unit>
+      <trans-unit id="506959562605899776" xml:space="preserve" resname="settings_autoplay_jukebox" approved="yes">
+        <source>Jukebox</source>
+        <target state="final">Tocadiscos</target>
+      </trans-unit>
+      <trans-unit id="506959737747451904" xml:space="preserve" resname="settings_autoplay_description_jukebox" approved="yes">
+        <source>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</source>
+        <target state="final">Modo tocadiscos. Los niveles se jugaran automaticamente sin aporte del jugador, pero el progreso no se guardara.</target>
+      </trans-unit>
+      <trans-unit id="511679838321160192" xml:space="preserve" resname="button_skip" approved="yes">
+        <source>Skip</source>
+        <target state="final">Saltear</target>
+      </trans-unit>
+      <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode" approved="yes">
+        <source>Tablet Mode</source>
+        <target state="final">Modo Tableta</target>
+      </trans-unit>
+      <trans-unit id="511738381502033920" xml:space="preserve" resname="settings_tabletmode_description_disabled" approved="yes">
+        <source>Touchscreen controls are disabled.</source>
+        <target state="final">Controles táctiles estan desabilitados.</target>
+      </trans-unit>
+      <trans-unit id="511738384932974592" xml:space="preserve" resname="settings_tabletmode_description_flipped" approved="yes">
+        <source>Touchscreen controls are enabled.
+Tap right half of screen to jump, tap left half to attack.</source>
+        <target state="final">Controles táctiles estan habilitados.
+Toca la mitad derecha de la pantalla para saltar, toca la mitad izquierda para atacar.</target>
       </trans-unit>
     </body>
   </file>
