@@ -2693,9 +2693,9 @@ Otros enemigos coloreados segun el tipo de enemigo.</target>
         <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
         <target state="translated">&lt;sprite name="fonticons_8"&gt; Esta cuenta no es el autor del nivel actual en mod.io.</target>
       </trans-unit>
-      <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin" approved="no">
+      <trans-unit id="367946098575978496" xml:space="preserve" resname="modio_shortloginstatus_loggedin" approved="yes">
         <source>&lt;sprite name="fonticons_10"&gt; Logged in as {0}</source>
-        <target state="translated">&lt;sprite name="fonticons_10"&gt; Sesion iniciada como {0}</target>
+        <target state="final">&lt;sprite name="fonticons_10"&gt; Sesión iniciada como {0}</target>
       </trans-unit>
       <trans-unit id="330166344166977536" xml:space="preserve" resname="editor_label_tileset" approved="no">
         <source>Tile Set</source>
@@ -2897,7 +2897,7 @@ Necesitas una cuenta en orden para publicar niveles a mod.io.</target>
 Login or register an account to publish levels to mod.io.</source>
         <target state="final">mod.io es un servicio gratis usado para publicar y compartir niveles de Rhythm Quest.
 
-Inicie sesion o registre una cuenta para publicar niveles a mod.io.</target>
+Inicie sesión o registre una cuenta para publicar niveles en mod.io.</target>
       </trans-unit>
       <trans-unit id="367910489241202688" xml:space="preserve" resname="modio_error_invalidsecuritycode" approved="no">
         <source>Invalid security code.
@@ -2919,7 +2919,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="yes">
         <source>Packaging level data...</source>
-        <target state="final">Empacando informacion de nivel...</target>
+        <target state="final">Empaquetando información de nivel...</target>
       </trans-unit>
       <trans-unit id="367934555822010368" xml:space="preserve" resname="modio_publishflow_uploadinglevel" approved="no">
         <source>Uploading level data...</source>
@@ -2931,7 +2931,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="367934723346706432" xml:space="preserve" resname="modio_publishflow_updatesuccess" approved="yes">
         <source>Successfully updated level!</source>
-        <target state="final">Nivel actualizado con exito!</target>
+        <target state="final">Nivel actualizado con éxito!</target>
       </trans-unit>
       <trans-unit id="367942105791508480" xml:space="preserve" resname="modio_publishflow_savemodioid" approved="yes">
         <source>Saving new level ID into .rqe file...</source>
@@ -2939,7 +2939,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="367946093228240896" xml:space="preserve" resname="modio_shortloginstatus_loggedout" approved="yes">
         <source>&lt;sprite name="fonticons_8"&gt; Not logged in</source>
-        <target state="final">&lt;sprite name="fonticons_8"&gt; Sesion no iniciada</target>
+        <target state="final">&lt;sprite name="fonticons_8"&gt; Sesión no iniciada</target>
       </trans-unit>
       <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled" approved="yes">
         <source>(Default) Already-collected coins do not show on respawn.</source>
@@ -2951,7 +2951,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="369267538113900544" xml:space="preserve" resname="modio_loginsteam_description" approved="yes">
         <source>Register/login to mod.io using the following active Steam account?</source>
-        <target state="final">¿Registrar/Iniciar sesion a mod.io usando esta misma cuenta de Steam?</target>
+        <target state="final">¿Registrar/Iniciar sesión a mod.io usando esta misma cuenta de Steam?</target>
       </trans-unit>
       <trans-unit id="369267769563983872" xml:space="preserve" resname="button_confirm" approved="yes">
         <source>Confirm</source>
@@ -2959,7 +2959,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="369276008951230464" xml:space="preserve" resname="modio_error_steamauthentication" approved="yes">
         <source>Error passing Steam authentication to mod.io.</source>
-        <target state="final">Error al pasar autenticacion de Steam a mod.io.</target>
+        <target state="final">Error al pasar autenticación de Steam a mod.io.</target>
       </trans-unit>
       <trans-unit id="369293631176880128" xml:space="preserve" resname="modio_button_terms_agree" approved="yes">
         <source>I Agree</source>
@@ -2967,7 +2967,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="369299559947218944" xml:space="preserve" resname="editor_button_viewmodio" approved="yes">
         <source>Visit mod.io page</source>
-        <target state="final">Visitar pagina de mod.io</target>
+        <target state="final">Visitar página de mod.io</target>
       </trans-unit>
       <trans-unit id="374839594457018368" xml:space="preserve" resname="editor_description_previewfade" approved="yes">
         <source>Fade out</source>
@@ -2975,7 +2975,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="375031178989449216" xml:space="preserve" resname="editor_button_musicexportsettings" approved="yes">
         <source>Music Export Settings</source>
-        <target state="final">Ajustes de exportation de musica</target>
+        <target state="final">Ajustes de exportación de música</target>
       </trans-unit>
       <trans-unit id="375031386703966208" xml:space="preserve" resname="editor_button_fix_publishcheckactionitem" approved="yes">
         <source>Fix</source>
@@ -2987,19 +2987,19 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription" approved="yes">
         <source>Level is missing a Description</source>
-        <target state="final">Falta una descripcion para el nivel</target>
+        <target state="final">Falta una descripción para el nivel</target>
       </trans-unit>
       <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic" approved="yes">
         <source>Level has no music audio</source>
-        <target state="final">El nivel no tiene audio de musica</target>
+        <target state="final">El nivel no tiene audio de música</target>
       </trans-unit>
       <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement" approved="yes">
         <source>Music export options need to be set</source>
-        <target state="final">Opciones para exportar musica deben ser agregadas</target>
+        <target state="final">Es necesario establecer opciones de exportación de música</target>
       </trans-unit>
       <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded" approved="yes">
         <source>Music audio will not be included in export</source>
-        <target state="final">Audio de musica no sera incluido en la exportacion</target>
+        <target state="final">El audio de la música no será incluido en la exportación</target>
       </trans-unit>
       <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder" approved="yes">
         <source>(name of the music track)</source>
@@ -3039,7 +3039,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode" approved="yes">
         <source>Practice Mode</source>
-        <target state="final">Modo Practica</target>
+        <target state="final">Modo Práctica</target>
       </trans-unit>
       <trans-unit id="380820395367641088" xml:space="preserve" resname="menu_assist_temporarycheats" approved="yes">
         <source>Temporary Cheats...</source>
@@ -3047,7 +3047,7 @@ Comprueba el código e intente de nuevo.</target>
       </trans-unit>
       <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="yes">
         <source>Repeatedly practice the current section with various assists.</source>
-        <target state="final">Repetidamente practica la seccion actual con varias asistencias.</target>
+        <target state="final">Practica repetidamente la sección actual con varias asistencias.</target>
       </trans-unit>
       <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="no">
         <source>Allows you to scroll left and right to see the rest of the track.</source>
