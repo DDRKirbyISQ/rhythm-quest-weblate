@@ -1578,23 +1578,23 @@ Please connect a supported gamepad device.</source>
         </trans-unit>
         <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description" approved="no">
           <source>Modifiers that affect game timing and speed.</source>
-          <target state="translated">ゲームのタイミングと速度に影響を与える変更です。</target>
+          <target state="translated">ゲームの入力判定と速度に影響を与える変更です。</target>
         </trans-unit>
         <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description" approved="no">
           <source>Modifiers that affect visual display of the game.</source>
           <target state="translated">ゲームのビジュアル表示に影響を与える変更です。</target>
         </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
+        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods" approved="no">
           <source>Timing Mods...</source>
-          <target>タイミングMod...</target>
+          <target state="translated">入力判定Mod...</target>
         </trans-unit>
         <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
           <source>Visual Mods...</source>
           <target>ビジュアルMod...</target>
         </trans-unit>
-        <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
+        <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows" approved="no">
           <source>Timing Windows</source>
-          <target>タイミングウィンドウ</target>
+          <target state="translated">入力判定</target>
         </trans-unit>
         <trans-unit id="256643554298605568" xml:space="preserve" resname="settings_timingwindows_extrawide">
           <source>Extra Wide</source>
@@ -1604,17 +1604,17 @@ Please connect a supported gamepad device.</source>
           <source>Strict</source>
           <target>狭い</target>
         </trans-unit>
-        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide">
+        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide" approved="no">
           <source>Use extra wide timing windows to make gameplay very forgiving.</source>
-          <target>タイミングウィンドウを広くしてゲームの難易度を下げます。</target>
+          <target state="translated">入力の判定を広くしてゲームの難易度を下げます。</target>
         </trans-unit>
-        <trans-unit id="256645728936177664" xml:space="preserve" resname="settings_timingwindows_description_normal">
+        <trans-unit id="256645728936177664" xml:space="preserve" resname="settings_timingwindows_description_normal" approved="no">
           <source>Use normal timing windows for game obstacles.</source>
-          <target>通常のタイミング判定を使用します。</target>
+          <target state="translated">通常の入力判定を使用します。</target>
         </trans-unit>
-        <trans-unit id="256645729905061888" xml:space="preserve" resname="settings_timingwindows_description_strict">
+        <trans-unit id="256645729905061888" xml:space="preserve" resname="settings_timingwindows_description_strict" approved="no">
           <source>Use smaller timing windows to increase game difficulty.</source>
-          <target>タイミングウィンドウを狭くしてゲームの難易度を上げます。</target>
+          <target state="translated">入力の判定を狭くしてゲームの難易度を上げます。</target>
         </trans-unit>
         <trans-unit id="256672503980404736" xml:space="preserve" resname="settings_ghosthelpers">
           <source>Ghost Helpers</source>
@@ -2511,11 +2511,11 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows" approved="no">
         <source>Scaling Windows</source>
-        <target state="translated">タイミングウィンドウのスケール</target>
+        <target state="translated">入力判定のスケール</target>
       </trans-unit>
       <trans-unit id="351867862041538560" xml:space="preserve" resname="settings_scalingtimingwindows_description_enabled" approved="no">
         <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
-        <target state="translated">音楽の速度設定に合わせてタイミングウィンドウの視覚的な幅を調整し、長さを一定に保ちます。高速または低速では、予期せぬ結果が生じる場合があります！</target>
+        <target state="translated">音楽の速度設定に合わせて入力判定の視覚的な幅を調整し、長さを一定に保ちます。高速または低速では予期せぬ結果が生じる場合があります！</target>
       </trans-unit>
       <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls" approved="no">
         <source>Crimson Halls</source>
@@ -2707,7 +2707,7 @@ Do you still want to continue?</source>
       </trans-unit>
       <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled" approved="no">
         <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
-        <target state="translated">（デフォルト）タイミングウィンドウは視覚的な間隔と一致します。音楽の速度が速いほど、ウィンドウは短くなります。</target>
+        <target state="translated">（デフォルト）入力の判定は視覚的な間隔と一致します。音楽の速度が速いほど、判定の受付時間は短くなります。</target>
       </trans-unit>
       <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies" approved="no">
         <source>Enemies</source>
@@ -3656,6 +3656,30 @@ Tap left half of screen to jump, tap right half to attack.</source>
 Tap right half of screen to jump, tap left half to attack.</source>
         <target state="translated">タッチスクリーン操作が有効です。
 画面の右半分をタップでジャンプ、左半分をタップで攻撃します。</target>
+      </trans-unit>
+      <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="no">
+        <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+        <target state="translated">成功した判定に対して、タイミングのズレを文字（Early Late など）で表示します。</target>
+      </trans-unit>
+      <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="no">
+        <source>Static</source>
+        <target state="translated">固定表示</target>
+      </trans-unit>
+      <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="no">
+        <source>Each</source>
+        <target state="translated">個別表示</target>
+      </trans-unit>
+      <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="no">
+        <source>Timing Display</source>
+        <target state="translated">判定の表示</target>
+      </trans-unit>
+      <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled" approved="no">
+        <source>Timing display is disabled.</source>
+        <target state="translated">判定の表示は無効です。</target>
+      </trans-unit>
+      <trans-unit id="514338806164140032" xml:space="preserve" resname="settings_timingdisplay_description_each" approved="no">
+        <source>Shows a number above each obstacle indicating how early or late you were on each successful action.</source>
+        <target state="translated">成功した判定に対して、タイミングのズレを数値で表示します。</target>
       </trans-unit>
     </body>
   </file>
