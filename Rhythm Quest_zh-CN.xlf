@@ -3226,9 +3226,9 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <source>(Default) Plays a chime whenever a coin is collected.</source>
           <target>(默认) 每当收集到金币时播放音效。</target>
         </trans-unit>
-        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch">
+        <trans-unit id="397552342500421632" xml:space="preserve" resname="menu_settings_haptics_switch" approved="no">
           <source>Rumble...</source>
-          <target>反转...</target>
+          <target state="translated">震动...</target>
         </trans-unit>
         <trans-unit id="397553280208384000" xml:space="preserve" resname="menu_settings_gamepadcontrols_switch">
           <source>Configure Controls...</source>
@@ -3680,6 +3680,46 @@ Tap left half of screen to jump, tap right half to attack.</source>
       <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="no">
         <source>Each</source>
         <target state="translated">每个</target>
+      </trans-unit>
+      <trans-unit id="516854789449756672" xml:space="preserve" resname="menu_settings_rumble_switch" approved="no">
+        <source>Rumble</source>
+        <target state="translated">震动</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="no">
+        <source>Vibration</source>
+        <target state="translated">震动</target>
+      </trans-unit>
+      <trans-unit id="516855053724463104" xml:space="preserve" resname="menu_settings_data" approved="no">
+        <source>Data</source>
+        <target state="translated">数据</target>
+      </trans-unit>
+      <trans-unit id="516855193168293888" xml:space="preserve" resname="menu_settings_visuals" approved="no">
+        <source>Visuals</source>
+        <target state="translated">视觉</target>
+      </trans-unit>
+      <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="no">
+        <source>Timing</source>
+        <target state="translated">时机</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
+        <source>Calibration</source>
+        <target state="translated">校准</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="no">
+        <source>Gameplay</source>
+        <target state="translated">游戏</target>
+      </trans-unit>
+      <trans-unit id="517151724282884096" xml:space="preserve" resname="menu_settings_keyboard" approved="no">
+        <source>Keyboard</source>
+        <target state="translated">键盘</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="no">
+        <source>Gamepad</source>
+        <target state="translated">手柄</target>
+      </trans-unit>
+      <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="no">
+        <source>Mouse</source>
+        <target state="translated">鼠标</target>
       </trans-unit>
     </body>
   </file>
