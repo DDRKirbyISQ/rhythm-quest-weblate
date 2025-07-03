@@ -3457,6 +3457,44 @@ This level originally introduced the green attack + jump combo enemies, before t
         <target state="final">Uma faixa de chiptune originalmente planejada para ser incluída no mundo 3.
 Este nível introduziu originalmente o combo de ataque verde + pulo dos inimigos, antes que essa mecânica fosse transferida para o mundo 5.</target>
       </trans-unit>
+      <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="yes">
+        <source>Mouse</source>
+        <target state="final">Mouse</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="yes">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="final">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="yes">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="final">Uma faixa comissionada para "Hero Hours Contract", um jogo de tática por turnos desenvolvido por Steve O'Gorman.
+Este é o tema para "Magical Science Girl", a mais jovem das três protagonistas, que gosta de experimentos científicos voláteis.</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="yes">
+        <source>Diamonds</source>
+        <target state="final">Diamantes</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="yes">
+        <source>Offbeats</source>
+        <target state="final">Contratempos</target>
+      </trans-unit>
+      <trans-unit id="505887861294018560" xml:space="preserve" resname="bugreport_title" approved="yes">
+        <source>Report Bug/Feedback</source>
+        <target state="final">Relatar Bug/Feedback</target>
+      </trans-unit>
+      <trans-unit id="506959737747451904" xml:space="preserve" resname="settings_autoplay_description_jukebox" approved="no">
+        <source>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</source>
+        <target state="translated">Modo Jukebox. Os níveis serão jogados automaticamente, sem a interação do jogador, e nenhum progresso será salvo.</target>
+      </trans-unit>
+      <trans-unit id="511679838321160192" xml:space="preserve" resname="button_skip" approved="no">
+        <source>Skip</source>
+        <target state="translated">Pular</target>
+      </trans-unit>
+      <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode" approved="yes">
+        <source>Tablet Mode</source>
+        <target state="final">Modo Tablet</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
