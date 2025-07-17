@@ -547,10 +547,10 @@ Are you sure you want to proceed?</target>
           <target>Calibration complete!</target>
         </trans-unit>
         <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</target>
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
