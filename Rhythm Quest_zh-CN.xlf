@@ -3311,7 +3311,7 @@ from Piano Sonata No. 11</source>
       </trans-unit>
       <trans-unit id="437422192554979328" xml:space="preserve" resname="difficulty_description_easy_1" approved="no">
         <source>For those who want an easy-going experience.</source>
-        <target state="translated">给那些追求轻松愉快体验的玩家。</target>
+        <target state="translated">适合追求轻松愉快体验的玩家。</target>
       </trans-unit>
       <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="yes">
         <source>Easy</source>
@@ -3335,15 +3335,15 @@ from Piano Sonata No. 11</source>
       </trans-unit>
       <trans-unit id="437422193133793280" xml:space="preserve" resname="difficulty_description_easy_2" approved="no">
         <source>Difficulty increases slowly and never gets too hard.</source>
-        <target state="translated">难度缓慢上升而且永远不会太难。</target>
+        <target state="translated">难度缓慢上升并且永远不会太难。</target>
       </trans-unit>
       <trans-unit id="437523978510970880" xml:space="preserve" resname="difficulty_description_hard_1" approved="no">
         <source>For those who are experienced with rhythm games.</source>
-        <target state="translated">给那些有节奏游戏经验的玩家。</target>
+        <target state="translated">适合有节奏游戏经验的玩家。</target>
       </trans-unit>
       <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
         <source>Starts simple, but gets complex!</source>
-        <target state="translated">开始时简单，之后变得复杂！</target>
+        <target state="translated">开始时简单，随后逐渐复杂！</target>
       </trans-unit>
       <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
         <source>Level Browser</source>
@@ -3351,7 +3351,7 @@ from Piano Sonata No. 11</source>
       </trans-unit>
       <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
         <source>Difficulty ramps up more quickly and becomes quite intense!</source>
-        <target state="translated">难度上升得更快而且变得很激烈！</target>
+        <target state="translated">难度更快上升并且相当难！</target>
       </trans-unit>
       <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
         <source>The way Rhythm Quest was meant to be played.</source>
@@ -3529,7 +3529,7 @@ This is the "expert mix" of the song, added to increase the difficulty in a post
         <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
 This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
         <target state="translated">最初出现在我更早的节奏游戏 “Ripple Runner Deluxe” 上，它是 Rhythm Quest 的精神前作。
-这是那个游戏中节奏最慢的歌曲，关卡特点是对锁链尖刺平台的巧妙运用。</target>
+这是那个游戏中节奏最慢的歌曲，值得注意的是其关卡使用了连锁尖刺平台。</target>
       </trans-unit>
       <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
         <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
@@ -3545,7 +3545,7 @@ This song was designed to be energetic and fast-paced to get players excited abo
         <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
 This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
         <target state="translated">受托为“Hero Hours Contract”创作的一首曲子，这是由 Steve O'Gorman 开发的一款回合制战术游戏。
-这首曲子是其中“Magical Science Girl”的主题曲，她是三位主角中最年轻的一位，喜欢剧烈的科学实验。</target>
+这首曲子是其中 “Magical Science Girl” 的主题曲，她是三位主角中最年轻的一位，喜欢剧烈的科学实验。</target>
       </trans-unit>
       <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
         <source>Downbeats</source>
@@ -3651,7 +3651,7 @@ Tap left half of screen to jump, tap right half to attack.</source>
       </trans-unit>
       <trans-unit id="506959737747451904" xml:space="preserve" resname="settings_autoplay_description_jukebox" approved="no">
         <source>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</source>
-        <target state="translated">点唱机模式。关卡会自动进行，无需玩家操作，但是不会保存进度。</target>
+        <target state="translated">点唱机模式。关卡将自动进行，无需玩家操作，但是不会保存进度。</target>
       </trans-unit>
       <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode" approved="no">
         <source>Tablet Mode</source>
@@ -3659,19 +3659,19 @@ Tap left half of screen to jump, tap right half to attack.</source>
       </trans-unit>
       <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="no">
         <source>Timing Display</source>
-        <target state="translated">时机显示</target>
+        <target state="translated">判定显示</target>
       </trans-unit>
       <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled" approved="no">
         <source>Timing display is disabled.</source>
-        <target state="translated">时机显示已禁用。</target>
+        <target state="translated">判定显示已禁用。</target>
       </trans-unit>
       <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="no">
         <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
-        <target state="translated">启用固定显示区，显示每次成功操作时早了或晚了多长时间。</target>
+        <target state="translated">启用固定显示区，显示每次成功动作早了或晚了多长时间。</target>
       </trans-unit>
       <trans-unit id="514338806164140032" xml:space="preserve" resname="settings_timingdisplay_description_each" approved="no">
         <source>Shows a number above each obstacle indicating how early or late you were on each successful action.</source>
-        <target state="translated">在每个障碍物上方显示一个数字，表示每次成功操作时早了或晚了多长时间。</target>
+        <target state="translated">在每个障碍物上方显示一个数字，表示每次成功动作早了或晚了多长时间。</target>
       </trans-unit>
       <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="no">
         <source>Static</source>
@@ -3699,7 +3699,7 @@ Tap left half of screen to jump, tap right half to attack.</source>
       </trans-unit>
       <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="no">
         <source>Timing</source>
-        <target state="translated">时机</target>
+        <target state="translated">判定</target>
       </trans-unit>
       <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
         <source>Calibration</source>
