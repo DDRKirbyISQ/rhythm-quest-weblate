@@ -546,10 +546,10 @@ Bist du sicher, dass du fortfahren willst?</target>
           <source>Calibration complete!</source>
           <target state="final">Kalibrierung abgeschlossen!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="yes">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target state="final">Die blinkenden Quadrate sollten nun mit den Signaltönen übereinstimmen.
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target state="needs-translation">Die blinkenden Quadrate sollten nun mit den Signaltönen übereinstimmen.
 Andernfalls musst du die Einstellung manuell vornehmen, bis sie synchronisiert ist.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
