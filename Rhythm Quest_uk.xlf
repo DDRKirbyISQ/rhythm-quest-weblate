@@ -546,10 +546,10 @@ Are you sure you want to proceed?</source>
           <source>Calibration complete!</source>
           <target>Калібрація виконана!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target>Миготіння повинне відповідати звуковим сигналам.
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target state="needs-translation">Миготіння повинне відповідати звуковим сигналам.
 В іншому випадку налаштуйте вручну, доки не буде синхронізації.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
