@@ -546,10 +546,10 @@ Vuoi davvero procedere?</target>
           <source>Calibration complete!</source>
           <target>Calibrazione completata!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target>I quadrati lampeggianti dovrebbero corrispondere ai bip. 
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target state="needs-translation">I quadrati lampeggianti dovrebbero corrispondere ai bip. 
 Se non è così, regolali manualmente fino alla sincronizzazione.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
