@@ -546,10 +546,10 @@ Are you sure you want to proceed?</source>
           <source>Calibration complete!</source>
           <target>보정 완료!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target>이제 깜박이는 사각형이 삐 소리와 일치해야 합니다.
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target state="needs-translation">이제 깜박이는 사각형이 삐 소리와 일치해야 합니다.
 그렇지 않다면 싱크가 맞을 때까지 수동으로 조정하세요.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
