@@ -546,10 +546,10 @@ Are you sure you want to proceed?</source>
           <source>Calibration complete!</source>
           <target>¡Calibración completa!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target>Ahora las luces parpadeantes deberían estar en sincronía con los "beeps".
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target state="needs-translation">Ahora las luces parpadeantes deberían estar en sincronía con los "beeps".
 Si no lo están, ajústalo manualmente hasta que estén sincronizados.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
