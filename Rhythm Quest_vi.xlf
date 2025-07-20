@@ -546,10 +546,10 @@ Bạn có chắc rằng bạn muốn tiếp tục?</target>
           <source>Calibration complete!</source>
           <target>Hiệu chỉnh hoàn thành!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target>Các ô vuông nên nháy cùng với tiếng bíp.
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target state="needs-translation">Các ô vuông nên nháy cùng với tiếng bíp.
 Nếu không, tự điều chỉnh đến khi phù hợp.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
