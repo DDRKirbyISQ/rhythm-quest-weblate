@@ -3538,6 +3538,186 @@ This song was designed to be energetic and fast-paced to get players excited abo
         <target state="translated">Der Titelsong und die Trailermusik für „Super Mega Zero“, ein von Silkworm entwickelter Platformer, für den ich die Musik in meinem klassischen „9-Bit“-Stil schreiben sollte.
 Dieser Song sollte energiegeladen und temporeich sein, um die Spieler für das Spiel zu begeistern.</target>
       </trans-unit>
+      <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled" approved="no">
+        <source>Timing display is disabled.</source>
+        <target state="translated">Zeitfenster-Anzeige ist deaktiviert.</target>
+      </trans-unit>
+      <trans-unit id="514338806164140032" xml:space="preserve" resname="settings_timingdisplay_description_each" approved="no">
+        <source>Shows a number above each obstacle indicating how early or late you were on each successful action.</source>
+        <target state="translated">Zeigt eine Zahl über jedem Hindernis an, die angibt, wie früh oder spät du bei jeder erfolgreichen Aktion warst.</target>
+      </trans-unit>
+      <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="no">
+        <source>Static</source>
+        <target state="translated">Statisch</target>
+      </trans-unit>
+      <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="no">
+        <source>Each</source>
+        <target state="translated">Jeweils</target>
+      </trans-unit>
+      <trans-unit id="516854789449756672" xml:space="preserve" resname="menu_settings_rumble_switch" approved="no">
+        <source>Rumble</source>
+        <target state="translated">Rumble</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="no">
+        <source>Vibration</source>
+        <target state="translated">Vibration</target>
+      </trans-unit>
+      <trans-unit id="516855053724463104" xml:space="preserve" resname="menu_settings_data" approved="no">
+        <source>Data</source>
+        <target state="translated">Daten</target>
+      </trans-unit>
+      <trans-unit id="516855193168293888" xml:space="preserve" resname="menu_settings_visuals" approved="no">
+        <source>Visuals</source>
+        <target state="translated">Visuelles</target>
+      </trans-unit>
+      <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="no">
+        <source>Timing</source>
+        <target state="translated">Timing</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
+        <source>Calibration</source>
+        <target state="translated">Kalibrierung</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="no">
+        <source>Gameplay</source>
+        <target state="translated">Spielweise</target>
+      </trans-unit>
+      <trans-unit id="517151724282884096" xml:space="preserve" resname="menu_settings_keyboard" approved="no">
+        <source>Keyboard</source>
+        <target state="translated">Tastatur</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="no">
+        <source>Gamepad</source>
+        <target state="translated">Gamepad</target>
+      </trans-unit>
+      <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="no">
+        <source>Mouse</source>
+        <target state="translated">Maus</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="translated">Startet den aktuellen Abschnitt automatisch neu, wenn der nächste Checkpoint erreicht wird.</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">Ein Titel, der für „Hero Hours Contract“ in Auftrag gegeben wurde, ein rundenbasiertes Taktikspiel, das von Steve O'Gorman entwickelt wurde.
+Dies ist das Thema für „Magical Science Girl“, die jüngste der drei Protagonistinnen, die unberechenbare wissenschaftliche Experimente liebt.</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="no">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="translated">(Standard) Zeigt die Diamant-Rhythmus-Anzeigen nur für Flügel an.</target>
+      </trans-unit>
+      <trans-unit id="511738384274468864" xml:space="preserve" resname="settings_tabletmode_description_enabled" approved="no">
+        <source>Touchscreen controls are enabled.
+Tap left half of screen to jump, tap right half to attack.</source>
+        <target state="translated">Touchscreen-Steuerung is aktiviert.
+Tippe auf die linke Hälfte des Bildschirms, um zu springen, und auf die rechte Hälfte, um anzugreifen.</target>
+      </trans-unit>
+      <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="no">
+        <source>Timing Display</source>
+        <target state="translated">Zeitfenster-Anzeige</target>
+      </trans-unit>
+      <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="no">
+        <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+        <target state="translated">Aktiviert eine feste Anzeige, die angibt, wie früh oder spät du bei jeder erfolgreichen Aktion warst.</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="no">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="translated">Beende den Übungsmodus und kehre zu dem Checkpoint zurück, den du zuvor gespielt hast.</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="translated">Fahre normal durch die Songabschnitte.
+Starte wieder von vorne, wenn du das Ende des Levels erreichst.</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="no">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="translated">Springt zu einem bestimmten Checkpoint des Levels.</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+        <source>Resume practicing.</source>
+        <target state="translated">Üben fortsetzen.</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
+        <source>Diamonds</source>
+        <target state="translated">Diamanten</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="no">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="translated">Schalte die Diamanten ein oder aus, die Downbeats/Offbeats anzeigen, oder passe sie an.</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="no">
+        <source>Beat</source>
+        <target state="translated">Takt</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="translated">Downbeats</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="no">
+        <source>Offbeats</source>
+        <target state="translated">Offbeats</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="no">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="translated">Zeigt Diamanten auf Hindernissen an, die sich auf Downbeats befinden.</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="translated">(Standard) Zeigt Diamanten auf Hindernissen an, die sich auf Offbeats befinden.</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="no">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="translated">Zeigt keine Diamant-Rhythmus-Anzeigen für jegliche Hindernisse an.</target>
+      </trans-unit>
+      <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description" approved="no">
+        <source>Show diamond rhythm indicators for all obstacle types.</source>
+        <target state="translated">Diamant-Rhythmus-Anzeigen für alle Hindernistypen anzeigen.</target>
+      </trans-unit>
+      <trans-unit id="505887861294018560" xml:space="preserve" resname="bugreport_title" approved="no">
+        <source>Report Bug/Feedback</source>
+        <target state="translated">Fehler/Feedback melden</target>
+      </trans-unit>
+      <trans-unit id="506959562605899776" xml:space="preserve" resname="settings_autoplay_jukebox" approved="no">
+        <source>Jukebox</source>
+        <target state="translated">Jukebox</target>
+      </trans-unit>
+      <trans-unit id="506959737747451904" xml:space="preserve" resname="settings_autoplay_description_jukebox" approved="no">
+        <source>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</source>
+        <target state="translated">Jukebox-Modus. Die Level werden automatisch und ohne Eingaben des Spielers gespielt, aber der Fortschritt wird nicht gespeichert.</target>
+      </trans-unit>
+      <trans-unit id="511679838321160192" xml:space="preserve" resname="button_skip" approved="no">
+        <source>Skip</source>
+        <target state="translated">Überspringen</target>
+      </trans-unit>
+      <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode" approved="no">
+        <source>Tablet Mode</source>
+        <target state="translated">Tablet-Modus</target>
+      </trans-unit>
+      <trans-unit id="511738381502033920" xml:space="preserve" resname="settings_tabletmode_description_disabled" approved="no">
+        <source>Touchscreen controls are disabled.</source>
+        <target state="translated">Touchscreen-Steuerung is deaktiviert.</target>
+      </trans-unit>
+      <trans-unit id="511738384932974592" xml:space="preserve" resname="settings_tabletmode_description_flipped" approved="no">
+        <source>Touchscreen controls are enabled.
+Tap right half of screen to jump, tap left half to attack.</source>
+        <target state="translated">Touchscreen-Steuerung is aktiviert.
+Tippe auf die rechte Hälfte des Bildschirms, um zu springen, und auf die linke Hälfte, um anzugreifen.</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">Drücke {0} oder {1} um anzugreifen.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">Drücke {0} oder {1} um zu springen.</target>
+      </trans-unit>
     </body>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="de" datatype="plaintext">
