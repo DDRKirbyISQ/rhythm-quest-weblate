@@ -546,10 +546,10 @@ Ar tikrai norite tęsti?</target>
           <source>Calibration complete!</source>
           <target state="final">Kalibravimas baigtas!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="yes">
-          <source>The flashing squares should now match the beeps.
-Otherwise, adjust manually until synced.</source>
-          <target state="final">Mirksintys kvadratai turėtų sutapti su pypsėjimais.
+        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
+          <source>The flashing squares should match the beat.
+Otherwise, you can adjust manually until synced.</source>
+          <target state="needs-translation">Mirksintys kvadratai turėtų sutapti su pypsėjimais.
 Jei ne, keiskite rankiniu būdu, kol sutaps.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
