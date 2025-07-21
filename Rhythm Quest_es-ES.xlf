@@ -560,13 +560,13 @@ Si no lo están, ajústalo manualmente hasta que estén sincronizados.</target>
           <source>Audio Lag Calibration</source>
           <target>Calibración de lag de audio</target>
         </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
+        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard" approved="no">
           <source>Press any key or click in time with the beeps</source>
-          <target>Presiona cualquier tecla o haz click a la vez que los beeps</target>
+          <target state="translated">Presiona cualquier tecla o haz click a la vez que los "beeps"</target>
         </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
+        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse" approved="no">
           <source>Press any key or click in time with the beeps</source>
-          <target>Presiona cualquier tecla o haz click a la vez que los beeps</target>
+          <target state="translated">Presiona cualquier tecla o haz click a la vez que los "beeps"</target>
         </trans-unit>
         <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="no">
           <source>Tap in time with the beeps</source>
@@ -584,9 +584,9 @@ Si no lo están, ajústalo manualmente hasta que estén sincronizados.</target>
           <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
           <target>Presiona &lt;sprite name="controller_icons_60"&gt; a la vez que los "beeps"</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
+        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="no">
           <source>Yes (Recommended)</source>
-          <target>Si (Recomendado)</target>
+          <target state="translated">Sí (Recomendado)</target>
         </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
@@ -3656,6 +3656,70 @@ Toca la mitad izquierda de la pantalla para saltar, toca la mitad derecha para a
 Tap right half of screen to jump, tap left half to attack.</source>
         <target state="final">Controles táctiles estan habilitados.
 Toca la mitad derecha de la pantalla para saltar, toca la mitad izquierda para atacar.</target>
+      </trans-unit>
+      <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="no">
+        <source>Timing Display</source>
+        <target state="translated">Visualizador de temporización</target>
+      </trans-unit>
+      <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled" approved="no">
+        <source>Timing display is disabled.</source>
+        <target state="translated">Visualizador de temporización desactivado.</target>
+      </trans-unit>
+      <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="no">
+        <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+        <target state="translated">Activa un visualizador fijo que indica que tan temprano o tarde estuviste en cada acción satisfactoria.</target>
+      </trans-unit>
+      <trans-unit id="514338806164140032" xml:space="preserve" resname="settings_timingdisplay_description_each" approved="no">
+        <source>Shows a number above each obstacle indicating how early or late you were on each successful action.</source>
+        <target state="translated">Muestra un número sobre cada obstáculo que indica que tan temprano o tarde estuviste en cada acción satisfactoria.</target>
+      </trans-unit>
+      <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="no">
+        <source>Static</source>
+        <target state="translated">Estático</target>
+      </trans-unit>
+      <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="no">
+        <source>Each</source>
+        <target state="translated">Cada uno</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="no">
+        <source>Gameplay</source>
+        <target state="translated">Jugabilidad</target>
+      </trans-unit>
+      <trans-unit id="517151724282884096" xml:space="preserve" resname="menu_settings_keyboard" approved="no">
+        <source>Keyboard</source>
+        <target state="translated">Teclado</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="no">
+        <source>Gamepad</source>
+        <target state="translated">Mando</target>
+      </trans-unit>
+      <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="no">
+        <source>Mouse</source>
+        <target state="translated">Ratón</target>
+      </trans-unit>
+      <trans-unit id="516854789449756672" xml:space="preserve" resname="menu_settings_rumble_switch" approved="no">
+        <source>Rumble</source>
+        <target state="translated">Retumbar</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="no">
+        <source>Vibration</source>
+        <target state="translated">Vibración</target>
+      </trans-unit>
+      <trans-unit id="516855053724463104" xml:space="preserve" resname="menu_settings_data" approved="no">
+        <source>Data</source>
+        <target state="translated">Datos</target>
+      </trans-unit>
+      <trans-unit id="516855193168293888" xml:space="preserve" resname="menu_settings_visuals" approved="no">
+        <source>Visuals</source>
+        <target state="translated">Visuales</target>
+      </trans-unit>
+      <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="no">
+        <source>Timing</source>
+        <target state="translated">Temporización</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
+        <source>Calibration</source>
+        <target state="translated">Calibración</target>
       </trans-unit>
     </body>
   </file>
