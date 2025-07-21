@@ -549,8 +549,8 @@ Are you sure you want to proceed?</source>
         <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
           <source>The flashing squares should match the beat.
 Otherwise, you can adjust manually until synced.</source>
-          <target state="needs-translation">Ahora las luces parpadeantes deberían estar en sincronía con los "beeps".
-Si no lo están, ajústalo manualmente hasta que estén sincronizados.</target>
+          <target state="translated">Las luces parpadeantes deberían estar en sincronía con el ritmo.
+Si no lo están, puedes ajustar manualmente hasta que estén sincronizadas.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
