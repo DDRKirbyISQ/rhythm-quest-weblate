@@ -2530,9 +2530,9 @@ Haz click en una sección de punto de control para editar su efecto de partícul
           <source>A Single Leaf Flutters in the Wind</source>
           <target>Una Única Hoja Aletea en el Viento</target>
         </trans-unit>
-        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="no">
           <source>Standing Here Alone (Expert Mix)</source>
-          <target>Aquí Solo De pie (Mix de Experto)</target>
+          <target state="translated">Aquí Solo De pie (Versión Experto)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
@@ -3215,7 +3215,7 @@ I. Allegro</target>
       </trans-unit>
       <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="no">
         <source>Song of the Sea (Expert Mix)</source>
-        <target state="translated">Canción del Mar (Mezcla Experta)</target>
+        <target state="translated">Canción del Mar (Versión Experto)</target>
       </trans-unit>
       <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="no">
         <source>Quantum Orbit</source>
@@ -3267,7 +3267,7 @@ Would you like to enable game assist features?</source>
       </trans-unit>
       <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
         <source>Press {0} or {1} to Jump.</source>
-        <target state="translated">Presiona {0} p {1} para Saltar.</target>
+        <target state="translated">Presiona {0} o {1} para Saltar.</target>
       </trans-unit>
       <trans-unit id="437422135504056320" xml:space="preserve" resname="difficulty_easy" approved="no">
         <source>Easy</source>
@@ -3399,7 +3399,7 @@ Presiona &lt;sprite name="controller_icons_37"&gt; para volver.</target>
       </trans-unit>
       <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="no">
         <source>Flower Fang (Expert Mix)</source>
-        <target state="translated">Colmillo de flores (Mezcla Experta)</target>
+        <target state="translated">Colmillo de flores (Versión Experto)</target>
       </trans-unit>
       <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
         <source>Starts simple, but gets complex!</source>
