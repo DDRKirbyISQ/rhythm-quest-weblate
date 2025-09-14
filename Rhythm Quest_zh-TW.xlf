@@ -3401,7 +3401,7 @@ This level focuses only on basic mechanics and is playable even if you haven't y
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
         <source>Purchase for</source>
-        <target state="needs-translation">購買需要
+        <target state="translated">購買需要
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
