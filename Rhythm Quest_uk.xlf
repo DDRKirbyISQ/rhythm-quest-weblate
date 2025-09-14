@@ -3496,9 +3496,8 @@ This song was designed to be energetic and fast-paced to get players excited abo
 Ця пісня була розроблена, щоб бути енергійною та стрімкою, щоб захопити гравців грою.</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for
-{0}</source>
-        <target state="translated">Розблокувати за
+        <source>Purchase for</source>
+        <target state="needs-translation">Розблокувати за
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
