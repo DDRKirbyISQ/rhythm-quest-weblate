@@ -3359,10 +3359,9 @@ Esse foi o nível final e o mais difícil adicionado ao jogo em uma atualizaçã
         <source>Flight of the Bumblebee</source>
         <target state="translated">Flight of the Bumblebee</target>
       </trans-unit>
-      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="yes">
-        <source>Purchase for
-{0}</source>
-        <target state="final">Comprar por
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
+        <source>Purchase for</source>
+        <target state="needs-translation">Comprar por
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="yes">
