@@ -3844,6 +3844,10 @@ It tries to feature different mechanics and high-energy music.</source>
           <target>A level that was made for the initial gameplay trailer for the game in 2022.
 It tries to feature different mechanics and high-energy music.</target>
         </trans-unit>
+        <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short">
+          <source>Perfect</source>
+          <target>Perfect</target>
+        </trans-unit>
       </group>
     </body>
   </file>
