@@ -3472,9 +3472,8 @@ It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</so
 它大量使用了一个古筝音源库。</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for
-{0}</source>
-        <target state="translated">购买需要
+        <source>Purchase for</source>
+        <target state="needs-translation">购买需要
 {0}</target>
       </trans-unit>
       <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
