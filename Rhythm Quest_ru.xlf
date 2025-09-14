@@ -3364,9 +3364,8 @@ from Piano Sonata No. 11</source>
 {0}</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for
-{0}</source>
-        <target state="translated">Купить за
+        <source>Purchase for</source>
+        <target state="needs-translation">Купить за
 {0}</target>
       </trans-unit>
       <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
