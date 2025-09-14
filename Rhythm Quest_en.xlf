@@ -3850,6 +3850,14 @@ It tries to feature different mechanics and high-energy music.</target>
           <source>Perfect</source>
           <target>Perfect</target>
         </trans-unit>
+        <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack">
+          <source>Jump Hold+Attack</source>
+          <target>Jump Hold+Attack</target>
+        </trans-unit>
+        <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description">
+          <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
+          <target>Select a cue sound to play one beat before a combined jump hold + attack.</target>
+        </trans-unit>
       </group>
     </body>
   </file>
