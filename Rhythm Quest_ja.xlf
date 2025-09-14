@@ -3396,9 +3396,8 @@ The intro melody has a reference to "Lonely Rolling Star" since we've both creat
         <target state="translated">レベルで遊ぶ</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for
-{0}</source>
-        <target state="translated">{0}
+        <source>Purchase for</source>
+        <target state="needs-translation">{0}
 で購入</target>
       </trans-unit>
       <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
