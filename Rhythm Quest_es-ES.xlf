@@ -3584,9 +3584,8 @@ Presiona &lt;sprite name="controller_icons_97"&gt; para ver los ajustes</target>
 {0}</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for
-{0}</source>
-        <target state="translated">Comprar por
+        <source>Purchase for</source>
+        <target state="needs-translation">Comprar por
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
