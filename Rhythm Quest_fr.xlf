@@ -3418,8 +3418,9 @@ Les musiques de Melody Muncher se prêtent naturellement à une réinterprétati
 {0}</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="translated">Acheter pour
+        <source>Purchase for
+{0}</source>
+        <target state="needs-translation">Acheter pour
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="yes">
