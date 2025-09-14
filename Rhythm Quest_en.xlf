@@ -3367,10 +3367,8 @@ from Piano Sonata No. 11</target>
 {0}</target>
         </trans-unit>
         <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice">
-          <source>Purchase for
-{0}</source>
-          <target>Purchase for
-{0}</target>
+          <source>Purchase for</source>
+          <target>Purchase for</target>
         </trans-unit>
         <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button">
           <source>Purchase Level</source>
@@ -3715,6 +3713,136 @@ Tap right half of screen to jump, tap left half to attack.</target>
         <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse">
           <source>Mouse</source>
           <target>Mouse</target>
+        </trans-unit>
+        <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping">
+          <source>Pixel Clamping</source>
+          <target>Pixel Clamping</target>
+        </trans-unit>
+        <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled">
+          <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+          <target>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</target>
+        </trans-unit>
+        <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled">
+          <source>Forces movement and scrolling by whole pixel amounts.</source>
+          <target>Forces movement and scrolling by whole pixel amounts.</target>
+        </trans-unit>
+        <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page">
+          <source>Previous Page</source>
+          <target>Previous Page</target>
+        </trans-unit>
+        <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page">
+          <source>Next Page</source>
+          <target>Next Page</target>
+        </trans-unit>
+        <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous">
+          <source>Previous</source>
+          <target>Previous</target>
+        </trans-unit>
+        <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next">
+          <source>Next</source>
+          <target>Next</target>
+        </trans-unit>
+        <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount">
+          <source>{0} out of {1} coins</source>
+          <target>{0} out of {1} coins</target>
+        </trans-unit>
+        <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect">
+          <source>Perfect gold medal</source>
+          <target>Perfect gold medal</target>
+        </trans-unit>
+        <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold">
+          <source>Gold medal</source>
+          <target>Gold medal</target>
+        </trans-unit>
+        <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver">
+          <source>Silver medal</source>
+          <target>Silver medal</target>
+        </trans-unit>
+        <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze">
+          <source>Bronze medal</source>
+          <target>Bronze medal</target>
+        </trans-unit>
+        <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none">
+          <source>No medal</source>
+          <target>No medal</target>
+        </trans-unit>
+        <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins">
+          <source>{0} coins</source>
+          <target>{0} coins</target>
+        </trans-unit>
+        <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies">
+          <source>Basic Enemies: {0}</source>
+          <target>Basic Enemies: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies">
+          <source>Flying Enemies: {0}</source>
+          <target>Flying Enemies: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies">
+          <source>Double Hit Enemies: {0}</source>
+          <target>Double Hit Enemies: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies">
+          <source>Ghost Enemies: {0}</source>
+          <target>Ghost Enemies: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth">
+          <source>Fast Ghost Enemies: {0}</source>
+          <target>Fast Ghost Enemies: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies">
+          <source>Jump+Attack Enemies: {0}</source>
+          <target>Jump+Attack Enemies: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies">
+          <source>Spike Enemies: {0}</source>
+          <target>Spike Enemies: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints">
+          <source>Checkpoints: {0}</source>
+          <target>Checkpoints: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps">
+          <source>Normal Jumps: {0}</source>
+          <target>Normal Jumps: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps">
+          <source>Air Jumps: {0}</source>
+          <target>Air Jumps: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths">
+          <source>Flight Paths: {0}</source>
+          <target>Flight Paths: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones">
+          <source>Water Zones: {0}</source>
+          <target>Water Zones: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones">
+          <source>Speed Zones: {0}</source>
+          <target>Speed Zones: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm">
+          <source>Beats Per Minute: {0}</source>
+          <target>Beats Per Minute: {0}</target>
+        </trans-unit>
+        <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength">
+          <source>Song Length: {0}</source>
+          <target>Song Length: {0}</target>
+        </trans-unit>
+        <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water">
+          <source>River Crossing (with Water)</source>
+          <target>River Crossing (with Water)</target>
+        </trans-unit>
+        <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings">
+          <source>Advanced Settings</source>
+          <target>Advanced Settings</target>
+        </trans-unit>
+        <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description">
+          <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+          <target>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</target>
         </trans-unit>
       </group>
     </body>
