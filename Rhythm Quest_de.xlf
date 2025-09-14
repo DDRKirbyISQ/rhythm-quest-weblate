@@ -3421,8 +3421,9 @@ Dies ist der langsamste Song im Spiel, der die Mechanik der blauen Feinde einfü
 {0}</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="translated">Kaufen für
+        <source>Purchase for
+{0}</source>
+        <target state="needs-translation">Kaufen für
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
