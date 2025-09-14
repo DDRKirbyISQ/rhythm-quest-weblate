@@ -3474,7 +3474,7 @@ It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</so
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
         <source>Purchase for
 {0}</source>
-        <target state="needs-translation">购买需要
+        <target state="translated">购买需要
 {0}</target>
       </trans-unit>
       <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
@@ -3720,6 +3720,148 @@ Tap left half of screen to jump, tap right half to attack.</source>
       <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="no">
         <source>Mouse</source>
         <target state="translated">鼠标</target>
+      </trans-unit>
+      <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled" approved="no">
+        <source>Forces movement and scrolling by whole pixel amounts.</source>
+        <target state="translated">强制以完整像素的量进行移动和滚动。</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="no">
+        <source>Next Page</source>
+        <target state="translated">下一页</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="no">
+        <source>Previous Page</source>
+        <target state="translated">上一页</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="no">
+        <source>Previous</source>
+        <target state="translated">上一个</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="no">
+        <source>Next</source>
+        <target state="translated">下一个</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
+        <source>{0} out of {1} coins</source>
+        <target state="translated">{0} 个金币，总共 {1} 个</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="no">
+        <source>Perfect gold medal</source>
+        <target state="translated">完美金牌</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="no">
+        <source>Gold medal</source>
+        <target state="translated">金牌</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="no">
+        <source>Silver medal</source>
+        <target state="translated">银牌</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="no">
+        <source>Bronze medal</source>
+        <target state="translated">铜牌</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="no">
+        <source>No medal</source>
+        <target state="translated">无奖牌</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="no">
+        <source>{0} coins</source>
+        <target state="translated">{0} 个金币</target>
+      </trans-unit>
+      <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="no">
+        <source>Flying Enemies: {0}</source>
+        <target state="translated">飞行敌人：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="no">
+        <source>Basic Enemies: {0}</source>
+        <target state="translated">基本敌人：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="no">
+        <source>Ghost Enemies: {0}</source>
+        <target state="translated">幽灵敌人：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="no">
+        <source>Fast Ghost Enemies: {0}</source>
+        <target state="translated">快速幽灵敌人：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="no">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="translated">攻击+跳跃敌人：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="no">
+        <source>Spike Enemies: {0}</source>
+        <target state="translated">齿轮：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
+        <source>Checkpoints: {0}</source>
+        <target state="translated">存档点：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
+        <source>Air Jumps: {0}</source>
+        <target state="translated">二段跳：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="no">
+        <source>Flight Paths: {0}</source>
+        <target state="translated">飞行路径：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
+        <source>Speed Zones: {0}</source>
+        <target state="translated">加速区域：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
+        <source>Beats Per Minute: {0}</source>
+        <target state="translated">每分钟节拍数：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="no">
+        <source>Song Length: {0}</source>
+        <target state="translated">歌曲长度：{0}</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="no">
+        <source>River Crossing (with Water)</source>
+        <target state="translated">渡河途中（有水）</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="no">
+        <source>Advanced Settings</source>
+        <target state="translated">高级设置</target>
+      </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
+        <source>Perfect</source>
+        <target state="translated">完美</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
+        <source>Jump Hold+Attack</source>
+        <target state="translated">长按跳跃+攻击</target>
+      </trans-unit>
+      <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description" approved="no">
+        <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
+        <target state="translated">选择在需要长按跳跃+攻击前的一拍播放的提示音。</target>
+      </trans-unit>
+      <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping" approved="no">
+        <source>Pixel Clamping</source>
+        <target state="translated">像素钳夹</target>
+      </trans-unit>
+      <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled" approved="no">
+        <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+        <target state="translated">（默认）允许次像素级移动及滚动，使得滚动更平滑。</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="translated">二连击敌人：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="no">
+        <source>Normal Jumps: {0}</source>
+        <target state="translated">正常跳跃：{0}</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
+        <source>Water Zones: {0}</source>
+        <target state="translated">积水区域：{0}</target>
+      </trans-unit>
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="no">
+        <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+        <target state="translated">这是我在 2022 年为游戏制作初始玩法预告片时制作的关卡。
+该关卡试图展示各种游戏机制，同时带有强劲的音乐。</target>
       </trans-unit>
     </body>
   </file>
