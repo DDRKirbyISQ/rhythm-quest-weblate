@@ -3367,8 +3367,10 @@ from Piano Sonata No. 11</target>
 {0}</target>
         </trans-unit>
         <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice">
-          <source>Purchase for</source>
-          <target>Purchase for</target>
+          <source>Purchase for
+{0}</source>
+          <target>Purchase for
+{0}</target>
         </trans-unit>
         <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button">
           <source>Purchase Level</source>
