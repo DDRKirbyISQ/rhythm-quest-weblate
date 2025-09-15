@@ -986,25 +986,25 @@ Para una mejor experiencia, prueba la versión de escritorio!</target>
           <source>Haptic vibration feedback settings.</source>
           <target>Configuración de vibración háptica.</target>
         </trans-unit>
-        <trans-unit id="126828106082988032" xml:space="preserve" resname="settings_menu_audiocues_description">
+        <trans-unit id="126828106082988032" xml:space="preserve" resname="settings_menu_audiocues_description" approved="no">
           <source>Adjust audio-based cues for the blind and visually impaired.</source>
-          <target>Ajusta las pistas de audio para personas ciegas o visualmente restringidas.</target>
+          <target state="translated">Ajusta las guías de audio para personas ciegas o visualmente restringidas.</target>
         </trans-unit>
-        <trans-unit id="126828476838490112" xml:space="preserve" resname="menu_settings_audiocueconfig">
+        <trans-unit id="126828476838490112" xml:space="preserve" resname="menu_settings_audiocueconfig" approved="no">
           <source>Audio Cue Config...</source>
-          <target>Configuración de Pistas de Audio...</target>
+          <target state="translated">Configuración de Guías de Audio...</target>
         </trans-unit>
         <trans-unit id="126840626063650816" xml:space="preserve" resname="settings_audiocuepanning">
           <source>Panning</source>
           <target>Paneo</target>
         </trans-unit>
-        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description">
+        <trans-unit id="126840752194760704" xml:space="preserve" resname="settings_audiocuepanning_description" approved="no">
           <source>-100%: Attack cues on left, Jump cues on right
 100%: Jump cues on left, attack cues on right
 0%: Centered cues</source>
-          <target>-100%: Pistas de audio de ataques a la izquierda. Pistas de audio de saltos a la derecha
-100%: Pistas de audio de saltos a la izquierda, Pistas de audio de ataques a la derecha 
-0%: Pistas de audio centradas</target>
+          <target state="translated">-100%: Guías de audio de ataques a la izquierda. Guías de audio de saltos a la derecha
+100%: Guías de audio de saltos a la izquierda, Guías de audio de ataques a la derecha 
+0%: Guías de audio centradas</target>
         </trans-unit>
         <trans-unit id="126862183028797440" xml:space="preserve" resname="settings_audiocuejump">
           <source>Jump</source>
@@ -1014,49 +1014,49 @@ Para una mejor experiencia, prueba la versión de escritorio!</target>
           <source>Attack</source>
           <target>Atacar</target>
         </trans-unit>
-        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold">
+        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold" approved="no">
           <source>Jump Hold</source>
-          <target>Mantener Salto</target>
+          <target state="translated">Salto Mantenido</target>
         </trans-unit>
-        <trans-unit id="126862339107237888" xml:space="preserve" resname="settings_audiocuejumprelease">
+        <trans-unit id="126862339107237888" xml:space="preserve" resname="settings_audiocuejumprelease" approved="no">
           <source>Jump Release</source>
-          <target>Soltar Salto</target>
+          <target state="translated">Salto Soltado</target>
         </trans-unit>
-        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack">
+        <trans-unit id="126862358900158464" xml:space="preserve" resname="settings_audiocuejumpattack" approved="no">
           <source>Jump + Attack</source>
-          <target>Saltar + Atacar</target>
+          <target state="translated">Salto + Ataque</target>
         </trans-unit>
         <trans-unit id="126940109233500160" xml:space="preserve" resname="settings_audiocuevolume">
           <source>Volume Balance</source>
           <target>Balance de volumen</target>
         </trans-unit>
-        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description">
+        <trans-unit id="126952233787764736" xml:space="preserve" resname="settings_audiocuevolume_description" approved="no">
           <source>Adjust balance between game sound and cue track. (0% = cues disabled)</source>
-          <target>Ajustar balance entre sonidos del juego y pistas de audio. (0% = Pistas Deshabilitadas)</target>
+          <target state="translated">Ajustar balance entre sonidos del juego y guías de audio. (0% = guías deshabilitadas)</target>
         </trans-unit>
         <trans-unit id="128297471466844160" xml:space="preserve" resname="menu_settings_haptics">
           <source>Haptic Feedback...</source>
           <target>Retroalimentación háptica...</target>
         </trans-unit>
-        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description">
+        <trans-unit id="128300795360489472" xml:space="preserve" resname="settings_audiocuejump_description" approved="no">
           <source>Select a cue sound to play one beat before a jump.</source>
-          <target>Selecciona un sonido para reproducir un beat antes de un salto.</target>
+          <target state="translated">Selecciona un sonido guía para reproducir una pulsación antes de un salto.</target>
         </trans-unit>
-        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description">
+        <trans-unit id="128300810308988928" xml:space="preserve" resname="settings_audiocueattack_description" approved="no">
           <source>Select a cue sound to play one beat before an attack.</source>
-          <target>Selecciona un sonido para reproducir un beat antes de un ataque.</target>
+          <target state="translated">Selecciona un sonido guía para reproducir una pulsación antes de un ataque.</target>
         </trans-unit>
-        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description">
+        <trans-unit id="128300827853762560" xml:space="preserve" resname="settings_audiocuejumphold_description" approved="no">
           <source>Select a cue sound to play one beat before beginning a jump hold.</source>
-          <target>Selecciona un sonido para reproducir un beat antes de empezar un salto que debe mantenerse.</target>
+          <target state="translated">Selecciona un sonido guía para reproducir una pulsación antes de empezar un salto mantenido.</target>
         </trans-unit>
-        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description">
+        <trans-unit id="128300843716620288" xml:space="preserve" resname="settings_audiocuejumprelease_description" approved="no">
           <source>Select a cue sound to play one beat before releasing a jump hold.</source>
-          <target>Selecciona un sonido para reproducir un beat antes de soltar un salto que debe mantenerse.</target>
+          <target state="translated">Selecciona un sonido guía para reproducir una pulsación antes de soltar un salto mantenido.</target>
         </trans-unit>
-        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
+        <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description" approved="no">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
-          <target>Selecciona un sonido para reproducir un beat antes de un salto + ataque combinado.</target>
+          <target state="translated">Selecciona un sonido guía para reproducir una pulsación antes de un salto + ataque combinado.</target>
         </trans-unit>
         <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
           <source>Keep going...</source>
@@ -1118,17 +1118,17 @@ Would you like to enable screen reader mode?
           <source>Increment</source>
           <target>Aumentar</target>
         </trans-unit>
-        <trans-unit id="135534588144168960" xml:space="preserve" resname="settings_audiocues">
+        <trans-unit id="135534588144168960" xml:space="preserve" resname="settings_audiocues" approved="no">
           <source>Audio Cues</source>
-          <target>Pistas de audio</target>
+          <target state="translated">Sonidos Guía</target>
         </trans-unit>
-        <trans-unit id="135535616151302144" xml:space="preserve" resname="settings_audiocues_description_disabled">
+        <trans-unit id="135535616151302144" xml:space="preserve" resname="settings_audiocues_description_disabled" approved="no">
           <source>Disables ahead-of-time audio cues.</source>
-          <target>Deshabilita pistas de audio antes de tiempo.</target>
+          <target state="translated">Deshabilita sonidos guía antes de tiempo.</target>
         </trans-unit>
-        <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled">
+        <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled" approved="no">
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
-          <target>Activa pistas de audio antes de tiempo para personas ciegas y visualmente restringidas.</target>
+          <target state="translated">Activa sonidos guía antes de tiempo para personas ciegas y visualmente restringidas.</target>
         </trans-unit>
         <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button">
           <source>right mouse button</source>
@@ -2638,9 +2638,9 @@ Haz click en una sección de punto de control para editar su efecto de partícul
           <source>Floor beat grid markers match level background colors.</source>
           <target>Los marcadores de pulso en el piso coinciden con los colores de fondo en el nivel.</target>
         </trans-unit>
-        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
+        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description" approved="no">
           <source>Beat grid markers with obstacles will be colored according beat offset.</source>
-          <target>Los marcadores de pulso con obstáculos se colorearán acuerdo al offset del pulso.</target>
+          <target state="translated">Los marcadores de pulsaciones con obstáculos se colorearán acuerdo al offset del pulso.</target>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="no">
           <source>Spellbound Nebula</source>
@@ -2687,7 +2687,7 @@ Otros enemigos coloreados segun el tipo de enemigo.</target>
       </trans-unit>
       <trans-unit id="367595908228755456" xml:space="preserve" resname="modio_emailsecuritycode_description" approved="no">
         <source>Enter your email address and a security code will be sent to create or login to your mod.io account.</source>
-        <target state="translated">Ingresa tu correo electronico y un codigo de seguridad sera enviado para crear o iniciar sesion a tu cuenta de mod.io.</target>
+        <target state="translated">Ingresa tu correo electrónico y un código de seguridad será enviado para crear o iniciar sesión a tu cuenta de mod.io.</target>
       </trans-unit>
       <trans-unit id="367888056996114432" xml:space="preserve" resname="modio_loginstatus_wrongaccount" approved="no">
         <source>&lt;sprite name="fonticons_8"&gt; This account is not the author of the current level on mod.io.</source>
@@ -2827,7 +2827,7 @@ Ultima Actualizacion: {0}</target>
         <source>&lt;sprite name="fonticons_8"&gt; You are not logged into mod.io.
 
 You need an account in order to publish levels to mod.io.</source>
-        <target state="translated">&lt;sprite name="fonticons_8"&gt; No has iniciado sesion en mod.io.
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; No has iniciado sesión en mod.io.
 
 Necesitas una cuenta en orden para publicar niveles a mod.io.</target>
       </trans-unit>
@@ -3584,8 +3584,9 @@ Presiona &lt;sprite name="controller_icons_97"&gt; para ver los ajustes</target>
 {0}</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="needs-translation">Comprar por
+        <source>Purchase for
+{0}</source>
+        <target state="translated">Comprar por
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
@@ -3719,6 +3720,148 @@ Toca la mitad derecha de la pantalla para saltar, toca la mitad izquierda para a
       <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
         <source>Calibration</source>
         <target state="translated">Calibración</target>
+      </trans-unit>
+      <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping" approved="no">
+        <source>Pixel Clamping</source>
+        <target state="translated">Restricción de píxeles</target>
+      </trans-unit>
+      <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled" approved="no">
+        <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+        <target state="translated">(Preterminado) Habilita un desplazamiento más suave al permitir movimiento y desplazamiento en subpíxeles.</target>
+      </trans-unit>
+      <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled" approved="no">
+        <source>Forces movement and scrolling by whole pixel amounts.</source>
+        <target state="translated">Fuerza movimiento y desplazamiento por píxeles enteros.</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="no">
+        <source>Previous Page</source>
+        <target state="translated">Página anterior</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="no">
+        <source>Next Page</source>
+        <target state="translated">Página siguiente</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="no">
+        <source>Previous</source>
+        <target state="translated">Anterior</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="no">
+        <source>Next</source>
+        <target state="translated">Siguiente</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
+        <source>{0} out of {1} coins</source>
+        <target state="translated">{0} de {1} monedas</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="no">
+        <source>Perfect gold medal</source>
+        <target state="translated">Medalla de oro perfecta</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="no">
+        <source>Gold medal</source>
+        <target state="translated">Medalla de oro</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="no">
+        <source>Silver medal</source>
+        <target state="translated">Medalla de plata</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="no">
+        <source>No medal</source>
+        <target state="translated">Sin medalla</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="no">
+        <source>{0} coins</source>
+        <target state="translated">{0} monedas</target>
+      </trans-unit>
+      <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="no">
+        <source>Flying Enemies: {0}</source>
+        <target state="translated">Enemigos Voladores: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="translated">Enemigos de doble golpe: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="no">
+        <source>Ghost Enemies: {0}</source>
+        <target state="translated">Enemigos Fantasma: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="no">
+        <source>Fast Ghost Enemies: {0}</source>
+        <target state="translated">Enemigos Fantasma Rápidos: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="no">
+        <source>Spike Enemies: {0}</source>
+        <target state="translated">Enemigos de espinas: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
+        <source>Checkpoints: {0}</source>
+        <target state="translated">Puntos de guardado: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="no">
+        <source>Normal Jumps: {0}</source>
+        <target state="translated">Saltos normales: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
+        <source>Air Jumps: {0}</source>
+        <target state="translated">Saltos Aéreos: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="no">
+        <source>Flight Paths: {0}</source>
+        <target state="translated">Caminos de vuelo: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
+        <source>Speed Zones: {0}</source>
+        <target state="translated">Zonas de rapidez: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
+        <source>Beats Per Minute: {0}</source>
+        <target state="translated">Pulsaciones Por Minuto: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="no">
+        <source>Song Length: {0}</source>
+        <target state="translated">Duración de la canción: {0}</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="no">
+        <source>Advanced Settings</source>
+        <target state="translated">Ajustes Avanzados</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="no">
+        <source>Bronze medal</source>
+        <target state="translated">Medalla de bronce</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="no">
+        <source>Basic Enemies: {0}</source>
+        <target state="translated">Enemigos Básicos: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="no">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="translated">Enemigos de Salto+Ataque: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
+        <source>Water Zones: {0}</source>
+        <target state="translated">Zonas de agua: {0}</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="no">
+        <source>River Crossing (with Water)</source>
+        <target state="translated">Cruce de río (con Agua)</target>
+      </trans-unit>
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="no">
+        <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+        <target state="translated">Un nivel que fue hecho para el tráiler de jugabilidad inicial del juego en 2022.
+Intenta presentar diferentes mecánicas y música llena de energía.</target>
+      </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
+        <source>Perfect</source>
+        <target state="translated">Perfecto</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
+        <source>Jump Hold+Attack</source>
+        <target state="translated">Salto Mantenido+Ataque</target>
+      </trans-unit>
+      <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description" approved="no">
+        <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
+        <target state="translated">Selecciona un sonido de guía para reproducir una pulsación antes de una combinación de salto mantenido + ataque.</target>
       </trans-unit>
     </body>
   </file>
