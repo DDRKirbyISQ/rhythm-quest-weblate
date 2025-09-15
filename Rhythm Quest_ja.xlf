@@ -1802,17 +1802,17 @@ Click to insert checkpoints.</source>
         </trans-unit>
         <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone" approved="no">
           <source>Insert water zone from beat {0} to {1}</source>
-          <target state="translated">ビート {0} から {1} に水域を挿入する</target>
+          <target state="translated">ビート {0} から {1} に水ゾーンを挿入する</target>
         </trans-unit>
         <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone" approved="no">
           <source>Insert speed zone from beat {0} to {1}</source>
           <target state="translated">ビート {0} から {1} にスピードゾーンを挿入する</target>
         </trans-unit>
-        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
+        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description" approved="no">
           <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
 Click and drag to insert water zones.</source>
-          <target>&lt;color=#ffff00&gt;水域&lt;/color&gt;
-クリック＆ドラッグで水域を挿入します。</target>
+          <target state="translated">&lt;color=#ffff00&gt;水ゾーン&lt;/color&gt;
+クリック＆ドラッグで水ゾーンを挿入します。</target>
         </trans-unit>
         <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description">
           <source>&lt;color=#ffff00&gt;Speed Zones&lt;/color&gt;
@@ -3396,8 +3396,9 @@ The intro melody has a reference to "Lonely Rolling Star" since we've both creat
         <target state="translated">レベルで遊ぶ</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="needs-translation">{0}
+        <source>Purchase for
+{0}</source>
+        <target state="translated">{0}
 で購入</target>
       </trans-unit>
       <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
@@ -3719,6 +3720,148 @@ Tap right half of screen to jump, tap left half to attack.</source>
       <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="no">
         <source>Gameplay</source>
         <target state="translated">ゲームプレイ</target>
+      </trans-unit>
+      <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping" approved="no">
+        <source>Pixel Clamping</source>
+        <target state="translated">ピクセルの処理</target>
+      </trans-unit>
+      <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled" approved="no">
+        <source>Forces movement and scrolling by whole pixel amounts.</source>
+        <target state="translated">移動とスクロールをピクセル単位に制限します。</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="no">
+        <source>Previous Page</source>
+        <target state="translated">前ページ</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="no">
+        <source>Next Page</source>
+        <target state="translated">次ページ</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="no">
+        <source>Previous</source>
+        <target state="translated">前</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="no">
+        <source>Next</source>
+        <target state="translated">次</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
+        <source>{0} out of {1} coins</source>
+        <target state="translated">{1} 枚のうち {0}枚</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="no">
+        <source>Perfect gold medal</source>
+        <target state="translated">パーフェクトメダル</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="no">
+        <source>Gold medal</source>
+        <target state="translated">金メダル</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="no">
+        <source>Silver medal</source>
+        <target state="translated">銀メダル</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="no">
+        <source>Bronze medal</source>
+        <target state="translated">銅メダル</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="no">
+        <source>No medal</source>
+        <target state="translated">メダルなし</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="no">
+        <source>{0} coins</source>
+        <target state="translated">{0} コイン</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="no">
+        <source>Basic Enemies: {0}</source>
+        <target state="translated">ふつうの敵: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="no">
+        <source>Ghost Enemies: {0}</source>
+        <target state="translated">おばけの敵: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="no">
+        <source>Fast Ghost Enemies: {0}</source>
+        <target state="translated">素早いおばけの敵: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="no">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="translated">ジャンプ攻撃で倒す敵: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="translated">２回攻撃で倒す敵: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="no">
+        <source>Spike Enemies: {0}</source>
+        <target state="translated">トゲの敵: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
+        <source>Checkpoints: {0}</source>
+        <target state="translated">チェックポイント: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="no">
+        <source>Normal Jumps: {0}</source>
+        <target state="translated">通常ジャンプ: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
+        <source>Air Jumps: {0}</source>
+        <target state="translated">空中ジャンプ: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="no">
+        <source>Flight Paths: {0}</source>
+        <target state="translated">飛行経路: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
+        <source>Speed Zones: {0}</source>
+        <target state="translated">スピードゾーン: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
+        <source>Beats Per Minute: {0}</source>
+        <target state="translated">BPM: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="no">
+        <source>Song Length: {0}</source>
+        <target state="translated">曲の長さ: {0}</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="no">
+        <source>River Crossing (with Water)</source>
+        <target state="translated">川を泳いで</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="no">
+        <source>Advanced Settings</source>
+        <target state="translated">詳細設定</target>
+      </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
+        <source>Perfect</source>
+        <target state="translated">パーフェクト</target>
+      </trans-unit>
+      <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled" approved="no">
+        <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+        <target state="translated">（デフォルト）サブピクセル単位の移動とスクロールを有効にし、滑らかな表現を行います。</target>
+      </trans-unit>
+      <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="no">
+        <source>Flying Enemies: {0}</source>
+        <target state="translated">飛んでいる敵: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
+        <source>Water Zones: {0}</source>
+        <target state="translated">水ゾーン: {0}</target>
+      </trans-unit>
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="no">
+        <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+        <target state="translated">このレベルは2022年にゲームの初期トレーラー用に制作されました。
+様々な仕掛けとエネルギッシュな音楽が特徴的です。</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
+        <source>Jump Hold+Attack</source>
+        <target state="translated">ジャンプホールド + 攻撃</target>
+      </trans-unit>
+      <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description" approved="no">
+        <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
+        <target state="translated">ジャンプホールド + 攻撃の1拍前に鳴らすヒント音を選択してください。</target>
       </trans-unit>
     </body>
   </file>
