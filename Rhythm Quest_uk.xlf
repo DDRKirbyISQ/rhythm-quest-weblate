@@ -480,11 +480,11 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Reset Game Data</source>
           <target>Скинути дані гри</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="no">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target>Всі збережені дані гри будуть стерті.
-Ви точно впевнені, що хочете продовжувати?</target>
+          <target state="translated">Всі збережені дані гри будуть стерті.
+Ви точно впевнені, що хочете продовжити?</target>
         </trans-unit>
         <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes">
           <source>Yes</source>
@@ -680,7 +680,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
           <source>Take It to the Limit</source>
-          <target state="translated">До Самого Кінця</target>
+          <target state="translated">Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -696,7 +696,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
           <source>What Lies Beneath</source>
-          <target state="translated">Укрите Під Поверхнею</target>
+          <target state="translated">What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
           <source>City in the Rain</source>
@@ -708,7 +708,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
-          <target state="translated">Трейлер Геймплею</target>
+          <target state="translated">Трейлер Гри</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -810,18 +810,18 @@ Sorry about this!
           <source>Welcome to the Rhythm Quest Demo!</source>
           <target>Вітаємо у Rhythm Quest Demo!</target>
         </trans-unit>
-        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice" approved="no">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
 
 If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Have fun, and thanks for playing!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Це рання демоверсія Rhythm Quest, тому доступні лише деякі рівні, і все в грі ще може бути змінено!
+          <target state="translated">Це рання демоверсія Rhythm Quest, тому доступні лише деякі рівні, і все в грі ще може бути змінено!
 
 Якщо ви хочете додати гру до списку бажаного у Steam або підписатися на список розсилки чи Discord, щоб отримувати сповіщення, коли вийде повна версія гри, відвідайте &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
-Отримуйте задоволення та дякую за гру!
+Бажаю гарно провести час та дякую за гру!
 								--DDRKirby(ISQ)"</target>
         </trans-unit>
         <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="no">
@@ -852,9 +852,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Join the Discord</source>
           <target>Приєднайтеся до Discord</target>
         </trans-unit>
-        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="no">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target>Повна версія Rhythm Quest міститиме 30 рівнів у 6 світах, доступні бонусні етапи та ще більше ігрових механік!</target>
+          <target state="translated">Повна версія Rhythm Quest міститиме 30 рівнів у 6 світах, доступні бонусні рівні та ще більше ігрових механік!</target>
         </trans-unit>
         <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
           <source>Next</source>
@@ -2470,11 +2470,11 @@ Click on a checkpoint section to edit its color palette.</source>
           <source>Palettes</source>
           <target>Палітри</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="no">
           <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
 Do you still want to continue?</source>
-          <target>Наразі редактором Rhythm Quest можна користуватися лише мишею або іншим пристроєм з курсором.
-Бажаєте продовжити?</target>
+          <target state="translated">Наразі редактором Rhythm Quest можна користуватися лише мишею або іншим пристроєм з курсором.
+Все одно продовжити?</target>
         </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
