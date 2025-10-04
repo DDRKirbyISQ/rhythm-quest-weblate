@@ -220,9 +220,9 @@
           <source>(Default) Action sounds will be prescheduled so they are perfectly in sync. They will play even if the input is missed.</source>
           <target>（默认）动作音效将与节奏同步。即使没有操作音效也会播放。</target>
         </trans-unit>
-        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency">
+        <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="yes">
           <source>Audio Offset</source>
-          <target>音频偏移</target>
+          <target state="final">音频偏移</target>
         </trans-unit>
         <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description">
           <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
@@ -280,9 +280,9 @@
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
           <target>按下&lt;sprite name="controller_icons_60"&gt;以继续</target>
         </trans-unit>
-        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont">
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="yes">
           <source>Font Style</source>
-          <target>字体风格</target>
+          <target state="final">字体风格</target>
         </trans-unit>
         <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="yes">
           <source>Pixel Font</source>
@@ -300,9 +300,9 @@
           <source>Use pixel-styled font for the interface.</source>
           <target>在界面使用像素字体。</target>
         </trans-unit>
-        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons" approved="yes">
           <source>On-screen Buttons</source>
-          <target>虚拟按键</target>
+          <target state="final">虚拟按键</target>
         </trans-unit>
         <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide">
           <source>Hide</source>
@@ -588,9 +588,9 @@ Otherwise, you can adjust manually until synced.</source>
           <source>Yes (Recommended)</source>
           <target state="final">是（推荐）</target>
         </trans-unit>
-        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
+        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="yes">
           <source>(Select an option to view more details)</source>
-          <target>（选择一个选项以显示更多信息）</target>
+          <target state="final">（选择一个选项以显示更多信息）</target>
         </trans-unit>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
           <source>Spiked Steppes</source>
@@ -608,13 +608,13 @@ Otherwise, you can adjust manually until synced.</source>
           <source>Unavailable</source>
           <target>不可用</target>
         </trans-unit>
-        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear">
+        <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="yes">
           <source>Perfect Clear!</source>
-          <target>完美通关！</target>
+          <target state="final">完美通关！</target>
         </trans-unit>
-        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count">
+        <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count" approved="yes">
           <source>Respawns: {0}</source>
-          <target>复活次数：{0}</target>
+          <target state="final">复活次数：{0}</target>
         </trans-unit>
         <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
           <source>Haunted Prairie</source>
@@ -690,9 +690,9 @@ Remaining:</source>
           <source>Buy</source>
           <target state="final">购买</target>
         </trans-unit>
-        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play">
+        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play" approved="yes">
           <source>Play</source>
-          <target>游玩</target>
+          <target state="final">游玩</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
           <source>What Lies Beneath</source>
@@ -848,9 +848,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Visit the Website</source>
           <target>访问官方网站</target>
         </trans-unit>
-        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
+        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord" approved="yes">
           <source>Join the Discord</source>
-          <target>加入 Discord</target>
+          <target state="final">加入 Discord</target>
         </trans-unit>
         <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
@@ -1066,9 +1066,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Screenreader Mode</source>
           <target state="final">屏幕朗读模式</target>
         </trans-unit>
-        <trans-unit id="134459975284862976" xml:space="preserve" resname="settings_screenreadermode_description_disabled">
+        <trans-unit id="134459975284862976" xml:space="preserve" resname="settings_screenreadermode_description_disabled" approved="yes">
           <source>Screenreader is disabled.</source>
-          <target>禁用屏幕朗读。</target>
+          <target state="final">禁用屏幕朗读。</target>
         </trans-unit>
         <trans-unit id="134459976639623168" xml:space="preserve" resname="settings_screenreadermode_description_enabled" approved="no">
           <source>Enables full screenreader navigation. Normal navigation is disabled.</source>
@@ -3353,9 +3353,9 @@ from Piano Sonata No. 11</source>
         <source>Difficulty ramps up more quickly and becomes quite intense!</source>
         <target state="translated">难度更快上升并且相当难！</target>
       </trans-unit>
-      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="yes">
+      <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
         <source>The way Rhythm Quest was meant to be played.</source>
-        <target state="final">Rhythm Quest 本该游玩的方式。</target>
+        <target state="translated">Rhythm Quest 本来的难度。</target>
       </trans-unit>
       <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="yes">
         <source>Difficulty:
@@ -3579,9 +3579,9 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
         <source>Warp to a specific checkpoint of the level.</source>
         <target state="translated">传送到关卡的特定存档点。</target>
       </trans-unit>
-      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="yes">
         <source>Resume practicing.</source>
-        <target state="translated">继续练习。</target>
+        <target state="final">继续练习。</target>
       </trans-unit>
       <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
         <source>Proceed through song sections normally.
@@ -3725,21 +3725,21 @@ Tap left half of screen to jump, tap right half to attack.</source>
         <source>Forces movement and scrolling by whole pixel amounts.</source>
         <target state="translated">强制以完整像素的量进行移动和滚动。</target>
       </trans-unit>
-      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="no">
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="yes">
         <source>Next Page</source>
-        <target state="translated">下一页</target>
+        <target state="final">下一页</target>
       </trans-unit>
-      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="no">
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="yes">
         <source>Previous Page</source>
-        <target state="translated">上一页</target>
+        <target state="final">上一页</target>
       </trans-unit>
-      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="no">
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="yes">
         <source>Previous</source>
-        <target state="translated">上一个</target>
+        <target state="final">上一个</target>
       </trans-unit>
-      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="no">
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="yes">
         <source>Next</source>
-        <target state="translated">下一个</target>
+        <target state="final">下一个</target>
       </trans-unit>
       <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
         <source>{0} out of {1} coins</source>
@@ -3793,9 +3793,9 @@ Tap left half of screen to jump, tap right half to attack.</source>
         <source>Spike Enemies: {0}</source>
         <target state="translated">齿轮：{0}</target>
       </trans-unit>
-      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="yes">
         <source>Checkpoints: {0}</source>
-        <target state="translated">存档点：{0}</target>
+        <target state="final">存档点：{0}</target>
       </trans-unit>
       <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
         <source>Air Jumps: {0}</source>
@@ -3825,9 +3825,9 @@ Tap left half of screen to jump, tap right half to attack.</source>
         <source>Advanced Settings</source>
         <target state="translated">高级设置</target>
       </trans-unit>
-      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="yes">
         <source>Perfect</source>
-        <target state="translated">完美</target>
+        <target state="final">完美</target>
       </trans-unit>
       <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
         <source>Jump Hold+Attack</source>
