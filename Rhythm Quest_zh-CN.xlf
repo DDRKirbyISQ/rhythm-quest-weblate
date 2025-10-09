@@ -3343,7 +3343,7 @@ from Piano Sonata No. 11</source>
       </trans-unit>
       <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
         <source>Starts simple, but gets complex!</source>
-        <target state="translated">开始时简单，随后逐渐复杂！</target>
+        <target state="translated">开始时简单，随后逐渐变难！</target>
       </trans-unit>
       <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
         <source>Level Browser</source>
@@ -3351,7 +3351,7 @@ from Piano Sonata No. 11</source>
       </trans-unit>
       <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
         <source>Difficulty ramps up more quickly and becomes quite intense!</source>
-        <target state="translated">难度更快上升并且相当难！</target>
+        <target state="translated">难度上升得更快并且相当难！</target>
       </trans-unit>
       <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
         <source>The way Rhythm Quest was meant to be played.</source>
@@ -3861,7 +3861,7 @@ Tap left half of screen to jump, tap right half to attack.</source>
         <source>A level that was made for the initial gameplay trailer for the game in 2022.
 It tries to feature different mechanics and high-energy music.</source>
         <target state="translated">这是我在 2022 年为游戏制作初始玩法预告片时制作的关卡。
-该关卡试图展示各种游戏机制，同时带有强劲的音乐。</target>
+该关卡展示了各种游戏机制，同时带有强劲的音乐。</target>
       </trans-unit>
     </body>
   </file>
