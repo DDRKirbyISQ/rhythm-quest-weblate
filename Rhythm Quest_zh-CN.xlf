@@ -3341,17 +3341,17 @@ from Piano Sonata No. 11</source>
         <source>For those who are experienced with rhythm games.</source>
         <target state="translated">适合有节奏游戏经验的玩家。</target>
       </trans-unit>
-      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="no">
+      <trans-unit id="437523910592606208" xml:space="preserve" resname="difficulty_description_normal_2" approved="yes">
         <source>Starts simple, but gets complex!</source>
-        <target state="translated">开始时简单，随后逐渐变难！</target>
+        <target state="final">开始时简单，随后逐渐变难！</target>
       </trans-unit>
       <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="no">
         <source>Level Browser</source>
         <target state="translated">关卡浏览器</target>
       </trans-unit>
-      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="no">
+      <trans-unit id="437523981086273536" xml:space="preserve" resname="difficulty_description_hard_2" approved="yes">
         <source>Difficulty ramps up more quickly and becomes quite intense!</source>
-        <target state="translated">难度上升得更快并且相当难！</target>
+        <target state="final">难度上升得更快并且相当难！</target>
       </trans-unit>
       <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
         <source>The way Rhythm Quest was meant to be played.</source>
@@ -3857,10 +3857,10 @@ Tap left half of screen to jump, tap right half to attack.</source>
         <source>Water Zones: {0}</source>
         <target state="translated">积水区域：{0}</target>
       </trans-unit>
-      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="no">
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="yes">
         <source>A level that was made for the initial gameplay trailer for the game in 2022.
 It tries to feature different mechanics and high-energy music.</source>
-        <target state="translated">这是我在 2022 年为游戏制作初始玩法预告片时制作的关卡。
+        <target state="final">这是我在 2022 年为游戏制作初始玩法预告片时制作的关卡。
 该关卡展示了各种游戏机制，同时带有强劲的音乐。</target>
       </trans-unit>
     </body>
