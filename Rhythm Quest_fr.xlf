@@ -549,8 +549,8 @@ Are you sure you want to proceed?</source>
         <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
           <source>The flashing squares should match the beat.
 Otherwise, you can adjust manually until synced.</source>
-          <target state="needs-translation">Les clignotements des carrés doivent être synchronisés avec les bips sonores.
-Sinon, ajustez les manuellement afin qu'ils le soient.</target>
+          <target state="translated">Les clignotements des carrés doivent être synchronisés avec les bips sonores.
+Sinon, vous pouvez les ajuster manuellement afin qu'ils le soient.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
@@ -676,7 +676,7 @@ Restantes :</target>
         </trans-unit>
         <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="no">
           <source>Purchase for {0}?</source>
-          <target state="translated">Acheter pour {0}?</target>
+          <target state="translated">Acheter pour {0} ?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="yes">
           <source>Take It to the Limit</source>
@@ -2542,9 +2542,9 @@ Cliquer sur une section de point de passage pour modifier ses effets de particul
           <source>Standing Here Alone (Expert Mix)</source>
           <target>Standing Here Alone (Mix Expert)</target>
         </trans-unit>
-        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
+        <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
-          <target state="final">Super Mega Zero (RQ Edit)</target>
+          <target state="translated">Super Mega Zero (Version RQ)</target>
         </trans-unit>
         <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors">
           <source>Colors</source>
@@ -3086,9 +3086,9 @@ I. Allegro</source>
           <target>Une petite musique de nuit
 I. Allegro</target>
         </trans-unit>
-        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="yes">
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="no">
           <source>Song of the Sea (Expert Mix)</source>
-          <target state="final">Song of the Sea (Expert Mix)</target>
+          <target state="translated">Song of the Sea (Mix Expert )</target>
         </trans-unit>
         <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="yes">
           <source>Track freezing is disabled.</source>
@@ -3250,9 +3250,9 @@ Appuyer sur &lt;sprite name="controller_icons_97"&gt; pour paramétrer</target>
           <source>Use custom controller bindings.</source>
           <target>Utiliser des boutons de manette personnalisés.</target>
         </trans-unit>
-        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="yes">
+        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="no">
           <source>Flower Fang (Expert Mix)</source>
-          <target state="final">Flower Fang (Expert Mix)</target>
+          <target state="translated">Flower Fang (Mix Expert )</target>
         </trans-unit>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
           <source>Turkish March (Rondo alla Turca)
@@ -3420,7 +3420,7 @@ Les musiques de Melody Muncher se prêtent naturellement à une réinterprétati
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
         <source>Purchase for
 {0}</source>
-        <target state="needs-translation">Acheter pour
+        <target state="translated">Acheter pour
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="yes">
@@ -3461,7 +3461,7 @@ pour {1} ?</target>
       </trans-unit>
       <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
         <source>Bottled Up (RQ Edit)</source>
-        <target state="translated">Bottled Up (RQ Edit)</target>
+        <target state="translated">Bottled Up (Version RQ)</target>
       </trans-unit>
       <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
         <source>Claustrophobia</source>
@@ -3469,7 +3469,7 @@ pour {1} ?</target>
       </trans-unit>
       <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
         <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
-        <target state="translated">The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+        <target state="translated">The Warrior Wakes in the Sunrise Dawn (Version RQ)</target>
       </trans-unit>
       <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="yes">
         <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
@@ -3561,7 +3561,7 @@ Recommencer du début une fois la fin du niveau atteinte.</target>
       </trans-unit>
       <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
         <source>Scherzo of Magical Science (RQ Edit)</source>
-        <target state="translated">Scherzo of Magical Science (RQ Edit)</target>
+        <target state="translated">Scherzo of Magical Science (Version RQ)</target>
       </trans-unit>
       <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
         <source>Diamonds</source>
@@ -3656,6 +3656,212 @@ Toucher à droite de l'écran pour sauter et à gauche pour attaquer.</target>
 Tap left half of screen to jump, tap right half to attack.</source>
         <target state="translated">Les contrôles tactiles sont activés.
 Toucher à gauche de l'écran pour sauter et à droite pour attaquer.</target>
+      </trans-unit>
+      <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="no">
+        <source>Timing Display</source>
+        <target state="translated">Affichage Précision</target>
+      </trans-unit>
+      <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled" approved="no">
+        <source>Timing display is disabled.</source>
+        <target state="translated">L'affichage de la précision est désactivé.</target>
+      </trans-unit>
+      <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="no">
+        <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+        <target state="translated">Active un indicateur fixe montrant à quel point vous étiez en avance ou en retard à chaque action réussie.</target>
+      </trans-unit>
+      <trans-unit id="514338806164140032" xml:space="preserve" resname="settings_timingdisplay_description_each" approved="no">
+        <source>Shows a number above each obstacle indicating how early or late you were on each successful action.</source>
+        <target state="translated">Affiche un nombre au dessus de chaque obstacle indiquant à quel point vous étiez en avance ou en retard à chaque action réussie.</target>
+      </trans-unit>
+      <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="no">
+        <source>Static</source>
+        <target state="translated">Fixe</target>
+      </trans-unit>
+      <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="no">
+        <source>Each</source>
+        <target state="translated">Par Obstacle</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="no">
+        <source>Vibration</source>
+        <target state="translated">Vibrations</target>
+      </trans-unit>
+      <trans-unit id="516855193168293888" xml:space="preserve" resname="menu_settings_visuals" approved="no">
+        <source>Visuals</source>
+        <target state="translated">Visuels</target>
+      </trans-unit>
+      <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="no">
+        <source>Timing</source>
+        <target state="translated">Timing</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
+        <source>Calibration</source>
+        <target state="translated">Étalonnage</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="no">
+        <source>Gameplay</source>
+        <target state="translated">Jouabilité</target>
+      </trans-unit>
+      <trans-unit id="517151724282884096" xml:space="preserve" resname="menu_settings_keyboard" approved="no">
+        <source>Keyboard</source>
+        <target state="translated">Clavier</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="no">
+        <source>Gamepad</source>
+        <target state="translated">Manette</target>
+      </trans-unit>
+      <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="no">
+        <source>Mouse</source>
+        <target state="translated">Souris</target>
+      </trans-unit>
+      <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping" approved="no">
+        <source>Pixel Clamping</source>
+        <target state="translated">Verouillage Des Pixels</target>
+      </trans-unit>
+      <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled" approved="no">
+        <source>Forces movement and scrolling by whole pixel amounts.</source>
+        <target state="translated">Force les mouvements et la défilement à respecter la grille des pixels.</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="no">
+        <source>Previous Page</source>
+        <target state="translated">Page Précédente</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="no">
+        <source>Next Page</source>
+        <target state="translated">Page Suivante</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="no">
+        <source>Previous</source>
+        <target state="translated">Précédent</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="no">
+        <source>Next</source>
+        <target state="translated">Suivant</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
+        <source>{0} out of {1} coins</source>
+        <target state="translated">{0} pièces sur {1}</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="no">
+        <source>Silver medal</source>
+        <target state="translated">Médaille d'argent</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="no">
+        <source>Gold medal</source>
+        <target state="translated">Médaille d'or</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="no">
+        <source>No medal</source>
+        <target state="translated">Pas de médaille</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="no">
+        <source>{0} coins</source>
+        <target state="translated">{0} pièces</target>
+      </trans-unit>
+      <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="no">
+        <source>Flying Enemies: {0}</source>
+        <target state="translated">Ennemis Volants : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="translated">Ennemis à Double-Coups : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="no">
+        <source>Ghost Enemies: {0}</source>
+        <target state="translated">Ennemis Fantômes : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="no">
+        <source>Fast Ghost Enemies: {0}</source>
+        <target state="translated">Ennemis Fantômes Rapides : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="no">
+        <source>Spike Enemies: {0}</source>
+        <target state="translated">Ennemis à Pointe : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
+        <source>Checkpoints: {0}</source>
+        <target state="translated">Points de Passage : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="no">
+        <source>Normal Jumps: {0}</source>
+        <target state="translated">Sauts Normaux : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
+        <source>Water Zones: {0}</source>
+        <target state="translated">Zones d'Eau : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
+        <source>Speed Zones: {0}</source>
+        <target state="translated">Zones de Vitesse : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
+        <source>Beats Per Minute: {0}</source>
+        <target state="translated">Battements Par Minute : {0}</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="no">
+        <source>River Crossing (with Water)</source>
+        <target state="translated">Traversée de Rivière (avec de l'eau)</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="no">
+        <source>Advanced Settings</source>
+        <target state="translated">Paramètres Avancés</target>
+      </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
+        <source>Perfect</source>
+        <target state="translated">Parfait</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
+        <source>Jump Hold+Attack</source>
+        <target state="translated">Saut Maintenu+Attaque</target>
+      </trans-unit>
+      <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description" approved="no">
+        <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
+        <target state="translated">Sélectionnez un son à jouer un temps avant une action de saut maintenu + attaque.</target>
+      </trans-unit>
+      <trans-unit id="516854789449756672" xml:space="preserve" resname="menu_settings_rumble_switch" approved="no">
+        <source>Rumble</source>
+        <target state="translated">Vibrations Manette</target>
+      </trans-unit>
+      <trans-unit id="516855053724463104" xml:space="preserve" resname="menu_settings_data" approved="no">
+        <source>Data</source>
+        <target state="translated">Données</target>
+      </trans-unit>
+      <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled" approved="no">
+        <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+        <target state="translated">(Par défaut) Permet un défillement plus doux en permettant aux mouvements et au défilement d'utiliser les sous-pixels.</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="no">
+        <source>Perfect gold medal</source>
+        <target state="translated">Médaille d'or Parfaite</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="no">
+        <source>Bronze medal</source>
+        <target state="translated">Médaille de bronze</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="no">
+        <source>Basic Enemies: {0}</source>
+        <target state="translated">Ennemis Basiques : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="no">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="translated">Ennemis Saut+Attaque : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
+        <source>Air Jumps: {0}</source>
+        <target state="translated">Sauts Aériens : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="no">
+        <source>Flight Paths: {0}</source>
+        <target state="translated">Chemins de Vol : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="no">
+        <source>Song Length: {0}</source>
+        <target state="translated">Durée : {0}</target>
+      </trans-unit>
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="no">
+        <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+        <target state="translated">Un niveau créé pour le trailer initial en 2022.
+Il essaie de montrer différentes mécaniques avec de la musique énergique.</target>
       </trans-unit>
     </body>
   </file>
