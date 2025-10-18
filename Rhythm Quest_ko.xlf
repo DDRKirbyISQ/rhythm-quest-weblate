@@ -344,9 +344,10 @@
           <source>Crystal Caverns</source>
           <target>Space Sojourn</target>
         </trans-unit>
-        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
+        <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="no">
           <source>Space Sojourn</source>
-          <target>보너스 월드</target>
+          <target state="translated">월드 6
+Space Sojourn</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
           <source>Sunrise Vista</source>
@@ -626,7 +627,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="no">
           <source>Purchase for {0}?</source>
-          <target state="translated">{0} 코인을 사용해 구매할까요?</target>
+          <target state="translated">&lt;voffset=4m&gt;&lt;sprite name="coin_0"&gt;&lt;/voffset&gt;{0}코인을 사용해 구매할까요?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
           <source>Take It to the Limit</source>
@@ -688,11 +689,11 @@ Remaining:</source>
           <source>World {0} &gt;</source>
           <target>월드 {0} &gt;</target>
         </trans-unit>
-        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
+        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame" approved="no">
           <source>Adjusts audio latency calibration.
 Lower if audio is too early. Raise if audio is too late.</source>
-          <target>오디오 지연 보정을 조정합니다.
-오디오가 너무 빠르다면 줄이시고, 오디오가 너무 늦다면 올리시기 바랍니다.</target>
+          <target state="translated">오디오 지연 보정을 조정합니다.
+오디오가 너무 빠르다면 줄이시고, 오디오가 너무 느리다면 늘리시기 바랍니다.</target>
         </trans-unit>
         <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
           <source>Too Early</source>
@@ -760,14 +761,14 @@ Firefox의 경우 referer 헤더 설정도 살펴보세요:
           <source>Welcome to the Rhythm Quest Demo!</source>
           <target>Rhythm Quest 데모에 오신 걸 환영합니다!</target>
         </trans-unit>
-        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice" approved="no">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
 
 If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Have fun, and thanks for playing!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Rhythm Quest의 초기 데모 빌드입니다. 그래서 일부 레벨만 플레이할 수 있고 게임의 모든 것은 변경될 여지가 있습니다!
+          <target state="translated">이것은 Rhythm Quest의 초기 데모 빌드이므로 일부 레벨만 플레이할 수 있고 게임의 모든 것은 변경될 여지가 있습니다!
 
 Stream에서 게임 찜하기 또는 메일을 구독하거나 게임이 완전히 출시되었을 때 Discord에서 알림을 받고 싶다면 &lt;u&gt;rhythmquestgame.com&lt;/u&gt;에 방문해주세요.
 
@@ -798,13 +799,13 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Visit the Website</source>
           <target>웹사이트 방문</target>
         </trans-unit>
-        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
+        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord" approved="no">
           <source>Join the Discord</source>
-          <target>Discord 참가</target>
+          <target state="translated">Discord에 들어가기</target>
         </trans-unit>
         <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="no">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target state="translated">Rhythm Quest 정식 버전은 6개의 월드에 걸쳐 30개의 레벨, 잠금 해제 가능한 보너스 스테이지, 그리고 더 많은 게임 플레이 메커니즘이 들어갈 예정입니다!</target>
+          <target state="translated">Rhythm Quest의 정식 버전은 6개의 월드에 걸쳐 30개의 레벨, 잠금 해제 가능한 보너스 스테이지, 그리고 더 많은 게임 플레이 메커니즘이 들어갈 예정입니다!</target>
         </trans-unit>
         <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next">
           <source>Next</source>
@@ -1076,13 +1077,13 @@ Would you like to enable screen reader mode?
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
           <target>시각장애인을 위해서 사전 오디오 신호음을 재생합니다.</target>
         </trans-unit>
-        <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button">
+        <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button" approved="no">
           <source>right mouse button</source>
-          <target>마우스 오른쪽</target>
+          <target state="translated">마우스 우클릭</target>
         </trans-unit>
-        <trans-unit id="138026743349686272" xml:space="preserve" resname="left_mouse_button">
+        <trans-unit id="138026743349686272" xml:space="preserve" resname="left_mouse_button" approved="no">
           <source>left mouse button</source>
-          <target>마우스 왼쪽</target>
+          <target state="translated">마우스 좌클릭</target>
         </trans-unit>
         <trans-unit id="138027777304342528" xml:space="preserve" resname="controller_y">
           <source>Y</source>
@@ -1174,15 +1175,15 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="157189963332444160" xml:space="preserve" resname="settings_hidecursor_description_never" approved="no">
           <source>Never hide mouse cursor.</source>
-          <target state="translated">마우스 커서 숨기지 않기.</target>
+          <target state="translated">마우스 커서를 숨기지 않습니다.</target>
         </trans-unit>
         <trans-unit id="157189966771773440" xml:space="preserve" resname="settings_hidecursor_description_in_game" approved="no">
           <source>Hide mouse cursor during gameplay.</source>
-          <target state="translated">게임 중에만 마우스 커서 숨기기.</target>
+          <target state="translated">게임 중에만 마우스 커서를 숨깁니다.</target>
         </trans-unit>
         <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always" approved="no">
           <source>Always hide mouse cursor.</source>
-          <target state="translated">항상 마우스 커서 숨기기.</target>
+          <target state="translated">항상 마우스 커서를 숨깁니다.</target>
         </trans-unit>
         <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor">
           <source>Hide Cursor</source>
@@ -1400,21 +1401,21 @@ Would you like to enable screen reader mode?
           <source>Gamepad Config</source>
           <target>게임패드 설정</target>
         </trans-unit>
-        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default">
+        <trans-unit id="248580361684824064" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_default" approved="no">
           <source>Use default keyboard bindings.</source>
-          <target>기본 키보드 조작법 사용하기.</target>
+          <target state="translated">기본 키보드 조작법을 사용합니다.</target>
         </trans-unit>
         <trans-unit id="248580455838560256" xml:space="preserve" resname="settings_keyboardcustomcontrols_description_custom" approved="no">
           <source>Use custom keyboard bindings.</source>
-          <target state="translated">커스텀 키보드 조작법을 사용합니다.</target>
+          <target state="translated">사용자 지정 키보드 조작법을 사용합니다.</target>
         </trans-unit>
         <trans-unit id="248580766821036032" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_default">
           <source>Use default gamepad bindings.</source>
           <target>기본 게임패드 조작법 사용하기.</target>
         </trans-unit>
-        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom">
+        <trans-unit id="248580770335862784" xml:space="preserve" resname="settings_gamepadcustomcontrols_description_custom" approved="no">
           <source>Use custom gamepad bindings.</source>
-          <target>게임패드 조작법 사용자 지정하기.</target>
+          <target state="translated">사용자 지정 게임패드 조작법을 사용합니다.</target>
         </trans-unit>
         <trans-unit id="249848469561061376" xml:space="preserve" resname="released_early">
           <source>Released Early</source>
@@ -1450,9 +1451,9 @@ Please connect a supported gamepad device.</source>
           <source>Reduces some background effects to improve framerate.</source>
           <target>프레임을 올리기 위해 몇몇 배경 효과를 줄입니다.</target>
         </trans-unit>
-        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal">
+        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal" approved="no">
           <source>Full graphics quality.</source>
-          <target>완전한 그래픽 품질</target>
+          <target state="translated">완전한 그래픽 품질.</target>
         </trans-unit>
         <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality">
           <source>Graphics Quality</source>
@@ -1692,9 +1693,9 @@ Click to insert purple 3-hit ghost enemies.</source>
           <target>&lt;color=#ffff00&gt;유령 적&lt;/color&gt;
 클릭해 보라색 3회 타격 유령 적을 배치합니다.</target>
         </trans-unit>
-        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy">
+        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy" approved="no">
           <source>Insert basic enemy at beat {0}</source>
-          <target>기본 적 배치</target>
+          <target state="translated">{0}박에 기본 적 배치</target>
         </trans-unit>
         <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy" approved="no">
           <source>Insert double hit enemy at beat {0}</source>
@@ -1706,33 +1707,33 @@ Click to insert purple 3-hit ghost enemies.</source>
         </trans-unit>
         <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint" approved="no">
           <source>Insert checkpoint at beat {0}</source>
-          <target state="translated">{0} 박자에 체크포인트 배치</target>
+          <target state="translated">{0}박에 체크포인트 배치</target>
         </trans-unit>
-        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description">
+        <trans-unit id="277028239319019520" xml:space="preserve" resname="editor_tool_checkpoint_description" approved="no">
           <source>&lt;color=#ffff00&gt;Checkpoints&lt;/color&gt;
 Click to insert checkpoints.</source>
-          <target>&lt;color=#ffff00&gt;체크포인트&lt;/color&gt;
-클릭해 체크포인트를 배치합니다. 기존 체크포인트를 클릭해 속성을 수정합니다.</target>
+          <target state="translated">&lt;color=#ffff00&gt;체크포인트&lt;/color&gt;
+클릭해 체크포인트를 배치합니다.</target>
         </trans-unit>
         <trans-unit id="277028648590815232" xml:space="preserve" resname="editor_action_jump" approved="no">
           <source>Insert jump at beat {0}</source>
-          <target state="translated">{0} 박자에 점프 배치</target>
+          <target state="translated">{0}박에 점프 배치</target>
         </trans-unit>
-        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath">
+        <trans-unit id="277028672624177152" xml:space="preserve" resname="editor_action_flightpath" approved="no">
           <source>Insert flight path from beat {0} to {1}</source>
-          <target>비행 경로 배치</target>
+          <target state="translated">{0}박부터 {1}박까지 비행 경로 배치</target>
         </trans-unit>
-        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp">
+        <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp" approved="no">
           <source>Edit ramp from beat {0} to {1}</source>
-          <target>비탈길 편집</target>
+          <target state="translated">{0}박부터 {1}박까지의 비탈길 편집</target>
         </trans-unit>
-        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor">
+        <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor" approved="no">
           <source>Insert floor at beat {0}</source>
-          <target>바닥 배치</target>
+          <target state="translated">{0}박에 바닥 배치</target>
         </trans-unit>
-        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor">
+        <trans-unit id="277028780338098176" xml:space="preserve" resname="editor_action_deletefloor" approved="no">
           <source>Delete floor from beat {0} to {1}</source>
-          <target>바닥 제거</target>
+          <target state="translated">{0}박부터 {1}박까지의 바닥 제거</target>
         </trans-unit>
         <trans-unit id="277028911993106432" xml:space="preserve" resname="editor_undo">
           <source>Undo: {0}</source>
@@ -1742,17 +1743,17 @@ Click to insert checkpoints.</source>
           <source>Redo: {0}</source>
           <target>다시하기: {0}</target>
         </trans-unit>
-        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete">
+        <trans-unit id="277029171696021504" xml:space="preserve" resname="editor_action_delete" approved="no">
           <source>Delete {0} at beat {1}</source>
-          <target>삭제</target>
+          <target state="translated">{0}박의 {1} 삭제</target>
         </trans-unit>
-        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone">
+        <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone" approved="no">
           <source>Insert water zone from beat {0} to {1}</source>
-          <target>수영 구역 배치</target>
+          <target state="translated">{0}박부터 {1}박까지 수영 구역 배치</target>
         </trans-unit>
-        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone">
+        <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone" approved="no">
           <source>Insert speed zone from beat {0} to {1}</source>
-          <target>가속 구역 배치</target>
+          <target state="translated">{0}박부터 {1}박까지 가속 구역 배치</target>
         </trans-unit>
         <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
           <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
