@@ -1752,11 +1752,11 @@ Click to insert purple 3-hit ghost enemies.</source>
         </trans-unit>
         <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy" approved="no">
           <source>Insert double hit enemy at beat {0}</source>
-          <target state="translated">{0} 박자에 2회 타격 적 배치</target>
+          <target state="translated">{0}박에 2회 타격 적 배치</target>
         </trans-unit>
         <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy" approved="no">
           <source>Insert ghost enemy at beat {0}</source>
-          <target state="translated">{0} 박자에 유령 적 배치</target>
+          <target state="translated">{0}박에 유령 적 배치</target>
         </trans-unit>
         <trans-unit id="277028237532246016" xml:space="preserve" resname="editor_action_checkpoint" approved="no">
           <source>Insert checkpoint at beat {0}</source>
@@ -1828,15 +1828,15 @@ Click and drag to insert speed zones.</source>
           <source>Change scroll speed for section {0}</source>
           <target>{0} 구획의 스크롤 속도 변경</target>
         </trans-unit>
-        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy">
+        <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy" approved="no">
           <source>Insert spike enemy at beat {0}</source>
-          <target>{0} 박자에 가시적 배치</target>
+          <target state="translated">{0} 박자에 가시 적 배치</target>
         </trans-unit>
-        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description">
+        <trans-unit id="282978215240970240" xml:space="preserve" resname="editor_tool_spikeenemy_description" approved="no">
           <source>&lt;color=#ffff00&gt;Spike Enemies&lt;/color&gt;
 Click to insert spike enemy jumps.</source>
-          <target>&lt;color=#ffff00&gt;가시 적&lt;/color&gt;
-클릭하여 점프가시 적 배치.</target>
+          <target state="translated">&lt;color=#ffff00&gt;가시 적&lt;/color&gt;
+클릭하여 가시 적 점프 배치.</target>
         </trans-unit>
         <trans-unit id="283376503693815808" xml:space="preserve" resname="editor_tooltip_basicenemy">
           <source>Basic Enemies</source>
