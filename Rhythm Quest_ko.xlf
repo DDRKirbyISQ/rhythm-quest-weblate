@@ -1766,9 +1766,9 @@ Click and drag to insert speed zones.</source>
           <target>&lt;color=#ffff00&gt;가속 구역&lt;/color&gt;
 클릭하고 드래그해 가속 구역을 배치합니다.</target>
         </trans-unit>
-        <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title">
+        <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title" approved="no">
           <source>Scroll speed: Section {0}</source>
-          <target>스크롤 속도: 구획 {0}</target>
+          <target state="translated">스크롤 속도: 구역 {0}</target>
         </trans-unit>
         <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed">
           <source>Change scroll speed for section {0}</source>
@@ -3712,6 +3712,264 @@ This was the song with the slowest tempo in that game, notable for its use of ch
       <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
         <source>Scherzo of Magical Science (RQ Edit)</source>
         <target state="translated">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="no">
+        <source>River Crossing (with Water)</source>
+        <target state="translated">River Crossing (with Water)</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="translated">"Aivi &amp; Surasshu"에 영감을 받아 한자리에서 3시간만에 작곡한 신나는 칩튠 음악입니다.
+시작 멜로디는 "Lonely Rolling Star"의 레퍼런스입니다. 왜냐하면 둘다 그 곡의 재배열을 만들었기 때문입니다.</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="translated">제가 커미션을 받아 제 클래식인 "9 bit" 스타일로 작곡한 Silkworm 에서 제작한 플랫포머 "Super Mega Zero" 의 타이틀 곡이자 트레일러 곡입니다.
+이 곡은 빠르고 에너지가 넘치게 작곡되어 플레이어가 게임에 기대하도록 만들어졌습니다.</target>
+      </trans-unit>
+      <trans-unit id="546527388018454528" xml:space="preserve" resname="particle_stars" approved="no">
+        <source>Stars</source>
+        <target state="translated">별</target>
+      </trans-unit>
+      <trans-unit id="546926689769009152" xml:space="preserve" resname="editor_tool_graphics_description" approved="no">
+        <source>&lt;color=#ffff00&gt;Graphics&lt;/color&gt;
+Click on a checkpoint section to edit its graphics.</source>
+        <target state="translated">&lt;color=#ffff00&gt;그래픽&lt;/color&gt;
+체크포인트 구역을 선택하여 그래픽을 편집하세요.</target>
+      </trans-unit>
+      <trans-unit id="546989651141636096" xml:space="preserve" resname="settings_alternategamepadinput_description_alternate" approved="no">
+        <source>Enable alternate gamepad input handling.
+Try this only if your gamepad does not work.
+May cause doubled inputs otherwise!</source>
+        <target state="translated">대체 게임패드 입력을 활성화 합니다.
+게임패드가 동작하지 않을때만 시도하세요.
+그렇지 않을 경우 이중 입력이 발생할 수 있습니다!</target>
+      </trans-unit>
+      <trans-unit id="554869239016370176" xml:space="preserve" resname="drumcalibration_automatic_description_xbox" approved="no">
+        <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the drum sound</source>
+        <target state="translated">드럼 소리에 맞춰 &lt;sprite name="controller_icons_100"&gt; 를 누르세요</target>
+      </trans-unit>
+      <trans-unit id="554872038705901568" xml:space="preserve" resname="drumcalibration_title" approved="no">
+        <source>Audio Calibration</source>
+        <target state="translated">오디오 보정</target>
+      </trans-unit>
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="no">
+        <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+        <target state="translated">2022년 첫 트레일러를 위해 만드어진 레벨입니다.
+여러 메커니즘과 에너지틱한 음악을 보여주려 시도합니다.</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="translated">이중타격 적: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
+        <source>Checkpoints: {0}</source>
+        <target state="translated">체크포인트: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="no">
+        <source>Normal Jumps: {0}</source>
+        <target state="translated">일반 점프: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="no">
+        <source>Ghost Enemies: {0}</source>
+        <target state="translated">유령 적: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="no">
+        <source>Fast Ghost Enemies: {0}</source>
+        <target state="translated">빠른 유령 적: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="no">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="translated">점프+공격 적: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
+        <source>Air Jumps: {0}</source>
+        <target state="translated">공중 점프: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="no">
+        <source>Flight Paths: {0}</source>
+        <target state="translated">비행 경로: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
+        <source>Water Zones: {0}</source>
+        <target state="translated">수영 구역: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
+        <source>Beats Per Minute: {0}</source>
+        <target state="translated">분당 박자: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="no">
+        <source>Song Length: {0}</source>
+        <target state="translated">곡 길이: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
+        <source>Speed Zones: {0}</source>
+        <target state="translated">가속 구역: {0}</target>
+      </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
+        <source>Perfect</source>
+        <target state="translated">퍼펙트</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
+        <source>Jump Hold+Attack</source>
+        <target state="translated">점프 홀드+공격</target>
+      </trans-unit>
+      <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description" approved="no">
+        <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
+        <target state="translated">점프 홀드 + 공격 한박 전 재생할 신호음을 선택하세요.</target>
+      </trans-unit>
+      <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="no">
+        <source>Spike Enemies: {0}</source>
+        <target state="translated">가시 적: {0}</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">Steve O'Gorman이 만든 "Hero Hours Contract"의 커미션으로 만들어진 곡입니다.
+위험한 과학 실험을 하는 주인공중 가장 어린 "Magical Science Girl"의 테마곡입니다.</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="no">
+        <source>Advanced Settings</source>
+        <target state="translated">고급 설정</target>
+      </trans-unit>
+      <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="no">
+        <source>Beams</source>
+        <target state="translated">빔</target>
+      </trans-unit>
+      <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="no">
+        <source>Diamonds + Stars</source>
+        <target state="translated">다이아몬드 + 별</target>
+      </trans-unit>
+      <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="no">
+        <source>Dots</source>
+        <target state="translated">점</target>
+      </trans-unit>
+      <trans-unit id="546527136267939840" xml:space="preserve" resname="particle_dotsandstars" approved="no">
+        <source>Dots + Stars</source>
+        <target state="translated">점 + 별</target>
+      </trans-unit>
+      <trans-unit id="546527137941467136" xml:space="preserve" resname="particle_dotsfadeinout" approved="no">
+        <source>Fading Dots</source>
+        <target state="translated">사라지는 점</target>
+      </trans-unit>
+      <trans-unit id="546527284469477376" xml:space="preserve" resname="particle_leaves" approved="no">
+        <source>Leaves</source>
+        <target state="translated">낙엽</target>
+      </trans-unit>
+      <trans-unit id="546527310365110272" xml:space="preserve" resname="particle_petals" approved="no">
+        <source>Petals</source>
+        <target state="translated">꽃잎</target>
+      </trans-unit>
+      <trans-unit id="546527321702313984" xml:space="preserve" resname="particle_snow" approved="no">
+        <source>Snow</source>
+        <target state="translated">눈</target>
+      </trans-unit>
+      <trans-unit id="546527335681929216" xml:space="preserve" resname="particle_rain" approved="no">
+        <source>Rain</source>
+        <target state="translated">비</target>
+      </trans-unit>
+      <trans-unit id="546527398986559488" xml:space="preserve" resname="particle_trails" approved="no">
+        <source>Trails</source>
+        <target state="translated">자국</target>
+      </trans-unit>
+      <trans-unit id="546529396163129344" xml:space="preserve" resname="particle_none" approved="no">
+        <source>(None)</source>
+        <target state="translated">(없음)</target>
+      </trans-unit>
+      <trans-unit id="546926692260425728" xml:space="preserve" resname="editor_tooltip_graphics" approved="no">
+        <source>Graphics</source>
+        <target state="translated">그래픽</target>
+      </trans-unit>
+      <trans-unit id="546927294524731392" xml:space="preserve" resname="editor_action_graphics" approved="no">
+        <source>Change graphics for section {0}</source>
+        <target state="translated">{0} 구역의 그래픽 변경</target>
+      </trans-unit>
+      <trans-unit id="546928097410985984" xml:space="preserve" resname="editor_graphics_dialog_title" approved="no">
+        <source>Graphics: Section {0}</source>
+        <target state="translated">그래픽: 구역 {0}</target>
+      </trans-unit>
+      <trans-unit id="546989447839526912" xml:space="preserve" resname="settings_alternategamepadinput" approved="no">
+        <source>Input Mode</source>
+        <target state="translated">입력 방법</target>
+      </trans-unit>
+      <trans-unit id="546989644518830080" xml:space="preserve" resname="settings_alternategamepadinput_description_normal" approved="no">
+        <source>(Default) Use normal gamepad input.</source>
+        <target state="translated">(기본) 일반적인 게임패드 입력을 사용합니다.</target>
+      </trans-unit>
+      <trans-unit id="546990657946562560" xml:space="preserve" resname="settings_alternategamepadinput_alternate" approved="no">
+        <source>Alternate</source>
+        <target state="translated">대체</target>
+      </trans-unit>
+      <trans-unit id="547296436545171456" xml:space="preserve" resname="uap_close" approved="no">
+        <source>Close</source>
+        <target state="translated">닫기</target>
+      </trans-unit>
+      <trans-unit id="554070939442917376" xml:space="preserve" resname="drumcalibration_prompt_title" approved="no">
+        <source>Calibration Check</source>
+        <target state="translated">보정 체크</target>
+      </trans-unit>
+      <trans-unit id="554071137015607296" xml:space="preserve" resname="drumcalibration_prompt_description" approved="no">
+        <source>Is the sound of the drum in time with the animation?</source>
+        <target state="translated">드럼소리가 애니메이션하고 일치하나요?</target>
+      </trans-unit>
+      <trans-unit id="554071667536343040" xml:space="preserve" resname="drumcalibration_notinsync" approved="no">
+        <source>No, it sounds too early or late</source>
+        <target state="translated">아뇨, 소리가 너무 빠르거나 느립니다</target>
+      </trans-unit>
+      <trans-unit id="554867204447580160" xml:space="preserve" resname="drumcalibration_manual_title" approved="no">
+        <source>Manual Calibration</source>
+        <target state="translated">수동 보정</target>
+      </trans-unit>
+      <trans-unit id="554867302229389312" xml:space="preserve" resname="drumcalibration_manual_description" approved="no">
+        <source>Choose the setting where the drum animation most closely matches the timing of the sound.</source>
+        <target state="translated">드럼 애니메이션이 최대한 소리와 일치하는 설정을 선택하세요.</target>
+      </trans-unit>
+      <trans-unit id="554868269746270208" xml:space="preserve" resname="drumcalibration_automatic_title" approved="no">
+        <source>Automatic Calibration</source>
+        <target state="translated">자동 보정</target>
+      </trans-unit>
+      <trans-unit id="554869231915413504" xml:space="preserve" resname="drumcalibration_automatic_description_keyboard" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">드럼 소리에 맞춰 클릭하거나 아무키를 누르세요</target>
+      </trans-unit>
+      <trans-unit id="554869235312799744" xml:space="preserve" resname="drumcalibration_automatic_description_mouse" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">드럼 소리에 맞춰 클릭하거나 아무키를 누르세요</target>
+      </trans-unit>
+      <trans-unit id="554869418767462400" xml:space="preserve" resname="drumcalibration_automatic_description_playstation" approved="no">
+        <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the drum sound</source>
+        <target state="translated">드럼 소리에 맞춰 &lt;sprite name="controller_icons_37"&gt; 를 누르세요</target>
+      </trans-unit>
+      <trans-unit id="554869438883344384" xml:space="preserve" resname="drumcalibration_automatic_description_switch" approved="no">
+        <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the drum sound</source>
+        <target state="translated">드럼 소리에 맞춰 &lt;sprite name="controller_icons_60"&gt; 를 누르세요</target>
+      </trans-unit>
+      <trans-unit id="554869465953382400" xml:space="preserve" resname="drumcalibration_automatic_description_touch" approved="no">
+        <source>Tap in time with the drum sound</source>
+        <target state="translated">드럼 소리에 맞춰 탭하세요</target>
+      </trans-unit>
+      <trans-unit id="554871433715298304" xml:space="preserve" resname="drumcalibration_button_automatic" approved="no">
+        <source>Recalibrate</source>
+        <target state="translated">재보정</target>
+      </trans-unit>
+      <trans-unit id="554871584253063168" xml:space="preserve" resname="drumcalibration_button_manual" approved="no">
+        <source>Adjust Manually</source>
+        <target state="translated">수동으로 조정하기</target>
+      </trans-unit>
+      <trans-unit id="554872353526165504" xml:space="preserve" resname="drumcalibration_description" approved="no">
+        <source>The sound of the drum should be in time with the animation.</source>
+        <target state="translated">드럼 소리가 애니메이션하고 일치하여야합니다.</target>
+      </trans-unit>
+      <trans-unit id="554872559583932416" xml:space="preserve" resname="drumcalibration_currentsetting" approved="no">
+        <source>Current Audio Latency: {0}</source>
+        <target state="translated">현재 오디오 지연: {0}</target>
+      </trans-unit>
+      <trans-unit id="555286575556898816" xml:space="preserve" resname="drumcalibration_automatic_complete_result" approved="no">
+        <source>Audio latency set to {0}</source>
+        <target state="translated">오디오 지연이 {0}로 설정되었습니다</target>
       </trans-unit>
     </body>
   </file>
