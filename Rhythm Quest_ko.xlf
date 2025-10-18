@@ -346,8 +346,7 @@
         </trans-unit>
         <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="no">
           <source>Space Sojourn</source>
-          <target state="translated">월드 6
-Space Sojourn</target>
+          <target state="translated">Space Sojourn</target>
         </trans-unit>
         <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
           <source>Sunrise Vista</source>
@@ -677,9 +676,9 @@ Remaining:</source>
           <source>Start</source>
           <target>시작</target>
         </trans-unit>
-        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
+        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked" approved="no">
           <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
-          <target>이 콘텐츠는 (곧 출시할) Rhythm Quest 풀 버전에서만 즐기실 수 있습니다!</target>
+          <target state="translated">이 콘텐츠는 (곧 출시할) Rhythm Quest 풀 버전에서만 즐기실 수 있습니다</target>
         </trans-unit>
         <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
           <source>&lt; World {0}</source>
@@ -1669,17 +1668,17 @@ Click and drag to move the camera view.</source>
           <target>&lt;color=#ffff00&gt;스크롤&lt;/color&gt;
 클릭하고 드래그해 카메라 시야를 움직입니다.</target>
         </trans-unit>
-        <trans-unit id="276961323401392128" xml:space="preserve" resname="editor_tool_insertfloor_description">
+        <trans-unit id="276961323401392128" xml:space="preserve" resname="editor_tool_insertfloor_description" approved="no">
           <source>&lt;color=#ffff00&gt;Insert Floor&lt;/color&gt;
 Inserts a new blank section of track at the cursor.</source>
-          <target>&lt;color=#ffff00&gt;바닥 배치&lt;/color&gt;
-커서 위치 트랙에 빈 구획을 새로 배치합니다.</target>
+          <target state="translated">&lt;color=#ffff00&gt;바닥 배치&lt;/color&gt;
+커서 위치 트랙에 빈 구간을 새로 배치합니다.</target>
         </trans-unit>
-        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description">
+        <trans-unit id="276961373741428736" xml:space="preserve" resname="editor_tool_deletefloor_description" approved="no">
           <source>&lt;color=#ffff00&gt;Delete Floor&lt;/color&gt;
 Click and drag to delete sections of track along with the associated objects.</source>
-          <target>&lt;color=#ffff00&gt;바닥 제거&lt;/color&gt;
-클릭하고 드래그해 트랙 내 배치한 물체와 구획을 전부 제거합니다.</target>
+          <target state="translated">&lt;color=#ffff00&gt;바닥 제거&lt;/color&gt;
+클릭하고 드래그해 트랙 내 배치한 물체와 구간을 전부 제거합니다.</target>
         </trans-unit>
         <trans-unit id="276961400211681280" xml:space="preserve" resname="editor_tool_doublehitenemy_description">
           <source>&lt;color=#ffff00&gt;Double Hit Enemies&lt;/color&gt;
@@ -1749,23 +1748,23 @@ Click to insert checkpoints.</source>
         </trans-unit>
         <trans-unit id="277238856667672576" xml:space="preserve" resname="editor_action_waterzone" approved="no">
           <source>Insert water zone from beat {0} to {1}</source>
-          <target state="translated">{0}박부터 {1}박까지 수영 구역 배치</target>
+          <target state="translated">{0}박부터 {1}박까지 수영 구간 배치</target>
         </trans-unit>
         <trans-unit id="277238857284235264" xml:space="preserve" resname="editor_action_speedzone" approved="no">
           <source>Insert speed zone from beat {0} to {1}</source>
-          <target state="translated">{0}박부터 {1}박까지 가속 구역 배치</target>
+          <target state="translated">{0}박부터 {1}박까지 가속 구간 배치</target>
         </trans-unit>
-        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description">
+        <trans-unit id="277239104173551616" xml:space="preserve" resname="editor_tool_waterzone_description" approved="no">
           <source>&lt;color=#ffff00&gt;Water Zones&lt;/color&gt;
 Click and drag to insert water zones.</source>
-          <target>&lt;color=#ffff00&gt;수영 구역&lt;/color&gt;
-클릭하고 드래그해 수영 구역을 배치합니다.</target>
+          <target state="translated">&lt;color=#ffff00&gt;수영 구간&lt;/color&gt;
+클릭하고 드래그해 수영 구간을 배치합니다.</target>
         </trans-unit>
-        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description">
+        <trans-unit id="277239131868540928" xml:space="preserve" resname="editor_tool_speedzone_description" approved="no">
           <source>&lt;color=#ffff00&gt;Speed Zones&lt;/color&gt;
 Click and drag to insert speed zones.</source>
-          <target>&lt;color=#ffff00&gt;가속 구역&lt;/color&gt;
-클릭하고 드래그해 가속 구역을 배치합니다.</target>
+          <target state="translated">&lt;color=#ffff00&gt;가속 구간&lt;/color&gt;
+클릭하고 드래그해 가속 구간을 배치합니다.</target>
         </trans-unit>
         <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title" approved="no">
           <source>Scroll speed: Section {0}</source>
@@ -1813,9 +1812,9 @@ Click to insert spike enemy jumps.</source>
           <source>Insert Floor</source>
           <target>바닥 배치</target>
         </trans-unit>
-        <trans-unit id="283376695675498496" xml:space="preserve" resname="editor_tooltip_speedzone">
+        <trans-unit id="283376695675498496" xml:space="preserve" resname="editor_tooltip_speedzone" approved="no">
           <source>Speed Zones</source>
-          <target>가속 구역</target>
+          <target state="translated">가속 구간</target>
         </trans-unit>
         <trans-unit id="283376941830811648" xml:space="preserve" resname="editor_tooltip_scrollspeed">
           <source>Scroll Speed</source>
@@ -1825,9 +1824,9 @@ Click to insert spike enemy jumps.</source>
           <source>Spike Enemies</source>
           <target>가시 적</target>
         </trans-unit>
-        <trans-unit id="283377096353165312" xml:space="preserve" resname="editor_tooltip_waterzone">
+        <trans-unit id="283377096353165312" xml:space="preserve" resname="editor_tooltip_waterzone" approved="no">
           <source>Water Zones</source>
-          <target>수영 구역</target>
+          <target state="translated">수영 구간</target>
         </trans-unit>
         <trans-unit id="283377229648146432" xml:space="preserve" resname="editor_tooltip_delete">
           <source>Delete</source>
@@ -2079,29 +2078,29 @@ Do you want to save them first?</source>
           <source>basic enemy</source>
           <target>기본 적</target>
         </trans-unit>
-        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone">
+        <trans-unit id="302756294465204224" xml:space="preserve" resname="editor_type_speedzone" approved="no">
           <source>speed zone</source>
-          <target>속도 구역</target>
+          <target state="translated">속도 구간</target>
         </trans-unit>
         <trans-unit id="302756394008621056" xml:space="preserve" resname="editor_type_spikeenemy">
           <source>spike enemy</source>
           <target>가시 적</target>
         </trans-unit>
-        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone">
+        <trans-unit id="302756398651715584" xml:space="preserve" resname="editor_type_waterzone" approved="no">
           <source>water zone</source>
-          <target>물 구역</target>
+          <target state="translated">수영 구간</target>
         </trans-unit>
         <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move">
           <source>Move {0} from {1} to {2}</source>
           <target>{0} {1} 에서 {2} 로 이동</target>
         </trans-unit>
-        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend">
+        <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend" approved="no">
           <source>speed zone end</source>
-          <target>속도 구역 종료</target>
+          <target state="translated">가속 구간 종료</target>
         </trans-unit>
-        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend">
+        <trans-unit id="302761729645654016" xml:space="preserve" resname="editor_type_waterzoneend" approved="no">
           <source>water zone end</source>
-          <target>물 구역 종료</target>
+          <target state="translated">수영 구간 종료</target>
         </trans-unit>
         <trans-unit id="302761730312548352" xml:space="preserve" resname="editor_type_flightpathend">
           <source>flight path end</source>
@@ -3738,7 +3737,7 @@ This song was designed to be energetic and fast-paced to get players excited abo
         <source>&lt;color=#ffff00&gt;Graphics&lt;/color&gt;
 Click on a checkpoint section to edit its graphics.</source>
         <target state="translated">&lt;color=#ffff00&gt;그래픽&lt;/color&gt;
-체크포인트 구역을 선택하여 그래픽을 편집하세요.</target>
+체크포인트 구간을 선택하여 그래픽을 편집하세요.</target>
       </trans-unit>
       <trans-unit id="546989651141636096" xml:space="preserve" resname="settings_alternategamepadinput_description_alternate" approved="no">
         <source>Enable alternate gamepad input handling.
@@ -3796,7 +3795,7 @@ It tries to feature different mechanics and high-energy music.</source>
       </trans-unit>
       <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
         <source>Water Zones: {0}</source>
-        <target state="translated">수영 구역: {0}</target>
+        <target state="translated">수영 구간: {0}</target>
       </trans-unit>
       <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
         <source>Beats Per Minute: {0}</source>
@@ -3808,7 +3807,7 @@ It tries to feature different mechanics and high-energy music.</source>
       </trans-unit>
       <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
         <source>Speed Zones: {0}</source>
-        <target state="translated">가속 구역: {0}</target>
+        <target state="translated">가속 구간: {0}</target>
       </trans-unit>
       <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
         <source>Perfect</source>
@@ -3886,11 +3885,11 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
       </trans-unit>
       <trans-unit id="546927294524731392" xml:space="preserve" resname="editor_action_graphics" approved="no">
         <source>Change graphics for section {0}</source>
-        <target state="translated">{0} 구역의 그래픽 변경</target>
+        <target state="translated">{0} 구간의 그래픽 변경</target>
       </trans-unit>
       <trans-unit id="546928097410985984" xml:space="preserve" resname="editor_graphics_dialog_title" approved="no">
         <source>Graphics: Section {0}</source>
-        <target state="translated">그래픽: 구역 {0}</target>
+        <target state="translated">그래픽: 구간 {0}</target>
       </trans-unit>
       <trans-unit id="546989447839526912" xml:space="preserve" resname="settings_alternategamepadinput" approved="no">
         <source>Input Mode</source>
