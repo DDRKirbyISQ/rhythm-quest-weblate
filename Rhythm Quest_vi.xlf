@@ -498,10 +498,6 @@ Bạn có chắc rằng bạn muốn tiếp tục?</target>
           <source>Game data has successfully been erased.</source>
           <target>Dữ liệu trò chơi đã được xóa thành công.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
-          <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target>Nếu bạn muốn hiệu chỉnh độ trễ sau, ban có thể làm vậy ở mục &lt;color=yellow&gt;Cài đặt&lt;/color&gt;.</target>
-        </trans-unit>
         <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
           <source>Done</source>
           <target>Xong</target>
@@ -546,43 +542,9 @@ Bạn có chắc rằng bạn muốn tiếp tục?</target>
           <source>Calibration complete!</source>
           <target>Hiệu chỉnh hoàn thành!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
-          <source>The flashing squares should match the beat.
-Otherwise, you can adjust manually until synced.</source>
-          <target state="needs-translation">Các ô vuông nên nháy cùng với tiếng bíp.
-Nếu không, tự điều chỉnh đến khi phù hợp.</target>
-        </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
           <target>Độ trễ âm thanh: {0}ms</target>
-        </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
-          <source>Audio Lag Calibration</source>
-          <target>Hiệu chỉnh độ trễ âm thanh</target>
-        </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
-          <source>Press any key or click in time with the beeps</source>
-          <target>Nhấn phím bất kì hoặc chuột cùng thời điểm với tiếng bíp</target>
-        </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
-          <source>Press any key or click in time with the beeps</source>
-          <target>Nhấn phím bất kì hoặc chuột cùng thời điểm với tiếng bíp</target>
-        </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
-          <source>Tap in time with the beeps</source>
-          <target>Nhấn cùng thời điểm với tiếng bíp</target>
-        </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
-          <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target>Nhấn &lt;sprite name="controller_icons_100"&gt; cùng thời điểm với tiếng bíp</target>
-        </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
-          <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target>Nhấn &lt;sprite name="controller_icons_37"&gt; cùng thời điểm với tiếng bíp</target>
-        </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
-          <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target>Nhấn &lt;sprite name="controller_icons_60"&gt; cùng thời điểm với tiếng bíp</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
           <source>Yes (Recommended)</source>
@@ -595,10 +557,6 @@ Nếu không, tự điều chỉnh đến khi phù hợp.</target>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
           <source>Spiked Steppes</source>
           <target>Spiked Steppes</target>
-        </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
-          <source>Redo</source>
-          <target>Làm lại</target>
         </trans-unit>
         <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
           <source>Resets all game progress.</source>
@@ -627,14 +585,6 @@ Nếu không, tự điều chỉnh đến khi phù hợp.</target>
         <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
           <source>Cancel</source>
           <target>Hủy</target>
-        </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
-          <source>Calibration failed -- try again!
-Focus on matching the sound of your tap to the beep.
-(green = good)</source>
-          <target>Hiệu chỉnh thất bại - hãy thử lại!
-Tập trung vào tiếng nhấn của bạn sao cho cùng với tiếng bíp.
-(xanh lá = tốt)</target>
         </trans-unit>
         <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
           <source>Your accuracy: {0}%</source>
@@ -1057,10 +1007,6 @@ Dữ liệu được lưu trên trình duyệt và có thể không được b�
         <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
           <target>Lựa chọn tiếng báo hiệu để phát một nhịp trước khi kết hợp nhảy + tấn công.</target>
-        </trans-unit>
-        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
-          <source>Keep going...</source>
-          <target>Tiếp tục nào...</target>
         </trans-unit>
         <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
           <source>Screenreader Mode</source>

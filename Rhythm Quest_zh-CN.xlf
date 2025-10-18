@@ -498,10 +498,6 @@ Are you sure you want to proceed?</source>
           <source>Game data has successfully been erased.</source>
           <target>游戏资料已成功删除。</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
-          <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target>如果你想稍后校准延迟，你可以在&lt;color=yellow&gt;设置&lt;/color&gt;菜单进行该操作。</target>
-        </trans-unit>
         <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="yes">
           <source>Done</source>
           <target state="final">完成</target>
@@ -546,43 +542,9 @@ Are you sure you want to proceed?</source>
           <source>Calibration complete!</source>
           <target state="final">校准完成！</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
-          <source>The flashing squares should match the beat.
-Otherwise, you can adjust manually until synced.</source>
-          <target state="translated">闪光的方块应该与节奏同步。
-如果未同步，请手动调整直到同步。</target>
-        </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
           <target state="final">音频延迟：{0}ms</target>
-        </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
-          <source>Audio Lag Calibration</source>
-          <target>音频延迟校准</target>
-        </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
-          <source>Press any key or click in time with the beeps</source>
-          <target>请随着哔哔声按下任意键或点击屏幕</target>
-        </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
-          <source>Press any key or click in time with the beeps</source>
-          <target>请随着哔哔声按下任意键或点击屏幕</target>
-        </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
-          <source>Tap in time with the beeps</source>
-          <target>跟着哔哔声点击</target>
-        </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
-          <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target>跟着哔哔声按下&lt;sprite name="controller_icons_100"&gt;</target>
-        </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
-          <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target>跟着哔哔声按下&lt;sprite name="controller_icons_37"&gt;</target>
-        </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
-          <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target>跟着哔哔声按下&lt;sprite name="controller_icons_60"&gt;</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
           <source>Yes (Recommended)</source>
@@ -595,10 +557,6 @@ Otherwise, you can adjust manually until synced.</source>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
           <source>Spiked Steppes</source>
           <target>尖刺草原</target>
-        </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo" approved="yes">
-          <source>Redo</source>
-          <target state="final">重新开始</target>
         </trans-unit>
         <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
           <source>Resets all game progress.</source>
@@ -627,14 +585,6 @@ Otherwise, you can adjust manually until synced.</source>
         <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="yes">
           <source>Cancel</source>
           <target state="final">取消</target>
-        </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
-          <source>Calibration failed -- try again!
-Focus on matching the sound of your tap to the beep.
-(green = good)</source>
-          <target>无法完成校准，请重试。
-试着专心与哔哔声同时按键。
-（绿色=操作正确）</target>
         </trans-unit>
         <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
           <source>Your accuracy: {0}%</source>
@@ -1057,10 +1007,6 @@ For the best experience, feel free to try the standalone offline build instead!<
         <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
           <target>选择在需要同时跳跃并攻击前的一拍播放的提示音。</target>
-        </trans-unit>
-        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going" approved="yes">
-          <source>Keep going...</source>
-          <target state="final">继续……</target>
         </trans-unit>
         <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode" approved="yes">
           <source>Screenreader Mode</source>

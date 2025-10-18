@@ -498,10 +498,6 @@ Are you sure you want to proceed?</source>
           <source>Game data has successfully been erased.</source>
           <target>Los datos del juego fueron borrados exitosamente.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
-          <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target>Si quieres hacer calibración de lag luego, puedes siempre hacerlo en el menú de &lt;color=yellow&gt;Opciones&lt;/color&gt;.</target>
-        </trans-unit>
         <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
           <source>Done</source>
           <target>Listo</target>
@@ -546,43 +542,9 @@ Are you sure you want to proceed?</source>
           <source>Calibration complete!</source>
           <target>¡Calibración completa!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
-          <source>The flashing squares should match the beat.
-Otherwise, you can adjust manually until synced.</source>
-          <target state="translated">Las luces parpadeantes deberían estar en sincronía con el ritmo.
-Si no lo están, puedes ajustar manualmente hasta que estén sincronizadas.</target>
-        </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
           <target>Latencia de Audio: {0}ms</target>
-        </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
-          <source>Audio Lag Calibration</source>
-          <target>Calibración de lag de audio</target>
-        </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard" approved="no">
-          <source>Press any key or click in time with the beeps</source>
-          <target state="translated">Presiona cualquier tecla o haz click a la vez que los "beeps"</target>
-        </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse" approved="no">
-          <source>Press any key or click in time with the beeps</source>
-          <target state="translated">Presiona cualquier tecla o haz click a la vez que los "beeps"</target>
-        </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="no">
-          <source>Tap in time with the beeps</source>
-          <target state="translated">Toca a la vez que los "beeps"</target>
-        </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
-          <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target>Presiona &lt;sprite name="controller_icons_100"&gt; a la vez que los "beeps"</target>
-        </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
-          <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target>Presiona &lt;sprite name="controller_icons_37"&gt; a la vez que los "beeps"</target>
-        </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
-          <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target>Presiona &lt;sprite name="controller_icons_60"&gt; a la vez que los "beeps"</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="no">
           <source>Yes (Recommended)</source>
@@ -595,10 +557,6 @@ Si no lo están, puedes ajustar manualmente hasta que estén sincronizadas.</tar
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
           <source>Spiked Steppes</source>
           <target>Estepas Puntiagudas</target>
-        </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
-          <source>Redo</source>
-          <target>Rehacer</target>
         </trans-unit>
         <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
           <source>Resets all game progress.</source>
@@ -627,14 +585,6 @@ Si no lo están, puedes ajustar manualmente hasta que estén sincronizadas.</tar
         <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
           <source>Cancel</source>
           <target>Cancelar</target>
-        </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
-          <source>Calibration failed -- try again!
-Focus on matching the sound of your tap to the beep.
-(green = good)</source>
-          <target>¡Calibración fallida -- prueba otra vez!
-Asegúrate de que el sonido de tu botón sea a la vez que el "beep".
-(verde = bueno)</target>
         </trans-unit>
         <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
           <source>Your accuracy: {0}%</source>
@@ -1057,10 +1007,6 @@ Para una mejor experiencia, prueba la versión de escritorio!</target>
         <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description" approved="no">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
           <target state="translated">Selecciona un sonido guía para reproducir una pulsación antes de un salto + ataque combinado.</target>
-        </trans-unit>
-        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
-          <source>Keep going...</source>
-          <target>Continúa...</target>
         </trans-unit>
         <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
           <source>Screenreader Mode</source>

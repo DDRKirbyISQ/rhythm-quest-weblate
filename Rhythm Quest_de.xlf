@@ -498,10 +498,6 @@ Bist du sicher, dass du fortfahren willst?</target>
           <source>Game data has successfully been erased.</source>
           <target state="final">Die Spieldaten wurden erfolgreich gelöscht.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled" approved="yes">
-          <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target state="final">Wenn du die Latenzkalibrierung später durchführen willst, kannst du das jederzeit im Menü &lt;color=yellow&gt;Einstellungen&lt;/color&gt; tun.</target>
-        </trans-unit>
         <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="yes">
           <source>Done</source>
           <target state="final">Fertig</target>
@@ -546,43 +542,9 @@ Bist du sicher, dass du fortfahren willst?</target>
           <source>Calibration complete!</source>
           <target state="final">Kalibrierung abgeschlossen!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
-          <source>The flashing squares should match the beat.
-Otherwise, you can adjust manually until synced.</source>
-          <target state="needs-translation">Die blinkenden Quadrate sollten nun mit den Signaltönen übereinstimmen.
-Andernfalls musst du die Einstellung manuell vornehmen, bis sie synchronisiert ist.</target>
-        </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
           <target state="final">Audio-Latenz: {0}ms</target>
-        </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title" approved="yes">
-          <source>Audio Lag Calibration</source>
-          <target state="final">Audiolatenz-Kalibrierung</target>
-        </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard" approved="yes">
-          <source>Press any key or click in time with the beeps</source>
-          <target state="final">Klicke oder drücke eine Taste im Takt der Signaltöne</target>
-        </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse" approved="yes">
-          <source>Press any key or click in time with the beeps</source>
-          <target state="final">Klicke oder drücke eine Taste im Takt der Signaltöne</target>
-        </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch" approved="yes">
-          <source>Tap in time with the beeps</source>
-          <target state="final">Tippe im Takt der Signaltöne</target>
-        </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox" approved="yes">
-          <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target state="final">Drücke &lt;sprite name="controller_icons_100"&gt; im Takt der Signaltöne</target>
-        </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation" approved="yes">
-          <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target state="final">Drücke &lt;sprite name="controller_icons_37"&gt; im Takt der Signaltöne</target>
-        </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch" approved="yes">
-          <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target state="final">Drücke &lt;sprite name="controller_icons_60"&gt; im Takt der Signaltöne</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
           <source>Yes (Recommended)</source>
@@ -595,10 +557,6 @@ Andernfalls musst du die Einstellung manuell vornehmen, bis sie synchronisiert i
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1" approved="yes">
           <source>Spiked Steppes</source>
           <target state="final">Stachelige Steppen</target>
-        </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo" approved="yes">
-          <source>Redo</source>
-          <target state="final">Wiederholen</target>
         </trans-unit>
         <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description" approved="yes">
           <source>Resets all game progress.</source>
@@ -627,14 +585,6 @@ Andernfalls musst du die Einstellung manuell vornehmen, bis sie synchronisiert i
         <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="yes">
           <source>Cancel</source>
           <target state="final">Abbrechen</target>
-        </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed" approved="yes">
-          <source>Calibration failed -- try again!
-Focus on matching the sound of your tap to the beep.
-(green = good)</source>
-          <target state="final">Kalibrierung fehlgeschlagen - Versuche es erneut!
-Konzentriere dich darauf, den Klang deines Tippens mit dem Signalton abzustimmen.
-(grün = gut)</target>
         </trans-unit>
         <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy" approved="yes">
           <source>Your accuracy: {0}%</source>
@@ -1057,10 +1007,6 @@ Um die beste Erfahrung zu erhalten, kannst du stattdessen die Offline-Version au
         <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description" approved="yes">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
           <target state="final">Wähle einen Hinweiston, der einen Beat vor einem kombinierten Sprung + Angriff gespielt wird.</target>
-        </trans-unit>
-        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going" approved="yes">
-          <source>Keep going...</source>
-          <target state="final">Weiter so...</target>
         </trans-unit>
         <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode" approved="yes">
           <source>Screenreader Mode</source>

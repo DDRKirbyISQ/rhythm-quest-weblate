@@ -498,10 +498,6 @@ Are you sure you want to proceed?</source>
           <source>Game data has successfully been erased.</source>
           <target>Speldatan har blivit rensad.</target>
         </trans-unit>
-        <trans-unit id="5029529484091392" xml:space="preserve" resname="calibration_cancelled">
-          <source>If you want to perform lag calibration later, you can always do so in the &lt;color=yellow&gt;Settings&lt;/color&gt; menu.</source>
-          <target>Om du vill kalibrera fördröjningen senare kan du alltid göra det i &lt;color=yellow&gt;inställningsmenyn&lt;/color&gt;.</target>
-        </trans-unit>
         <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
           <source>Done</source>
           <target>Klart</target>
@@ -546,43 +542,9 @@ Are you sure you want to proceed?</source>
           <source>Calibration complete!</source>
           <target>Kalibreringen är klar!</target>
         </trans-unit>
-        <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
-          <source>The flashing squares should match the beat.
-Otherwise, you can adjust manually until synced.</source>
-          <target state="needs-translation">De blinkade fyrkanterna borde nu vara synkade med tonerna.
-Justera annars så att de blir synkade.</target>
-        </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
           <target>Ljudfördröjning: {0}ms</target>
-        </trans-unit>
-        <trans-unit id="7981598511816704" xml:space="preserve" resname="calibration_title">
-          <source>Audio Lag Calibration</source>
-          <target>Kalibrering av ljudfördröjning</target>
-        </trans-unit>
-        <trans-unit id="7982021289271296" xml:space="preserve" resname="calibration_button_keyboard">
-          <source>Press any key or click in time with the beeps</source>
-          <target>Tryck på Mellanslag (eller klicka) i takt med tonerna</target>
-        </trans-unit>
-        <trans-unit id="7982045100335104" xml:space="preserve" resname="calibration_button_mouse">
-          <source>Press any key or click in time with the beeps</source>
-          <target>Tryck på Mellanslag (eller klicka) i takt med tonerna</target>
-        </trans-unit>
-        <trans-unit id="7982115648528384" xml:space="preserve" resname="calibration_button_touch">
-          <source>Tap in time with the beeps</source>
-          <target>Klicka i takt med tonerna</target>
-        </trans-unit>
-        <trans-unit id="7982476413198336" xml:space="preserve" resname="calibration_button_xbox">
-          <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the beeps</source>
-          <target>Klicka &lt;sprite name="controller_icons_100"&gt; i takt med tonerna</target>
-        </trans-unit>
-        <trans-unit id="7982514858188800" xml:space="preserve" resname="calibration_button_playstation">
-          <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the beeps</source>
-          <target>Klicka &lt;sprite name="controller_icons_37"&gt; i takt med tonerna</target>
-        </trans-unit>
-        <trans-unit id="7982531127894016" xml:space="preserve" resname="calibration_button_switch">
-          <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the beeps</source>
-          <target>Klicka &lt;sprite name="controller_icons_60"&gt; i takt med tonerna</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
           <source>Yes (Recommended)</source>
@@ -595,10 +557,6 @@ Justera annars så att de blir synkade.</target>
         <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
           <source>Spiked Steppes</source>
           <target>Spiked Steppes</target>
-        </trans-unit>
-        <trans-unit id="10830988270624768" xml:space="preserve" resname="calibration_redo">
-          <source>Redo</source>
-          <target>Börja om</target>
         </trans-unit>
         <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
           <source>Resets all game progress.</source>
@@ -627,14 +585,6 @@ Justera annars så att de blir synkade.</target>
         <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
           <source>Cancel</source>
           <target>Avbryt</target>
-        </trans-unit>
-        <trans-unit id="28258913007263744" xml:space="preserve" resname="calibration_failed">
-          <source>Calibration failed -- try again!
-Focus on matching the sound of your tap to the beep.
-(green = good)</source>
-          <target>Kalibreringen misslyckades -- försök igen!
-Fokusera på att synka ljudet av ditt klick med tonen.
-(grön = bra)</target>
         </trans-unit>
         <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
           <source>Your accuracy: {0}%</source>
@@ -1056,10 +1006,6 @@ Testa den nedladdningsbara versionen för än ännu bättre spelupplevelse!</tar
         <trans-unit id="128300868060360704" xml:space="preserve" resname="settings_audiocuejumpattack_description">
           <source>Select a cue sound to play one beat before a combined jump + attack.</source>
           <target>Välj ett hjälpljud att spela upp en takt innan en hoppattack.</target>
-        </trans-unit>
-        <trans-unit id="130128389542293504" xml:space="preserve" resname="calibration_button_keep_going">
-          <source>Keep going...</source>
-          <target>Fortsätt...</target>
         </trans-unit>
         <trans-unit id="134459231982891008" xml:space="preserve" resname="settings_screenreadermode">
           <source>Screenreader Mode</source>
