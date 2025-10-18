@@ -549,8 +549,8 @@ Are you sure you want to proceed?</source>
         <trans-unit id="7948431990022144" xml:space="preserve" resname="calibration_squares" approved="no">
           <source>The flashing squares should match the beat.
 Otherwise, you can adjust manually until synced.</source>
-          <target state="needs-translation">이제 깜박이는 사각형이 삐 소리와 일치해야 합니다.
-그렇지 않다면 싱크가 맞을 때까지 수동으로 조정하세요.</target>
+          <target state="translated">이제 깜박이는 사각형이 박자와 일치해야 합니다.
+그렇지 않다면 싱크가 맞을 때까지 수동으로 조정할수도 있습니다.</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
@@ -880,9 +880,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Resolution Settings...</source>
           <target>해상도 설정...</target>
         </trans-unit>
-        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata">
+        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata" approved="no">
           <source>Data Reset...</source>
-          <target>데이터 초기화</target>
+          <target state="translated">데이터 초기화...</target>
         </trans-unit>
         <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description">
           <source>Resets settings to default values.</source>
@@ -1226,17 +1226,17 @@ Would you like to enable screen reader mode?
           <source>Always</source>
           <target>항상</target>
         </trans-unit>
-        <trans-unit id="157189963332444160" xml:space="preserve" resname="settings_hidecursor_description_never">
+        <trans-unit id="157189963332444160" xml:space="preserve" resname="settings_hidecursor_description_never" approved="no">
           <source>Never hide mouse cursor.</source>
-          <target>마우스 커서 숨기지 않기</target>
+          <target state="translated">마우스 커서 숨기지 않기.</target>
         </trans-unit>
-        <trans-unit id="157189966771773440" xml:space="preserve" resname="settings_hidecursor_description_in_game">
+        <trans-unit id="157189966771773440" xml:space="preserve" resname="settings_hidecursor_description_in_game" approved="no">
           <source>Hide mouse cursor during gameplay.</source>
-          <target>게임 중에만 마우스 커서 숨기기</target>
+          <target state="translated">게임 중에만 마우스 커서 숨기기.</target>
         </trans-unit>
-        <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always">
+        <trans-unit id="157189969821032448" xml:space="preserve" resname="settings_hidecursor_description_always" approved="no">
           <source>Always hide mouse cursor.</source>
-          <target>항상 마우스 커서 숨기기</target>
+          <target state="translated">항상 마우스 커서 숨기기.</target>
         </trans-unit>
         <trans-unit id="157191601552089088" xml:space="preserve" resname="settings_hidecursor">
           <source>Hide Cursor</source>
@@ -2038,9 +2038,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>New level created</source>
           <target>신규 레벨 생성됨</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="no">
           <source>File...</source>
-          <target>파일</target>
+          <target state="translated">파일...</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2084,9 +2084,9 @@ Do you want to save them first?</source>
           <source>Don't Save</source>
           <target>저장하지 않음</target>
         </trans-unit>
-        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings" approved="no">
           <source>Settings...</source>
-          <target>설정</target>
+          <target state="translated">설정...</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -2392,19 +2392,19 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>Browse custom levels on mod.io</source>
           <target>mod.io 에서 사용자 레벨을 찾아보세요</target>
         </trans-unit>
-        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels">
+        <trans-unit id="326598048029126656" xml:space="preserve" resname="menu_description_importlevels" approved="no">
           <source>Import new custom levels.
 
 You can import levels from:
 - Locally-saved ".rqzip" files
 - Public ".rqzip" URL downloads
 - Fan creations in Steam Workshop</source>
-          <target>새로운 커스텀 레벨 가져오기.
+          <target state="translated">새로운 커스텀 레벨 가져오기.
 
+아래로 부터 가져올 수 있습니다.
 - 로컬에 저장된 '.rqzip' 파일
 - 공용 ".rqzip' URL 다운로드
-- 스팀 창작마당의 유저 창작물
-로 부터 가져올 수 있습니다.</target>
+- 스팀 창작마당의 유저 창작물</target>
         </trans-unit>
         <trans-unit id="326881399025741824" xml:space="preserve" resname="customlevelimporter_urlinput">
           <source>Enter one or more URL(s) to .rqzip files to download:
@@ -2610,9 +2610,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Spikes</source>
           <target>가시</target>
         </trans-unit>
-        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description">
+        <trans-unit id="357290327353896960" xml:space="preserve" resname="settings_menu_colorskins_beatgrids_description" approved="no">
           <source>Change the color of floor beat markers.</source>
-          <target>바닥 박자 마커의 색상을 변경합니다</target>
+          <target state="translated">바닥 박자 마커의 색상을 변경합니다.</target>
         </trans-unit>
         <trans-unit id="357290329144864768" xml:space="preserve" resname="settings_menu_colorskins_enemies_description">
           <source>Change the color of enemies.</source>
@@ -3211,7 +3211,7 @@ mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하�
       </trans-unit>
       <trans-unit id="367934552521093120" xml:space="preserve" resname="modio_publishflow_creatingmodprofile" approved="no">
         <source>Creating mod.io mod profile...</source>
-        <target state="needs-translation">mod.io 프로필 생성 중...</target>
+        <target state="translated">mod.io 프로필 생성 중...</target>
       </trans-unit>
       <trans-unit id="367950009093369856" xml:space="preserve" resname="modio_publishflow_updatingmodprofile" approved="no">
         <source>Updating mod.io mod profile...</source>
@@ -3287,7 +3287,7 @@ mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하�
       </trans-unit>
       <trans-unit id="387458200785170432" xml:space="preserve" resname="editor_settings_gridsnap_fine" approved="no">
         <source>Fine</source>
-        <target state="needs-translation">정교하게</target>
+        <target state="translated">정교하게</target>
       </trans-unit>
       <trans-unit id="392089306998288384" xml:space="preserve" resname="settings_practicehelpers" approved="no">
         <source>Helpers</source>
@@ -3332,8 +3332,9 @@ for {1}?</source>
 {0}</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="needs-translation">구매가:
+        <source>Purchase for
+{0}</source>
+        <target state="translated">구매가:
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
@@ -3485,7 +3486,7 @@ The identity of the titular "Elise" is uncertain, but is thought to be an close 
       <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
         <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
 The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
-        <target state="needs-translation">볼프강 아마데우스 모차르트의 피아노 소나타 11번 A장조 3악장은 "론도 알라 투르카(Rondo alla Turca)" 또는 "터키 행진곡(Turkish March)"으로도 알려져 있으며 단번에 알아볼 수 있는 멜로디입니다.
+        <target state="translated">볼프강 아마데우스 모차르트의 피아노 소나타 11번 A장조 3악장은 "론도 알라 투르카(Rondo alla Turca)" 또는 "터키 행진곡(Turkish March)"으로도 알려져 있으며 단번에 알아볼 수 있는 멜로디입니다.
 이 곡은 터키 제국의 군악대 스타일을 모방한 것으로 알려져 있습니다.</target>
       </trans-unit>
       <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="no">
@@ -3545,7 +3546,7 @@ Tap right half of screen to jump, tap left half to attack.</source>
       <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
         <source>Proceed through song sections normally.
 Restart from the beginning when reaching the end of the level.</source>
-        <target state="needs-translation">노래 섹션을 정상적으로 진행합니다.
+        <target state="translated">노래 섹션을 정상적으로 진행합니다.
 레벨의 끝에 도달하면 처음부터 다시 시작합니다.</target>
       </trans-unit>
       <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
@@ -3607,6 +3608,164 @@ Tap left half of screen to jump, tap right half to attack.</source>
 The piece was originally written as a composition for a string quintet.</source>
         <target state="translated">볼프강 아마데우스 모차르트의 현악 세레나데 13번 G장조 1악장은 "아이네 클라이네 나흐트무지크(Eine kleine Nachtmusik)" 또는 "작은 밤의 음악(a little night music)"으로 알려져 있으면서도 모차르트의 가장 유명한 작품 중 하나죠.
 이 곡은 원래 현악 5중주를 위한 곡으로 작곡되었습니다.</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="translated">제가 2015년 Ludum Dare game jam을 위해 제작한 게임 "Melody Muncher"에 처음 등장했습니다.
+이 곡은 게임에서 가장 느린 곡입니다. 때리면 뒤로 텔레포트 하는 파란적을 소개하기 위해 만들어졌습니다.</target>
+      </trans-unit>
+      <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="no">
+        <source>Static</source>
+        <target state="translated">고정</target>
+      </trans-unit>
+      <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="no">
+        <source>Each</source>
+        <target state="translated">각자</target>
+      </trans-unit>
+      <trans-unit id="516854789449756672" xml:space="preserve" resname="menu_settings_rumble_switch" approved="no">
+        <source>Rumble</source>
+        <target state="translated">진동</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="no">
+        <source>Vibration</source>
+        <target state="translated">진동</target>
+      </trans-unit>
+      <trans-unit id="516855053724463104" xml:space="preserve" resname="menu_settings_data" approved="no">
+        <source>Data</source>
+        <target state="translated">데이터</target>
+      </trans-unit>
+      <trans-unit id="516855193168293888" xml:space="preserve" resname="menu_settings_visuals" approved="no">
+        <source>Visuals</source>
+        <target state="translated">비주얼</target>
+      </trans-unit>
+      <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="no">
+        <source>Timing</source>
+        <target state="translated">타이밍</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
+        <source>Calibration</source>
+        <target state="translated">보정</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="no">
+        <source>Gameplay</source>
+        <target state="translated">게임플레이</target>
+      </trans-unit>
+      <trans-unit id="517151724282884096" xml:space="preserve" resname="menu_settings_keyboard" approved="no">
+        <source>Keyboard</source>
+        <target state="translated">키보드</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="no">
+        <source>Gamepad</source>
+        <target state="translated">게임패드</target>
+      </trans-unit>
+      <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="no">
+        <source>Mouse</source>
+        <target state="translated">마우스</target>
+      </trans-unit>
+      <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled" approved="no">
+        <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+        <target state="translated">(기본값) 서브픽셀 단위의 움직임을 허용하여 스크롤을 부드럽게 합니다.</target>
+      </trans-unit>
+      <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled" approved="no">
+        <source>Forces movement and scrolling by whole pixel amounts.</source>
+        <target state="translated">이동과 스크롤을 픽셀단위로 강제합니다.</target>
+      </trans-unit>
+      <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping" approved="no">
+        <source>Pixel Clamping</source>
+        <target state="translated">픽셀 강제</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="no">
+        <source>Previous Page</source>
+        <target state="translated">이전 페이지</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="no">
+        <source>Next Page</source>
+        <target state="translated">다음 페이지</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="no">
+        <source>Previous</source>
+        <target state="translated">이전</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="no">
+        <source>Next</source>
+        <target state="translated">다음</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
+        <source>{0} out of {1} coins</source>
+        <target state="translated">{1} 중 {0} 코인</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="no">
+        <source>Perfect gold medal</source>
+        <target state="translated">퍼펙트 금메달</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="no">
+        <source>Gold medal</source>
+        <target state="translated">금메달</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="no">
+        <source>Silver medal</source>
+        <target state="translated">은메달</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="no">
+        <source>Bronze medal</source>
+        <target state="translated">동메달</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="no">
+        <source>No medal</source>
+        <target state="translated">메달 없음</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="no">
+        <source>{0} coins</source>
+        <target state="translated">{0} 코인</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="no">
+        <source>Basic Enemies: {0}</source>
+        <target state="translated">기본 적 : {0}</target>
+      </trans-unit>
+      <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="no">
+        <source>Flying Enemies: {0}</source>
+        <target state="translated">비행 적: {0}</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">볼프강 아마데우스 모차르트의 소나타 16번 C 장조 1악장은 생기있고 익숙한 정형적인 모차르트의 작품입니다.
+또한 "쉬운 소나타"로서 "초보자를 위한 쉬운 곡"으로도 알려졌습니다.</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">"왕벌의 비행"은 "살탄 황제의 이야기"을 위해 쓰인 유명한 오케스트라 간주곡입니다. 호박벌의 혼란스러운 비행을 연상하도록 작곡되었습니다.
+지속적인 16분 음표는 굉장한 에너지감을 줍니다.</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="translated">제가 2015년 Ludum Dare game jam을 위해 제작한 게임 "Melody Muncher"에 처음 등장했습니다.
+Melody Muncher 의 게임 메카닉이 Rhythm Quest 와 유사하여 자연스럽게 수록되었습니다.</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="translated">따듯한 아날로그 신스와 같이 "신스웨이브" 음악의 요소들을 활용한 곡입니다.
+아날로그 레코드 판의 효과를 재현하여 "빈티지" 한 느낌을 소리에 더하였습니다.</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="translated">제가 2015년 Ludum Dare game jam을 위해 제작한 게임 "Melody Muncher"에 처음 등장했습니다.
+이 곡은 "Expert mix" 버전입니다. jam 이후 업데이트에서 난이도를 올리기 위해 추가되었습니다.</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="translated">Rhythm Quest의 정신적 전작인 저의 옛날 리듬게임 "Ripple Runner Deluxe"에서 처음 등장했습니다.
+탬포가 게임에서 제일 느린 곡이었으며, 연속된 가시 플랫폼이 인상적이었습니다.</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">Scherzo of Magical Science (RQ Edit)</target>
       </trans-unit>
     </body>
   </file>
