@@ -1768,11 +1768,11 @@ Click and drag to insert speed zones.</source>
         </trans-unit>
         <trans-unit id="282975328922284032" xml:space="preserve" resname="editor_scrollspeed_dialog_title" approved="no">
           <source>Scroll speed: Section {0}</source>
-          <target state="translated">스크롤 속도: 구역 {0}</target>
+          <target state="translated">스크롤 속도: {0}구간</target>
         </trans-unit>
-        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed">
+        <trans-unit id="282975381174923264" xml:space="preserve" resname="editor_action_scrollspeed" approved="no">
           <source>Change scroll speed for section {0}</source>
-          <target>{0} 구획의 스크롤 속도 변경</target>
+          <target state="translated">{0} 구간의 스크롤 속도 변경</target>
         </trans-unit>
         <trans-unit id="282977322814713856" xml:space="preserve" resname="editor_action_spikeenemy" approved="no">
           <source>Insert spike enemy at beat {0}</source>
@@ -1856,11 +1856,11 @@ Click to insert spike enemy jumps.</source>
           <source>Level Editor</source>
           <target>레벨 편집기</target>
         </trans-unit>
-        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description">
+        <trans-unit id="285486538565660672" xml:space="preserve" resname="editor_tool_scrollspeed_description" approved="no">
           <source>&lt;color=#ffff00&gt;Scroll Speed&lt;/color&gt;
 Click on a checkpoint section to edit its scrolling speed.</source>
-          <target>&lt;color=#fffff00&gt;스크롤 속도&lt;/color&gt;
-체크포인트 구획을 클릭하여 스크롤 속도 수정.</target>
+          <target state="translated">&lt;color=#fffff00&gt;스크롤 속도&lt;/color&gt;
+체크포인트 구간을 클릭하여 스크롤 속도 수정.</target>
         </trans-unit>
         <trans-unit id="285910580783263744" xml:space="preserve" resname="settings_metronome">
           <source>Metronome</source>
@@ -1870,13 +1870,13 @@ Click on a checkpoint section to edit its scrolling speed.</source>
           <source>Use a metronome that beeps on each beat.</source>
           <target>각 박자에 부저음이 울리는 메트로놈 사용.</target>
         </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
+        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description" approved="no">
           <source>Modifiers that affect music and audio playback.</source>
-          <target>음악과 소리 재생에 영향을 주는 변형들.</target>
+          <target state="translated">음악과 소리 재생에 영향을 주는 변형.</target>
         </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
+        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description" approved="no">
           <source>Modifiers that affect gameplay and unlocks.</source>
-          <target>게임플레이와 해금요소를 변형합니다.</target>
+          <target state="translated">게임플레이와 해금요소에 영향을 주는 변형.</target>
         </trans-unit>
         <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
           <source>Gameplay Mods...</source>
@@ -1908,7 +1908,7 @@ Click on a checkpoint section to edit its scrolling speed.</source>
         </trans-unit>
         <trans-unit id="286257077416669184" xml:space="preserve" resname="editor_text_musicnotloaded" approved="no">
           <source>Music not loaded!</source>
-          <target state="translated">음악 불러오지 않음!</target>
+          <target state="translated">음악을 불러오지 않았습니다!</target>
         </trans-unit>
         <trans-unit id="286257733451952128" xml:space="preserve" resname="editor_button_replacemusic">
           <source>Replace</source>
@@ -1924,9 +1924,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <target>&lt;color=#ffff00&gt;미리보기&lt;/color&gt;
 클릭하여 지점으로 부터 레벨 미리보기. 다시 눌러 중단.</target>
         </trans-unit>
-        <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties">
+        <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties" approved="no">
           <source>Edit music data</source>
-          <target>음악데이터 수정</target>
+          <target state="translated">음악 정보 수정</target>
         </trans-unit>
         <trans-unit id="287731387545202688" xml:space="preserve" resname="editor_input_firstbeattime">
           <source>First beat time:</source>
@@ -1968,9 +1968,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>Save As</source>
           <target>다른 이름으로 저장</target>
         </trans-unit>
-        <trans-unit id="299037803648167936" xml:space="preserve" resname="editor_button_newlevel">
+        <trans-unit id="299037803648167936" xml:space="preserve" resname="editor_button_newlevel" approved="no">
           <source>New</source>
-          <target>신규</target>
+          <target state="translated">새로 만들기</target>
         </trans-unit>
         <trans-unit id="299088209224970240" xml:space="preserve" resname="editor_notification_save">
           <source>Level saved: {0}</source>
@@ -1980,9 +1980,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>Level loaded: {0}</source>
           <target>레벨 불러옴: {0}</target>
         </trans-unit>
-        <trans-unit id="299088264182935552" xml:space="preserve" resname="editor_notification_new">
+        <trans-unit id="299088264182935552" xml:space="preserve" resname="editor_notification_new" approved="no">
           <source>New level created</source>
-          <target>신규 레벨 생성됨</target>
+          <target state="translated">새 레벨 생성 완료</target>
         </trans-unit>
         <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="no">
           <source>File...</source>
@@ -1992,9 +1992,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>Music</source>
           <target>음악</target>
         </trans-unit>
-        <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test">
+        <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test" approved="no">
           <source>Test Level</source>
-          <target>레벨테스트</target>
+          <target state="translated">레벨 테스트</target>
         </trans-unit>
         <trans-unit id="299090153335205888" xml:space="preserve" resname="editor_menu_quit">
           <source>Quit</source>
@@ -2090,9 +2090,9 @@ Do you want to save them first?</source>
           <source>water zone</source>
           <target state="translated">수영 구간</target>
         </trans-unit>
-        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move">
+        <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move" approved="no">
           <source>Move {0} from {1} to {2}</source>
-          <target>{0} {1} 에서 {2} 로 이동</target>
+          <target state="translated">{0} - {1} 에서 {2} 로 이동</target>
         </trans-unit>
         <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend" approved="no">
           <source>speed zone end</source>
@@ -2188,9 +2188,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Load Image</source>
           <target>이미지 불러오기</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
+        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage" approved="no">
           <source>Replace Image</source>
-          <target>이미지 교체</target>
+          <target state="translated">이미지 바꾸기</target>
         </trans-unit>
         <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
           <source>Estimated Difficulty: {0}</source>
@@ -2200,9 +2200,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
           <target>이미지 파일이 너무 큽니다! ({0} MB) {1} MB 이하의 이미지를 고르십시오.</target>
         </trans-unit>
-        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay">
+        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay" approved="no">
           <source>Chart by {0}</source>
-          <target>{0} 의 차트</target>
+          <target state="translated">{0} 의 채보</target>
         </trans-unit>
         <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder">
           <source>Open levels folder</source>
@@ -2228,9 +2228,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Export</source>
           <target>내보내기</target>
         </trans-unit>
-        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export">
+        <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export" approved="no">
           <source>Level exported: {0}</source>
-          <target>레벨 내보냄: {0}</target>
+          <target state="translated">레벨 내보기 완료: {0}</target>
         </trans-unit>
         <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing">
           <source>Couldn't find music for this level</source>
@@ -2282,21 +2282,21 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>Import New Levels</source>
           <target>새 레벨 가져오기</target>
         </trans-unit>
-        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount" approved="no">
           <source>({0} Levels)</source>
-          <target>({0} 레벨)</target>
+          <target state="translated">(레벨 수: {0})</target>
         </trans-unit>
         <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
           <source>Already in custom level directory</source>
           <target>이미 사용자 레벨 디렉토리에 있습니다</target>
         </trans-unit>
-        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading">
+        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading" approved="no">
           <source>Downloading...</source>
-          <target>내려받는 중...</target>
+          <target state="translated">다운로드 중...</target>
         </trans-unit>
-        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload" approved="no">
           <source>Download failed</source>
-          <target>내려받기 실패</target>
+          <target state="translated">다운로드 실패</target>
         </trans-unit>
         <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
           <source>Missing {0} file</source>
@@ -2322,9 +2322,9 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>Browse from disk</source>
           <target>디스크에서 탐색하기</target>
         </trans-unit>
-        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu">
+        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu" approved="no">
           <source>Download from URL(s)</source>
-          <target>URL에서 내려받기</target>
+          <target state="translated">URL에서 다운로드</target>
         </trans-unit>
         <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
           <source>Drag .rqzip files here</source>
@@ -2347,7 +2347,7 @@ You can import levels from:
 - Fan creations in Steam Workshop</source>
           <target state="translated">새로운 커스텀 레벨 가져오기.
 
-아래로 부터 가져올 수 있습니다.
+다음으로부터 가져올 수 있습니다:
 - 로컬에 저장된 '.rqzip' 파일
 - 공용 ".rqzip' URL 다운로드
 - 스팀 창작마당의 유저 창작물</target>
@@ -2358,9 +2358,9 @@ You can import levels from:
           <target>하나 이상의 .rqzip 파일 다운로드 URL(들)을 입력하십시오:
 (각 URL을 다른 줄에 입력하십시오)</target>
         </trans-unit>
-        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download" approved="no">
           <source>Download</source>
-          <target>내려받기</target>
+          <target state="translated">다운로드</target>
         </trans-unit>
         <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
           <source>Paste from Clipboard</source>
@@ -2396,37 +2396,37 @@ Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
           <target state="translated">노래의 주가 되는 피치/조성을 선택해주세요.
 주의: 동전 효과음은 완전5도로 재생됩니다
-(예: C의 조성 - &gt; 코인 노트는 C 와 G가 됩니다)</target>
+(예: C의 조성 - &gt; 코인 노트는 C와 G가 됩니다)</target>
         </trans-unit>
-        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
+        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title" approved="no">
           <source>Palette: Section {0}</source>
-          <target>팔레트: 구획 {0}</target>
+          <target state="translated">팔레트: {0}구간</target>
         </trans-unit>
-        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
+        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette" approved="no">
           <source>Change color palette for section {0}</source>
-          <target>{0} 구획의 색상 팔레트 변경</target>
+          <target state="translated">{0} 구간의 색상 팔레트 변경</target>
         </trans-unit>
-        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description">
+        <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description" approved="no">
           <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
 Click on a checkpoint section to edit its color palette.</source>
-          <target>&lt;color=#ffff00&gt;팔레트&lt;/color&gt;
-체크포인트 구획을 클릭하여 색상 팔레트 수정.</target>
+          <target state="translated">&lt;color=#ffff00&gt;팔레트&lt;/color&gt;
+체크포인트 구간을 클릭하여 색상 팔레트 수정.</target>
         </trans-unit>
         <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
           <source>Palettes</source>
           <target>팔레트</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
+        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="no">
           <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
 Do you still want to continue?</source>
-          <target>현재, Rhythm Quest 레벨 편집기를 사용하려면 마우스나 다른 포인팅 장치가 필요합니다.
+          <target state="translated">Rhythm Quest 레벨 편집기를 사용하려면 마우스나 다른 포인팅 장치가 필요합니다.
 정말로 계속하시겠습니까?</target>
         </trans-unit>
-        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
+        <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="no">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
-          <target>&lt;color=#ffff00&gt;파티클&lt;/color&gt;
-체크포인트 구획을 클릭하여 파티클 효과를 수정.</target>
+          <target state="translated">&lt;color=#ffff00&gt;파티클&lt;/color&gt;
+체크포인트 구간을 클릭하여 파티클 효과를 수정.</target>
         </trans-unit>
         <trans-unit id="338839622674853888" xml:space="preserve" resname="editor_tooltip_particles">
           <source>Particles</source>
@@ -2434,11 +2434,11 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="338839638663540736" xml:space="preserve" resname="editor_action_particles" approved="no">
           <source>Change particle effects for section {0}</source>
-          <target state="translated">{0} 구가의 파티클 효과 수정</target>
+          <target state="translated">{0}구간의 파티클 효과 수정</target>
         </trans-unit>
         <trans-unit id="338839889763938304" xml:space="preserve" resname="editor_particles_dialog_title" approved="no">
           <source>Particles: Section {0}</source>
-          <target state="translated">파티클: {0}구간</target>
+          <target state="translated">입자: {0}구간</target>
         </trans-unit>
         <trans-unit id="338839989898752000" xml:space="preserve" resname="particles_none">
           <source>None</source>
@@ -2500,17 +2500,17 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>As the Cherry Blossom Falls</source>
           <target>As the Cherry Blossom Falls</target>
         </trans-unit>
-        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
+        <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description" approved="no">
           <source>Adjust the visual position of enemies relative to the beat.</source>
-          <target>박자에 비례하여 적의 시각적 위치를 조정.</target>
+          <target state="translated">박자에 비례하여 적의 시각적 위치를 조정합니다.</target>
         </trans-unit>
         <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
           <source>Enemy Spacing</source>
           <target>적 간격</target>
         </trans-unit>
-        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description">
+        <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description" approved="no">
           <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
-          <target>적의 시각적 위치를 조정 (박자의 비례하여 타이밍을 조정하지 않습니다).</target>
+          <target state="translated">적의 시각적 위치를 조정합니다 (박자의 비례하여 타이밍을 조정하지 않습니다).</target>
         </trans-unit>
         <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
           <source>Let's Have an Adventure!</source>
@@ -2564,17 +2564,17 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Change the color of enemies.</source>
           <target>적의 색을 변경합니다.</target>
         </trans-unit>
-        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description">
+        <trans-unit id="357290330516402176" xml:space="preserve" resname="settings_menu_colorskins_spikes_description" approved="no">
           <source>Change the color of rolling spike obstacles.</source>
-          <target>구르는 가시 장애물의 색상을 변경합니다.</target>
+          <target state="translated">가시공의 색상을 변경합니다.</target>
         </trans-unit>
-        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
+        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description" approved="no">
           <source>Tweak obstacle color palettes.</source>
-          <target>장애물 색상 팔레트 수정.</target>
+          <target state="translated">장애물 색상 팔레트를 수정합니다.</target>
         </trans-unit>
-        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description">
+        <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description" approved="no">
           <source>Change the color of floating wings.</source>
-          <target>공중 날개의 색상 수정.</target>
+          <target state="translated">날개의 색상을 수정합니다.</target>
         </trans-unit>
         <trans-unit id="357292575530201088" xml:space="preserve" resname="settings_colorskins_hits">
           <source>Actions Only</source>
@@ -2588,29 +2588,29 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Action Type</source>
           <target>동작 유형</target>
         </trans-unit>
-        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description">
+        <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description" approved="no">
           <source>Floor beat grid markers match level background colors.</source>
-          <target>바닥 박자 그리드 마커의 색깔이 레벨의 배경색과 일치시킵니다.</target>
+          <target state="translated">바닥 박자 그리드 마커의 색깔이 레벨의 배경색과 일치됩니다.</target>
         </trans-unit>
-        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description">
+        <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description" approved="no">
           <source>Beat grid markers with obstacles will be colored according beat offset.</source>
-          <target>장애물이 있는 박자 그리드 마커가 박자 오프셋에 맞춰 색칠됩니다.</target>
+          <target state="translated">장애물이 있는 박자 그리드 마커가 박자 오프셋에 맞춰 칠해집니다.</target>
         </trans-unit>
-        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description">
+        <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description" approved="no">
           <source>All beat grid markers will be colored according to beat offset.</source>
-          <target>모든 박자 그리드 마커가 박자 오프셋에 맞춰 색칠됩니다.</target>
+          <target state="translated">모든 박자 그리드 마커가 박자 오프셋에 맞춰 칠해집니다.</target>
         </trans-unit>
-        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description">
+        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description" approved="no">
           <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
-          <target>박자 그리드 마커가 액션(점프/공격/동시) 종류에 따라 색칠됩니다.</target>
+          <target state="translated">박자 그리드 마커가 액션(점프/공격/동시) 종류에 따라 칠해집니다.</target>
         </trans-unit>
-        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly">
+        <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly" approved="no">
           <source>Basic Only</source>
-          <target>기본만</target>
+          <target state="translated">기본 적만</target>
         </trans-unit>
-        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
+        <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen" approved="no">
           <source>Alternate Green</source>
-          <target>초록 교체</target>
+          <target state="translated">대안 초록색</target>
         </trans-unit>
         <trans-unit id="357297587291467776" xml:space="preserve" resname="settings_colorskins_colors_default_description">
           <source>Use default color scheme for obstacles.</source>
@@ -2796,13 +2796,13 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Assists...</source>
           <target>보조 기능...</target>
         </trans-unit>
-        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description">
+        <trans-unit id="379444699038789632" xml:space="preserve" resname="settings_menu_assists_description" approved="no">
           <source>Assist features that can help with difficult gameplay sections.</source>
-          <target>보조 기능은 어려운 게임 플레이 구역을 넘도록 도와줄 수 있습니다.</target>
+          <target state="translated">어려운 게임 플레이 구역을 넘도록 도와줄 수 있는 보조 기능.</target>
         </trans-unit>
-        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview">
+        <trans-unit id="380819448419627008" xml:space="preserve" resname="button_assist_trackpreview" approved="no">
           <source>Track Preview</source>
-          <target>트랙 미리 보기</target>
+          <target state="translated">채보 미리 보기</target>
         </trans-unit>
         <trans-unit id="380819780243599360" xml:space="preserve" resname="button_assist_practicemode">
           <source>Practice Mode</source>
@@ -2846,9 +2846,9 @@ Enter를 눌러 돌아갑니다.</target>
           <source>Level...</source>
           <target>레벨...</target>
         </trans-unit>
-        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode">
+        <trans-unit id="392090341972160512" xml:space="preserve" resname="menu_exitpracticemode" approved="no">
           <source>Exit Practice</source>
-          <target>연습 나가기</target>
+          <target state="translated">연습 모드 나가기</target>
         </trans-unit>
         <trans-unit id="392133163874037760" xml:space="preserve" resname="description_practicemode_keyboard">
           <source>Practice Mode
@@ -2936,8 +2936,8 @@ from 피아노 소나타 11번</target>
       <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="no">
         <source>Basic enemies colored based on beat offset.
 Other enemies colored based on enemy type.</source>
-        <target state="translated">기본 적을 박자 오프셋에 맞춰 칠합니다.
-다른적들은 적 종류에 맞춰 칠해집니다.</target>
+        <target state="translated">기본 적은 박자 오프셋에 맞춰 칠해집니다.
+다른적 들은 적 종류에 맞춰 칠해집니다.</target>
       </trans-unit>
       <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description" approved="no">
         <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
@@ -3029,7 +3029,7 @@ Would you like to enable game assist features?</source>
       </trans-unit>
       <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="no">
         <source>Grid Snap</source>
-        <target state="translated">격자 스냅</target>
+        <target state="translated">그리드 스냅</target>
       </trans-unit>
       <trans-unit id="396783009008496640" xml:space="preserve" resname="settings_coinsfx" approved="no">
         <source>Coin Sfx</source>
@@ -3069,7 +3069,7 @@ Other enemies colored based on enemy type.</source>
       </trans-unit>
       <trans-unit id="380821656972341248" xml:space="preserve" resname="settings_menu_trackpreview_description" approved="no">
         <source>Allows you to scroll left and right to see the rest of the track.</source>
-        <target state="translated">왼쪽과 오른쪽으로 스크롤해 트랙의 나머지 부분을 볼 수 있게 합니다.</target>
+        <target state="translated">왼쪽과 오른쪽으로 스크롤해 채보의 나머지 부분을 볼 수 있게 합니다.</target>
       </trans-unit>
       <trans-unit id="387354044250501120" xml:space="preserve" resname="settings_menu_controls_description" approved="no">
         <source>Adjust in-game controls.</source>
