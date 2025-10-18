@@ -1752,7 +1752,7 @@ Click to insert purple 3-hit ghost enemies.</source>
         </trans-unit>
         <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy" approved="no">
           <source>Insert double hit enemy at beat {0}</source>
-          <target state="translated">{0}박에 2회 타격 적 배치</target>
+          <target state="translated">{0}박에 이중타격 적 배치</target>
         </trans-unit>
         <trans-unit id="277028236924071936" xml:space="preserve" resname="editor_action_multihitenemy" approved="no">
           <source>Insert ghost enemy at beat {0}</source>
