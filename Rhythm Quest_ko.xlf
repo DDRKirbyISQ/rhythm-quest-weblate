@@ -1164,9 +1164,9 @@ Would you like to enable screen reader mode?
           <source>Never</source>
           <target>하지 않음</target>
         </trans-unit>
-        <trans-unit id="157189666698682368" xml:space="preserve" resname="settings_in_game">
+        <trans-unit id="157189666698682368" xml:space="preserve" resname="settings_in_game" approved="no">
           <source>In-Game</source>
-          <target>인 게임</target>
+          <target state="translated">게임 내에서</target>
         </trans-unit>
         <trans-unit id="157189817408413696" xml:space="preserve" resname="settings_always">
           <source>Always</source>
@@ -2382,9 +2382,9 @@ You can import levels from:
           <source>Backdrop Set</source>
           <target>배경셋</target>
         </trans-unit>
-        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass">
+        <trans-unit id="333393360827756544" xml:space="preserve" resname="world_1_tilesetgrass" approved="no">
           <source>Green Grasslands (+ grass)</source>
-          <target>Green Grasslands (+ grass)</target>
+          <target state="translated">Green Grasslands (+ 잔디)</target>
         </trans-unit>
         <trans-unit id="334156121362968576" xml:space="preserve" resname="editor_menu_sfxpitch">
           <source>Sfx Pitch...</source>
@@ -3458,7 +3458,7 @@ The composition is said to emulate the style of military marching bands of the T
       <trans-unit id="511738384932974592" xml:space="preserve" resname="settings_tabletmode_description_flipped" approved="no">
         <source>Touchscreen controls are enabled.
 Tap right half of screen to jump, tap left half to attack.</source>
-        <target state="translated">터치스크린 조작이 활성화 되었습니다.
+        <target state="translated">터치스크린 조작을 활성화 합니다.
 화면 절반의 오른쪽을 탭하면 점프, 왼쪽을 탭하면 공격합니다.</target>
       </trans-unit>
       <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="no">
@@ -3541,12 +3541,12 @@ Restart from the beginning when reaching the end of the level.</source>
       </trans-unit>
       <trans-unit id="511738381502033920" xml:space="preserve" resname="settings_tabletmode_description_disabled" approved="no">
         <source>Touchscreen controls are disabled.</source>
-        <target state="translated">터치스크린 조작이 비활성화 되었습니다.</target>
+        <target state="translated">터치스크린 조작을 비활성화 합니다.</target>
       </trans-unit>
       <trans-unit id="511738384274468864" xml:space="preserve" resname="settings_tabletmode_description_enabled" approved="no">
         <source>Touchscreen controls are enabled.
 Tap left half of screen to jump, tap right half to attack.</source>
-        <target state="translated">터치스크린 조작이 활성화 되었습니다.
+        <target state="translated">터치스크린 조작을 활성화 합니다.
 화면 절반의 왼쪽을 탭하면 점프, 오른쪽을 탭하면 공격합니다.</target>
       </trans-unit>
       <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
