@@ -538,9 +538,9 @@ Are you sure you want to proceed?</source>
           <source>Flipped</source>
           <target>反転</target>
         </trans-unit>
-        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished">
+        <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="no">
           <source>Calibration complete!</source>
-          <target>校正完了！</target>
+          <target state="translated">調整完了！</target>
         </trans-unit>
         <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
           <source>Audio Latency: {0}ms</source>
@@ -3808,6 +3808,168 @@ It tries to feature different mechanics and high-energy music.</source>
       <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description" approved="no">
         <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
         <target state="translated">ジャンプホールド + 攻撃の1拍前に鳴らすヒント音を選択してください。</target>
+      </trans-unit>
+      <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="no">
+        <source>Beams</source>
+        <target state="translated">ビーム</target>
+      </trans-unit>
+      <trans-unit id="546529396163129344" xml:space="preserve" resname="particle_none" approved="no">
+        <source>(None)</source>
+        <target state="translated">（なし）</target>
+      </trans-unit>
+      <trans-unit id="546926689769009152" xml:space="preserve" resname="editor_tool_graphics_description" approved="no">
+        <source>&lt;color=#ffff00&gt;Graphics&lt;/color&gt;
+Click on a checkpoint section to edit its graphics.</source>
+        <target state="translated">&lt;color=#ffff00&gt;グラフィック&lt;/color&gt;
+チェックポイントをクリックするとグラフィックを編集できます。</target>
+      </trans-unit>
+      <trans-unit id="546989651141636096" xml:space="preserve" resname="settings_alternategamepadinput_description_alternate" approved="no">
+        <source>Enable alternate gamepad input handling.
+Try this only if your gamepad does not work.
+May cause doubled inputs otherwise!</source>
+        <target state="translated">代替ゲームパッド入力を有効化します。
+ゲームパッドが動作しない場合のみオンにしてください。
+それ以外の場合は入力が二重になる恐れがあります！</target>
+      </trans-unit>
+      <trans-unit id="554869231915413504" xml:space="preserve" resname="drumcalibration_automatic_description_keyboard" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">ドラムの音に合わせていずれかのキーを入力するかクリック</target>
+      </trans-unit>
+      <trans-unit id="554869418767462400" xml:space="preserve" resname="drumcalibration_automatic_description_playstation" approved="no">
+        <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the drum sound</source>
+        <target state="translated">ドラムの音に合わせて &lt;sprite name="controller_icons_37"&gt;</target>
+      </trans-unit>
+      <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="no">
+        <source>Diamonds + Stars</source>
+        <target state="translated">ダイヤ＋星</target>
+      </trans-unit>
+      <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="no">
+        <source>Dots</source>
+        <target state="translated">ドット</target>
+      </trans-unit>
+      <trans-unit id="546527136267939840" xml:space="preserve" resname="particle_dotsandstars" approved="no">
+        <source>Dots + Stars</source>
+        <target state="translated">ドット＋星</target>
+      </trans-unit>
+      <trans-unit id="546527137941467136" xml:space="preserve" resname="particle_dotsfadeinout" approved="no">
+        <source>Fading Dots</source>
+        <target state="translated">フェードドット</target>
+      </trans-unit>
+      <trans-unit id="546527284469477376" xml:space="preserve" resname="particle_leaves" approved="no">
+        <source>Leaves</source>
+        <target state="translated">葉っぱ</target>
+      </trans-unit>
+      <trans-unit id="546527310365110272" xml:space="preserve" resname="particle_petals" approved="no">
+        <source>Petals</source>
+        <target state="translated">花びら</target>
+      </trans-unit>
+      <trans-unit id="546527321702313984" xml:space="preserve" resname="particle_snow" approved="no">
+        <source>Snow</source>
+        <target state="translated">雪</target>
+      </trans-unit>
+      <trans-unit id="546527335681929216" xml:space="preserve" resname="particle_rain" approved="no">
+        <source>Rain</source>
+        <target state="translated">雨</target>
+      </trans-unit>
+      <trans-unit id="546527388018454528" xml:space="preserve" resname="particle_stars" approved="no">
+        <source>Stars</source>
+        <target state="translated">星</target>
+      </trans-unit>
+      <trans-unit id="546527398986559488" xml:space="preserve" resname="particle_trails" approved="no">
+        <source>Trails</source>
+        <target state="translated">彗星</target>
+      </trans-unit>
+      <trans-unit id="546926692260425728" xml:space="preserve" resname="editor_tooltip_graphics" approved="no">
+        <source>Graphics</source>
+        <target state="translated">グラフィック</target>
+      </trans-unit>
+      <trans-unit id="546927294524731392" xml:space="preserve" resname="editor_action_graphics" approved="no">
+        <source>Change graphics for section {0}</source>
+        <target state="translated">セクション {0} のグラフィックを変更</target>
+      </trans-unit>
+      <trans-unit id="546928097410985984" xml:space="preserve" resname="editor_graphics_dialog_title" approved="no">
+        <source>Graphics: Section {0}</source>
+        <target state="translated">グラフィック：セクション {0}</target>
+      </trans-unit>
+      <trans-unit id="546989447839526912" xml:space="preserve" resname="settings_alternategamepadinput" approved="no">
+        <source>Input Mode</source>
+        <target state="translated">入力モード</target>
+      </trans-unit>
+      <trans-unit id="546989644518830080" xml:space="preserve" resname="settings_alternategamepadinput_description_normal" approved="no">
+        <source>(Default) Use normal gamepad input.</source>
+        <target state="translated">（デフォルト）通常のゲームパッド入力を使用します。</target>
+      </trans-unit>
+      <trans-unit id="546990657946562560" xml:space="preserve" resname="settings_alternategamepadinput_alternate" approved="no">
+        <source>Alternate</source>
+        <target state="translated">代替</target>
+      </trans-unit>
+      <trans-unit id="547296436545171456" xml:space="preserve" resname="uap_close" approved="no">
+        <source>Close</source>
+        <target state="translated">閉じる</target>
+      </trans-unit>
+      <trans-unit id="554071137015607296" xml:space="preserve" resname="drumcalibration_prompt_description" approved="no">
+        <source>Is the sound of the drum in time with the animation?</source>
+        <target state="translated">ドラムの音とアニメーションのタイミングは合っていますか？</target>
+      </trans-unit>
+      <trans-unit id="554071667536343040" xml:space="preserve" resname="drumcalibration_notinsync" approved="no">
+        <source>No, it sounds too early or late</source>
+        <target state="translated">いいえ、音がずれています</target>
+      </trans-unit>
+      <trans-unit id="554070939442917376" xml:space="preserve" resname="drumcalibration_prompt_title" approved="no">
+        <source>Calibration Check</source>
+        <target state="translated">調整テスト</target>
+      </trans-unit>
+      <trans-unit id="554867302229389312" xml:space="preserve" resname="drumcalibration_manual_description" approved="no">
+        <source>Choose the setting where the drum animation most closely matches the timing of the sound.</source>
+        <target state="translated">ドラムの音とアニメーションのタイミングが最も近くなるタイミングを選択してください。</target>
+      </trans-unit>
+      <trans-unit id="554868269746270208" xml:space="preserve" resname="drumcalibration_automatic_title" approved="no">
+        <source>Automatic Calibration</source>
+        <target state="translated">自動調整</target>
+      </trans-unit>
+      <trans-unit id="554867204447580160" xml:space="preserve" resname="drumcalibration_manual_title" approved="no">
+        <source>Manual Calibration</source>
+        <target state="translated">手動調整</target>
+      </trans-unit>
+      <trans-unit id="554869235312799744" xml:space="preserve" resname="drumcalibration_automatic_description_mouse" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">ドラムの音に合わせていずれかのキーを入力するかクリック</target>
+      </trans-unit>
+      <trans-unit id="554869239016370176" xml:space="preserve" resname="drumcalibration_automatic_description_xbox" approved="no">
+        <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the drum sound</source>
+        <target state="translated">ドラムの音に合わせて &lt;sprite name="controller_icons_100"&gt;</target>
+      </trans-unit>
+      <trans-unit id="554869438883344384" xml:space="preserve" resname="drumcalibration_automatic_description_switch" approved="no">
+        <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the drum sound</source>
+        <target state="translated">ドラムの音に合わせて &lt;sprite name="controller_icons_60"&gt;</target>
+      </trans-unit>
+      <trans-unit id="554869465953382400" xml:space="preserve" resname="drumcalibration_automatic_description_touch" approved="no">
+        <source>Tap in time with the drum sound</source>
+        <target state="translated">ドラムの音に合わせてタップ</target>
+      </trans-unit>
+      <trans-unit id="554871433715298304" xml:space="preserve" resname="drumcalibration_button_automatic" approved="no">
+        <source>Recalibrate</source>
+        <target state="translated">再調整</target>
+      </trans-unit>
+      <trans-unit id="554871584253063168" xml:space="preserve" resname="drumcalibration_button_manual" approved="no">
+        <source>Adjust Manually</source>
+        <target state="translated">手動で調整する</target>
+      </trans-unit>
+      <trans-unit id="554872038705901568" xml:space="preserve" resname="drumcalibration_title" approved="no">
+        <source>Audio Calibration</source>
+        <target state="translated">音楽の調整</target>
+      </trans-unit>
+      <trans-unit id="554872353526165504" xml:space="preserve" resname="drumcalibration_description" approved="no">
+        <source>The sound of the drum should be in time with the animation.</source>
+        <target state="translated">ドラムの音とアニメーションのタイミングを合わせてください。</target>
+      </trans-unit>
+      <trans-unit id="554872559583932416" xml:space="preserve" resname="drumcalibration_currentsetting" approved="no">
+        <source>Current Audio Latency: {0}</source>
+        <target state="translated">現在の音楽の遅延: {0}</target>
+      </trans-unit>
+      <trans-unit id="555286575556898816" xml:space="preserve" resname="drumcalibration_automatic_complete_result" approved="no">
+        <source>Audio latency set to {0}</source>
+        <target state="translated">音楽の遅延を{0}にします</target>
       </trans-unit>
     </body>
   </file>
