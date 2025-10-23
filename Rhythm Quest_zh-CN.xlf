@@ -3809,6 +3809,168 @@ It tries to feature different mechanics and high-energy music.</source>
         <target state="final">这是我在 2022 年为游戏制作初始玩法预告片时制作的关卡。
 该关卡展示了各种游戏机制，同时带有强劲的音乐。</target>
       </trans-unit>
+      <trans-unit id="546527388018454528" xml:space="preserve" resname="particle_stars" approved="yes">
+        <source>Stars</source>
+        <target state="final">星星</target>
+      </trans-unit>
+      <trans-unit id="546529396163129344" xml:space="preserve" resname="particle_none" approved="no">
+        <source>(None)</source>
+        <target state="translated">（无）</target>
+      </trans-unit>
+      <trans-unit id="546926689769009152" xml:space="preserve" resname="editor_tool_graphics_description" approved="no">
+        <source>&lt;color=#ffff00&gt;Graphics&lt;/color&gt;
+Click on a checkpoint section to edit its graphics.</source>
+        <target state="translated">&lt;color=#ffff00&gt;图像&lt;/color&gt;
+点击存档点区域以更改其图像。</target>
+      </trans-unit>
+      <trans-unit id="546989651141636096" xml:space="preserve" resname="settings_alternategamepadinput_description_alternate" approved="no">
+        <source>Enable alternate gamepad input handling.
+Try this only if your gamepad does not work.
+May cause doubled inputs otherwise!</source>
+        <target state="translated">启用备用的手柄输入处理方式。
+仅当你的手柄不能正常工作时才需要尝试这一选项。
+否则可能会出现重复输入的问题！</target>
+      </trans-unit>
+      <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="no">
+        <source>Beams</source>
+        <target state="translated">光束</target>
+      </trans-unit>
+      <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="no">
+        <source>Diamonds + Stars</source>
+        <target state="translated">钻石 + 星星</target>
+      </trans-unit>
+      <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="no">
+        <source>Dots</source>
+        <target state="translated">粒子</target>
+      </trans-unit>
+      <trans-unit id="546527136267939840" xml:space="preserve" resname="particle_dotsandstars" approved="no">
+        <source>Dots + Stars</source>
+        <target state="translated">粒子 + 星星</target>
+      </trans-unit>
+      <trans-unit id="546527137941467136" xml:space="preserve" resname="particle_dotsfadeinout" approved="no">
+        <source>Fading Dots</source>
+        <target state="translated">渐隐粒子</target>
+      </trans-unit>
+      <trans-unit id="546527284469477376" xml:space="preserve" resname="particle_leaves" approved="no">
+        <source>Leaves</source>
+        <target state="translated">叶子</target>
+      </trans-unit>
+      <trans-unit id="546527310365110272" xml:space="preserve" resname="particle_petals" approved="no">
+        <source>Petals</source>
+        <target state="translated">花瓣</target>
+      </trans-unit>
+      <trans-unit id="546527321702313984" xml:space="preserve" resname="particle_snow" approved="yes">
+        <source>Snow</source>
+        <target state="final">雪花</target>
+      </trans-unit>
+      <trans-unit id="546527335681929216" xml:space="preserve" resname="particle_rain" approved="no">
+        <source>Rain</source>
+        <target state="translated">雨滴</target>
+      </trans-unit>
+      <trans-unit id="546527398986559488" xml:space="preserve" resname="particle_trails" approved="no">
+        <source>Trails</source>
+        <target state="translated">残影</target>
+      </trans-unit>
+      <trans-unit id="546926692260425728" xml:space="preserve" resname="editor_tooltip_graphics" approved="no">
+        <source>Graphics</source>
+        <target state="translated">图像</target>
+      </trans-unit>
+      <trans-unit id="546927294524731392" xml:space="preserve" resname="editor_action_graphics" approved="no">
+        <source>Change graphics for section {0}</source>
+        <target state="translated">更改区域 {0} 的图像</target>
+      </trans-unit>
+      <trans-unit id="546928097410985984" xml:space="preserve" resname="editor_graphics_dialog_title" approved="no">
+        <source>Graphics: Section {0}</source>
+        <target state="translated">图像：区域 {0}</target>
+      </trans-unit>
+      <trans-unit id="546989447839526912" xml:space="preserve" resname="settings_alternategamepadinput" approved="no">
+        <source>Input Mode</source>
+        <target state="translated">输入模式</target>
+      </trans-unit>
+      <trans-unit id="546989644518830080" xml:space="preserve" resname="settings_alternategamepadinput_description_normal" approved="no">
+        <source>(Default) Use normal gamepad input.</source>
+        <target state="translated">（默认）使用正常的手柄输入处理方式。</target>
+      </trans-unit>
+      <trans-unit id="546990657946562560" xml:space="preserve" resname="settings_alternategamepadinput_alternate" approved="no">
+        <source>Alternate</source>
+        <target state="translated">备用</target>
+      </trans-unit>
+      <trans-unit id="547296436545171456" xml:space="preserve" resname="uap_close" approved="no">
+        <source>Close</source>
+        <target state="translated">关闭</target>
+      </trans-unit>
+      <trans-unit id="554070939442917376" xml:space="preserve" resname="drumcalibration_prompt_title" approved="no">
+        <source>Calibration Check</source>
+        <target state="translated">校准检查</target>
+      </trans-unit>
+      <trans-unit id="554071137015607296" xml:space="preserve" resname="drumcalibration_prompt_description" approved="no">
+        <source>Is the sound of the drum in time with the animation?</source>
+        <target state="translated">鼓声是否与动画同步？</target>
+      </trans-unit>
+      <trans-unit id="554071667536343040" xml:space="preserve" resname="drumcalibration_notinsync" approved="no">
+        <source>No, it sounds too early or late</source>
+        <target state="translated">不，听上去早了或者晚了</target>
+      </trans-unit>
+      <trans-unit id="554867204447580160" xml:space="preserve" resname="drumcalibration_manual_title" approved="no">
+        <source>Manual Calibration</source>
+        <target state="translated">手动校准</target>
+      </trans-unit>
+      <trans-unit id="554867302229389312" xml:space="preserve" resname="drumcalibration_manual_description" approved="no">
+        <source>Choose the setting where the drum animation most closely matches the timing of the sound.</source>
+        <target state="translated">调整设置，使击鼓动画尽可能匹配上声音的节奏。</target>
+      </trans-unit>
+      <trans-unit id="554868269746270208" xml:space="preserve" resname="drumcalibration_automatic_title" approved="no">
+        <source>Automatic Calibration</source>
+        <target state="translated">自动校准</target>
+      </trans-unit>
+      <trans-unit id="554869231915413504" xml:space="preserve" resname="drumcalibration_automatic_description_keyboard" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">跟随鼓声的节奏按任意键或者点击</target>
+      </trans-unit>
+      <trans-unit id="554869235312799744" xml:space="preserve" resname="drumcalibration_automatic_description_mouse" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">跟随鼓声的节奏按任意键或者点击</target>
+      </trans-unit>
+      <trans-unit id="554869239016370176" xml:space="preserve" resname="drumcalibration_automatic_description_xbox" approved="no">
+        <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the drum sound</source>
+        <target state="translated">跟随鼓声的节奏按 &lt;sprite name="controller_icons_100"&gt; 键</target>
+      </trans-unit>
+      <trans-unit id="554869418767462400" xml:space="preserve" resname="drumcalibration_automatic_description_playstation" approved="no">
+        <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the drum sound</source>
+        <target state="translated">跟随鼓声的节奏按 &lt;sprite name="controller_icons_37"&gt; 键</target>
+      </trans-unit>
+      <trans-unit id="554869438883344384" xml:space="preserve" resname="drumcalibration_automatic_description_switch" approved="no">
+        <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the drum sound</source>
+        <target state="translated">跟随鼓声的节奏按 &lt;sprite name="controller_icons_60"&gt; 键</target>
+      </trans-unit>
+      <trans-unit id="554869465953382400" xml:space="preserve" resname="drumcalibration_automatic_description_touch" approved="no">
+        <source>Tap in time with the drum sound</source>
+        <target state="translated">跟随鼓声的节奏点击屏幕</target>
+      </trans-unit>
+      <trans-unit id="554871433715298304" xml:space="preserve" resname="drumcalibration_button_automatic" approved="no">
+        <source>Recalibrate</source>
+        <target state="translated">重新校准</target>
+      </trans-unit>
+      <trans-unit id="554871584253063168" xml:space="preserve" resname="drumcalibration_button_manual" approved="no">
+        <source>Adjust Manually</source>
+        <target state="translated">手动调整</target>
+      </trans-unit>
+      <trans-unit id="554872038705901568" xml:space="preserve" resname="drumcalibration_title" approved="no">
+        <source>Audio Calibration</source>
+        <target state="translated">音频校准</target>
+      </trans-unit>
+      <trans-unit id="554872353526165504" xml:space="preserve" resname="drumcalibration_description" approved="no">
+        <source>The sound of the drum should be in time with the animation.</source>
+        <target state="translated">鼓声应该与动画同步。</target>
+      </trans-unit>
+      <trans-unit id="554872559583932416" xml:space="preserve" resname="drumcalibration_currentsetting" approved="no">
+        <source>Current Audio Latency: {0}</source>
+        <target state="translated">当前音频延迟：{0}</target>
+      </trans-unit>
+      <trans-unit id="555286575556898816" xml:space="preserve" resname="drumcalibration_automatic_complete_result" approved="no">
+        <source>Audio latency set to {0}</source>
+        <target state="translated">音频延迟设置为 {0}</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
