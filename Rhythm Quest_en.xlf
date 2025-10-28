@@ -3966,6 +3966,28 @@ May cause doubled inputs otherwise!</target>
           <source>Audio latency set to {0}</source>
           <target>Audio latency set to {0}</target>
         </trans-unit>
+        <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis">
+          <source>Clematis</source>
+          <target>Clematis</target>
+        </trans-unit>
+        <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description">
+          <source>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
+          <target>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</target>
+        </trans-unit>
+        <trans-unit id="560707620111691776" xml:space="preserve" resname="songselect_folder_mainlevels">
+          <source>Main Levels</source>
+          <target>Main Levels</target>
+        </trans-unit>
+        <trans-unit id="560707793755877376" xml:space="preserve" resname="songselect_folder_bonuslevels">
+          <source>Bonus Levels</source>
+          <target>Bonus Levels</target>
+        </trans-unit>
+        <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels">
+          <source>Custom Levels</source>
+          <target>Custom Levels</target>
+        </trans-unit>
       </group>
     </body>
   </file>
