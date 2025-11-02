@@ -3332,7 +3332,7 @@ Nyamo's Adventure 是一款 2D 类银河战士恶魔城的平台跳跃游戏，�
       <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
         <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
 It makes use of several samples I recorded myself using glass bottles.</source>
-        <target state="translated">这是我在 2019 年写的一首歌曲，它是几首曲子中的一首，这些曲子侧重于有趣的打击声和节奏，某种程度上受到二人乐队 “Made in Heights” 作品的启发。
+        <target state="translated">这是我在 2019 年写的一首歌曲，它是一系列曲子中的一首，这些曲子侧重于有趣的打击声和节奏，某种程度上受到二人乐队 “Made in Heights” 作品的启发。
 它用到了我自己用玻璃瓶录制的几个采样。</target>
       </trans-unit>
       <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="no">
@@ -3970,6 +3970,28 @@ May cause doubled inputs otherwise!</source>
       <trans-unit id="555286575556898816" xml:space="preserve" resname="drumcalibration_automatic_complete_result" approved="no">
         <source>Audio latency set to {0}</source>
         <target state="translated">音频延迟设置为 {0}</target>
+      </trans-unit>
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="no">
+        <source>Clematis</source>
+        <target state="translated">Clematis</target>
+      </trans-unit>
+      <trans-unit id="560707620111691776" xml:space="preserve" resname="songselect_folder_mainlevels" approved="no">
+        <source>Main Levels</source>
+        <target state="translated">主要关卡</target>
+      </trans-unit>
+      <trans-unit id="560707793755877376" xml:space="preserve" resname="songselect_folder_bonuslevels" approved="no">
+        <source>Bonus Levels</source>
+        <target state="translated">额外关卡</target>
+      </trans-unit>
+      <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels" approved="no">
+        <source>Custom Levels</source>
+        <target state="translated">自定义关卡</target>
+      </trans-unit>
+      <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description" approved="no">
+        <source>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
+        <target state="translated">一首快节奏且富有挑战性的曲子，创作这首曲子时受到了其他节奏游戏歌曲的启发。
+“Clematis”是一种会开花的藤本植物的名字，花朵形状常为星形。</target>
       </trans-unit>
     </body>
   </file>
