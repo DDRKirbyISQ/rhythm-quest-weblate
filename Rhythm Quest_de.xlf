@@ -3972,6 +3972,28 @@ Klicke auf einen Checkpoint Abschnitt, um seine Grafik zu bearbeiten.</target>
         <source>Current Audio Latency: {0}</source>
         <target state="final">Aktuelle Audio-Latenz: {0}</target>
       </trans-unit>
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="yes">
+        <source>Clematis</source>
+        <target state="final">Clematis</target>
+      </trans-unit>
+      <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description" approved="yes">
+        <source>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
+        <target state="final">Ein schneller und anspruchsvoller Track, inspiriert von Songs aus anderen Rhythmusspielen.
+„Clematis“ ist der Name einer blühenden Kletterpflanze, die oft sternförmige Blüten hat.</target>
+      </trans-unit>
+      <trans-unit id="560707620111691776" xml:space="preserve" resname="songselect_folder_mainlevels" approved="no">
+        <source>Main Levels</source>
+        <target state="translated">Hauptlevels</target>
+      </trans-unit>
+      <trans-unit id="560707793755877376" xml:space="preserve" resname="songselect_folder_bonuslevels" approved="yes">
+        <source>Bonus Levels</source>
+        <target state="final">Bonuslevels</target>
+      </trans-unit>
+      <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels" approved="yes">
+        <source>Custom Levels</source>
+        <target state="final">Benutzerdefinierte Level</target>
+      </trans-unit>
     </body>
   </file>
   <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="de" datatype="plaintext">
