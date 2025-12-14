@@ -1645,4 +1645,16 @@ Hãy cắm một thiết bị gamepad được hỗ trợ.</target>
       </group>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="vi" datatype="plaintext">
+    <body>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">Nhấn {0} hoặc {1} để Nhảy.</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">Nhấn {0} hoặc {1} để Đánh.</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
