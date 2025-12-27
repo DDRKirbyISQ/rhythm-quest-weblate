@@ -244,9 +244,9 @@
           <source>Auto play is disabled.</source>
           <target>Autospel är avtängt.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Autospel är påslaget. Banor kommer att spelas igenom automatiskt utan input från spelaren. (Framsteg sparas inte)</target>
+          <target state="needs-translation">Autospel är påslaget. Banor kommer att spelas igenom automatiskt utan input från spelaren. (Framsteg sparas inte)</target>
         </trans-unit>
         <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
           <source>Levels must be unlocked normally.</source>
