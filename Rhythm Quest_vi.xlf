@@ -244,9 +244,9 @@
           <source>Auto play is disabled.</source>
           <target>Chế độ chơi tự động đã tắt.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>Chế độ chơi tự động đã bật. Các màn sẽ tự chơi mà không cần đầu vào của người chơi. (Tiến độ sẽ không được lưu)</target>
+          <target state="needs-translation">Chế độ chơi tự động đã bật. Các màn sẽ tự chơi mà không cần đầu vào của người chơi. (Tiến độ sẽ không được lưu)</target>
         </trans-unit>
         <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
           <source>Levels must be unlocked normally.</source>
