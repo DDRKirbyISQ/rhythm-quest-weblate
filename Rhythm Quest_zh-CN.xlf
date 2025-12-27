@@ -244,9 +244,9 @@
           <source>Auto play is disabled.</source>
           <target>自动游玩已禁用。</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target>自动游玩已启用。关卡将自动进行。（不计入成绩）</target>
+          <target state="needs-translation">自动游玩已启用。关卡将自动进行。（不计入成绩）</target>
         </trans-unit>
         <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
           <source>Levels must be unlocked normally.</source>
