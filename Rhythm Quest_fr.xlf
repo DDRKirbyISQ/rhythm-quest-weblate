@@ -3971,6 +3971,28 @@ Risque de dupliquer vos actions sinon !</target>
         <source>Press any key or click in time with the drum sound</source>
         <target state="translated">Appuyez sur une touche ou cliquez en même temps que le bruit de tambour</target>
       </trans-unit>
+      <trans-unit id="560707620111691776" xml:space="preserve" resname="songselect_folder_mainlevels" approved="no">
+        <source>Main Levels</source>
+        <target state="translated">Niveaux Principaux</target>
+      </trans-unit>
+      <trans-unit id="560707793755877376" xml:space="preserve" resname="songselect_folder_bonuslevels" approved="no">
+        <source>Bonus Levels</source>
+        <target state="translated">Niveaux Bonus</target>
+      </trans-unit>
+      <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels" approved="no">
+        <source>Custom Levels</source>
+        <target state="translated">Niveaux Personnalisés</target>
+      </trans-unit>
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="no">
+        <source>Clematis</source>
+        <target state="translated">Clematis</target>
+      </trans-unit>
+      <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description" approved="no">
+        <source>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
+        <target state="translated">Une musique rapide et difficile inspirée par celles d'autres jeux de rythme.
+Les Clématites sont des plantes grimpantes à fleurs qui fleurissent souvent en forme d'étoile.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
