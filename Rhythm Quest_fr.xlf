@@ -3983,9 +3983,9 @@ Risque de dupliquer vos actions sinon !</target>
         <source>Custom Levels</source>
         <target state="translated">Niveaux Personnalisés</target>
       </trans-unit>
-      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="no">
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="yes">
         <source>Clematis</source>
-        <target state="translated">Clematis</target>
+        <target state="final">Clematis</target>
       </trans-unit>
       <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description" approved="no">
         <source>A fast and challenging track inspired by songs from other rhythm games.
