@@ -658,7 +658,7 @@ Restante:</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="yes">
           <source>Gameplay Trailer</source>
-          <target state="final">Gameplay Trailer</target>
+          <target state="final">Trailer de Jogabilidade</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="yes">
           <source>Snowy Peak</source>
@@ -1332,9 +1332,9 @@ Deseja ativar o modo de leitor de tela?
           <source>Promotional Art: Kat Jia</source>
           <target>Arte Promocional: Kat Jia</target>
         </trans-unit>
-        <trans-unit id="193899931476209664" xml:space="preserve" resname="settings_checkpoints_description_disabled">
+        <trans-unit id="193899931476209664" xml:space="preserve" resname="settings_checkpoints_description_disabled" approved="yes">
           <source>Always restart at the beginning of the entire level. Coin/respawn counts are also reset.</source>
-          <target>Sempre reiniciar ao início do nível. Contagens de moedas/reaparições serão redefinidos.</target>
+          <target state="final">Sempre reiniciar ao início do nível. As contagens de moedas/ressurgimentos também são redefinidos.</target>
         </trans-unit>
         <trans-unit id="193899933799854080" xml:space="preserve" resname="settings_checkpoints_description_enabled">
           <source>Checkpoints behave normally.</source>
@@ -1364,9 +1364,9 @@ Deseja ativar o modo de leitor de tela?
           <source>Brilliant Boulevard</source>
           <target>Bulevar Brilhante</target>
         </trans-unit>
-        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
+        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2" approved="yes">
           <source>Speedy Starfield</source>
-          <target>Campo Estelar Veloz</target>
+          <target state="final">Campo Estelar Veloz</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -1570,29 +1570,29 @@ Por favor, conecte um controle que tenha suporte ao dispositivo.</target>
           <source>Adds translucent markers for ghost enemy positions.</source>
           <target>Adiciona marcas translucidas para as posições do inimigo fantasma.</target>
         </trans-unit>
-        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow">
+        <trans-unit id="259823537879822336" xml:space="preserve" resname="settings_respawntiming_slow" approved="yes">
           <source>Slow</source>
-          <target>Lento</target>
+          <target state="final">Lento</target>
         </trans-unit>
-        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast">
+        <trans-unit id="259823598755950592" xml:space="preserve" resname="settings_respawntiming_fast" approved="yes">
           <source>Fast</source>
-          <target>Rápido</target>
+          <target state="final">Rápido</target>
         </trans-unit>
-        <trans-unit id="259823816314499072" xml:space="preserve" resname="settings_respawntiming">
+        <trans-unit id="259823816314499072" xml:space="preserve" resname="settings_respawntiming" approved="yes">
           <source>Respawn Timing</source>
-          <target>Tempo de Reaparecimento</target>
+          <target state="final">Tempo de Ressurgimento</target>
         </trans-unit>
-        <trans-unit id="259823939908055040" xml:space="preserve" resname="settings_respawntiming_description_slow">
+        <trans-unit id="259823939908055040" xml:space="preserve" resname="settings_respawntiming_description_slow" approved="yes">
           <source>Use a longer respawn duration.</source>
-          <target>Use a duração de reaparecimento longa.</target>
+          <target state="final">Use o tempo de ressurgimento mais longo.</target>
         </trans-unit>
-        <trans-unit id="259823941657079808" xml:space="preserve" resname="settings_respawntiming_description_normal">
+        <trans-unit id="259823941657079808" xml:space="preserve" resname="settings_respawntiming_description_normal" approved="yes">
           <source>Use a normal respawn duration.</source>
-          <target>Use a duração de reaparecimento normal.</target>
+          <target state="final">Use o tempo de ressurgimento normal.</target>
         </trans-unit>
-        <trans-unit id="259823945557782528" xml:space="preserve" resname="settings_respawntiming_description_fast">
+        <trans-unit id="259823945557782528" xml:space="preserve" resname="settings_respawntiming_description_fast" approved="yes">
           <source>Respawn very quickly after a mistake.</source>
-          <target>Reapareça rapidamente após uma falha.</target>
+          <target state="final">Ressurja rapidamente após uma falha.</target>
         </trans-unit>
         <trans-unit id="259914650934358016" xml:space="preserve" resname="settings_millisecond_display">
           <source>{0}ms</source>
@@ -1602,9 +1602,9 @@ Por favor, conecte um controle que tenha suporte ao dispositivo.</target>
           <source>Normal</source>
           <target>Normal</target>
         </trans-unit>
-        <trans-unit id="259917960366043136" xml:space="preserve" resname="settings_respawntiming_normal">
+        <trans-unit id="259917960366043136" xml:space="preserve" resname="settings_respawntiming_normal" approved="yes">
           <source>Normal</source>
-          <target>Normal</target>
+          <target state="final">Normal</target>
         </trans-unit>
         <trans-unit id="269932252037427200" xml:space="preserve" resname="menu_settings_other">
           <source>Other</source>
@@ -1898,9 +1898,9 @@ Clique em uma seção de checkpoint para editar sua velocidade de rolagem.</targ
           <source>Return to the main menu?</source>
           <target>Voltar ao menu principal?</target>
         </trans-unit>
-        <trans-unit id="286249879240224768" xml:space="preserve" resname="editor_menu_respawnloop">
+        <trans-unit id="286249879240224768" xml:space="preserve" resname="editor_menu_respawnloop" approved="no">
           <source>Respawn Loop...</source>
-          <target>Loop de Reaparecimento...</target>
+          <target state="translated">Loop de Ressurgimento...</target>
         </trans-unit>
         <trans-unit id="286250531446108160" xml:space="preserve" resname="editor_button_loadmusic">
           <source>Load Music</source>
@@ -1984,9 +1984,9 @@ Clique para inciar a pré-visualização do nível em um determinado ponto. Cliq
           <source>New level created</source>
           <target>Novo nível criado</target>
         </trans-unit>
-        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file">
+        <trans-unit id="299089836266795008" xml:space="preserve" resname="editor_menu_file" approved="yes">
           <source>File...</source>
-          <target>Arquivo</target>
+          <target state="final">Arquivo....</target>
         </trans-unit>
         <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
           <source>Music</source>
@@ -2030,9 +2030,9 @@ Deseja salvá-las primeiro?</target>
           <source>Don't Save</source>
           <target>Não Salvar</target>
         </trans-unit>
-        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings" approved="yes">
           <source>Settings...</source>
-          <target>Configurações</target>
+          <target state="final">Configurações...</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -2856,13 +2856,13 @@ Verifique o código e tente novamente.</target>
           <source>Coin Outlines</source>
           <target>Contorno de Moedas</target>
         </trans-unit>
-        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled">
+        <trans-unit id="368979330994057216" xml:space="preserve" resname="settings_coinoutlines_description_disabled" approved="yes">
           <source>(Default) Already-collected coins do not show on respawn.</source>
-          <target>(Padrão) Moedas já coletadas não aparecerem ao renascer</target>
+          <target state="final">(Padrão) Moedas já coletadas não aparecerem ao ressurgir.</target>
         </trans-unit>
-        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled">
+        <trans-unit id="368979334483718144" xml:space="preserve" resname="settings_coinoutlines_description_enabled" approved="yes">
           <source>Shows faint coin outlines on respawn for already-collected coins.</source>
-          <target>Exibe contornos tênues de moedas ao renascer para moedas já coletadas.</target>
+          <target state="final">Exibe contornos tênues de moedas ao renascer para moedas já coletadas.</target>
         </trans-unit>
         <trans-unit id="369266214911651840" xml:space="preserve" resname="steam_userid">
           <source>Steam ID: {0}</source>
@@ -2972,9 +2972,9 @@ Verifique o código e tente novamente.</target>
           <source>Allows you to scroll left and right to see the rest of the track.</source>
           <target>Permite você rolar para esquerda e direita para ver o restante do nível.</target>
         </trans-unit>
-        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description">
+        <trans-unit id="380821657538572288" xml:space="preserve" resname="settings_menu_temporarycheats_description" approved="yes">
           <source>Options for making the current section easier.</source>
-          <target>Opções para tornar a seção atual mais fácil</target>
+          <target state="final">Opções para tornar a seção atual mais fácil.</target>
         </trans-unit>
         <trans-unit id="380835960614334464" xml:space="preserve" resname="menu_description_temporarycheats">
           <source>(These settings will reset after the current section is complete)</source>
@@ -3002,10 +3002,10 @@ Gostaria de habilitar os recursos de assistência do jogo?</target>
           <source>(Unchanged)</source>
           <target>(Inalterado)</target>
         </trans-unit>
-        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16">
+        <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="yes">
           <source>Piano Sonata No. 16 in C Major
 I. Allegro</source>
-          <target>Piano Sonata No. 16 in C Major
+          <target state="final">Sonata para Piano N.º 16 em Dó maior
 I. Allegro</target>
         </trans-unit>
         <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik">
@@ -3032,19 +3032,19 @@ Press Enter to return.</source>
           <target>Pressione &lt;- e -&gt; para rolar.
 Pressione Enter para retornar.</target>
         </trans-unit>
-        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse">
+        <trans-unit id="384827966634110976" xml:space="preserve" resname="description_trackpreview_mouse" approved="yes">
           <source>Click and drag to scroll left/right.</source>
-          <target>Clique e arraste para rolar para esquerda/direita</target>
+          <target state="final">Clique e arraste para rolar para esquerda/direita.</target>
         </trans-unit>
-        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch">
+        <trans-unit id="384828132107792384" xml:space="preserve" resname="description_trackpreview_touch" approved="yes">
           <source>Tap and drag to scroll left/right.</source>
-          <target>Toque e arraste para rolar para esquerda/direita</target>
+          <target state="final">Toque e arraste para rolar para esquerda/direita.</target>
         </trans-unit>
-        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch">
+        <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="yes">
           <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
 Press &lt;sprite name="controller_icons_60"&gt; to return.</source>
-          <target>Use o &lt;sprite name="controller_icons_45"&gt; para rolar.
-Pressione &lt;sprite name="controller_icons_60"&gt; para retornar</target>
+          <target state="final">Use o &lt;sprite name="controller_icons_45"&gt; para rolar.
+Pressione &lt;sprite name="controller_icons_60"&gt; para retornar.</target>
         </trans-unit>
         <trans-unit id="384828243030355968" xml:space="preserve" resname="description_trackpreview_xbox">
           <source>Use &lt;sprite name="controller_icons_79"&gt; to scroll.
@@ -3158,31 +3158,31 @@ Pressione &lt;sprite name="controller_icons_97"&gt; para configurar</target>
           <source>Configure Controls...</source>
           <target>Configurar Controles...</target>
         </trans-unit>
-        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description">
+        <trans-unit id="397553729032466432" xml:space="preserve" resname="settings_menu_gamepadcontrols_switch_description" approved="yes">
           <source>Configure controller bindings.</source>
-          <target>Configurar mapeamento do controle</target>
+          <target state="final">Configurar mapeamento do controle.</target>
         </trans-unit>
         <trans-unit id="397553927934750720" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch">
           <source>Controller Config</source>
           <target>Configurações do Controle</target>
         </trans-unit>
-        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default">
+        <trans-unit id="397554066808156160" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_default" approved="yes">
           <source>Use default controller bindings.</source>
-          <target>Usar mapeamento de controle padrão</target>
+          <target state="final">Usar o mapeamento padrão do controle.</target>
         </trans-unit>
-        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom">
+        <trans-unit id="397554068527820800" xml:space="preserve" resname="settings_gamepadcustomcontrols_switch_description_custom" approved="yes">
           <source>Use custom controller bindings.</source>
-          <target>Usar mapeamento de controle personalizado</target>
+          <target state="final">Usar o mapeamento personalizado do controle.</target>
         </trans-unit>
         <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
           <source>Flower Fang (Expert Mix)</source>
           <target>Flower Fang (Expert Mix)</target>
         </trans-unit>
-        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca">
+        <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="yes">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11</source>
-          <target>Turkish March (Rondo alla Turca)
-from Piano Sonata No. 11</target>
+          <target state="final">Marcha Turca (Rondo alla Turca)
+da Sonata para Piano N.º 11</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
@@ -3209,9 +3209,9 @@ from Piano Sonata No. 11</target>
         <source>Track Preview</source>
         <target state="translated">Prévia do Nível</target>
       </trans-unit>
-      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="no">
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="yes">
         <source>Für Elise</source>
-        <target state="translated">Für Elise</target>
+        <target state="final">Für Elise</target>
       </trans-unit>
       <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="yes">
         <source>Cosmic Conflux</source>
@@ -3305,9 +3305,10 @@ Esse foi o nível final e o mais difícil adicionado ao jogo em uma atualizaçã
         <source>Flight of the Bumblebee</source>
         <target state="translated">Flight of the Bumblebee</target>
       </trans-unit>
-      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="needs-translation">Comprar por
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="yes">
+        <source>Purchase for
+{0}</source>
+        <target state="final">Comprar por
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="yes">
@@ -3439,6 +3440,134 @@ Este é o tema para "Magical Science Girl", a mais jovem das três protagonistas
       <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode" approved="yes">
         <source>Tablet Mode</source>
         <target state="final">Modo Tablet</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="yes">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="final">Bagatela N.º 25 em Lá menor, mais comumente conhecida como "Für Elise", é uma composição bem conhecida de Ludwig van Beethoven.
+A identidade da personagem titular "Elise" é incerta, mas acredita-se que seja uma amiga ou uma figura importante na vida dele.</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="yes">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="final">O primeiro movimento da Sonata para Piano n.º 16 em Dó maior, de Wolfgang Amadeus Mozart, é uma melodia animada e familiar, típica das obras de Mozart.
+É também conhecida como "Sonata facile" ou "Sonata semplice", sendo “para iniciantes”.</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">"Flight of the Bumblebee" é um famoso interlúdio orquestral escrito para a ópera "O Conto do Czar Saltan", com o objetivo de evocar o padrão caótico de voo de uma abelha.
+Os padrões constantes de semicolcheias lhe dão uma sensação frenética de energia.</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="yes">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="final">Uma faixa que utiliza elementos de músicas "synthwave", incluindo sintetizadores analógicos aquecidos.
+Usei efeitos de emulação de vinil para dar um toque sutil de "vintage" ao som.</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="yes">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="final">Originalmente apresentada em "Melody Muncher", um jogo de ritmo de dois botões que criei em 2015 para o game jam Ludum Dare.
+Esta é o "expert mix" da música, adicionada para aumentar a dificuldade em uma atualização pós-jam.</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="yes">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="final">Prossiga pelas seções da música normalmente.
+Recomece do início ao chegar ao final do nível.</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="yes">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="final">Reiniciar automaticamente a seção atual ao alcançar o próximo checkpoint.</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="yes">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="final">Ir para um checkpoint específico do nível.</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="yes">
+        <source>Resume practicing.</source>
+        <target state="final">Resumir prática.</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="yes">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="final">Alternar ou ajustar os diamantes que indicam os tempos fortes/fracos.</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="yes">
+        <source>Beat</source>
+        <target state="final">Batida</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="yes">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="final">(Padrão) Exibir diamantes em obstáculos que estão em contratempos.</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="yes">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="final">(Padrão) Exibir indicadores de ritmo de diamante somente para as asas.</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="yes">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="final">Uma faixa inspirada na música "liquid drum and bass". O andamento é bastante rápido, com 170 batidas por minuto.
+Os padrões rápidos da bateria contrastam com elementos melódicos e pads atmosféricos.</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="yes">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="final">O primeiro movimento da Serenata n.º 13 para cordas em sol maior, de Wolfgang Amadeus Mozart, conhecida como "Eine kleine Nachtmusik" ou "uma pequena serenata noturna", é uma das obras mais famosas de Mozart.
+A peça foi originalmente escrita como uma composição para um quinteto de cordas.</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="yes">
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="final">O terceiro movimento da Sonata para Piano n.º 11 em Lá maior, de Wolfgang Amadeus Mozart, também é conhecido como "Rondo alla Turca" ou "Marcha Turca" e é uma melodia imediatamente reconhecível.
+Diz-se que a composição imita o estilo das bandas militares do Império Turco.</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="yes">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="final">Originalmente apresentado em "Melody Muncher", um jogo de ritmo de dois botões, que criei em 2015 para o game jam Ludum Dare.
+As músicas do Melody Muncher se adaptam naturalmente ao Rhythm Quest, pois compartilham mecânicas semelhantes.</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="yes">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="final">Originalmente apresentada em "Melody Muncher", um jogo de ritmo de dois botões que criei em 2015 para o game jam Ludum Dare.
+Esta é a música mais lenta do jogo, destinada a apresentar a mecânica dos inimigos azuis que se teleportam para trás de você após serem atingidos.</target>
+      </trans-unit>
+      <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels" approved="yes">
+        <source>Custom Levels</source>
+        <target state="final">Níveis Personalizados</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="yes">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="final">Não exibir indicadores de ritmo de diamante para nenhum obstáculo.</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="yes">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="final">Originalmente apresentada no meu antigo jogo de ritmo "Ripple Runner Deluxe", o predecessor espiritual de Rhythm Quest.
+Esta era a música com o andamento mais lento do jogo, notável pelo uso de plataformas com espinhos encadeadas.</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="yes">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="final">Uma faixa chiptune animada que escrevi em uma longa sessão de 3 horas, depois de me inspirar nas músicas de "Aivi &amp; Surasshu".
+A melodia da introdução faz referência a "Lonely Rolling Star", já que ambos criamos arranjos relacionados a essa música.</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="yes">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="final">A faixa-título e a música do trailer de "Super Mega Zero", um jogo de plataforma desenvolvido pela Silkworm, para o qual fui comissionado para compor a música no meu estilo clássico "9 bits".
+Esta música foi concebida para ser enérgica e acelerada, a fim de deixar os jogadores entusiasmados com o jogo.</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="yes">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="final">Sair do modo de prática, retornar ao checkpoint em que você estava jogando anteriormente.</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="yes">
+        <source>Section Lock</source>
+        <target state="final">Bloquear Seção</target>
       </trans-unit>
     </body>
   </file>
