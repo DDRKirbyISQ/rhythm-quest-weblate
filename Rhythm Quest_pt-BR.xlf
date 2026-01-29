@@ -194,7 +194,7 @@
         </trans-unit>
         <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="yes">
           <source>Enables screen shake effects.</source>
-          <target state="final">Habilita os efeitos de tremor da tela.</target>
+          <target state="final">Ativa os efeitos de tremor da tela.</target>
         </trans-unit>
         <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="yes">
           <source>Screen Flashes</source>
@@ -202,7 +202,7 @@
         </trans-unit>
         <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="yes">
           <source>Enables screen flash effects.</source>
-          <target state="final">Habilita os efeitos de luzes piscantes na tela.</target>
+          <target state="final">Ativa os efeitos de luzes piscantes na tela.</target>
         </trans-unit>
         <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="yes">
           <source>Disables screen flash effects.</source>
@@ -902,7 +902,7 @@ Para obter a melhor experiência, sinta-se à vontade para testar a versão offl
         </trans-unit>
         <trans-unit id="124685702768930816" xml:space="preserve" resname="settings_hapticattack_description_enabled" approved="yes">
           <source>Enables vibration on successful attacks.</source>
-          <target state="final">Habilita a vibração em ataques bem-sucedidos.</target>
+          <target state="final">Ativa a vibração em ataques bem-sucedidos.</target>
         </trans-unit>
         <trans-unit id="124686712975437824" xml:space="preserve" resname="settings_hapticattack" approved="yes">
           <source>Attack Rumble</source>
@@ -922,15 +922,15 @@ Para obter a melhor experiência, sinta-se à vontade para testar a versão offl
         </trans-unit>
         <trans-unit id="124687024733859840" xml:space="preserve" resname="settings_hapticjump_description_enabled" approved="yes">
           <source>Enables vibration on successful jumps.</source>
-          <target state="final">Habilita a vibração em pulos bem-sucedidos.</target>
+          <target state="final">Ativa a vibração em pulos bem-sucedidos.</target>
         </trans-unit>
         <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
           <source>Disables vibration for ui elements.</source>
           <target>Desativa a vibração para os elementos de interface.</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="yes">
           <source>Enables vibration for ui elements.</source>
-          <target>Habilita a vibração para os elementos de interface.</target>
+          <target state="final">Ativa a vibração para os elementos da interface.</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -1074,7 +1074,7 @@ Deseja ativar o modo de leitor de tela?
         </trans-unit>
         <trans-unit id="135535616696561664" xml:space="preserve" resname="settings_audiocues_description_enabled" approved="yes">
           <source>Enables ahead-of-time audio cues for the blind and visually-impaired.</source>
-          <target state="final">Habilita as sinalizações de áudio antecipadas para cegos e deficientes visuais.</target>
+          <target state="final">Ativa as sinalizações de áudio antecipadas para cegos e deficientes visuais.</target>
         </trans-unit>
         <trans-unit id="138026740778577920" xml:space="preserve" resname="right_mouse_button" approved="yes">
           <source>right mouse button</source>
@@ -1550,9 +1550,9 @@ Por favor, conecte um controle que tenha suporte ao dispositivo.</target>
           <source>Strict</source>
           <target>Estrito</target>
         </trans-unit>
-        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide">
+        <trans-unit id="256645726620921856" xml:space="preserve" resname="settings_timingwindows_description_extrawide" approved="yes">
           <source>Use extra wide timing windows to make gameplay very forgiving.</source>
-          <target>Use janelas de tempo amplas para tornar o jogo mais perdoável.</target>
+          <target state="final">Use janelas de tempo amplas para tornar a jogabilidade mais perdoável.</target>
         </trans-unit>
         <trans-unit id="256645728936177664" xml:space="preserve" resname="settings_timingwindows_description_normal">
           <source>Use normal timing windows for game obstacles.</source>
@@ -2594,9 +2594,9 @@ Clique em uma seção de checkpoint para editar seus efeitos de partícula.</tar
           <source>All beat grid markers will be colored according to beat offset.</source>
           <target>Todos os marcadores de batida em grade serão coloridos conforme o deslocamento da batida.</target>
         </trans-unit>
-        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description">
+        <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description" approved="yes">
           <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
-          <target>Os marcadores de batidas serão coloridos conforme o tipo de ação (saltar/atacar/ambos).</target>
+          <target state="final">Os marcadores de batidas serão coloridos conforme o tipo de ação (pular/atacar/ambos).</target>
         </trans-unit>
         <trans-unit id="357294831344332800" xml:space="preserve" resname="settings_colorskins_enemies_basiconly">
           <source>Basic Only</source>
@@ -3568,6 +3568,270 @@ Esta música foi concebida para ser enérgica e acelerada, a fim de deixar os jo
       <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="yes">
         <source>Section Lock</source>
         <target state="final">Bloquear Seção</target>
+      </trans-unit>
+      <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="no">
+        <source>Timing Display</source>
+        <target state="translated">Exibição do Tempo</target>
+      </trans-unit>
+      <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled" approved="no">
+        <source>Timing display is disabled.</source>
+        <target state="translated">Exibição do tempo está desativada.</target>
+      </trans-unit>
+      <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="yes">
+        <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+        <target state="final">Ativa uma exibição fixa que indica o quanto você se adiantou ou se atrasou em cada ação bem-sucedida.</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="yes">
+        <source>Silver medal</source>
+        <target state="final">Medalha de prata</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="yes">
+        <source>Bronze medal</source>
+        <target state="final">Medalha de bronze</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="yes">
+        <source>No medal</source>
+        <target state="final">Sem medalha</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="yes">
+        <source>{0} coins</source>
+        <target state="final">{0} moedas</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="yes">
+        <source>Basic Enemies: {0}</source>
+        <target state="final">Inimigos Básicos: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="yes">
+        <source>Flying Enemies: {0}</source>
+        <target state="final">Inimigos Voadores: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="translated">Inimigos de Golpe Duplo: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="yes">
+        <source>Ghost Enemies: {0}</source>
+        <target state="final">Inimigos Fantasmas: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="yes">
+        <source>Fast Ghost Enemies: {0}</source>
+        <target state="final">Inimigos Fantasmas Rápidos: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="yes">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="final">Inimigos de Pular+Atacar: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="yes">
+        <source>Spike Enemies: {0}</source>
+        <target state="final">Inimigos Espinhosos: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="yes">
+        <source>Checkpoints: {0}</source>
+        <target state="final">Checkpoints: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="yes">
+        <source>Normal Jumps: {0}</source>
+        <target state="final">Pulos Normais: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="yes">
+        <source>Air Jumps: {0}</source>
+        <target state="final">Pulos Aéreos: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="yes">
+        <source>Flight Paths: {0}</source>
+        <target state="final">Trajetórias de Voo: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="yes">
+        <source>Water Zones: {0}</source>
+        <target state="final">Zonas de Água: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="yes">
+        <source>Speed Zones: {0}</source>
+        <target state="final">Zonas de Velocidade: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="yes">
+        <source>Beats Per Minute: {0}</source>
+        <target state="final">Batidas Por Minuto: {0}</target>
+      </trans-unit>
+      <trans-unit id="506959562605899776" xml:space="preserve" resname="settings_autoplay_jukebox" approved="yes">
+        <source>Jukebox</source>
+        <target state="final">Jukebox</target>
+      </trans-unit>
+      <trans-unit id="511738381502033920" xml:space="preserve" resname="settings_tabletmode_description_disabled" approved="yes">
+        <source>Touchscreen controls are disabled.</source>
+        <target state="final">Controles de toque estão desativados.</target>
+      </trans-unit>
+      <trans-unit id="511738384932974592" xml:space="preserve" resname="settings_tabletmode_description_flipped" approved="yes">
+        <source>Touchscreen controls are enabled.
+Tap right half of screen to jump, tap left half to attack.</source>
+        <target state="final">Controles de toque estão ativados.
+Toque na metade direita da tela para pular, toque na metade esquerda para atacar.</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="yes">
+        <source>Song Length: {0}</source>
+        <target state="final">Duração da Música: {0}</target>
+      </trans-unit>
+      <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="no">
+        <source>Beams</source>
+        <target state="translated">Feixes</target>
+      </trans-unit>
+      <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="yes">
+        <source>Diamonds + Stars</source>
+        <target state="final">Diamantes + Estrelas</target>
+      </trans-unit>
+      <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="yes">
+        <source>Dots</source>
+        <target state="final">Pontos</target>
+      </trans-unit>
+      <trans-unit id="546527136267939840" xml:space="preserve" resname="particle_dotsandstars" approved="yes">
+        <source>Dots + Stars</source>
+        <target state="final">Pontos + Estrelas</target>
+      </trans-unit>
+      <trans-unit id="546527137941467136" xml:space="preserve" resname="particle_dotsfadeinout" approved="yes">
+        <source>Fading Dots</source>
+        <target state="final">Pontos Desvanecendo</target>
+      </trans-unit>
+      <trans-unit id="546527284469477376" xml:space="preserve" resname="particle_leaves" approved="yes">
+        <source>Leaves</source>
+        <target state="final">Folhas</target>
+      </trans-unit>
+      <trans-unit id="546527310365110272" xml:space="preserve" resname="particle_petals" approved="yes">
+        <source>Petals</source>
+        <target state="final">Pétalas</target>
+      </trans-unit>
+      <trans-unit id="546527321702313984" xml:space="preserve" resname="particle_snow" approved="yes">
+        <source>Snow</source>
+        <target state="final">Neve</target>
+      </trans-unit>
+      <trans-unit id="546527335681929216" xml:space="preserve" resname="particle_rain" approved="yes">
+        <source>Rain</source>
+        <target state="final">Chuva</target>
+      </trans-unit>
+      <trans-unit id="546527388018454528" xml:space="preserve" resname="particle_stars" approved="yes">
+        <source>Stars</source>
+        <target state="final">Estrelas</target>
+      </trans-unit>
+      <trans-unit id="546527398986559488" xml:space="preserve" resname="particle_trails" approved="yes">
+        <source>Trails</source>
+        <target state="final">Trilhas</target>
+      </trans-unit>
+      <trans-unit id="546529396163129344" xml:space="preserve" resname="particle_none" approved="yes">
+        <source>(None)</source>
+        <target state="final">(Nenhuma)</target>
+      </trans-unit>
+      <trans-unit id="546926689769009152" xml:space="preserve" resname="editor_tool_graphics_description" approved="yes">
+        <source>&lt;color=#ffff00&gt;Graphics&lt;/color&gt;
+Click on a checkpoint section to edit its graphics.</source>
+        <target state="final">&lt;color=#ffff00&gt;Gráficos&lt;/color&gt;
+Clique em um checkpoint para editar seus gráficos.</target>
+      </trans-unit>
+      <trans-unit id="546926692260425728" xml:space="preserve" resname="editor_tooltip_graphics" approved="yes">
+        <source>Graphics</source>
+        <target state="final">Gráficos</target>
+      </trans-unit>
+      <trans-unit id="546927294524731392" xml:space="preserve" resname="editor_action_graphics" approved="yes">
+        <source>Change graphics for section {0}</source>
+        <target state="final">Alterar gráficos para a seção {0}</target>
+      </trans-unit>
+      <trans-unit id="546928097410985984" xml:space="preserve" resname="editor_graphics_dialog_title" approved="yes">
+        <source>Graphics: Section {0}</source>
+        <target state="final">Gráficos: Seção {0}</target>
+      </trans-unit>
+      <trans-unit id="546989644518830080" xml:space="preserve" resname="settings_alternategamepadinput_description_normal" approved="no">
+        <source>(Default) Use normal gamepad input.</source>
+        <target state="translated">(Padrão) Usar a configuração normal do controle.</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="yes">
+        <source>Vibration</source>
+        <target state="final">Vibração</target>
+      </trans-unit>
+      <trans-unit id="516855053724463104" xml:space="preserve" resname="menu_settings_data" approved="yes">
+        <source>Data</source>
+        <target state="final">Dados</target>
+      </trans-unit>
+      <trans-unit id="516855193168293888" xml:space="preserve" resname="menu_settings_visuals" approved="yes">
+        <source>Visuals</source>
+        <target state="final">Visuais</target>
+      </trans-unit>
+      <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="yes">
+        <source>Timing</source>
+        <target state="final">Timing</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="yes">
+        <source>Calibration</source>
+        <target state="final">Calibração</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="yes">
+        <source>Gameplay</source>
+        <target state="final">Jogabilidade</target>
+      </trans-unit>
+      <trans-unit id="517151724282884096" xml:space="preserve" resname="menu_settings_keyboard" approved="yes">
+        <source>Keyboard</source>
+        <target state="final">Teclado</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="yes">
+        <source>Gamepad</source>
+        <target state="final">Controle</target>
+      </trans-unit>
+      <trans-unit id="511738384274468864" xml:space="preserve" resname="settings_tabletmode_description_enabled" approved="yes">
+        <source>Touchscreen controls are enabled.
+Tap left half of screen to jump, tap right half to attack.</source>
+        <target state="final">Controles de toque estão ativados.
+Toque na metade esquerda da tela para pular, toque na metade direita para atacar.</target>
+      </trans-unit>
+      <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled" approved="yes">
+        <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+        <target state="final">(Padrão) Permite uma rolagem mais suave, permitindo o movimento e a rolagem de subpixels.</target>
+      </trans-unit>
+      <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled" approved="yes">
+        <source>Forces movement and scrolling by whole pixel amounts.</source>
+        <target state="final">Força o movimento e a rolagem em quantidades inteiras de pixels.</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="yes">
+        <source>Previous Page</source>
+        <target state="final">Página Anterior</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="yes">
+        <source>Next Page</source>
+        <target state="final">Próxima Página</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="yes">
+        <source>Previous</source>
+        <target state="final">Anterior</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="yes">
+        <source>Next</source>
+        <target state="final">Próximo</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="yes">
+        <source>{0} out of {1} coins</source>
+        <target state="final">{0} de {1} moedas</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="yes">
+        <source>Perfect gold medal</source>
+        <target state="final">Medalha de ouro perfeita</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="yes">
+        <source>Gold medal</source>
+        <target state="final">Medalha de ouro</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="yes">
+        <source>River Crossing (with Water)</source>
+        <target state="final">Cruzamento do Rio (com Água)</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="yes">
+        <source>Advanced Settings</source>
+        <target state="final">Configurações Avançadas</target>
+      </trans-unit>
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="yes">
+        <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+        <target state="final">Um nível que foi criado para o trailer inicial do jogo em 2022.
+Ele tenta apresentar diferentes mecânicas e uma música enérgica.</target>
+      </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="yes">
+        <source>Perfect</source>
+        <target state="final">Perfeito</target>
       </trans-unit>
     </body>
   </file>
