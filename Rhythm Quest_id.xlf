@@ -2623,11 +2623,6 @@ I. Allegro</target>
         <source>Flower Fang (Expert Mix)</source>
         <target state="final">Flower Fang (Expert Mix)</target>
       </trans-unit>
-      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description">
-        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
-This was the final and most difficult level added to the game in a post-jam update.</source>
-        <target></target>
-      </trans-unit>
       <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
         <source>Perfect</source>
         <target state="translated">Sempurna</target>
