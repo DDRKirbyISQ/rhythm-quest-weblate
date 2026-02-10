@@ -16,9 +16,9 @@
           <source>Start Game</source>
           <target state="final">Mulai Permainan</target>
         </trans-unit>
-        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
+        <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras" approved="yes">
           <source>Extras</source>
-          <target>Ekstra</target>
+          <target state="final">Ekstra</target>
         </trans-unit>
         <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="yes">
           <source>Quit</source>
@@ -40,13 +40,13 @@
           <source>Audio</source>
           <target state="final">Audio</target>
         </trans-unit>
-        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
+        <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface" approved="yes">
           <source>Interface Settings</source>
-          <target>Pengaturan Antarmuka</target>
+          <target state="final">Pengaturan Antarmuka</target>
         </trans-unit>
-        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls">
+        <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls" approved="yes">
           <source>Controls</source>
-          <target>Kontrol</target>
+          <target state="final">Kontrol</target>
         </trans-unit>
         <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="yes">
           <source>Accessibility</source>
@@ -60,9 +60,9 @@
           <source>Flexible</source>
           <target state="final">Fleksibel</target>
         </trans-unit>
-        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect">
+        <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="no">
           <source>Pixel Perfect</source>
-          <target>Pas Sesuai Piksel</target>
+          <target state="translated">Piksel Sempurna</target>
         </trans-unit>
         <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode">
           <source>Screen Mode</source>
@@ -136,9 +136,9 @@
           <source>Return to the previous menu.</source>
           <target state="final">Kembali ke menu sebelumnya.</target>
         </trans-unit>
-        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel">
+        <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="yes">
           <source>Zoom Level</source>
-          <target>Tingkat zoom</target>
+          <target state="final">Tingkat zoom</target>
         </trans-unit>
         <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
           <source>Default</source>
@@ -176,9 +176,9 @@
           <source>Adjust the volume of the in-game sound effects.</source>
           <target state="final">Sesuaikan volume efek suara dalam game.</target>
         </trans-unit>
-        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="no">
+        <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="yes">
           <source>Sfx Volume</source>
-          <target state="translated">Volume Efek Suara</target>
+          <target state="final">Volume Efek Suara</target>
         </trans-unit>
         <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="yes">
           <source>Effect Settings...</source>
@@ -280,9 +280,9 @@
           <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
           <target state="final">Tekan &lt;sprite name="controller_icons_60"&gt; untuk Melanjutkan</target>
         </trans-unit>
-        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="no">
+        <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="yes">
           <source>Font Style</source>
-          <target state="translated">Gaya Font</target>
+          <target state="final">Gaya Font</target>
         </trans-unit>
         <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="yes">
           <source>Pixel Font</source>
@@ -300,9 +300,9 @@
           <source>Use pixel-styled font for the interface.</source>
           <target state="final">Menggunakan font gaya piksel untuk antarmuka.</target>
         </trans-unit>
-        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons">
+        <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons" approved="yes">
           <source>On-screen Buttons</source>
-          <target>Tombol di layar</target>
+          <target state="final">Tombol di layar</target>
         </trans-unit>
         <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide" approved="yes">
           <source>Hide</source>
@@ -320,9 +320,9 @@
           <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
           <target>Tombol dilayar akan ditampilkan. (Anda tidak perlu mengetuknya dengan tepat)</target>
         </trans-unit>
-        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog">
+        <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog" approved="yes">
           <source>Changelog</source>
-          <target>Catatan Perubahan</target>
+          <target state="final">Catatan Perubahan</target>
         </trans-unit>
         <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
           <source>Green Grasslands</source>
@@ -348,57 +348,57 @@
           <source>Space Sojourn</source>
           <target>Persinggahan Luar Angkasa</target>
         </trans-unit>
-        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="yes">
           <source>Sunrise Vista</source>
-          <target>Pemandangan Matahari Terbit</target>
+          <target state="final">Sunrise Vista</target>
         </trans-unit>
-        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="yes">
           <source>Raceway Plain</source>
-          <target>Dataran Balap</target>
+          <target state="final">Raceway Plain</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="yes">
           <source>River Crossing</source>
-          <target>Penyeberangan Sungai</target>
+          <target state="final">River Crossing</target>
         </trans-unit>
-        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="yes">
           <source>Mystic Forest</source>
-          <target>Hutan Mistik</target>
+          <target state="final">Mystic Forest</target>
         </trans-unit>
-        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="yes">
           <source>Skyward Summit</source>
-          <target>Menuju Puncak Angkasa</target>
+          <target state="final">Skyward Summit</target>
         </trans-unit>
-        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="yes">
           <source>Winged Airways</source>
-          <target>Winged Airways</target>
+          <target state="final">Winged Airways</target>
         </trans-unit>
-        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="yes">
           <source>Twilight Flight</source>
-          <target>Penerbangan Senja</target>
+          <target state="final">Twilight Flight</target>
         </trans-unit>
-        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
+        <trans-unit id="1098534900817920" xml:space="preserve" resname="credits" approved="yes">
           <source>a game by DDRKirby(ISQ)</source>
-          <target>permainan oleh DDRKirby(ISQ)</target>
+          <target state="final">permainan oleh DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2">
+        <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2" approved="no">
           <source>Programming: DDRKirby(ISQ)
 Design: DDRKirby(ISQ)
 Music: DDRKirby(ISQ)
 Sfx: DDRKirby(ISQ)
 Graphics: DDRKirby(ISQ)</source>
-          <target>Program: DDRKirby(ISQ)
+          <target state="translated">Program: DDRKirby(ISQ)
 Desain: DDRKirby(ISQ)
 Musik: DDRKirby(ISQ)
 Efek Suara: DDRKirby(ISQ)
-Grafis: DDRKirby(ISQ)</target>
+Grafik: DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3">
           <source>Moral Support: fuzzybunny2</source>
           <target>Dukungan Moral: fuzzybunny2</target>
         </trans-unit>
-        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits">
+        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits" approved="yes">
           <source>Credits</source>
-          <target>Kredit</target>
+          <target state="final">Kredit</target>
         </trans-unit>
         <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="yes">
           <source>Resume</source>
@@ -444,13 +444,13 @@ Grafis: DDRKirby(ISQ)</target>
           <source>Press a key</source>
           <target state="final">Tekan sebuah tombol</target>
         </trans-unit>
-        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description">
+        <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description" approved="yes">
           <source>Select a key to use for &lt;Attack&gt;.</source>
-          <target>Pilih tombol yang akan digunakan untuk &lt;Attack&gt;.</target>
+          <target state="final">Pilih tombol yang akan digunakan untuk &lt;Attack&gt;.</target>
         </trans-unit>
-        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description">
+        <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description" approved="yes">
           <source>Select a key to use for &lt;Jump&gt;.</source>
-          <target>Pilih tombol yang akan digunakan untuk &lt;Jump&gt;.</target>
+          <target state="final">Pilih tombol yang akan digunakan untuk &lt;Jump&gt;.</target>
         </trans-unit>
         <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description">
           <source>Resets key bindings to their defaults.</source>
@@ -460,13 +460,13 @@ Grafis: DDRKirby(ISQ)</target>
           <source>Mouse Controls</source>
           <target>Kontrol Tetikus</target>
         </trans-unit>
-        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped">
+        <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Dibalik</target>
+          <target state="final">Dibalik</target>
         </trans-unit>
-        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped">
+        <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="no">
           <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
-          <target>Klik kiri untuk &lt;Jump&gt;. Klik kanan untuk &lt;Attack&gt;.</target>
+          <target state="translated">Klik kiri untuk &lt;Jump&gt;. Klik kanan untuk &lt;Attack&gt;.</target>
         </trans-unit>
         <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled">
           <source>In-game mouse controls are disabled.</source>
@@ -480,10 +480,10 @@ Grafis: DDRKirby(ISQ)</target>
           <source>Reset Game Data</source>
           <target>Mengatur ulang Data Permainan</target>
         </trans-unit>
-        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm">
+        <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="yes">
           <source>All saved game data will be erased.
 Are you sure you want to proceed?</source>
-          <target>Semua data game yang disimpan akan dihapus.
+          <target state="final">Semua data game yang disimpan akan dihapus.
 Apakah Anda yakin ingin melanjutkan?</target>
         </trans-unit>
         <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="yes">
@@ -506,65 +506,65 @@ Apakah Anda yakin ingin melanjutkan?</target>
           <source>Continue</source>
           <target state="final">Lanjutkan</target>
         </trans-unit>
-        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro">
+        <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="yes">
           <source>How to Play</source>
-          <target>Cara Bermain</target>
+          <target state="final">Cara Bermain</target>
         </trans-unit>
-        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal">
+        <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
-          <target>&lt;color=#{0}&gt;Ketuk sisi kiri&lt;/color&gt; layar untuk Lompat.</target>
+          <target state="final">&lt;color=#{0}&gt;Ketuk sisi kiri&lt;/color&gt; layar untuk Lompat.</target>
         </trans-unit>
-        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped">
+        <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
-          <target>&lt;color=#{0}&gt;Ketuk sisi kanan&lt;/color&gt; layar untuk Lompat.</target>
+          <target state="final">&lt;color=#{0}&gt;Ketuk sisi kanan&lt;/color&gt; layar untuk Lompat.</target>
         </trans-unit>
-        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal">
+        <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
-          <target>&lt;color=#{0}&gt;Ketuk sisi kanan&lt;/color&gt; layar untuk Menyerang.</target>
+          <target state="final">&lt;color=#{0}&gt;Ketuk sisi kanan&lt;/color&gt; layar untuk Menyerang.</target>
         </trans-unit>
-        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped">
+        <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped" approved="yes">
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
-          <target>&lt;color=#{0}&gt;Ketuk sisi kiri&lt;/color&gt; layar untuk Menyerang.</target>
+          <target state="final">&lt;color=#{0}&gt;Ketuk sisi kiri&lt;/color&gt; layar untuk Menyerang.</target>
         </trans-unit>
-        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop" approved="yes">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
-          <target>Kamu bisa mengubah kontrol tadi di &lt;color=yellow&gt;menu utama&lt;/color&gt;.</target>
+          <target state="final">Kamu bisa mengubah kontrol tadi di menu &lt;color=yellow&gt;"Pengaturan"&lt;/color&gt;.</target>
         </trans-unit>
-        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
+        <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile" approved="yes">
           <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
-          <target>&lt;color=yellow&gt;Lompat&lt;/color&gt; dan &lt;color=yellow&gt;Serang&lt;/color&gt; dengan musik untuk menyelesaikan sisa level!</target>
+          <target state="final">&lt;color=yellow&gt;Lompat&lt;/color&gt; dan &lt;color=yellow&gt;Serang&lt;/color&gt; mengikuti musik untuk menyelesaikan level!</target>
         </trans-unit>
-        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped">
+        <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped" approved="yes">
           <source>Flipped</source>
-          <target>Dibalik</target>
+          <target state="final">Dibalik</target>
         </trans-unit>
         <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="yes">
           <source>Calibration complete!</source>
           <target state="final">Kalibrasi selesai!</target>
         </trans-unit>
-        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency">
+        <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="yes">
           <source>Audio Latency: {0}ms</source>
-          <target>Latensi Audio: {0}ms</target>
+          <target state="final">Latensi Audio: {0}ms</target>
         </trans-unit>
         <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
           <source>Yes (Recommended)</source>
           <target state="final">Ya (Direkomendasikan)</target>
         </trans-unit>
-        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
+        <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="yes">
           <source>(Select an option to view more details)</source>
-          <target>(Pilih opsi untuk melihat detail lebih lanjut)</target>
+          <target state="final">(Pilih opsi untuk melihat detail lebih lanjut)</target>
         </trans-unit>
-        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1">
+        <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1" approved="yes">
           <source>Spiked Steppes</source>
-          <target>Stepa Berduri</target>
+          <target state="final">Spiked Steppes</target>
         </trans-unit>
-        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description">
+        <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description" approved="yes">
           <source>Resets all game progress.</source>
-          <target>Mengatur ulang semua progres game.</target>
+          <target state="final">Atur ulang semua progres game.</target>
         </trans-unit>
-        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable">
+        <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable" approved="yes">
           <source>Unavailable</source>
-          <target>Tidak Tersedia</target>
+          <target state="final">Tidak Tersedia</target>
         </trans-unit>
         <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="yes">
           <source>Perfect Clear!</source>
@@ -574,21 +574,21 @@ Apakah Anda yakin ingin melanjutkan?</target>
           <source>Respawns: {0}</source>
           <target state="translated">Bangkit kembali: {0}</target>
         </trans-unit>
-        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="yes">
           <source>Haunted Prairie</source>
-          <target>Padang Rumput Berhantu</target>
+          <target state="final">Haunted Prairie</target>
         </trans-unit>
-        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
+        <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart" approved="yes">
           <source>Restart Level</source>
-          <target>Mulai Ulang Level</target>
+          <target state="final">Ulangi Level</target>
         </trans-unit>
-        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel">
+        <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="yes">
           <source>Cancel</source>
-          <target>Batal</target>
+          <target state="final">Batal</target>
         </trans-unit>
-        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy">
+        <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy" approved="yes">
           <source>Your accuracy: {0}%</source>
-          <target>Akurasi anda: {0}%</target>
+          <target state="final">Akurasi kamu: {0}%</target>
         </trans-unit>
         <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="yes">
           <source>Quit to Menu</source>
@@ -598,17 +598,17 @@ Apakah Anda yakin ingin melanjutkan?</target>
           <source>New</source>
           <target state="final">Baru</target>
         </trans-unit>
-        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop">
+        <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop" approved="yes">
           <source>Shop</source>
-          <target>Toko</target>
+          <target state="final">Toko</target>
         </trans-unit>
-        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
+        <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters" approved="yes">
           <source>Characters</source>
-          <target>Karakter</target>
+          <target state="final">Karakter</target>
         </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
+        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="yes">
           <source>Extra Levels</source>
-          <target>Level Bonus</target>
+          <target state="final">Level Ekstra</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:
@@ -624,9 +624,9 @@ Tersisa:</target>
           <source>Selected</source>
           <target state="final">Dipilih</target>
         </trans-unit>
-        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="no">
+        <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="yes">
           <source>Purchase for {0}?</source>
-          <target state="translated">Beli untuk {0}?</target>
+          <target state="final">Beli untuk {0}?</target>
         </trans-unit>
         <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
           <source>Take It to the Limit</source>
@@ -636,57 +636,57 @@ Tersisa:</target>
           <source>Preview</source>
           <target state="final">Pratinjau</target>
         </trans-unit>
-        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy">
+        <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy" approved="yes">
           <source>Buy</source>
-          <target>Beli</target>
+          <target state="final">Beli</target>
         </trans-unit>
-        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play">
+        <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play" approved="yes">
           <source>Play</source>
-          <target>Mainkan</target>
+          <target state="final">Mainkan</target>
         </trans-unit>
         <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
           <source>What Lies Beneath</source>
           <target>What Lies Beneath</target>
         </trans-unit>
-        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
+        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="yes">
           <source>City in the Rain</source>
-          <target>Kota di Tengah Hujan</target>
+          <target state="final">City in the Rain</target>
         </trans-unit>
-        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1" approved="yes">
           <source>Enchanted Oasis</source>
-          <target>Oasis Terpesona</target>
+          <target state="final">Enchanted Oasis</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer">
           <source>Gameplay Trailer</source>
           <target>Cuplikan Permainan</target>
         </trans-unit>
-        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
+        <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4" approved="yes">
           <source>Snowy Peak</source>
-          <target>Puncak Bersalju</target>
+          <target state="final">Snowy Peak</target>
         </trans-unit>
-        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5">
+        <trans-unit id="76960793188151296" xml:space="preserve" resname="level2-5" approved="yes">
           <source>Stratosphere</source>
-          <target>Stratosfir</target>
+          <target state="final">Stratosphere</target>
         </trans-unit>
-        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam">
+        <trans-unit id="81175914416484352" xml:space="preserve" resname="menu_wishliststeam" approved="yes">
           <source>Wishlist on Steam</source>
-          <target>Wishlist di Steam</target>
+          <target state="final">Wishlist di Steam</target>
         </trans-unit>
-        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
+        <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start" approved="yes">
           <source>Start</source>
-          <target>Mulai</target>
+          <target state="final">Mulai</target>
         </trans-unit>
-        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked">
+        <trans-unit id="83691412454682624" xml:space="preserve" resname="menu_demolocked" approved="yes">
           <source>This content is only available in the full version of Rhythm Quest! (coming soon)</source>
-          <target>Konten ini hanya tersedia dalam versi lengkap Rhythm Quest! (segera hadir)</target>
+          <target state="final">Konten ini hanya tersedia dalam versi lengkap Rhythm Quest! (segera hadir)</target>
         </trans-unit>
-        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow">
+        <trans-unit id="84049058529587200" xml:space="preserve" resname="menu_prev_world_arrow" approved="no">
           <source>&lt; World {0}</source>
-          <target>&lt; Dunia {0}</target>
+          <target state="translated">&lt; Dunia {0}</target>
         </trans-unit>
-        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow">
+        <trans-unit id="84049060475744256" xml:space="preserve" resname="menu_next_world_arrow" approved="no">
           <source>World {0} &gt;</source>
-          <target>Dunia {0} &gt;</target>
+          <target state="translated">Dunia {0} &gt;</target>
         </trans-unit>
         <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
           <source>Adjusts audio latency calibration.
@@ -694,33 +694,33 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <target>Sesuaikan kalibrasi latensi audio.
 Turunkan jika audio terlalu awal. Naikkan Jika audio terlambat.</target>
         </trans-unit>
-        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early">
+        <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early" approved="yes">
           <source>Too Early</source>
-          <target>Terlalu Awal</target>
+          <target state="final">Terlalu Awal</target>
         </trans-unit>
-        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late">
+        <trans-unit id="93028979182067712" xml:space="preserve" resname="too_late" approved="yes">
           <source>Too Late</source>
-          <target>Terlambat</target>
+          <target state="final">Terlambat</target>
         </trans-unit>
-        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
+        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2" approved="yes">
           <source>Twilight Tunnel</source>
-          <target>Terowongan Senja</target>
+          <target state="final">Twilight Tunnel</target>
         </trans-unit>
-        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4" approved="yes">
           <source>Midnight Marathon</source>
-          <target>Maraton Tengah Malam</target>
+          <target state="final">Midnight Marathon</target>
         </trans-unit>
-        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
+        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5" approved="yes">
           <source>Gearwheel Factory</source>
-          <target>Pabrik Roda Gigi</target>
+          <target state="final">Gearwheel Factory</target>
         </trans-unit>
-        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="yes">
           <source>Outerworld Highway</source>
-          <target>Jalan Raya Dunia Luar</target>
+          <target state="final">Outerworld Highway</target>
         </trans-unit>
-        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
+        <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2" approved="yes">
           <source>Misty Meadow</source>
-          <target>Padang Rumput Berkabut</target>
+          <target state="final">Misty Meadow</target>
         </trans-unit>
         <trans-unit id="119237249548988416" xml:space="preserve" resname="copy_violation">
           <source>Copy Protection Violation detected!</source>
@@ -756,25 +756,25 @@ Jika ini tidak berhasil, saya sarankan mengunduh dan memainkan versi offline!
 Maaf soal ini!
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome">
+        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome" approved="yes">
           <source>Welcome to the Rhythm Quest Demo!</source>
-          <target>Selamat datang di Rhythm Quest Demo!</target>
+          <target state="final">Selamat datang di Rhythm Quest Demo!</target>
         </trans-unit>
-        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice" approved="yes">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
 
 If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Have fun, and thanks for playing!
                                                                 --DDRKirby(ISQ)</source>
-          <target>Ini adalah versi demo awal dari Rhythm Quest, jadi hanya beberapa level saja yang dapat diakses, dan semua yang ada didalam game masih dapat berubah!
+          <target state="final">Ini adalah versi demo awal dari Rhythm Quest, jadi hanya beberapa level saja yang dapat diakses, dan semua yang ada didalam game masih dapat berubah!
 
-Jika anda ingin memasukkan game ini ke dalam wishlist di Steam atau berlangganan email atau Discord agar diberi tahu saat game lengkapnya dirilis, silahkan kunjungi  &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
+Jika anda ingin menambahkan game ini ke dalam wishlist di Steam atau berlangganan email atau Discord agar diberi tahu saat game versi lengkap dirilis, silahkan kunjungi  &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Selamat bersenang-senang, dan terima kasih sudah bermain!
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice">
+        <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="yes">
           <source>Note: You're playing the browser version of the demo, so you may experience some minor audio hiccups and reduced synchronization accuracy.
 
 Please make sure hardware graphics acceleration is enabled for your browser for better performance.
@@ -782,37 +782,37 @@ Please make sure hardware graphics acceleration is enabled for your browser for 
 Save data is stored in your browser and may potentially not persist across version updates.
 
 For the best experience, feel free to try the standalone offline build instead!</source>
-          <target>Catatan: Anda sedang memainkan demo versi browser, jadi anda mungkin mengalami beberapa gangguan audio kecil dan berkurangnya akurasi sinkronisasi.
+          <target state="final">Catatan: Anda sedang memainkan demo versi browser, jadi anda mungkin mengalami beberapa gangguan audio kecil dan berkurangnya akurasi sinkronisasi.
 
 Harap pastikan "hardware graphics acceleration" diaktifkan untuk browser anda untuk kinerja yang lebih baik.
 
 Data simpanan disimpan di browser anda dan mungkin tidak bertahan diseluruh pembaruan versi.
 
-Untuk pengalaman terbaik, silahkan mencoba versi offline!</target>
+Untuk pengalaman terbaik, silahkan coba versi offline!</target>
         </trans-unit>
-        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
+        <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend" approved="yes">
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
-          <target>Anda telah mencapai akhir demo Rhythm Quest - terima kasih telah bermain!</target>
+          <target state="final">Anda telah mencapai akhir demo Rhythm Quest - terima kasih telah bermain!</target>
         </trans-unit>
-        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite">
+        <trans-unit id="119573795569446912" xml:space="preserve" resname="menu_visitwebsite" approved="yes">
           <source>Visit the Website</source>
-          <target>Kunjungi Situs web</target>
+          <target state="final">Kunjungi Situs web</target>
         </trans-unit>
-        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord">
+        <trans-unit id="119574312836182016" xml:space="preserve" resname="menu_joindiscord" approved="yes">
           <source>Join the Discord</source>
-          <target>Gabung Discord</target>
+          <target state="final">Gabung Discord</target>
         </trans-unit>
-        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2">
+        <trans-unit id="122912423972483072" xml:space="preserve" resname="demoend2" approved="yes">
           <source>The full version of Rhythm Quest will contain 30 levels across 6 worlds, unlockable bonus stages, and even more gameplay mechanics!</source>
-          <target>Versi lengkap Rhythm Quest akan berisi 30 level di 6 dunia, level bonus yang dapat dibuka, dan lebih banyak lagi mekanisme gameplay!</target>
+          <target state="final">Versi lengkap Rhythm Quest akan berisi 30 level di 6 dunia, level bonus yang dapat dibuka, dan lebih banyak lagi mekanisme gameplay!</target>
         </trans-unit>
         <trans-unit id="122916965799735296" xml:space="preserve" resname="menu_next" approved="yes">
           <source>Next</source>
           <target state="final">Selanjutnya</target>
         </trans-unit>
-        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3">
+        <trans-unit id="122923740858986496" xml:space="preserve" resname="demoend3" approved="yes">
           <source>Wishlist and follow Rhythm Quest online for future updates!</source>
-          <target>Wishlist dan ikuti Rhythm Quest online untuk pembaruan di masa mendatang!</target>
+          <target state="final">Wishlist dan ikuti Rhythm Quest online untuk pembaruan di masa mendatang!</target>
         </trans-unit>
         <trans-unit id="123203196865523712" xml:space="preserve" resname="settings_menu_resolution_description">
           <source>Resolution and screen mode settings.</source>
@@ -830,9 +830,9 @@ Untuk pengalaman terbaik, silahkan mencoba versi offline!</target>
           <source>Resolution Settings...</source>
           <target>Pengaturan Resolusi...</target>
         </trans-unit>
-        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata">
+        <trans-unit id="123206678364336128" xml:space="preserve" resname="menu_settings_savedata" approved="yes">
           <source>Data Reset...</source>
-          <target>Reset Data...</target>
+          <target state="final">Reset Data...</target>
         </trans-unit>
         <trans-unit id="123207637685547008" xml:space="preserve" resname="settings_resetprefs_description">
           <source>Resets settings to default values.</source>
@@ -844,9 +844,9 @@ Untuk pengalaman terbaik, silahkan mencoba versi offline!</target>
           <target>Pengaturan telah diatur ulang ke nilai bawaan.
 (Disarankan kalibrasi ulang audio)</target>
         </trans-unit>
-        <trans-unit id="123210343288451072" xml:space="preserve" resname="settings_resetprefs">
+        <trans-unit id="123210343288451072" xml:space="preserve" resname="settings_resetprefs" approved="yes">
           <source>Reset Preferences</source>
-          <target>Atur Ulang Preferensi</target>
+          <target state="final">Atur Ulang Preferensi</target>
         </trans-unit>
         <trans-unit id="123232676979978240" xml:space="preserve" resname="menu_settings_screenfilter">
           <source>Screen Filter Settings...</source>
@@ -856,25 +856,25 @@ Untuk pengalaman terbaik, silahkan mencoba versi offline!</target>
           <source>Configure a backdrop filter to make foreground elements more visible.</source>
           <target>Konfigurasikan filter latar belakang untuk membuat elemen latar depan lebih terlihat.</target>
         </trans-unit>
-        <trans-unit id="123233399918604288" xml:space="preserve" resname="settings_screenfilter">
+        <trans-unit id="123233399918604288" xml:space="preserve" resname="settings_screenfilter" approved="yes">
           <source>Screen Filter</source>
-          <target>Filter Layar</target>
+          <target state="final">Filter Layar</target>
         </trans-unit>
-        <trans-unit id="123235128538083328" xml:space="preserve" resname="settings_screenfilter_fade">
+        <trans-unit id="123235128538083328" xml:space="preserve" resname="settings_screenfilter_fade" approved="yes">
           <source>Fade</source>
-          <target>Memudar</target>
+          <target state="final">Memudar</target>
         </trans-unit>
-        <trans-unit id="123235175392653312" xml:space="preserve" resname="settings_screenfilter_darken">
+        <trans-unit id="123235175392653312" xml:space="preserve" resname="settings_screenfilter_darken" approved="yes">
           <source>Darken</source>
-          <target>Gelapkan</target>
+          <target state="final">Gelap</target>
         </trans-unit>
-        <trans-unit id="123235228018585600" xml:space="preserve" resname="settings_screenfilter_desaturate">
+        <trans-unit id="123235228018585600" xml:space="preserve" resname="settings_screenfilter_desaturate" approved="yes">
           <source>Desaturate</source>
-          <target>Desaturasi</target>
+          <target state="final">Desaturasi</target>
         </trans-unit>
-        <trans-unit id="123235460978618368" xml:space="preserve" resname="settings_screenfilter_description_disabled">
+        <trans-unit id="123235460978618368" xml:space="preserve" resname="settings_screenfilter_description_disabled" approved="yes">
           <source>Screen filter is disabled.</source>
-          <target>Filter layar dinonaktifkan.</target>
+          <target state="final">Filter layar dinonaktifkan.</target>
         </trans-unit>
         <trans-unit id="123235499293585408" xml:space="preserve" resname="settings_screenfilter_description_fade">
           <source>Fades backdrops toward primary background color.</source>
@@ -1200,9 +1200,9 @@ Apakah Anda ingin mengaktifkan mode pembaca layar?
           <source>Use pixel-styled font for the interface. &lt;color=red&gt;[Unavailable at this resolution]&lt;/color&gt;</source>
           <target>Gunakan font bergaya piksel untuk antarmuka. &lt;color=red&gt;[Tidak tersedia pada resolusi ini]&lt;/color&gt;</target>
         </trans-unit>
-        <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4">
+        <trans-unit id="175529381280395264" xml:space="preserve" resname="level4-4" approved="yes">
           <source>Soaring Skyline</source>
-          <target>Cakrawala yang menjulang tinggi</target>
+          <target state="final">Soaring Skyline</target>
         </trans-unit>
         <trans-unit id="176584570590507008" xml:space="preserve" resname="language_en">
           <source>English</source>
@@ -1324,9 +1324,9 @@ Apakah Anda ingin mengaktifkan mode pembaca layar?
           <source>Use Chinese (Traditional) translation by {0}.</source>
           <target>Gunakan Terjemahan Bahasa Mandarin (Tradisional) oleh {0}.</target>
         </trans-unit>
-        <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
+        <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5" approved="yes">
           <source>Moonlit Mesa</source>
-          <target>Mesa yang diterangi sinar bulan</target>
+          <target state="final">Moonlit Mesa</target>
         </trans-unit>
         <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
           <source>Promotional Art: Kat Jia</source>
@@ -1344,25 +1344,25 @@ Apakah Anda ingin mengaktifkan mode pembaca layar?
           <source>Use Vietnamese translation by {0}.</source>
           <target>Gunakan terjemahan Bahasa Vietnam oleh {0}.</target>
         </trans-unit>
-        <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
+        <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1" approved="yes">
           <source>Gleaming Glassway</source>
-          <target>Jalan Kaca yang Berkilau</target>
+          <target state="final">Gleaming Glassway</target>
         </trans-unit>
-        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
+        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2" approved="yes">
           <source>Sunken Street</source>
-          <target>Jalan yang cekung</target>
+          <target state="final">Sunken Street</target>
         </trans-unit>
-        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
+        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3" approved="yes">
           <source>Crossway Corridor</source>
-          <target>Koridor Lintas Jalur</target>
+          <target state="final">Crossway Corridor</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="yes">
           <source>Planar Puzzle</source>
-          <target>Teka-teki Planar</target>
+          <target state="final">Planar Puzzle</target>
         </trans-unit>
-        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
+        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="yes">
           <source>Brilliant Boulevard</source>
-          <target>Boulevard yang Brilian</target>
+          <target state="final">Brilliant Boulevard</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -2216,17 +2216,17 @@ Klik untuk menambah lompatan atau lompatan udara bersayap. Disarankan lompatan u
           <source>{0} BPM</source>
           <target>{0} BPM</target>
         </trans-unit>
-        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel">
+        <trans-unit id="313232506866151424" xml:space="preserve" resname="editor_menu_exportlevel" approved="yes">
           <source>Export</source>
-          <target>Ekspor</target>
+          <target state="final">Ekspor</target>
         </trans-unit>
         <trans-unit id="313235931486007296" xml:space="preserve" resname="editor_notification_export">
           <source>Level exported: {0}</source>
           <target>Level diekspor: {0}</target>
         </trans-unit>
-        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing">
+        <trans-unit id="313243783302787072" xml:space="preserve" resname="error_customlevelmusicmissing" approved="yes">
           <source>Couldn't find music for this level</source>
-          <target>Tidak dapat menemukan musik untuk level ini</target>
+          <target state="final">Tidak dapat menemukan musik untuk level ini</target>
         </trans-unit>
         <trans-unit id="320058637254701056" xml:space="preserve" resname="editor_type_multihitenemyeighth">
           <source>fast ghost enemy</source>
@@ -2274,29 +2274,29 @@ Klik untuk memasukkan ritme "nada delapan bertitik" musuh hantu.</target>
           <source>Import New Levels</source>
           <target>Impor Level Baru</target>
         </trans-unit>
-        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount">
+        <trans-unit id="323338292145467392" xml:space="preserve" resname="customlevel_folderlevelcount" approved="yes">
           <source>({0} Levels)</source>
-          <target>({0} Level)</target>
+          <target state="final">({0} Level)</target>
         </trans-unit>
         <trans-unit id="326501736235446272" xml:space="preserve" resname="customlevelimporter_alreadyimported">
           <source>Already in custom level directory</source>
           <target>Sudah ada di direktori level kustom</target>
         </trans-unit>
-        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading">
+        <trans-unit id="326501917941084160" xml:space="preserve" resname="customlevelimporter_downloading" approved="yes">
           <source>Downloading...</source>
-          <target>Mengunduh...</target>
+          <target state="final">Mengunduh...</target>
         </trans-unit>
-        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload">
+        <trans-unit id="326501945963229184" xml:space="preserve" resname="customlevelimporter_faileddownload" approved="yes">
           <source>Download failed</source>
-          <target>Gagal mengunduh</target>
+          <target state="final">Gagal mengunduh</target>
         </trans-unit>
-        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile">
+        <trans-unit id="326501975839256576" xml:space="preserve" resname="customlevelimporter_missingfile" approved="no">
           <source>Missing {0} file</source>
-          <target>File {0} hilang</target>
+          <target state="translated">{0} file hilang</target>
         </trans-unit>
-        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists">
+        <trans-unit id="326502007778881536" xml:space="preserve" resname="customlevelimporter_fileexists" approved="yes">
           <source>File already exists:</source>
-          <target>File sudah ada:</target>
+          <target state="final">File sudah ada:</target>
         </trans-unit>
         <trans-unit id="326502225014468608" xml:space="preserve" resname="customlevelimporter_extracting">
           <source>Extracting...</source>
@@ -2306,25 +2306,25 @@ Klik untuk memasukkan ritme "nada delapan bertitik" musuh hantu.</target>
           <source>No music included</source>
           <target>Tidak ada musik yang disertakan</target>
         </trans-unit>
-        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success">
+        <trans-unit id="326502331939860480" xml:space="preserve" resname="customlevelimporter_success" approved="yes">
           <source>Success</source>
-          <target>Berhasil</target>
+          <target state="final">Berhasil</target>
         </trans-unit>
         <trans-unit id="326503191579242496" xml:space="preserve" resname="customlevelimporter_browse">
           <source>Browse from disk</source>
           <target>Jelajahi dari disk</target>
         </trans-unit>
-        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu">
+        <trans-unit id="326503448241287168" xml:space="preserve" resname="customlevelimporter_downloadmenu" approved="yes">
           <source>Download from URL(s)</source>
-          <target>Unduh dari URL</target>
+          <target state="final">Unduh dari URL</target>
         </trans-unit>
-        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop">
+        <trans-unit id="326557576166420480" xml:space="preserve" resname="customlevelimporter_dragdrop" approved="yes">
           <source>Drag .rqzip files here</source>
-          <target>Seret file .rqzip disini</target>
+          <target state="final">Seret file .rqzip disini</target>
         </trans-unit>
-        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or">
+        <trans-unit id="326557645846392832" xml:space="preserve" resname="customlevelimporter_or" approved="yes">
           <source>or</source>
-          <target>atau</target>
+          <target state="final">atau</target>
         </trans-unit>
         <trans-unit id="326597748371271680" xml:space="preserve" resname="customlevelimporter_modio">
           <source>Browse custom levels on mod.io</source>
@@ -2350,13 +2350,13 @@ Kamu bisa impor level dari:
           <target>Masukkan satu atau beberapa URL ke file .rqzip untuk diunduh:
 (letakkan setiap URL pada baris terpisah)</target>
         </trans-unit>
-        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download">
+        <trans-unit id="326945555187806208" xml:space="preserve" resname="customlevelimporter_download" approved="yes">
           <source>Download</source>
-          <target>Unduh</target>
+          <target state="final">Unduh</target>
         </trans-unit>
-        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard">
+        <trans-unit id="326994706592215040" xml:space="preserve" resname="customlevelimporter_pasteclipboard" approved="yes">
           <source>Paste from Clipboard</source>
-          <target>Tempelkan dari papan klip</target>
+          <target state="final">Tempelkan dari papan klip</target>
         </trans-unit>
         <trans-unit id="330140734573031424" xml:space="preserve" resname="editor_button_graphics">
           <source>Graphics</source>
@@ -2446,17 +2446,17 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
           <source>Rain</source>
           <target state="final">Hujan</target>
         </trans-unit>
-        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="yes">
           <source>Violet Hyperwave</source>
-          <target>Violet Hyperwave</target>
+          <target state="final">Violet Hyperwave</target>
         </trans-unit>
-        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="yes">
           <source>A Single Leaf Flutters in the Wind</source>
-          <target>A Single Leaf Flutters in the Wind</target>
+          <target state="final">A Single Leaf Flutters in the Wind</target>
         </trans-unit>
-        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="yes">
           <source>Standing Here Alone (Expert Mix)</source>
-          <target>Standing Here Alone (Expert Mix)</target>
+          <target state="final">Standing Here Alone (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="yes">
           <source>Super Mega Zero (RQ Edit)</source>
@@ -2466,25 +2466,25 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
           <source>Colors</source>
           <target state="final">Warna</target>
         </trans-unit>
-        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls" approved="yes">
           <source>As the Cherry Blossom Falls</source>
-          <target>As the Cherry Blossom Falls</target>
+          <target state="final">As the Cherry Blossom Falls</target>
         </trans-unit>
         <trans-unit id="351466545439617024" xml:space="preserve" resname="settings_enemyspacing">
           <source>Enemy Spacing</source>
           <target>Jarak Musuh</target>
         </trans-unit>
-        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure" approved="yes">
           <source>Let's Have an Adventure!</source>
-          <target>Let's Have an Adventure!</target>
+          <target state="final">Let's Have an Adventure!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
           <target>Jendela Timing</target>
         </trans-unit>
-        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
+        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls" approved="yes">
           <source>Crimson Halls</source>
-          <target>Crimson Halls</target>
+          <target state="final">Crimson Halls</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>
@@ -2538,9 +2538,9 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
           <source>User ID: {0}</source>
           <target>ID Pengguna: {0}</target>
         </trans-unit>
-        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1">
+        <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="yes">
           <source>Spellbound Nebula</source>
-          <target>Speedy Starfield</target>
+          <target state="final">Spellbound Nebula</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
@@ -2568,6 +2568,241 @@ Apakah kamu tetap ingin melanjutkan?</target>
       <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="yes">
         <source>Return to the main menu.</source>
         <target state="final">Kembali ke menu utama.</target>
+      </trans-unit>
+      <trans-unit id="411765448906682368" xml:space="preserve" resname="bonus_level_fur_elise" approved="yes">
+        <source>Für Elise</source>
+        <target state="final">Für Elise</target>
+      </trans-unit>
+      <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="yes">
+        <source>Purchase Level</source>
+        <target state="final">Beli Level</target>
+      </trans-unit>
+      <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="yes">
+        <source>Play Level</source>
+        <target state="final">Mainkan Level</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="yes">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="final">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="yes">
+        <source>Clematis</source>
+        <target state="final">Clematis</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="no">
+        <source>Previous Page</source>
+        <target state="translated">Halaman Sebelumnya</target>
+      </trans-unit>
+      <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2" approved="yes">
+        <source>Speedy Starfield</source>
+        <target state="final">Speedy Starfield</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="no">
+        <source>Advanced Settings</source>
+        <target state="translated">Pengaturan Lanjutan</target>
+      </trans-unit>
+      <trans-unit id="546989447839526912" xml:space="preserve" resname="settings_alternategamepadinput" approved="no">
+        <source>Input Mode</source>
+        <target state="translated">Mode Input</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="no">
+        <source>Basic Enemies: {0}</source>
+        <target state="translated">Musuh Biasa: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="no">
+        <source>Normal Jumps: {0}</source>
+        <target state="translated">Lompatan Biasa: {0}</target>
+      </trans-unit>
+      <trans-unit id="382079554851483648" xml:space="preserve" resname="bonus_level_piano_sonata_no_16" approved="yes">
+        <source>Piano Sonata No. 16 in C Major
+I. Allegro</source>
+        <target state="final">Piano Sonata No. 16 in C Major
+I. Allegro</target>
+      </trans-unit>
+      <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="yes">
+        <source>Flower Fang (Expert Mix)</source>
+        <target state="final">Flower Fang (Expert Mix)</target>
+      </trans-unit>
+      <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the final and most difficult level added to the game in a post-jam update.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="no">
+        <source>Perfect</source>
+        <target state="translated">Sempurna</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
+        <source>Jump Hold+Attack</source>
+        <target state="translated">Lompat Tahan+Serang</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="translated">Tekan {0} atau {1} untuk menyerang.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="no">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="translated">Tekan {0} atau {1} untuk lompat.</target>
+      </trans-unit>
+      <trans-unit id="384130741780131840" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik" approved="yes">
+        <source>Eine kleine Nachtmusik
+I. Allegro</source>
+        <target state="final">Eine kleine Nachtmusik
+I. Allegro</target>
+      </trans-unit>
+      <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="yes">
+        <source>Song of the Sea (Expert Mix)</source>
+        <target state="final">Song of the Sea (Expert Mix)</target>
+      </trans-unit>
+      <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="yes">
+        <source>Quantum Orbit</source>
+        <target state="final">Quantum Orbit</target>
+      </trans-unit>
+      <trans-unit id="435975420670423040" xml:space="preserve" resname="levelauthor" approved="yes">
+        <source>by {0}</source>
+        <target state="final">oleh {0}</target>
+      </trans-unit>
+      <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="yes">
+        <source>Level {0}</source>
+        <target state="final">Level {0}</target>
+      </trans-unit>
+      <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="yes">
+        <source>Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11</source>
+        <target state="final">Turkish March (Rondo alla Turca)
+from Piano Sonata No. 11</target>
+      </trans-unit>
+      <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="yes">
+        <source>Midnight Moon</source>
+        <target state="final">Midnight Moon</target>
+      </trans-unit>
+      <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="yes">
+        <source>Flight of the Bumblebee</source>
+        <target state="final">Flight of the Bumblebee</target>
+      </trans-unit>
+      <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="yes">
+        <source>Cosmic Conflux</source>
+        <target state="final">Cosmic Conflux</target>
+      </trans-unit>
+      <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="yes">
+        <source>Bottled Up (RQ Edit)</source>
+        <target state="final">Bottled Up (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="yes">
+        <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
+        <target state="final">The Warrior Wakes in the Sunrise Dawn (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="yes">
+        <source>Claustrophobia</source>
+        <target state="final">Claustrophobia</target>
+      </trans-unit>
+      <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="no">
+        <source>Dots</source>
+        <target state="translated">Dot</target>
+      </trans-unit>
+      <trans-unit id="546527136267939840" xml:space="preserve" resname="particle_dotsandstars" approved="no">
+        <source>Dots + Stars</source>
+        <target state="translated">Dot + Bintang</target>
+      </trans-unit>
+      <trans-unit id="546527284469477376" xml:space="preserve" resname="particle_leaves" approved="no">
+        <source>Leaves</source>
+        <target state="translated">Daun</target>
+      </trans-unit>
+      <trans-unit id="546527321702313984" xml:space="preserve" resname="particle_snow" approved="no">
+        <source>Snow</source>
+        <target state="translated">Salju</target>
+      </trans-unit>
+      <trans-unit id="546527310365110272" xml:space="preserve" resname="particle_petals" approved="no">
+        <source>Petals</source>
+        <target state="translated">Kelopak bunga</target>
+      </trans-unit>
+      <trans-unit id="546527335681929216" xml:space="preserve" resname="particle_rain" approved="no">
+        <source>Rain</source>
+        <target state="translated">Hujan</target>
+      </trans-unit>
+      <trans-unit id="546527388018454528" xml:space="preserve" resname="particle_stars" approved="no">
+        <source>Stars</source>
+        <target state="translated">Bintang</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="no">
+        <source>Next</source>
+        <target state="translated">Selanjutnya</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="no">
+        <source>Next Page</source>
+        <target state="translated">Halaman Selanjutnya</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="no">
+        <source>Previous</source>
+        <target state="translated">Sebelumnya</target>
+      </trans-unit>
+      <trans-unit id="547296436545171456" xml:space="preserve" resname="uap_close" approved="no">
+        <source>Close</source>
+        <target state="translated">Tutup</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
+        <source>{0} out of {1} coins</source>
+        <target state="translated">{0} dari {1} koin</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="no">
+        <source>{0} coins</source>
+        <target state="translated">{0} koin</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
+        <source>Air Jumps: {0}</source>
+        <target state="translated">Lompatan di udara: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
+        <source>Beats Per Minute: {0}</source>
+        <target state="needs-translation">Beats Per Minute: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
+        <source>Checkpoints: {0}</source>
+        <target state="translated">Checkpoint: {0}</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="no">
+        <source>No medal</source>
+        <target state="translated">Tidak ada medali</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="no">
+        <source>Bronze medal</source>
+        <target state="translated">Medali perunggu</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="no">
+        <source>Gold medal</source>
+        <target state="translated">Medali emas</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="no">
+        <source>Perfect gold medal</source>
+        <target state="translated">Medali emas sempurna</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="no">
+        <source>Silver medal</source>
+        <target state="translated">Medali perak</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
+        <source>Water Zones: {0}</source>
+        <target state="translated">Zona air: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="yes">
+        <source>Song Length: {0}</source>
+        <target state="final">Durasi Lagu: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
+        <source>Speed Zones: {0}</source>
+        <target state="translated">Zona percepatan: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="no">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="translated">Musuh Lompat+Serang: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="translated">Musuh Dua Kali Pukulan: {0}</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="yes">
+        <source>River Crossing (with Water)</source>
+        <target state="final">River Crossing (with Water)</target>
       </trans-unit>
     </body>
   </file>
