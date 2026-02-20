@@ -3805,6 +3805,132 @@ It tries to feature different mechanics and high-energy music.</source>
         <target state="final">Уровень, созданный для первого геймплейного трейлера игры в 2022 году.
 Он демонстрирует различные механики и энергичную музыку.</target>
       </trans-unit>
+      <trans-unit id="544775005559107584" xml:space="preserve" resname="settings_audiocuejumpholdattack_description" approved="yes">
+        <source>Select a cue sound to play one beat before a combined jump hold + attack.</source>
+        <target state="final">Выберите звуковой сигнал, который будет воспроизводиться за один удар перед действием, требующим удерживания прыжка + атаки.</target>
+      </trans-unit>
+      <trans-unit id="546989651141636096" xml:space="preserve" resname="settings_alternategamepadinput_description_alternate" approved="yes">
+        <source>Enable alternate gamepad input handling.
+Try this only if your gamepad does not work.
+May cause doubled inputs otherwise!</source>
+        <target state="final">Включает альтернативный режим ввода для геймпада.
+Используйте этот режим, если геймпад не работает.
+В противном случае может вызывать двойные нажатия!</target>
+      </trans-unit>
+      <trans-unit id="554867302229389312" xml:space="preserve" resname="drumcalibration_manual_description" approved="yes">
+        <source>Choose the setting where the drum animation most closely matches the timing of the sound.</source>
+        <target state="final">Выберите настройку, при которой анимация ударных наиболее точно соответствует времени звучания.</target>
+      </trans-unit>
+      <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="yes">
+        <source>Beams</source>
+        <target state="final">Пучки</target>
+      </trans-unit>
+      <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="yes">
+        <source>Diamonds + Stars</source>
+        <target state="final">Ромбы + Звезды</target>
+      </trans-unit>
+      <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="yes">
+        <source>Dots</source>
+        <target state="final">Точки</target>
+      </trans-unit>
+      <trans-unit id="546527136267939840" xml:space="preserve" resname="particle_dotsandstars" approved="yes">
+        <source>Dots + Stars</source>
+        <target state="final">Точки + Звезды</target>
+      </trans-unit>
+      <trans-unit id="546527137941467136" xml:space="preserve" resname="particle_dotsfadeinout" approved="yes">
+        <source>Fading Dots</source>
+        <target state="final">Пропадающие Точки</target>
+      </trans-unit>
+      <trans-unit id="546527284469477376" xml:space="preserve" resname="particle_leaves" approved="yes">
+        <source>Leaves</source>
+        <target state="final">Листья</target>
+      </trans-unit>
+      <trans-unit id="546527310365110272" xml:space="preserve" resname="particle_petals" approved="yes">
+        <source>Petals</source>
+        <target state="final">Лепестки</target>
+      </trans-unit>
+      <trans-unit id="546527321702313984" xml:space="preserve" resname="particle_snow" approved="yes">
+        <source>Snow</source>
+        <target state="final">Снег</target>
+      </trans-unit>
+      <trans-unit id="546527335681929216" xml:space="preserve" resname="particle_rain" approved="yes">
+        <source>Rain</source>
+        <target state="final">Дождь</target>
+      </trans-unit>
+      <trans-unit id="546527388018454528" xml:space="preserve" resname="particle_stars" approved="yes">
+        <source>Stars</source>
+        <target state="final">Звезды</target>
+      </trans-unit>
+      <trans-unit id="546527398986559488" xml:space="preserve" resname="particle_trails" approved="yes">
+        <source>Trails</source>
+        <target state="final">Следы</target>
+      </trans-unit>
+      <trans-unit id="546529396163129344" xml:space="preserve" resname="particle_none" approved="yes">
+        <source>(None)</source>
+        <target state="final">(Выкл.)</target>
+      </trans-unit>
+      <trans-unit id="546926689769009152" xml:space="preserve" resname="editor_tool_graphics_description" approved="yes">
+        <source>&lt;color=#ffff00&gt;Graphics&lt;/color&gt;
+Click on a checkpoint section to edit its graphics.</source>
+        <target state="final">&lt;color=#ffff00&gt;Графика&lt;/color&gt;
+Нажмите на секцию чекпоинта для редактирования её графики.</target>
+      </trans-unit>
+      <trans-unit id="546926692260425728" xml:space="preserve" resname="editor_tooltip_graphics" approved="yes">
+        <source>Graphics</source>
+        <target state="final">Графика</target>
+      </trans-unit>
+      <trans-unit id="546927294524731392" xml:space="preserve" resname="editor_action_graphics" approved="yes">
+        <source>Change graphics for section {0}</source>
+        <target state="final">Сменить графику для секции {0}</target>
+      </trans-unit>
+      <trans-unit id="546928097410985984" xml:space="preserve" resname="editor_graphics_dialog_title" approved="yes">
+        <source>Graphics: Section {0}</source>
+        <target state="final">Графика: Секция {0}</target>
+      </trans-unit>
+      <trans-unit id="546989447839526912" xml:space="preserve" resname="settings_alternategamepadinput" approved="yes">
+        <source>Input Mode</source>
+        <target state="final">Режим Ввода</target>
+      </trans-unit>
+      <trans-unit id="546989644518830080" xml:space="preserve" resname="settings_alternategamepadinput_description_normal" approved="yes">
+        <source>(Default) Use normal gamepad input.</source>
+        <target state="final">(По умолчанию) Использовать стандартный ввод с геймпада.</target>
+      </trans-unit>
+      <trans-unit id="546990657946562560" xml:space="preserve" resname="settings_alternategamepadinput_alternate" approved="no">
+        <source>Alternate</source>
+        <target state="translated">Альтернативный</target>
+      </trans-unit>
+      <trans-unit id="547296436545171456" xml:space="preserve" resname="uap_close" approved="no">
+        <source>Close</source>
+        <target state="translated">Закрыть</target>
+      </trans-unit>
+      <trans-unit id="554070939442917376" xml:space="preserve" resname="drumcalibration_prompt_title" approved="yes">
+        <source>Calibration Check</source>
+        <target state="final">Проверка Калибровки</target>
+      </trans-unit>
+      <trans-unit id="554071137015607296" xml:space="preserve" resname="drumcalibration_prompt_description" approved="yes">
+        <source>Is the sound of the drum in time with the animation?</source>
+        <target state="final">Звук барабана происходит в ритм анимации?</target>
+      </trans-unit>
+      <trans-unit id="554071667536343040" xml:space="preserve" resname="drumcalibration_notinsync" approved="yes">
+        <source>No, it sounds too early or late</source>
+        <target state="final">Нет, звук играет слишком рано или поздно</target>
+      </trans-unit>
+      <trans-unit id="554867204447580160" xml:space="preserve" resname="drumcalibration_manual_title" approved="yes">
+        <source>Manual Calibration</source>
+        <target state="final">Ручная Калибровка</target>
+      </trans-unit>
+      <trans-unit id="554868269746270208" xml:space="preserve" resname="drumcalibration_automatic_title" approved="yes">
+        <source>Automatic Calibration</source>
+        <target state="final">Автоматическая Калибровка</target>
+      </trans-unit>
+      <trans-unit id="554869235312799744" xml:space="preserve" resname="drumcalibration_automatic_description_mouse" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">Нажмите любую клавишу или кликните когда слышите звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554869231915413504" xml:space="preserve" resname="drumcalibration_automatic_description_keyboard" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">Нажмите любую клавишу или кликните когда слышите звук барабана</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
