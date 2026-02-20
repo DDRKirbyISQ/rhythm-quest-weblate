@@ -120,13 +120,13 @@
           <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
           <target>(По умолчанию) Синхронизирует вывод картинки с частотой обновления дисплея. Предотвращает эффект разрыва.</target>
         </trans-unit>
-        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled">
+        <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="yes">
           <source>Disabled</source>
-          <target>Выкл.</target>
+          <target state="final">Выкл.</target>
         </trans-unit>
-        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled">
+        <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
           <source>Enabled</source>
-          <target>Вкл.</target>
+          <target state="final">Вкл.</target>
         </trans-unit>
         <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="no">
           <source>Scaling Settings...</source>
@@ -244,9 +244,9 @@
           <source>Auto play is disabled.</source>
           <target>Самовоспроизведение отключено.</target>
         </trans-unit>
-        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
+        <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
-          <target state="needs-translation">Самовоспроизведение включено. Уровни будут проигрываться автоматически без вмешательства игрока. (Прогресс не будет сохранен)</target>
+          <target state="final">Самовоспроизведение включено. Уровни будут проигрываться автоматически без действий игрока. (Прогресс будет сохранен)</target>
         </trans-unit>
         <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
           <source>Levels must be unlocked normally.</source>
@@ -352,13 +352,13 @@
           <source>Sunrise Vista</source>
           <target state="translated">Вид восхода</target>
         </trans-unit>
-        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="no">
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="yes">
           <source>Raceway Plain</source>
-          <target state="translated">Гоночная равнина</target>
+          <target state="final">Гоночная Равнина</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="no">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="yes">
           <source>River Crossing</source>
-          <target state="translated">Речная переправа</target>
+          <target state="final">Речная Переправа</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="no">
           <source>Mystic Forest</source>
@@ -628,9 +628,9 @@ Remaining:</source>
           <source>Purchase for {0}?</source>
           <target state="translated">Приобрести за {0}?</target>
         </trans-unit>
-        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit">
+        <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="yes">
           <source>Take It to the Limit</source>
-          <target>Take It to the Limit</target>
+          <target state="final">Take It to the Limit</target>
         </trans-unit>
         <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview">
           <source>Preview</source>
@@ -644,9 +644,9 @@ Remaining:</source>
           <source>Play</source>
           <target>Играть</target>
         </trans-unit>
-        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath">
+        <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="yes">
           <source>What Lies Beneath</source>
-          <target>What Lies Beneath</target>
+          <target state="final">What Lies Beneath</target>
         </trans-unit>
         <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="no">
           <source>City in the Rain</source>
@@ -2476,17 +2476,17 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Rain</source>
           <target>Дождь</target>
         </trans-unit>
-        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave">
+        <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="yes">
           <source>Violet Hyperwave</source>
-          <target>Violet Hyperwave</target>
+          <target state="final">Violet Hyperwave</target>
         </trans-unit>
-        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind">
+        <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="yes">
           <source>A Single Leaf Flutters in the Wind</source>
-          <target>A Single Leaf Flutters in the Wind</target>
+          <target state="final">A Single Leaf Flutters in the Wind</target>
         </trans-unit>
-        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix">
+        <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="yes">
           <source>Standing Here Alone (Expert Mix)</source>
-          <target>Standing Here Alone (Expert Mix)</target>
+          <target state="final">Standing Here Alone (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
           <source>Super Mega Zero (RQ Edit)</source>
@@ -2496,9 +2496,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Colors</source>
           <target>Цвета</target>
         </trans-unit>
-        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls">
+        <trans-unit id="351463645623660544" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls" approved="yes">
           <source>As the Cherry Blossom Falls</source>
-          <target>As the Cherry Blossom Falls</target>
+          <target state="final">As the Cherry Blossom Falls</target>
         </trans-unit>
         <trans-unit id="351463891862859776" xml:space="preserve" resname="settings_menu_enemyspacing_description">
           <source>Adjust the visual position of enemies relative to the beat.</source>
@@ -2512,9 +2512,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
           <target>Отрегулируй визуальное расположение врагов (не влияет на окно для нажатий относительно ритма).</target>
         </trans-unit>
-        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure">
+        <trans-unit id="351534712451018752" xml:space="preserve" resname="bonus_level_lets_have_an_adventure" approved="yes">
           <source>Let's Have an Adventure!</source>
-          <target>Let's Have an Adventure!</target>
+          <target state="final">Let's Have an Adventure!</target>
         </trans-unit>
         <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
           <source>Scaling Windows</source>
@@ -2528,9 +2528,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Scales the visual width of timing windows by the music speed setting so that duration is constant. May cause unexpected effects at high or low speeds!</source>
           <target>Устанавливает визуальный размер окна для нажатий одинаковый для всего трека, учитывая скорость музыки. Может вызвать непредвиденные эффекты на высоких или низких скоростях!</target>
         </trans-unit>
-        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls">
+        <trans-unit id="352198949720600576" xml:space="preserve" resname="bonus_level_crimson_halls" approved="yes">
           <source>Crimson Halls</source>
-          <target>Crimson Halls</target>
+          <target state="final">Crimson Halls</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
           <source>Color Skins...</source>
@@ -3032,9 +3032,9 @@ I. Allegro</source>
           <target state="translated">Маленькая ночная серенада
 1. Allegro</target>
         </trans-unit>
-        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix">
+        <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="yes">
           <source>Song of the Sea (Expert Mix)</source>
-          <target>Song of the Sea (Expert Mix)</target>
+          <target state="final">Song of the Sea (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled">
           <source>Track freezing is disabled.</source>
@@ -3196,9 +3196,9 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <source>Use custom controller bindings.</source>
           <target>Использовать пользовательское управление контроллером.</target>
         </trans-unit>
-        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix">
+        <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="yes">
           <source>Flower Fang (Expert Mix)</source>
-          <target>Flower Fang (Expert Mix)</target>
+          <target state="final">Flower Fang (Expert Mix)</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
           <source>Controls...</source>
@@ -3309,9 +3309,10 @@ from Piano Sonata No. 11</source>
         <target state="translated">Сложность:
 {0}</target>
       </trans-unit>
-      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="needs-translation">Купить за
+      <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="yes">
+        <source>Purchase for
+{0}</source>
+        <target state="final">Купить за
 {0}</target>
       </trans-unit>
       <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
@@ -3326,11 +3327,11 @@ It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</so
         <target state="translated">Этот трек был сделан за час и занял первое место в 569-м раунде "One Hour Compo", еженедельного композиторского онлайн-соревнования.
 В нём много используется инструмент-библиотека гучжэна (Китайской щипковой цитры).</target>
       </trans-unit>
-      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
+      <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="yes">
         <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
 It makes use of several samples I recorded myself using glass bottles.</source>
-        <target state="translated">Песня, которую я написал в 2019 как один из нескольких треков, фокусирующихся на интересных ударных звуках и ритмах, частично вдохновлённых дуэтом "Made in Heights".
-В ней используется несколько записанных мной звуков стеклянных бутылок.</target>
+        <target state="final">Трек, который я написал в 2019 как один из нескольких, фокусирующихся на интересных ударных звуках и ритмах, частично вдохновлённых дуэтом "Made in Heights".
+Здесь используются несколько записанных мной звуков стеклянных бутылок.</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
         <source>Purchase Level</source>
@@ -3372,9 +3373,9 @@ for {1}?</source>
         <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
         <target state="translated">The Warrior Wakes in the Sunrise Dawn (версия RQ)</target>
       </trans-unit>
-      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
+      <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="yes">
         <source>Claustrophobia</source>
-        <target state="translated">Claustrophobia</target>
+        <target state="final">Claustrophobia</target>
       </trans-unit>
       <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
         <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
@@ -3385,6 +3386,410 @@ Nyamo's Adventure - это 2D платформер в стиле "метроид
       <trans-unit id="454594080951545856" xml:space="preserve" resname="songselect_play_button" approved="no">
         <source>Play Level</source>
         <target state="translated">Играть в уровень</target>
+      </trans-unit>
+      <trans-unit id="514325580466663424" xml:space="preserve" resname="settings_timingdisplay" approved="yes">
+        <source>Timing Display</source>
+        <target state="final">Отображение Таймингов</target>
+      </trans-unit>
+      <trans-unit id="514325660925997056" xml:space="preserve" resname="settings_timingdisplay_description_disabled" approved="yes">
+        <source>Timing display is disabled.</source>
+        <target state="final">Отображение таймингов выключено.</target>
+      </trans-unit>
+      <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="yes">
+        <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+        <target state="final">Показывает в одном месте насколько раньше или позже вы выполнили каждое успешное действие.</target>
+      </trans-unit>
+      <trans-unit id="514338806164140032" xml:space="preserve" resname="settings_timingdisplay_description_each" approved="yes">
+        <source>Shows a number above each obstacle indicating how early or late you were on each successful action.</source>
+        <target state="final">Показывает над каждым препятствием число, показывающее насколько раньше или позже вы выполнили каждое успешное действие.</target>
+      </trans-unit>
+      <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="yes">
+        <source>Static</source>
+        <target state="final">Статичное</target>
+      </trans-unit>
+      <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="yes">
+        <source>Each</source>
+        <target state="final">Динамическое</target>
+      </trans-unit>
+      <trans-unit id="516854789449756672" xml:space="preserve" resname="menu_settings_rumble_switch" approved="yes">
+        <source>Rumble</source>
+        <target state="final">Вибрация</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="yes">
+        <source>Vibration</source>
+        <target state="final">Вибрация</target>
+      </trans-unit>
+      <trans-unit id="516855053724463104" xml:space="preserve" resname="menu_settings_data" approved="yes">
+        <source>Data</source>
+        <target state="final">Данные</target>
+      </trans-unit>
+      <trans-unit id="516855193168293888" xml:space="preserve" resname="menu_settings_visuals" approved="yes">
+        <source>Visuals</source>
+        <target state="final">Отображение</target>
+      </trans-unit>
+      <trans-unit id="516855369798823936" xml:space="preserve" resname="menu_settings_timing" approved="yes">
+        <source>Timing</source>
+        <target state="final">Тайминги</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="yes">
+        <source>Calibration</source>
+        <target state="final">Калибровка</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="yes">
+        <source>Gameplay</source>
+        <target state="final">Игра</target>
+      </trans-unit>
+      <trans-unit id="517151724282884096" xml:space="preserve" resname="menu_settings_keyboard" approved="yes">
+        <source>Keyboard</source>
+        <target state="final">Клавиатура</target>
+      </trans-unit>
+      <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="yes">
+        <source>Press {0} or {1} to Attack.</source>
+        <target state="final">Нажми {0} или {1} для атаки.</target>
+      </trans-unit>
+      <trans-unit id="138026526067961856" xml:space="preserve" resname="tutorial_jump" approved="yes">
+        <source>Press {0} or {1} to Jump.</source>
+        <target state="final">Нажми {0} или {1} для прыжка.</target>
+      </trans-unit>
+      <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping" approved="yes">
+        <source>Pixel Clamping</source>
+        <target state="final">Сглаживание Пикселей</target>
+      </trans-unit>
+      <trans-unit id="527687152819810304" xml:space="preserve" resname="settings_pixelclamping_description_disabled" approved="yes">
+        <source>(Default) Allows smoother scrolling by allowing subpixel movement and scrolling.</source>
+        <target state="final">(По умолчанию) Используется более плавная прокрутка за счет перемещения и прокрутки на доли пикселей.</target>
+      </trans-unit>
+      <trans-unit id="527687773618745344" xml:space="preserve" resname="settings_pixelclamping_description_enabled" approved="yes">
+        <source>Forces movement and scrolling by whole pixel amounts.</source>
+        <target state="final">Прокрутка и перемещение происходит на целое значение пикселей.</target>
+      </trans-unit>
+      <trans-unit id="531291068989169664" xml:space="preserve" resname="uap_button_prev_page" approved="yes">
+        <source>Previous Page</source>
+        <target state="final">Предыдущая Страница</target>
+      </trans-unit>
+      <trans-unit id="531291071447031808" xml:space="preserve" resname="uap_button_next_page" approved="yes">
+        <source>Next Page</source>
+        <target state="final">Следующая Страница</target>
+      </trans-unit>
+      <trans-unit id="531553838804492288" xml:space="preserve" resname="uap_button_previous" approved="yes">
+        <source>Previous</source>
+        <target state="final">Пред.</target>
+      </trans-unit>
+      <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="yes">
+        <source>A fast song featuring East Asian instrumentation such as taiko drums and guzheng (Chinese plucked zither).
+This level focuses only on basic mechanics and is playable even if you haven't yet reached later worlds.</source>
+        <target state="final">Интенсивный трек, использующий такие восточно-азиатские инструменты как барабаны тайко и гучжэн (китайская щипковая цитра).
+Этот уровень фокусируется только на базовых механиках, поэтому вы можете его попробовать даже если не дошли до поздних миров.</target>
+      </trans-unit>
+      <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="yes">
+        <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
+This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
+        <target state="final">Трек, созданный для ритм игры "Samurai Shaver", которая была сделана в 2017 для геймджема Ludum Dare.
+Это был первый трек добавленный в игру после завершения джема, с более медленным темпом.</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="yes">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="final">Трек, вдохновленный музыкой в стиле "liquid drum and bass". Темп это трека довольно быстрый — 170 ударов в минуту.
+Быстрые ударные партии контрастируют с насыщенными мелодичными элементами и атмосферными пэдами.</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="yes">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="final">Первая часть Серенады № 13 для струнных соль мажор Вольфганга Амадея Моцарта, известная как "Eine kleine Nachtmusik" или «маленькая ночная музыка», является одним из самых известных произведений Моцарта.
+Первоначально произведение было написано для струнного квинтета.</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="yes">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="final">Трек, созданный для игры "Melody Muncher", ритм-игре с двумя кнопками, которую я создал в 2015 году для геймджема Ludum Dare.
+Треки из Melody Muncher сами напрашиваются для карт Rhythm Quest благодаря схожим механикам.</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="yes">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="final">Трек, созданный для игры "Melody Muncher", ритм-игре с двумя кнопками, которую я создал в 2015 году для геймджема Ludum Dare.
+Это самый медленный трек в игре, сделанный с целью ознакомить игрока с механикой синих врагов, которые телепортируются за спину после получения удара.</target>
+      </trans-unit>
+      <trans-unit id="506959737747451904" xml:space="preserve" resname="settings_autoplay_description_jukebox" approved="yes">
+        <source>Jukebox mode. Levels will play automatically without player input, but no progress will be saved.</source>
+        <target state="final">Режим проигрывателя. Уровни будут воспроизводиться автоматически без действий игрока, но прогресс не будет сохраняться.</target>
+      </trans-unit>
+      <trans-unit id="511738384932974592" xml:space="preserve" resname="settings_tabletmode_description_flipped" approved="yes">
+        <source>Touchscreen controls are enabled.
+Tap right half of screen to jump, tap left half to attack.</source>
+        <target state="final">Сенсорное управление включено.
+Нажмите на правую половину экрана для прыжка, на левую для атаки.</target>
+      </trans-unit>
+      <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="yes">
+        <source>Jump+Attack Enemies: {0}</source>
+        <target state="final">Врагов, требующих атаку с прыжком: {0}</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="yes">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="final">Трек в стиле чиптюн, изначально сделанный для начала третьего мира.
+Изначально на этом уровне были представлены враги, использующие комбинацию зеленой атаки и прыжка, прежде чем эта механика была перенесена в пятый мир.</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="yes">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="final">Bagatelle No. 25 in A minor, более известная как "Für Elise" или "К Элизе", это известное произведение Людвига ван Бетховена.
+Личность героини «Элизы» точно не установлена, но считается, что это была близкая подруга или важная фигура в его жизни.</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="yes">
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="final">Третья часть фортепианной сонаты № 11 ля мажор Вольфганга Амадея Моцарта, также известная как «Рондо алла Турка» или «Турецкая марша», отличается мгновенно узнаваемой мелодией.
+Считается, что это произведение подражает стилю военных маршевых оркестров Османской империи.</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="yes">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="final">Первая часть фортепианной сонаты № 16 до мажор Вольфганга Амадея Моцарта это живая и знакомая мелодия, типичная для произведений Моцарта.
+Она также известна как "Sonata facile" или "Sonata semplice" и считается "для начинающих".</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="yes">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="final">"Полёт шмеля" это известная оркестровая интерлюдия, написанная для оперы "Сказка о царе Салтане" с целью передать хаотичный полёт шмеля.
+Постоянные шестнадцатые ноты придают ей неистовый, энергичный характер.</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="yes">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="final">Трек с элементами "синтвейва", включающий тёплые аналоговые синтезаторы.
+Я использовал эффекты эмуляции винила, чтобы придать звучанию небольшой "винтажный" оттенок.</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="yes">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="final">Трек, созданный для игры "Melody Muncher", ритм-игре с двумя кнопками, которую я создал в 2015 году для геймджема Ludum Dare.
+Это "экспертная версия" трека, добавленная для повышения сложности в обновлении после джема.</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="yes">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="final">Бодрый чиптюн трек, который я написал за один присест в течение 3 часов, вдохновившись музыкой "Aivi &amp; Surasshu".
+Вступительная мелодия отсылает к "Lonely Rolling Star", поскольку мы оба сделали похожие аранжировки этой песни.</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="yes">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="final">Тема главного меню и трейлера игры "Super Mega Zero" платформера от Silkworm, для которого мне надо было написать музыку в моем привычном "9-битном" стиле.
+Этот трек задуман как энергичный и динамичный, чтобы заинтересовать игроков.</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="yes">
+        <source>Section Lock</source>
+        <target state="final">Блокировка секций</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="yes">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="final">Проходите уровень в обычном режиме.
+Старт с начала после завершения уровня.</target>
+      </trans-unit>
+      <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="yes">
+        <source>Automatically restart the current section when reaching the next checkpoint.</source>
+        <target state="final">Автоматически перезапускать секцию перед следующим чекпоинтом.</target>
+      </trans-unit>
+      <trans-unit id="467138280532258816" xml:space="preserve" resname="menu_jumptocheckpoint_description" approved="no">
+        <source>Warp to a specific checkpoint of the level.</source>
+        <target state="translated">Перейти к чекпоинту на уровне.</target>
+      </trans-unit>
+      <trans-unit id="511701493349134336" xml:space="preserve" resname="settings_tabletmode" approved="yes">
+        <source>Tablet Mode</source>
+        <target state="final">Режим Планшета</target>
+      </trans-unit>
+      <trans-unit id="511738381502033920" xml:space="preserve" resname="settings_tabletmode_description_disabled" approved="yes">
+        <source>Touchscreen controls are disabled.</source>
+        <target state="final">Сенсорное управление отключено.</target>
+      </trans-unit>
+      <trans-unit id="511738384274468864" xml:space="preserve" resname="settings_tabletmode_description_enabled" approved="yes">
+        <source>Touchscreen controls are enabled.
+Tap left half of screen to jump, tap right half to attack.</source>
+        <target state="final">Сенсорное управление включено.
+Нажмите на левую половину экрана для прыжка, на правую для атаки.</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="yes">
+        <source>Gamepad</source>
+        <target state="final">Геймпад</target>
+      </trans-unit>
+      <trans-unit id="517151861348544512" xml:space="preserve" resname="menu_settings_mouse" approved="yes">
+        <source>Mouse</source>
+        <target state="final">Мышь</target>
+      </trans-unit>
+      <trans-unit id="531553842176712704" xml:space="preserve" resname="uap_button_next" approved="yes">
+        <source>Next</source>
+        <target state="final">След.</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="yes">
+        <source>{0} out of {1} coins</source>
+        <target state="final">{0} из {1} монет</target>
+      </trans-unit>
+      <trans-unit id="531589147516723200" xml:space="preserve" resname="uap_medal_perfect" approved="yes">
+        <source>Perfect gold medal</source>
+        <target state="final">Идеальная золотая медаль</target>
+      </trans-unit>
+      <trans-unit id="531589178764288000" xml:space="preserve" resname="uap_medal_gold" approved="yes">
+        <source>Gold medal</source>
+        <target state="final">Золотая медаль</target>
+      </trans-unit>
+      <trans-unit id="531589182304280576" xml:space="preserve" resname="uap_medal_silver" approved="yes">
+        <source>Silver medal</source>
+        <target state="final">Серебряная медаль</target>
+      </trans-unit>
+      <trans-unit id="531589183440936960" xml:space="preserve" resname="uap_medal_bronze" approved="yes">
+        <source>Bronze medal</source>
+        <target state="final">Бронзовая медаль</target>
+      </trans-unit>
+      <trans-unit id="531589229741858816" xml:space="preserve" resname="uap_medal_none" approved="yes">
+        <source>No medal</source>
+        <target state="final">Нет медали</target>
+      </trans-unit>
+      <trans-unit id="531604974093721600" xml:space="preserve" resname="uap_coins" approved="yes">
+        <source>{0} coins</source>
+        <target state="final">{0} монет</target>
+      </trans-unit>
+      <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="yes">
+        <source>Basic Enemies: {0}</source>
+        <target state="final">Базовых Врагов: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="yes">
+        <source>Flying Enemies: {0}</source>
+        <target state="final">Летающих Врагов: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="yes">
+        <source>Double Hit Enemies: {0}</source>
+        <target state="final">Врагов с двумя ударами: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="yes">
+        <source>Ghost Enemies: {0}</source>
+        <target state="final">Призраков: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="yes">
+        <source>Fast Ghost Enemies: {0}</source>
+        <target state="final">Быстрых Призраков: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="yes">
+        <source>Spike Enemies: {0}</source>
+        <target state="final">Шипастых Врагов: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="yes">
+        <source>Checkpoints: {0}</source>
+        <target state="final">Чекпоинтов: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="yes">
+        <source>Normal Jumps: {0}</source>
+        <target state="final">Обычных Прыжков: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="yes">
+        <source>Air Jumps: {0}</source>
+        <target state="final">Прыжков в воздухе: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="yes">
+        <source>Flight Paths: {0}</source>
+        <target state="final">Перелетных Путей: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="yes">
+        <source>Water Zones: {0}</source>
+        <target state="final">Водных Зон: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="yes">
+        <source>Speed Zones: {0}</source>
+        <target state="final">Зон Скорости: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="yes">
+        <source>Beats Per Minute: {0}</source>
+        <target state="final">Ударов В Минуту: {0}</target>
+      </trans-unit>
+      <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="yes">
+        <source>Song Length: {0}</source>
+        <target state="final">Длительность Трека: {0}</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="yes">
+        <source>River Crossing (with Water)</source>
+        <target state="final">Речная Переправа (с водой)</target>
+      </trans-unit>
+      <trans-unit id="544461249100689408" xml:space="preserve" resname="menu_advanced_settings" approved="yes">
+        <source>Advanced Settings</source>
+        <target state="final">Продвинутые Настройки</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="yes">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="final">Выйти из режима практики и вернуться к последнему чекпоинту.</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="yes">
+        <source>Resume practicing.</source>
+        <target state="final">Продолжить практику.</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="yes">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="final">(По умолчанию) Отображать ромбы на препятствиях, расположенных на слабых долях.</target>
+      </trans-unit>
+      <trans-unit id="491166943758036992" xml:space="preserve" resname="settings_colorskins_diamonds_off_description" approved="yes">
+        <source>Don't show diamond rhythm indicators for any obstacles.</source>
+        <target state="final">Не показывать индикаторы ритма в виде ромба ни для каких препятствий.</target>
+      </trans-unit>
+      <trans-unit id="491167221362241536" xml:space="preserve" resname="settings_colorskins_diamonds_wings_description" approved="yes">
+        <source>(Default) Show diamond rhythm indicators for wings only.</source>
+        <target state="final">(По умолчанию) Показывать индикатор в виде ромба только для крыльев.</target>
+      </trans-unit>
+      <trans-unit id="491167241746558976" xml:space="preserve" resname="settings_colorskins_diamonds_all_description" approved="yes">
+        <source>Show diamond rhythm indicators for all obstacle types.</source>
+        <target state="final">Отображать индикаторы в виде ромба для всех типов препятствий.</target>
+      </trans-unit>
+      <trans-unit id="505887861294018560" xml:space="preserve" resname="bugreport_title" approved="yes">
+        <source>Report Bug/Feedback</source>
+        <target state="final">Сообщить об ошибке/Оставить отзыв</target>
+      </trans-unit>
+      <trans-unit id="506959562605899776" xml:space="preserve" resname="settings_autoplay_jukebox" approved="yes">
+        <source>Jukebox</source>
+        <target state="final">Проигрыватель</target>
+      </trans-unit>
+      <trans-unit id="511679838321160192" xml:space="preserve" resname="button_skip" approved="yes">
+        <source>Skip</source>
+        <target state="final">Пропустить</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="yes">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="final">Scherzo of Magical Science (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="yes">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="final">Трек, написанный для игры "Hero Hours Contract", пошаговой тактической игры, разработанной Стивом О'Горманом.
+Это тема для "Волшебной девочки-ученой", самой младшей из трех главных героинь, которая любит рискованные научные эксперименты.</target>
+      </trans-unit>
+      <trans-unit id="491165392326930432" xml:space="preserve" resname="settings_menu_colorskins_diamonds_description" approved="yes">
+        <source>Toggle or adjust diamonds indicating downbeats/offbeats.</source>
+        <target state="final">Переключайте или регулируйте положение ромбов, обозначающих сильные/слабые доли.</target>
+      </trans-unit>
+      <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="yes">
+        <source>Diamonds</source>
+        <target state="final">Ромбы</target>
+      </trans-unit>
+      <trans-unit id="491165736461185024" xml:space="preserve" resname="menu_settings_colorskins_diamonds_beat" approved="yes">
+        <source>Beat</source>
+        <target state="final">Удар</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="yes">
+        <source>Downbeats</source>
+        <target state="final">Сильные доли</target>
+      </trans-unit>
+      <trans-unit id="491166052460048384" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats" approved="yes">
+        <source>Offbeats</source>
+        <target state="final">Слабые доли</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="yes">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="final">Отображать ромбы на препятствиях, расположенных на сильных долях.</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="yes">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="final">Трек, созданный для игры "Ripple Runner Deluxe", духовного наследника Rhythm Quest.
+Это был трек с самым медленным уровнем в игре, примечательным использованием соединенных цепями шипованных платформ.</target>
       </trans-unit>
     </body>
   </file>
