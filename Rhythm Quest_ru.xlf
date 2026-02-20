@@ -3791,6 +3791,20 @@ This was the song with the slowest tempo in that game, notable for its use of ch
         <target state="final">Трек, созданный для игры "Ripple Runner Deluxe", духовного наследника Rhythm Quest.
 Это был трек с самым медленным уровнем в игре, примечательным использованием соединенных цепями шипованных платформ.</target>
       </trans-unit>
+      <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="yes">
+        <source>Perfect</source>
+        <target state="final">Идеально</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="yes">
+        <source>Jump Hold+Attack</source>
+        <target state="final">Удерживать Прыжок+Атака</target>
+      </trans-unit>
+      <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="yes">
+        <source>A level that was made for the initial gameplay trailer for the game in 2022.
+It tries to feature different mechanics and high-energy music.</source>
+        <target state="final">Уровень, созданный для первого геймплейного трейлера игры в 2022 году.
+Он демонстрирует различные механики и энергичную музыку.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
