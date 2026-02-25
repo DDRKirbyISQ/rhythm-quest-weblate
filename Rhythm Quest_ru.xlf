@@ -3931,6 +3931,68 @@ Click on a checkpoint section to edit its graphics.</source>
         <source>Press any key or click in time with the drum sound</source>
         <target state="translated">Нажмите любую клавишу или кликните когда слышите звук барабана</target>
       </trans-unit>
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="yes">
+        <source>Clematis</source>
+        <target state="final">Clematis</target>
+      </trans-unit>
+      <trans-unit id="560707620111691776" xml:space="preserve" resname="songselect_folder_mainlevels" approved="yes">
+        <source>Main Levels</source>
+        <target state="final">Основные Уровни</target>
+      </trans-unit>
+      <trans-unit id="560707793755877376" xml:space="preserve" resname="songselect_folder_bonuslevels" approved="yes">
+        <source>Bonus Levels</source>
+        <target state="final">Бонусные Уровни</target>
+      </trans-unit>
+      <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels" approved="yes">
+        <source>Custom Levels</source>
+        <target state="final">Пользовательские Уровни</target>
+      </trans-unit>
+      <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description" approved="no">
+        <source>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
+        <target state="translated">Быстрый и сложный трек, вдохновленный треками из других ритм-игр.
+"Clematis" это название цветущей лианы, часто с цветами в форме звезды.</target>
+      </trans-unit>
+      <trans-unit id="554869418767462400" xml:space="preserve" resname="drumcalibration_automatic_description_playstation" approved="yes">
+        <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the drum sound</source>
+        <target state="final">Нажимайте &lt;sprite name="controller_icons_37"&gt; в момент, когда слышите звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554869239016370176" xml:space="preserve" resname="drumcalibration_automatic_description_xbox" approved="yes">
+        <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the drum sound</source>
+        <target state="final">Нажимайте &lt;sprite name="controller_icons_100"&gt; в момент, когда слышите звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554869438883344384" xml:space="preserve" resname="drumcalibration_automatic_description_switch" approved="yes">
+        <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the drum sound</source>
+        <target state="final">Нажимайте &lt;sprite name="controller_icons_60"&gt; в момент, когда слышите звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554869465953382400" xml:space="preserve" resname="drumcalibration_automatic_description_touch" approved="yes">
+        <source>Tap in time with the drum sound</source>
+        <target state="final">Нажимайте на экран, когда слышите звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554871433715298304" xml:space="preserve" resname="drumcalibration_button_automatic" approved="yes">
+        <source>Recalibrate</source>
+        <target state="final">Откалибровать заново</target>
+      </trans-unit>
+      <trans-unit id="554871584253063168" xml:space="preserve" resname="drumcalibration_button_manual" approved="yes">
+        <source>Adjust Manually</source>
+        <target state="final">Настроить Вручную</target>
+      </trans-unit>
+      <trans-unit id="554872038705901568" xml:space="preserve" resname="drumcalibration_title" approved="no">
+        <source>Audio Calibration</source>
+        <target state="translated">Калибровка Аудио</target>
+      </trans-unit>
+      <trans-unit id="554872353526165504" xml:space="preserve" resname="drumcalibration_description" approved="yes">
+        <source>The sound of the drum should be in time with the animation.</source>
+        <target state="final">Звук барабана должен играть одновременно с анимацией.</target>
+      </trans-unit>
+      <trans-unit id="554872559583932416" xml:space="preserve" resname="drumcalibration_currentsetting" approved="no">
+        <source>Current Audio Latency: {0}</source>
+        <target state="translated">Текущая Задержка Аудио: {0}</target>
+      </trans-unit>
+      <trans-unit id="555286575556898816" xml:space="preserve" resname="drumcalibration_automatic_complete_result" approved="no">
+        <source>Audio latency set to {0}</source>
+        <target state="translated">Установлена задержка аудио: {0}</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
