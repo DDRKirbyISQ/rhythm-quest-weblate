@@ -236,10 +236,6 @@
           <source>Auto Play</source>
           <target>Auto Play</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
-          <source>Unlock All Levels</source>
-          <target>Unlock All Levels</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
           <target>Auto play is disabled.</target>
@@ -247,14 +243,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
-          <source>Levels must be unlocked normally.</source>
-          <target>Levels must be unlocked normally.</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>All levels are unlocked from the start. (Progress will still be saved)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
           <source>Press Enter to Continue</source>
@@ -546,10 +534,6 @@ Are you sure you want to proceed?</target>
           <source>Audio Latency: {0}ms</source>
           <target>Audio Latency: {0}ms</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
-          <source>Yes (Recommended)</source>
-          <target>Yes (Recommended)</target>
-        </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
           <target>(Select an option to view more details)</target>
@@ -605,10 +589,6 @@ Are you sure you want to proceed?</target>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
           <source>Characters</source>
           <target>Characters</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
-          <source>Extra Levels</source>
-          <target>Extra Levels</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:
@@ -1474,10 +1454,6 @@ Please connect a supported gamepad device.</target>
           <source>Adjust the volume of the user interface sounds.</source>
           <target>Adjust the volume of the user interface sounds.</target>
         </trans-unit>
-        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
-          <source>Game Mods</source>
-          <target>Game Mods</target>
-        </trans-unit>
         <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
           <source>Adjust audio volume settings.</source>
           <target>Adjust audio volume settings.</target>
@@ -1511,8 +1487,8 @@ Please connect a supported gamepad device.</target>
           <target>Performance</target>
         </trans-unit>
         <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency">
-          <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target>Optimize for lower latency by disallowing multiple frames to be queued.</target>
+          <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
+          <target>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
@@ -1529,22 +1505,6 @@ Please connect a supported gamepad device.</target>
         <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes">
           <source>Audio Volume...</source>
           <target>Audio Volume...</target>
-        </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
-          <source>Modifiers that affect game timing and speed.</source>
-          <target>Modifiers that affect game timing and speed.</target>
-        </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
-          <source>Modifiers that affect visual display of the game.</source>
-          <target>Modifiers that affect visual display of the game.</target>
-        </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
-          <source>Timing Mods...</source>
-          <target>Timing Mods...</target>
-        </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
-          <source>Visual Mods...</source>
-          <target>Visual Mods...</target>
         </trans-unit>
         <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
           <source>Timing Windows</source>
@@ -1877,22 +1837,6 @@ Click on a checkpoint section to edit its scrolling speed.</target>
         <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
           <source>Use a metronome that beeps on each beat.</source>
           <target>Use a metronome that beeps on each beat.</target>
-        </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
-          <source>Modifiers that affect music and audio playback.</source>
-          <target>Modifiers that affect music and audio playback.</target>
-        </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
-          <source>Modifiers that affect gameplay and unlocks.</source>
-          <target>Modifiers that affect gameplay and unlocks.</target>
-        </trans-unit>
-        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
-          <source>Gameplay Mods...</source>
-          <target>Gameplay Mods...</target>
-        </trans-unit>
-        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
-          <source>Audio Mods...</source>
-          <target>Audio Mods...</target>
         </trans-unit>
         <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
           <source>No, resume</source>
@@ -2918,10 +2862,6 @@ Check the code and try again.</target>
           <source>No problems found!</source>
           <target>No problems found!</target>
         </trans-unit>
-        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
-          <source>Song name/artist and chart author needs to be filled out</source>
-          <target>Song name/artist and chart author needs to be filled out</target>
-        </trans-unit>
         <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
           <source>Level is missing a Description</source>
           <target>Level is missing a Description</target>
@@ -2929,10 +2869,6 @@ Check the code and try again.</target>
         <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
           <source>Level has no music audio</source>
           <target>Level has no music audio</target>
-        </trans-unit>
-        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
-          <source>Music export options need to be set</source>
-          <target>Music export options need to be set</target>
         </trans-unit>
         <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
           <source>Music audio will not be included in export</source>
@@ -2965,10 +2901,6 @@ Check the code and try again.</target>
         <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
           <target>Applies a blur effect to backdrops so they are less focused.</target>
-        </trans-unit>
-        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
-          <source>Mods and Assists</source>
-          <target>Mods and Assists</target>
         </trans-unit>
         <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
           <source>Assists...</source>
@@ -3987,6 +3919,370 @@ May cause doubled inputs otherwise!</target>
         <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels">
           <source>Custom Levels</source>
           <target>Custom Levels</target>
+        </trans-unit>
+        <trans-unit id="591052393326358528" xml:space="preserve" resname="settings_framerate">
+          <source>Frame Rate</source>
+          <target>Frame Rate</target>
+        </trans-unit>
+        <trans-unit id="591052706317905920" xml:space="preserve" resname="settings_vsync_limited">
+          <source>Limited</source>
+          <target>Limited</target>
+        </trans-unit>
+        <trans-unit id="591052968042475520" xml:space="preserve" resname="settings_vsync_description_limited">
+          <source>Manually limits frame rate to 60 frames per second. Use in special cases where refresh synchronization is not desired, but rendering speed should be limited.</source>
+          <target>Manually limits frame rate to 60 frames per second. Use in special cases where refresh synchronization is not desired, but rendering speed should be limited.</target>
+        </trans-unit>
+        <trans-unit id="591053590082924544" xml:space="preserve" resname="settings_framerate_description_normal">
+          <source>(Default) Use native device refresh rate to render as fast as possible.</source>
+          <target>(Default) Use native device refresh rate to render as fast as possible.</target>
+        </trans-unit>
+        <trans-unit id="591053594969288704" xml:space="preserve" resname="settings_framerate_description_half">
+          <source>Render at half of device refresh rate. Use to conserve battery, or for high refresh rate devices where full rendering speed is unnecessary.</source>
+          <target>Render at half of device refresh rate. Use to conserve battery, or for high refresh rate devices where full rendering speed is unnecessary.</target>
+        </trans-unit>
+        <trans-unit id="591053958275706880" xml:space="preserve" resname="settings_half">
+          <source>Half</source>
+          <target>Half</target>
+        </trans-unit>
+        <trans-unit id="591062119338520576" xml:space="preserve" resname="settings_marathonmode">
+          <source>Marathon Mode</source>
+          <target>Marathon Mode</target>
+        </trans-unit>
+        <trans-unit id="591062289165889536" xml:space="preserve" resname="settings_marathonmode_description_disabled">
+          <source>Play each level individually as normal.</source>
+          <target>Play each level individually as normal.</target>
+        </trans-unit>
+        <trans-unit id="591062292584247296" xml:space="preserve" resname="settings_marathonmode_description_enabled">
+          <source>Automatically proceed directly to the next level after finishing each one.</source>
+          <target>Automatically proceed directly to the next level after finishing each one.</target>
+        </trans-unit>
+        <trans-unit id="591068283547725824" xml:space="preserve" resname="settings_strictinputs">
+          <source>Strict Inputs</source>
+          <target>Strict Inputs</target>
+        </trans-unit>
+        <trans-unit id="591069604375998464" xml:space="preserve" resname="settings_strictinputs_partial">
+          <source>Partial</source>
+          <target>Partial</target>
+        </trans-unit>
+        <trans-unit id="591071807786496000" xml:space="preserve" resname="settings_strictinputs_description_disabled">
+          <source>(Default) No punishment for extra attack or jump inputs.</source>
+          <target>(Default) No punishment for extra attack or jump inputs.</target>
+        </trans-unit>
+        <trans-unit id="591071808856043520" xml:space="preserve" resname="settings_strictinputs_description_partial">
+          <source>Use increased cooldown after missed attacks to punish extra attack presses.</source>
+          <target>Use increased cooldown after missed attacks to punish extra attack presses.</target>
+        </trans-unit>
+        <trans-unit id="591071810214998016" xml:space="preserve" resname="settings_strictinputs_description_enabled">
+          <source>Force an immediate respawn whenever any extraneous inputs are made.</source>
+          <target>Force an immediate respawn whenever any extraneous inputs are made.</target>
+        </trans-unit>
+        <trans-unit id="591074951232794624" xml:space="preserve" resname="extra_input">
+          <source>Extra Input</source>
+          <target>Extra Input</target>
+        </trans-unit>
+        <trans-unit id="592160924427399168" xml:space="preserve" resname="editor_text_musicload_restrictions">
+          <source>Click below to select an audio file to load.
+
+Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</source>
+          <target>Click below to select an audio file to load.
+
+Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</target>
+        </trans-unit>
+        <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic">
+          <source>Click below to load music for this level.</source>
+          <target>Click below to load music for this level.</target>
+        </trans-unit>
+        <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch">
+          <source>(type to search...)</source>
+          <target>(type to search...)</target>
+        </trans-unit>
+        <trans-unit id="592881952782856192" xml:space="preserve" resname="editor_artistselect_unverifiedartist">
+          <source>The artist isn't in this list</source>
+          <target>The artist isn't in this list</target>
+        </trans-unit>
+        <trans-unit id="592883402007162880" xml:space="preserve" resname="button_refresh">
+          <source>Refresh &lt;sprite name="fonticons_4"&gt;</source>
+          <target>Refresh &lt;sprite name="fonticons_4"&gt;</target>
+        </trans-unit>
+        <trans-unit id="594796035111170048" xml:space="preserve" resname="editor_artistselect_instructions">
+          <source>Select the artist of the song from the list below:</source>
+          <target>Select the artist of the song from the list below:</target>
+        </trans-unit>
+        <trans-unit id="602437255543173120" xml:space="preserve" resname="loading">
+          <source>Loading...</source>
+          <target>Loading...</target>
+        </trans-unit>
+        <trans-unit id="602437369808596992" xml:space="preserve" resname="editor_artistselect_database_error">
+          <source>Could not load Verified Artist database!
+An internet connection is required to select a Verified Artist.
+Try again later.</source>
+          <target>Could not load Verified Artist database!
+An internet connection is required to select a Verified Artist.
+Try again later.</target>
+        </trans-unit>
+        <trans-unit id="602715196751654912" xml:space="preserve" resname="editor_artistusage">
+          <source>Artist Permission: {0}</source>
+          <target>Artist Permission: {0}</target>
+        </trans-unit>
+        <trans-unit id="602715319154028544" xml:space="preserve" resname="editor_artistpermission_approved">
+          <source>Approved</source>
+          <target>Approved</target>
+        </trans-unit>
+        <trans-unit id="602715428726026240" xml:space="preserve" resname="editor_artistpermission_mostlyapproved">
+          <source>Mostly Approved</source>
+          <target>Mostly Approved</target>
+        </trans-unit>
+        <trans-unit id="602715430588297216" xml:space="preserve" resname="editor_artistpermission_partiallyapproved">
+          <source>Partially Approved</source>
+          <target>Partially Approved</target>
+        </trans-unit>
+        <trans-unit id="602715431259385856" xml:space="preserve" resname="editor_artistpermission_denied">
+          <source>Denied</source>
+          <target>Denied</target>
+        </trans-unit>
+        <trans-unit id="602715597945221120" xml:space="preserve" resname="editor_artistusage_approved_description">
+          <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, without any notable restrictions.
+
+Please ensure that the selected song is suitable for usage in general. For example, unofficial covers and bootleg remixes are usually not allowed, and collaborations with other artists are subject to their approval.</source>
+          <target>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, without any notable restrictions.
+
+Please ensure that the selected song is suitable for usage in general. For example, unofficial covers and bootleg remixes are usually not allowed, and collaborations with other artists are subject to their approval.</target>
+        </trans-unit>
+        <trans-unit id="602715642677473280" xml:space="preserve" resname="editor_artistusage_mostlyapproved_description">
+          <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, but has some additional notes, terms, or restrictions that should be followed:</source>
+          <target>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, but has some additional notes, terms, or restrictions that should be followed:</target>
+        </trans-unit>
+        <trans-unit id="602715647983267840" xml:space="preserve" resname="editor_artistusage_partiallyapproved_description">
+          <source>The selected artist, {0}, has only approved specific usage of their songs in Rhythm Quest custom levels. Any usage must comply with the following restrictions or terms:</source>
+          <target>The selected artist, {0}, has only approved specific usage of their songs in Rhythm Quest custom levels. Any usage must comply with the following restrictions or terms:</target>
+        </trans-unit>
+        <trans-unit id="602715649497411584" xml:space="preserve" resname="editor_artistusage_denied_description">
+          <source>The selected artist, {0}, has denied permission for their songs to be used in Rhythm Quest custom levels. You may not use their music in your custom levels.</source>
+          <target>The selected artist, {0}, has denied permission for their songs to be used in Rhythm Quest custom levels. You may not use their music in your custom levels.</target>
+        </trans-unit>
+        <trans-unit id="602717774784802816" xml:space="preserve" resname="editor_artistmusicinclusion_approved_description">
+          <source>The selected artist, {0}, has approved inclusion of their music in custom level exports.
+
+A copy of the music file will automatically be included when exporting this level.</source>
+          <target>The selected artist, {0}, has approved inclusion of their music in custom level exports.
+
+A copy of the music file will automatically be included when exporting this level.</target>
+        </trans-unit>
+        <trans-unit id="602717780258369536" xml:space="preserve" resname="editor_artistmusicinclusion_denied_description">
+          <source>The selected artist, {0}, has denied permission for their music to be included in custom level exports, other than a streaming preview clip.
+
+Players will need to (legally) obtain their own copy of the music in order to play this custom level. You can optionally include a link that players can use to do this.</source>
+          <target>The selected artist, {0}, has denied permission for their music to be included in custom level exports, other than a streaming preview clip.
+
+Players will need to (legally) obtain their own copy of the music in order to play this custom level. You can optionally include a link that players can use to do this.</target>
+        </trans-unit>
+        <trans-unit id="603416924463607808" xml:space="preserve" resname="editor_artistmusicinclusion">
+          <source>Music Inclusion: {0}</source>
+          <target>Music Inclusion: {0}</target>
+        </trans-unit>
+        <trans-unit id="603418862110420992" xml:space="preserve" resname="editor_externallink_description">
+          <source>Do you want to open the following link in your browser?
+Only follow links that you trust -- never download or open unknown files!</source>
+          <target>Do you want to open the following link in your browser?
+Only follow links that you trust -- never download or open unknown files!</target>
+        </trans-unit>
+        <trans-unit id="603460837958266880" xml:space="preserve" resname="editor_terms_header">
+          <source>User Content Terms of Service</source>
+          <target>User Content Terms of Service</target>
+        </trans-unit>
+        <trans-unit id="603460992468037632" xml:space="preserve" resname="editor_terms_description">
+          <source>Before you can export your level, you must agree to the Rhythm Quest User Content Terms of Service.
+
+Click the button below to open the terms of service in a new browser window.</source>
+          <target>Before you can export your level, you must agree to the Rhythm Quest User Content Terms of Service.
+
+Click the button below to open the terms of service in a new browser window.</target>
+        </trans-unit>
+        <trans-unit id="603463981123547136" xml:space="preserve" resname="editor_terms_openurl">
+          <source>View (opens in browser)</source>
+          <target>View (opens in browser)</target>
+        </trans-unit>
+        <trans-unit id="603836714130911232" xml:space="preserve" resname="editor_musicproperties_musicfile">
+          <source>Music File</source>
+          <target>Music File</target>
+        </trans-unit>
+        <trans-unit id="603838760150151168" xml:space="preserve" resname="editor_terms_prompt">
+          <source>Do you agree to the terms of service?</source>
+          <target>Do you agree to the terms of service?</target>
+        </trans-unit>
+        <trans-unit id="603841547642646528" xml:space="preserve" resname="editor_check_noartist">
+          <source>Music artist needs to be selected</source>
+          <target>Music artist needs to be selected</target>
+        </trans-unit>
+        <trans-unit id="603841841663356928" xml:space="preserve" resname="editor_check_musicinclusiondenied">
+          <source>Music artist has denied music inclusion - song will not be included in export</source>
+          <target>Music artist has denied music inclusion - song will not be included in export</target>
+        </trans-unit>
+        <trans-unit id="603841874722861056" xml:space="preserve" resname="editor_check_unverifiedartist">
+          <source>Music artist is unverified - song will not be included in export</source>
+          <target>Music artist is unverified - song will not be included in export</target>
+        </trans-unit>
+        <trans-unit id="603841907992080384" xml:space="preserve" resname="editor_check_editortermsunaccepted">
+          <source>Latest Terms of Service needs to be accepted</source>
+          <target>Latest Terms of Service needs to be accepted</target>
+        </trans-unit>
+        <trans-unit id="603842479784767488" xml:space="preserve" resname="editor_check_missingname">
+          <source>Song name needs to be filled out</source>
+          <target>Song name needs to be filled out</target>
+        </trans-unit>
+        <trans-unit id="603842672307515392" xml:space="preserve" resname="editor_check_missingauthor">
+          <source>Chart author needs to be filled out</source>
+          <target>Chart author needs to be filled out</target>
+        </trans-unit>
+        <trans-unit id="604187026721124352" xml:space="preserve" resname="editor_check_noobstacles">
+          <source>Level doesn't contain any obstacles</source>
+          <target>Level doesn't contain any obstacles</target>
+        </trans-unit>
+        <trans-unit id="604189336276873216" xml:space="preserve" resname="editor_musicproperties_musicartist">
+          <source>Music Artist</source>
+          <target>Music Artist</target>
+        </trans-unit>
+        <trans-unit id="604189777677037568" xml:space="preserve" resname="editor_musicproperties_songinfo">
+          <source>Song Info</source>
+          <target>Song Info</target>
+        </trans-unit>
+        <trans-unit id="604265676023836672" xml:space="preserve" resname="editor_button_select">
+          <source>Select</source>
+          <target>Select</target>
+        </trans-unit>
+        <trans-unit id="604265968601706496" xml:space="preserve" resname="editor_button_edit">
+          <source>Edit</source>
+          <target>Edit</target>
+        </trans-unit>
+        <trans-unit id="604270392938115072" xml:space="preserve" resname="editor_text_artist_nomusic">
+          <source>(Load a song first before selecting an artist)</source>
+          <target>(Load a song first before selecting an artist)</target>
+        </trans-unit>
+        <trans-unit id="604270523401940992" xml:space="preserve" resname="editor_text_artist_notselected">
+          <source>No artist selected!</source>
+          <target>No artist selected!</target>
+        </trans-unit>
+        <trans-unit id="604274214708228096" xml:space="preserve" resname="editor_text_songinfo_nomusicorartist">
+          <source>(Select a song + artist first)</source>
+          <target>(Select a song + artist first)</target>
+        </trans-unit>
+        <trans-unit id="604274319653908480" xml:space="preserve" resname="editor_text_songinfo_customurl">
+          <source>Music URL: {0}</source>
+          <target>Music URL: {0}</target>
+        </trans-unit>
+        <trans-unit id="604274415640555520" xml:space="preserve" resname="editor_text_songinfo_customurl_none">
+          <source>No music URL specified</source>
+          <target>No music URL specified</target>
+        </trans-unit>
+        <trans-unit id="604274476202110976" xml:space="preserve" resname="editor_text_songinfo_customartistname">
+          <source>Music artist name override: {0}</source>
+          <target>Music artist name override: {0}</target>
+        </trans-unit>
+        <trans-unit id="604274496246689792" xml:space="preserve" resname="editor_text_songinfo_customartistname_none">
+          <source>No music artist name override</source>
+          <target>No music artist name override</target>
+        </trans-unit>
+        <trans-unit id="604846316972716032" xml:space="preserve" resname="editor_text_artist_unverified">
+          <source>This artist is not verified!
+Extra restrictions will apply.</source>
+          <target>This artist is not verified!
+Extra restrictions will apply.</target>
+        </trans-unit>
+        <trans-unit id="604847284741255168" xml:space="preserve" resname="editor_unverifiedartist_description">
+          <source>If a music artist is not in the Verified Artist list, it's recommended that you contact them to have their name added. Click the button below to learn how.</source>
+          <target>If a music artist is not in the Verified Artist list, it's recommended that you contact them to have their name added. Click the button below to learn how.</target>
+        </trans-unit>
+        <trans-unit id="604847761344212992" xml:space="preserve" resname="editor_unverifiedartist_description2">
+          <source>Otherwise, you can continue with an unverified artist, but your level will be subject to the following restrictions:
+
+- Music cannot be bundled with the exported level
+- A copyright warning displays to any user playing the level
+- Levels may be subject to additional restrictions on distribution</source>
+          <target>Otherwise, you can continue with an unverified artist, but your level will be subject to the following restrictions:
+
+- Music cannot be bundled with the exported level
+- A copyright warning displays to any user playing the level
+- Levels may be subject to additional restrictions on distribution</target>
+        </trans-unit>
+        <trans-unit id="604937877538516992" xml:space="preserve" resname="editor_button_continueunverifiedartist">
+          <source>Continue with unverified artist</source>
+          <target>Continue with unverified artist</target>
+        </trans-unit>
+        <trans-unit id="604938007180259328" xml:space="preserve" resname="editor_button_verifiedartistcontact">
+          <source>Instructions (opens in browser)</source>
+          <target>Instructions (opens in browser)</target>
+        </trans-unit>
+        <trans-unit id="604940784920997888" xml:space="preserve" resname="editor_unverifiedartistname_input">
+          <source>Enter the name of the unverified artist:</source>
+          <target>Enter the name of the unverified artist:</target>
+        </trans-unit>
+        <trans-unit id="604942973202640896" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_1">
+          <source>&lt;sprite name="fonticons_12"&gt; There is already a Verified Artist listing with this name:</source>
+          <target>&lt;sprite name="fonticons_12"&gt; There is already a Verified Artist listing with this name:</target>
+        </trans-unit>
+        <trans-unit id="604943065670266880" xml:space="preserve" resname="editor_unverifiedartistname_input_placeholder">
+          <source>(enter name here)</source>
+          <target>(enter name here)</target>
+        </trans-unit>
+        <trans-unit id="604943691267485696" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch">
+          <source>&lt;sprite name="fonticons_8"&gt; Did you mean to use the following artist?</source>
+          <target>&lt;sprite name="fonticons_8"&gt; Did you mean to use the following artist?</target>
+        </trans-unit>
+        <trans-unit id="604944351903920128" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_2">
+          <source>Click below to use that artist's entry.</source>
+          <target>Click below to use that artist's entry.</target>
+        </trans-unit>
+        <trans-unit id="604945298977763328" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch2">
+          <source>If so, go back and select that artist from the Verified Artist list.</source>
+          <target>If so, go back and select that artist from the Verified Artist list.</target>
+        </trans-unit>
+        <trans-unit id="604959446465818624" xml:space="preserve" resname="editor_unverifiedartistname_button_useexactmatch">
+          <source>Use {0}</source>
+          <target>Use {0}</target>
+        </trans-unit>
+        <trans-unit id="606049528971046912" xml:space="preserve" resname="editor_button_viewtermsofservice">
+          <source>View Terms of Service</source>
+          <target>View Terms of Service</target>
+        </trans-unit>
+        <trans-unit id="606069108305080320" xml:space="preserve" resname="editor_text_songinfo_songname">
+          <source>Song name: {0}</source>
+          <target>Song name: {0}</target>
+        </trans-unit>
+        <trans-unit id="606069124184715264" xml:space="preserve" resname="editor_text_songinfo_songname_none">
+          <source>No song name specified</source>
+          <target>No song name specified</target>
+        </trans-unit>
+        <trans-unit id="606079403970834432" xml:space="preserve" resname="editor_input_customartistname">
+          <source>Music Artist Name Override:</source>
+          <target>Music Artist Name Override:</target>
+        </trans-unit>
+        <trans-unit id="606079477983522816" xml:space="preserve" resname="editor_input_musicurl">
+          <source>Music URL:</source>
+          <target>Music URL:</target>
+        </trans-unit>
+        <trans-unit id="606079863167430656" xml:space="preserve" resname="editor_input_musicurl_description">
+          <source>An optional link that players can use to legally obtain the music file for the level.</source>
+          <target>An optional link that players can use to legally obtain the music file for the level.</target>
+        </trans-unit>
+        <trans-unit id="606080154264711168" xml:space="preserve" resname="editor_input_customartistname_description">
+          <source>Use only if the song is attributed to the artist under a different name.</source>
+          <target>Use only if the song is attributed to the artist under a different name.</target>
+        </trans-unit>
+        <trans-unit id="606082848459108352" xml:space="preserve" resname="editor_input_customartistname_placeholder">
+          <source>(will display {0} if left blank)</source>
+          <target>(will display {0} if left blank)</target>
+        </trans-unit>
+        <trans-unit id="606083429936443392" xml:space="preserve" resname="editor_input_musicurl_placeholder">
+          <source>(enter a URL)</source>
+          <target>(enter a URL)</target>
+        </trans-unit>
+        <trans-unit id="606095350521704448" xml:space="preserve" resname="editor_input_customartistname_exactmatch">
+          <source>&lt;sprite name="fonticons_12"&gt; This name belongs to another artist: {0}</source>
+          <target>&lt;sprite name="fonticons_12"&gt; This name belongs to another artist: {0}</target>
+        </trans-unit>
+        <trans-unit id="606259392049623040" xml:space="preserve" resname="editor_input_musicurl_invalidurl">
+          <source>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</source>
+          <target>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</target>
         </trans-unit>
       </group>
     </body>
