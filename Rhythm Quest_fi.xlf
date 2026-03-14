@@ -163,6 +163,62 @@
         <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
         <target state="final">Käyttöliittymä ja kamera muuttaa kokoaan mahtuakseen ikkunaan. Saattaa aiheuttaa pyöreitä pikseleitä, varsinkin alemmissa resoluutioissa.</target>
       </trans-unit>
+      <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="yes">
+        <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
+        <target state="final">Muuta ikkunoitu resoluutio oletusarvoihin. (Kokoruudun resoluutioita ei voi muuttaa)</target>
+      </trans-unit>
+      <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="yes">
+        <source>Vertical Sync</source>
+        <target state="final">Pystysynkronointi</target>
+      </trans-unit>
+      <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="yes">
+        <source>Music Volume</source>
+        <target state="final">Musiikin äänenvoimakkuus</target>
+      </trans-unit>
+      <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="yes">
+        <source>Default</source>
+        <target state="final">Oletus</target>
+      </trans-unit>
+      <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="yes">
+        <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
+        <target state="final">(Oletus) Synkronoi renderöinnin näytön virkistystaajuuden kanssa. Estää kuvan repeilyä.</target>
+      </trans-unit>
+      <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="yes">
+        <source>Disabled</source>
+        <target state="final">Pois käytöstä</target>
+      </trans-unit>
+      <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="yes">
+        <source>Enabled</source>
+        <target state="final">Käytössä</target>
+      </trans-unit>
+      <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="yes">
+        <source>Scaling Settings...</source>
+        <target state="final">Skaalausasetukset...</target>
+      </trans-unit>
+      <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="yes">
+        <source>Return to the previous menu.</source>
+        <target state="final">Palaa edelliseen valikkoon.</target>
+      </trans-unit>
+      <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="yes">
+        <source>Zoom Level</source>
+        <target state="final">Suurennustaso</target>
+      </trans-unit>
+      <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="yes">
+        <source>Far</source>
+        <target state="final">Kaukana</target>
+      </trans-unit>
+      <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="yes">
+        <source>Near</source>
+        <target state="final">Lähellä</target>
+      </trans-unit>
+      <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled" approved="yes">
+        <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
+        <target state="final">Poistaa näytön virkistystaajuuden synkronoinnin käytöstä. Saattaa johtaa nopeampaan renderöintiin, mutta näytönrepeämistä saattaa ilmentyä.</target>
+      </trans-unit>
+      <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default" approved="yes">
+        <source>Use default gameplay zoom level. Should suffice in most cases.</source>
+        <target state="final">Käytä oletussuurennustasoa. Pitäisi toimia useimmissa tilanteissa.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
