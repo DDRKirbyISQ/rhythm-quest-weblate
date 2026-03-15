@@ -1478,9 +1478,9 @@ Please connect a supported gamepad device.</source>
           <source>Performance</source>
           <target>Продуктивність</target>
         </trans-unit>
-        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency">
-          <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target>Оптимізувати для меншої затримки шляхом заборони декільком кадрам чергуватися.</target>
+        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
+          <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
+          <target state="needs-translation">Оптимізувати для меншої затримки шляхом заборони декільком кадрам чергуватися.</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
