@@ -1478,9 +1478,9 @@ Prašome prijungti palaikomą žaidimų pultą.</target>
           <source>Performance</source>
           <target state="final">Našumas</target>
         </trans-unit>
-        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="yes">
-          <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target state="final">Pritaikyti žemesniam vėlavimui neleidžiant eiliuoti kelių kadrų.</target>
+        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
+          <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
+          <target state="needs-translation">Pritaikyti žemesniam vėlavimui neleidžiant eiliuoti kelių kadrų.</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance" approved="yes">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
