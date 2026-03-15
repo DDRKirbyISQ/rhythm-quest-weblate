@@ -236,10 +236,6 @@
           <source>Auto Play</source>
           <target state="final">Jogo Automático</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
-          <source>Unlock All Levels</source>
-          <target state="final">Desbloquear Todos os Níveis</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="yes">
           <source>Auto play is disabled.</source>
           <target state="final">Jogo automático está desativado.</target>
@@ -247,14 +243,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target state="final">Jogo automático está ativado. Os níveis serão jogados automaticamente sem a interação do jogador. (O progresso ainda será salvo)</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
-          <source>Levels must be unlocked normally.</source>
-          <target state="final">Os níveis precisam ser desbloqueados normalmente.</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="yes">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target state="final">Todos os níveis são desbloqueados desde o início. (O progresso ainda será salvo)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
@@ -546,10 +534,6 @@ Tem certeza de que deseja continuar?</target>
           <source>Audio Latency: {0}ms</source>
           <target state="final">Latência de Áudio: {0}ms</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
-          <source>Yes (Recommended)</source>
-          <target state="final">Sim (Recomendado)</target>
-        </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="yes">
           <source>(Select an option to view more details)</source>
           <target state="final">(Selecione uma opção para ver mais detalhes)</target>
@@ -605,10 +589,6 @@ Tem certeza de que deseja continuar?</target>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters" approved="yes">
           <source>Characters</source>
           <target state="final">Personagens</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="yes">
-          <source>Extra Levels</source>
-          <target state="final">Níveis Extras</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels" approved="yes">
           <source>Collected:
@@ -1466,10 +1446,6 @@ Por favor, conecte um controle que tenha suporte ao dispositivo.</target>
           <source>Adjust the volume of the user interface sounds.</source>
           <target>Ajuste o volume dos sons de interface do usuário.</target>
         </trans-unit>
-        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
-          <source>Game Mods</source>
-          <target>Mods do Jogo</target>
-        </trans-unit>
         <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
           <source>Adjust audio volume settings.</source>
           <target>Ajuste as configurações do volume de áudio.</target>
@@ -1521,22 +1497,6 @@ Por favor, conecte um controle que tenha suporte ao dispositivo.</target>
         <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes">
           <source>Audio Volume...</source>
           <target>Volume do Áudio...</target>
-        </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
-          <source>Modifiers that affect game timing and speed.</source>
-          <target>Modificadores que afetam o tempo e a velocidade do jogo.</target>
-        </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
-          <source>Modifiers that affect visual display of the game.</source>
-          <target>Modificadores que afetam o aspecto visual do jogo.</target>
-        </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
-          <source>Timing Mods...</source>
-          <target>Mods de Tempo...</target>
-        </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
-          <source>Visual Mods...</source>
-          <target>Mods Visuais...</target>
         </trans-unit>
         <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
           <source>Timing Windows</source>
@@ -1869,22 +1829,6 @@ Clique em uma seção de checkpoint para editar sua velocidade de rolagem.</targ
         <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
           <source>Use a metronome that beeps on each beat.</source>
           <target>Usar um metrônomo que emite um bipe a cada batida.</target>
-        </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
-          <source>Modifiers that affect music and audio playback.</source>
-          <target>Modificadores que afetam a reprodução do áudio e da música.</target>
-        </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
-          <source>Modifiers that affect gameplay and unlocks.</source>
-          <target>Modificadores que afetam a jogabilidade e os desbloqueios.</target>
-        </trans-unit>
-        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
-          <source>Gameplay Mods...</source>
-          <target>Mods de Jogabilidade...</target>
-        </trans-unit>
-        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
-          <source>Audio Mods...</source>
-          <target>Mods de Áudio...</target>
         </trans-unit>
         <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
           <source>No, resume</source>
@@ -2912,10 +2856,6 @@ Verifique o código e tente novamente.</target>
           <source>Level has no music audio</source>
           <target>O nível não possui um áudio de música</target>
         </trans-unit>
-        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
-          <source>Music export options need to be set</source>
-          <target>Opções de exportação de música precisam definidas</target>
-        </trans-unit>
         <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
           <source>Music audio will not be included in export</source>
           <target>O áudio de música não vai ser incluído na exportação</target>
@@ -2943,10 +2883,6 @@ Verifique o código e tente novamente.</target>
         <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
           <target>Aplica um efeito de borrão aos cenários para fiquem menos focados.</target>
-        </trans-unit>
-        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
-          <source>Mods and Assists</source>
-          <target>Mods e Assistências</target>
         </trans-unit>
         <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
           <source>Assists...</source>
@@ -3280,10 +3216,6 @@ da Sonata para Piano N.º 11</target>
       <trans-unit id="448624858278703104" xml:space="preserve" resname="menu_levelbrowser" approved="yes">
         <source>Level Browser</source>
         <target state="final">Navegador de Níveis</target>
-      </trans-unit>
-      <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
-        <source>Song name/artist and chart author needs to be filled out</source>
-        <target state="translated">Nome da música/artista e autor da fase precisam ser preenchidos</target>
       </trans-unit>
       <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="no">
         <source>Export Checklist</source>

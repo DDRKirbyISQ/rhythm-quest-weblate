@@ -132,10 +132,6 @@
           <source>Effect Settings...</source>
           <target>Ρυθμίσεις Εφέ...</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
-          <source>Unlock All Levels</source>
-          <target>Ξεκλείδωμα όλων των επιπέδων</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
           <target>Η αυτόματη αναπαραγωγή είναι απενεργοποιημένη.</target>
@@ -169,10 +165,6 @@ Are you sure you want to proceed?</source>
         <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done">
           <source>Done</source>
           <target>Τέλος</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
-          <source>Extra Levels</source>
-          <target>Πρόσθετα επίπεδα</target>
         </trans-unit>
         <trans-unit id="82274828720844800" xml:space="preserve" resname="menu_start">
           <source>Start</source>

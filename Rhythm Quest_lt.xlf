@@ -236,10 +236,6 @@
           <source>Auto Play</source>
           <target state="final">Automatinis paleidimas</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="yes">
-          <source>Unlock All Levels</source>
-          <target state="final">Atrakinti visus lygius</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="yes">
           <source>Auto play is disabled.</source>
           <target state="final">Automatinis paleidimas išjungtas.</target>
@@ -247,14 +243,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target state="final">Automatinis paleidimas įjungtas. Lygiai bus automatiškai paleisti be žaidėjo įvesties. (Progresas vistiek bus išsaugotas)</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled" approved="yes">
-          <source>Levels must be unlocked normally.</source>
-          <target state="final">Lygiai privalo būti atrakinti įprastai.</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="yes">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target state="final">Visi lygiai yra atrakinti nuo pradžių. (Progresas vistiek bus išsaugotas)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="yes">
           <source>Press Enter to Continue</source>
@@ -546,10 +534,6 @@ Ar tikrai norite tęsti?</target>
           <source>Audio Latency: {0}ms</source>
           <target state="final">Garso atsilikimas: {0}ms</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended" approved="yes">
-          <source>Yes (Recommended)</source>
-          <target state="final">Taip (rekomenduojama)</target>
-        </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="yes">
           <source>(Select an option to view more details)</source>
           <target state="final">(Pasirinkite parinktį, kad rodyti detaliau)</target>
@@ -605,10 +589,6 @@ Ar tikrai norite tęsti?</target>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters" approved="yes">
           <source>Characters</source>
           <target state="final">Veikėjai</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="yes">
-          <source>Extra Levels</source>
-          <target state="final">Papildomi lygiai</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels" approved="yes">
           <source>Collected:
@@ -1466,10 +1446,6 @@ Prašome prijungti palaikomą žaidimų pultą.</target>
           <source>Adjust the volume of the user interface sounds.</source>
           <target state="final">Pakeisti vartotojo sąsajos garsumą.</target>
         </trans-unit>
-        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods" approved="yes">
-          <source>Game Mods</source>
-          <target state="final">Žaidimo modifikacijos</target>
-        </trans-unit>
         <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes" approved="yes">
           <source>Adjust audio volume settings.</source>
           <target state="final">Reguliuoti garso lygio nustatymus.</target>
@@ -1521,22 +1497,6 @@ Prašome prijungti palaikomą žaidimų pultą.</target>
         <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes" approved="yes">
           <source>Audio Volume...</source>
           <target state="final">Garso lygis...</target>
-        </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description" approved="yes">
-          <source>Modifiers that affect game timing and speed.</source>
-          <target state="final">Modifikatoriai, pakeičiantys žaidimo greitį.</target>
-        </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description" approved="yes">
-          <source>Modifiers that affect visual display of the game.</source>
-          <target state="final">Modifikatoriai, pakeičiantys žaidimo išvaizdą.</target>
-        </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods" approved="yes">
-          <source>Timing Mods...</source>
-          <target state="final">Pataikymo modifikacijos...</target>
-        </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods" approved="yes">
-          <source>Visual Mods...</source>
-          <target state="final">Vaizdo modifikacijos...</target>
         </trans-unit>
         <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows" approved="yes">
           <source>Timing Windows</source>
@@ -1869,22 +1829,6 @@ Spauskite ant kontrolinio taško sekcijos, norėdami redaguoti jos slinkimo grei
         <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description" approved="yes">
           <source>Use a metronome that beeps on each beat.</source>
           <target state="final">Naudoti metronomą kuris pypsi su kiekvienu taktu.</target>
-        </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description" approved="yes">
-          <source>Modifiers that affect music and audio playback.</source>
-          <target state="final">Modifikatoriai, pakeičiantys muzikos ir garso grojimą.</target>
-        </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description" approved="yes">
-          <source>Modifiers that affect gameplay and unlocks.</source>
-          <target state="final">Modifikatoriai, pakeičiantys žaidimą ir atsirakinimus.</target>
-        </trans-unit>
-        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods" approved="yes">
-          <source>Gameplay Mods...</source>
-          <target state="final">Žaidimo modifikacijos...</target>
-        </trans-unit>
-        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods" approved="yes">
-          <source>Audio Mods...</source>
-          <target state="final">Garso modifikacijos...</target>
         </trans-unit>
         <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume" approved="yes">
           <source>No, resume</source>
@@ -2910,10 +2854,6 @@ Patikrinkite jį ir bandykite iš naujo.</target>
           <source>No problems found!</source>
           <target state="final">Nerasta jokių problemų!</target>
         </trans-unit>
-        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="yes">
-          <source>Song name/artist and chart author needs to be filled out</source>
-          <target state="final">Dainos pavadinimo/autoriaus ir lentelės autoriaus laukeliai turi būti užpildyti</target>
-        </trans-unit>
         <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription" approved="yes">
           <source>Level is missing a Description</source>
           <target state="final">Lygiui trūksta aprašymo</target>
@@ -2921,10 +2861,6 @@ Patikrinkite jį ir bandykite iš naujo.</target>
         <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic" approved="yes">
           <source>Level has no music audio</source>
           <target state="final">Lygis neturi jokios muzikos</target>
-        </trans-unit>
-        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement" approved="yes">
-          <source>Music export options need to be set</source>
-          <target state="final">Muzikos eksportavimo nustatymai turi būti nurodyti</target>
         </trans-unit>
         <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded" approved="yes">
           <source>Music audio will not be included in export</source>
@@ -2957,10 +2893,6 @@ Patikrinkite jį ir bandykite iš naujo.</target>
         <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur" approved="yes">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
           <target state="final">Pritaiko neryškumo efektą fonui jog jis būtų mažiau matomas.</target>
-        </trans-unit>
-        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="yes">
-          <source>Mods and Assists</source>
-          <target state="final">Modai ir pagalba</target>
         </trans-unit>
         <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists" approved="yes">
           <source>Assists...</source>

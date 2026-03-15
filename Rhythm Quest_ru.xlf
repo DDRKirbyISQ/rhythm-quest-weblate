@@ -236,10 +236,6 @@
           <source>Auto Play</source>
           <target>Самовоспроизведение</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels" approved="no">
-          <source>Unlock All Levels</source>
-          <target state="translated">Открыть все уровни</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
           <target>Самовоспроизведение отключено.</target>
@@ -247,14 +243,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="yes">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target state="final">Самовоспроизведение включено. Уровни будут проигрываться автоматически без действий игрока. (Прогресс будет сохранен)</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
-          <source>Levels must be unlocked normally.</source>
-          <target>Уровни должны быть открыты обычным способом.</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled" approved="no">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target state="translated">Все уровни изначально открыты. (Прогресс всё равно будет сохранён)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="no">
           <source>Press Enter to Continue</source>
@@ -546,10 +534,6 @@ Are you sure you want to proceed?</source>
           <source>Audio Latency: {0}ms</source>
           <target state="translated">Задержка аудио: {0} мс</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
-          <source>Yes (Recommended)</source>
-          <target>Да (Рекомендуется)</target>
-        </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="no">
           <source>(Select an option to view more details)</source>
           <target state="translated">(Наведи на кнопку для более детальной информации)</target>
@@ -605,10 +589,6 @@ Are you sure you want to proceed?</source>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
           <source>Characters</source>
           <target>Персонажи</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels" approved="no">
-          <source>Extra Levels</source>
-          <target state="translated">Доп. уровни</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:
@@ -1466,10 +1446,6 @@ Please connect a supported gamepad device.</source>
           <source>Adjust the volume of the user interface sounds.</source>
           <target>Измени громкость звуков меню.</target>
         </trans-unit>
-        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
-          <source>Game Mods</source>
-          <target>Модификаторы Игры</target>
-        </trans-unit>
         <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
           <source>Adjust audio volume settings.</source>
           <target>Измени громкость аудио.</target>
@@ -1521,22 +1497,6 @@ Please connect a supported gamepad device.</source>
         <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes">
           <source>Audio Volume...</source>
           <target>Громкость Аудио...</target>
-        </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
-          <source>Modifiers that affect game timing and speed.</source>
-          <target>Модификаторы, которые изменяют скорость и окно для нажатий.</target>
-        </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
-          <source>Modifiers that affect visual display of the game.</source>
-          <target>Модификаторы, которые изменяют визуальные аспекты игры.</target>
-        </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
-          <source>Timing Mods...</source>
-          <target>Модификаторы окна для нажатий...</target>
-        </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods" approved="no">
-          <source>Visual Mods...</source>
-          <target state="translated">Модификаторы визуала...</target>
         </trans-unit>
         <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
           <source>Timing Windows</source>
@@ -1869,22 +1829,6 @@ Click on a checkpoint section to edit its scrolling speed.</source>
         <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
           <source>Use a metronome that beeps on each beat.</source>
           <target>Использовать метроном, издающий звук каждый бит.</target>
-        </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
-          <source>Modifiers that affect music and audio playback.</source>
-          <target>Модификаторы, меняющие воспроизведение музыки и звуков.</target>
-        </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
-          <source>Modifiers that affect gameplay and unlocks.</source>
-          <target>Модификаторы, меняющие геймплей и достижения.</target>
-        </trans-unit>
-        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
-          <source>Gameplay Mods...</source>
-          <target>Модификаторы геймплея...</target>
-        </trans-unit>
-        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
-          <source>Audio Mods...</source>
-          <target>Модификаторы звука...</target>
         </trans-unit>
         <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
           <source>No, resume</source>
@@ -2910,10 +2854,6 @@ Check the code and try again.</source>
           <source>No problems found!</source>
           <target>Проблемы не найдены!</target>
         </trans-unit>
-        <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor">
-          <source>Song name/artist and chart author needs to be filled out</source>
-          <target>Поля названий музыки/автора и автора карты должны быть заполнены</target>
-        </trans-unit>
         <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription">
           <source>Level is missing a Description</source>
           <target>В уровне отсутствует Описание</target>
@@ -2921,10 +2861,6 @@ Check the code and try again.</source>
         <trans-unit id="375062429263769600" xml:space="preserve" resname="editor_check_nomusic">
           <source>Level has no music audio</source>
           <target>Уровень не имеет аудио</target>
-        </trans-unit>
-        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
-          <source>Music export options need to be set</source>
-          <target>Настройки экспорта музыки должны быть установлены</target>
         </trans-unit>
         <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
           <source>Music audio will not be included in export</source>
@@ -2957,10 +2893,6 @@ Check the code and try again.</source>
         <trans-unit id="377940171143557120" xml:space="preserve" resname="settings_screenfilter_description_blur">
           <source>Applies a blur effect to backdrops so they are less focused.</source>
           <target>Применяет эффект размытия для фона, чтобы он был менее сфокусирован.</target>
-        </trans-unit>
-        <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists">
-          <source>Mods and Assists</source>
-          <target>Моды и Упрощения</target>
         </trans-unit>
         <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists">
           <source>Assists...</source>

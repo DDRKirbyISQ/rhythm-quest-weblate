@@ -236,10 +236,6 @@
           <source>Auto Play</source>
           <target>自動遊玩模式</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
-          <source>Unlock All Levels</source>
-          <target>解鎖所有關卡</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
           <target>自動遊玩已禁用。</target>
@@ -247,14 +243,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target>自動遊玩已啟用，遊戲將在不需操作的情況下自動進行。（進度仍會保存）</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
-          <source>Levels must be unlocked normally.</source>
-          <target>關卡必須以正常方式解鎖。</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>所有關卡將在一開始解鎖。（進度仍會保存）</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
           <source>Press Enter to Continue</source>
@@ -546,10 +534,6 @@ Are you sure you want to proceed?</source>
           <source>Audio Latency: {0}ms</source>
           <target>音訊延遲：{0}ms</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
-          <source>Yes (Recommended)</source>
-          <target>是（推薦）</target>
-        </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
           <target>（選擇一個選項以查看更多詳細訊息）</target>
@@ -605,10 +589,6 @@ Are you sure you want to proceed?</source>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
           <source>Characters</source>
           <target>角色</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
-          <source>Extra Levels</source>
-          <target>額外關卡</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:
@@ -1466,10 +1446,6 @@ Please connect a supported gamepad device.</source>
           <source>Adjust the volume of the user interface sounds.</source>
           <target>调整介面音量。</target>
         </trans-unit>
-        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
-          <source>Game Mods</source>
-          <target>遊戲模組</target>
-        </trans-unit>
         <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
           <source>Adjust audio volume settings.</source>
           <target>調整音訊音量設定。</target>
@@ -1521,22 +1497,6 @@ Please connect a supported gamepad device.</source>
         <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes" approved="no">
           <source>Audio Volume...</source>
           <target state="translated">音訊音量...</target>
-        </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
-          <source>Modifiers that affect game timing and speed.</source>
-          <target>影響遊戲時間和速度的模組。</target>
-        </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
-          <source>Modifiers that affect visual display of the game.</source>
-          <target>影響遊戲視覺效果的模組。</target>
-        </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
-          <source>Timing Mods...</source>
-          <target>時間模組...</target>
-        </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
-          <source>Visual Mods...</source>
-          <target>視覺模組...</target>
         </trans-unit>
         <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
           <source>Timing Windows</source>
@@ -1869,22 +1829,6 @@ Click on a checkpoint section to edit its scrolling speed.</source>
         <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
           <source>Use a metronome that beeps on each beat.</source>
           <target>使用節拍器在每個節拍上發出嗶嗶聲。</target>
-        </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description">
-          <source>Modifiers that affect music and audio playback.</source>
-          <target>影響音樂和音訊播放的模組。</target>
-        </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description">
-          <source>Modifiers that affect gameplay and unlocks.</source>
-          <target>影響遊戲玩法和解鎖的模組。</target>
-        </trans-unit>
-        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
-          <source>Gameplay Mods...</source>
-          <target>遊戲玩法模組...</target>
-        </trans-unit>
-        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
-          <source>Audio Mods...</source>
-          <target>音訊模組...</target>
         </trans-unit>
         <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
           <source>No, resume</source>
@@ -2887,10 +2831,6 @@ Check the code and try again.</source>
         <source>No problems found!</source>
         <target state="translated">沒有發現問題！</target>
       </trans-unit>
-      <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
-        <source>Song name/artist and chart author needs to be filled out</source>
-        <target state="translated">需要填寫歌曲名稱/歌手和圖像作者</target>
-      </trans-unit>
       <trans-unit id="375062428701732864" xml:space="preserve" resname="editor_check_missingdescription" approved="no">
         <source>Level is missing a Description</source>
         <target state="translated">關卡缺少描述</target>
@@ -2955,10 +2895,6 @@ Login or register an account to publish levels to mod.io.</source>
         <source>Shows faint coin outlines on respawn for already-collected coins.</source>
         <target state="translated">已收集的金幣在重生時會顯示淡化的金幣輪廓。</target>
       </trans-unit>
-      <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement" approved="no">
-        <source>Music export options need to be set</source>
-        <target state="translated">需要設定音樂匯出選項</target>
-      </trans-unit>
       <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="no">
         <source>(your name)</source>
         <target state="translated">你的名字</target>
@@ -2970,10 +2906,6 @@ Login or register an account to publish levels to mod.io.</source>
       <trans-unit id="375933903780491264" xml:space="preserve" resname="editor_description_exportchecklist" approved="no">
         <source>Export Checklist</source>
         <target state="translated">匯出清單</target>
-      </trans-unit>
-      <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="no">
-        <source>Mods and Assists</source>
-        <target state="translated">模組和輔助</target>
       </trans-unit>
       <trans-unit id="379444621951676416" xml:space="preserve" resname="menu_assists" approved="no">
         <source>Assists...</source>

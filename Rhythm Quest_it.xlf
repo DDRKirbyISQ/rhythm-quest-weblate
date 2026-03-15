@@ -236,10 +236,6 @@
           <source>Auto Play</source>
           <target>Gioco automatico</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
-          <source>Unlock All Levels</source>
-          <target>Sblocca tutti i livelli</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
           <target>Il gioco automatico è disattivato.</target>
@@ -247,14 +243,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target state="needs-translation">Il gioco automatico è attivato. I livelli verranno riprodotti automaticamente senza input del giocatore.</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
-          <source>Levels must be unlocked normally.</source>
-          <target>I livelli devono essere sbloccati normalmente.</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>Tutti i livelli sono accessibili fin dall'inizio. (I progressi verranno comunque salvati)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
           <source>Press Enter to Continue</source>
@@ -546,10 +534,6 @@ Vuoi davvero procedere?</target>
           <source>Audio Latency: {0}ms</source>
           <target>Latenza audio: {0}ms</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
-          <source>Yes (Recommended)</source>
-          <target>Sì (Consigliato)</target>
-        </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
           <target>(Seleziona un'opzione per visualizzare ulteriori dettagli)</target>
@@ -605,10 +589,6 @@ Vuoi davvero procedere?</target>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
           <source>Characters</source>
           <target>Personaggi</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
-          <source>Extra Levels</source>
-          <target>Livelli extra</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:

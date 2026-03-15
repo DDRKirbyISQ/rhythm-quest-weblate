@@ -228,10 +228,6 @@
           <source>Auto Play</source>
           <target>Otomatik oynatma</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
-          <source>Unlock All Levels</source>
-          <target>Tüm Seviyeleri Açın</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
           <target>Otomatik oynatma kapatıldı.</target>
@@ -239,14 +235,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target>Otomatik oynatma etkinleştirildi. Seviyeler, oyuncu olmadan otomatik olarak oynatılacktır. (İlerleme yine de kaydedilecek)</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
-          <source>Levels must be unlocked normally.</source>
-          <target>Seviyelerin kilidi normal şekilde açılmalıdır.</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>Tüm seviyelerin kilidi baştan açılır. (İlerleme yine de kaydedilecek)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
           <source>Press Enter to Continue</source>

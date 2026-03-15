@@ -236,10 +236,6 @@
           <source>Auto Play</source>
           <target>자동 플레이</target>
         </trans-unit>
-        <trans-unit id="677796559970304" xml:space="preserve" resname="settings_unlockalllevels">
-          <source>Unlock All Levels</source>
-          <target>모든 레벨 해금</target>
-        </trans-unit>
         <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled">
           <source>Auto play is disabled.</source>
           <target>자동 플레이가 비활성화 상태입니다.</target>
@@ -247,14 +243,6 @@
         <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled">
           <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
           <target>자동 플레이가 활성화 상태입니다. 레벨이 플레이어 입력없이 자동으로 플레이됩니다. (진행사항은 여전히 저장됩니다)</target>
-        </trans-unit>
-        <trans-unit id="678317714825216" xml:space="preserve" resname="settings_unlockalllevels_description_disabled">
-          <source>Levels must be unlocked normally.</source>
-          <target>레벨은 정상적인 방법으로만 해금됩니다.</target>
-        </trans-unit>
-        <trans-unit id="678363650842624" xml:space="preserve" resname="settings_unlockalllevels_description_enabled">
-          <source>All levels are unlocked from the start. (Progress will still be saved)</source>
-          <target>모든 레벨이 시작부터 열립니다. (진행 상황은 여전히 저장됩니다)</target>
         </trans-unit>
         <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard">
           <source>Press Enter to Continue</source>
@@ -546,10 +534,6 @@ Are you sure you want to proceed?</source>
           <source>Audio Latency: {0}ms</source>
           <target>오디오 지연: {0}ms</target>
         </trans-unit>
-        <trans-unit id="8068221840744448" xml:space="preserve" resname="menu_yes_recommended">
-          <source>Yes (Recommended)</source>
-          <target>네 (권장됨)</target>
-        </trans-unit>
         <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default">
           <source>(Select an option to view more details)</source>
           <target>(옵션을 선택해 자세한 설명 보기)</target>
@@ -605,10 +589,6 @@ Are you sure you want to proceed?</source>
         <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters">
           <source>Characters</source>
           <target>캐릭터</target>
-        </trans-unit>
-        <trans-unit id="38391836469452800" xml:space="preserve" resname="menu_shop_extralevels">
-          <source>Extra Levels</source>
-          <target>엑스트라 레벨</target>
         </trans-unit>
         <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels">
           <source>Collected:
@@ -1466,10 +1446,6 @@ Please connect a supported gamepad device.</source>
           <source>Adjust the volume of the user interface sounds.</source>
           <target>사용자 인터페이스에서의 음량을 조정합니다.</target>
         </trans-unit>
-        <trans-unit id="255272475177037824" xml:space="preserve" resname="menu_gamemods">
-          <source>Game Mods</source>
-          <target>게임 변형</target>
-        </trans-unit>
         <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
           <source>Adjust audio volume settings.</source>
           <target>음량 설정을 조정합니다.</target>
@@ -1521,22 +1497,6 @@ Please connect a supported gamepad device.</source>
         <trans-unit id="256560126781861888" xml:space="preserve" resname="menu_settings_audio_volumes">
           <source>Audio Volume...</source>
           <target>음량...</target>
-        </trans-unit>
-        <trans-unit id="256638938022457344" xml:space="preserve" resname="settings_menu_timingmods_description">
-          <source>Modifiers that affect game timing and speed.</source>
-          <target>게임의 타이밍과 속도에 영향을 주는 변형.</target>
-        </trans-unit>
-        <trans-unit id="256642935638765568" xml:space="preserve" resname="settings_menu_visualmods_description">
-          <source>Modifiers that affect visual display of the game.</source>
-          <target>게임의 보여지는 모습에 영향을 주는 변형.</target>
-        </trans-unit>
-        <trans-unit id="256643219198881792" xml:space="preserve" resname="menu_settings_timingmods">
-          <source>Timing Mods...</source>
-          <target>타이밍 변형...</target>
-        </trans-unit>
-        <trans-unit id="256643265298477056" xml:space="preserve" resname="menu_settings_visualmods">
-          <source>Visual Mods...</source>
-          <target>시각 변형...</target>
         </trans-unit>
         <trans-unit id="256643419447537664" xml:space="preserve" resname="settings_timingwindows">
           <source>Timing Windows</source>
@@ -1869,22 +1829,6 @@ Click on a checkpoint section to edit its scrolling speed.</source>
         <trans-unit id="285910718016696320" xml:space="preserve" resname="settings_metronome_description">
           <source>Use a metronome that beeps on each beat.</source>
           <target>각 박자에 부저음이 울리는 메트로놈 사용.</target>
-        </trans-unit>
-        <trans-unit id="285911652977389568" xml:space="preserve" resname="settings_menu_audiomods_description" approved="no">
-          <source>Modifiers that affect music and audio playback.</source>
-          <target state="translated">음악과 소리 재생에 영향을 주는 변형.</target>
-        </trans-unit>
-        <trans-unit id="285911661110145024" xml:space="preserve" resname="settings_menu_gameplaymods_description" approved="no">
-          <source>Modifiers that affect gameplay and unlocks.</source>
-          <target state="translated">게임플레이와 해금요소에 영향을 주는 변형.</target>
-        </trans-unit>
-        <trans-unit id="285911987133394944" xml:space="preserve" resname="menu_settings_gameplaymods">
-          <source>Gameplay Mods...</source>
-          <target>게임플레이 변형...</target>
-        </trans-unit>
-        <trans-unit id="285912042548539392" xml:space="preserve" resname="menu_settings_audiomods">
-          <source>Audio Mods...</source>
-          <target>오디오 변형...</target>
         </trans-unit>
         <trans-unit id="285977789106794496" xml:space="preserve" resname="editor_button_noresume">
           <source>No, resume</source>
@@ -2780,10 +2724,6 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Level has no music audio</source>
           <target>레벨에 음악이 없습니다</target>
         </trans-unit>
-        <trans-unit id="375062429800640512" xml:space="preserve" resname="editor_check_nomusicagreement">
-          <source>Music export options need to be set</source>
-          <target>음악 내보내기 옵션을 설정해야 합니다</target>
-        </trans-unit>
         <trans-unit id="375062462755287040" xml:space="preserve" resname="editor_check_musicexcluded">
           <source>Music audio will not be included in export</source>
           <target>음악은 내보내기에 포함하지 않습니다</target>
@@ -2997,10 +2937,6 @@ Check the code and try again.</source>
         <source>Publishing to mod.io</source>
         <target state="translated">mod.io로 게시하는 중</target>
       </trans-unit>
-      <trans-unit id="375062026249875456" xml:space="preserve" resname="editor_check_missingnameartistauthor" approved="no">
-        <source>Song name/artist and chart author needs to be filled out</source>
-        <target state="translated">음악 제목/작곡가와 채보 제작자가 작성되어야 합니다</target>
-      </trans-unit>
       <trans-unit id="375932858874507264" xml:space="preserve" resname="editor_input_songname_placeholder" approved="no">
         <source>(name of the music track)</source>
         <target state="translated">(음악의 제목)</target>
@@ -3022,10 +2958,6 @@ Check the code and try again.</source>
 Would you like to enable game assist features?</source>
         <target state="translated">이 구간에 어려움이 있는 것 같습니다.
 게임 보조 기능을 활성화하시겠습니까?</target>
-      </trans-unit>
-      <trans-unit id="379443931191750656" xml:space="preserve" resname="menu_modsassists" approved="no">
-        <source>Mods and Assists</source>
-        <target state="translated">변형 및 보조 기능</target>
       </trans-unit>
       <trans-unit id="387456983795281920" xml:space="preserve" resname="editor_setting_gridsnap" approved="no">
         <source>Grid Snap</source>
