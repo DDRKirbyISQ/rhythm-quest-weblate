@@ -1478,9 +1478,9 @@ Please connect a supported gamepad device.</source>
           <source>Performance</source>
           <target>성능 우선</target>
         </trans-unit>
-        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency">
-          <source>Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target>여러 프레임이 대기하지 못하게 막아 낮은 지연 시간에 집중합니다.</target>
+        <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
+          <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
+          <target state="needs-translation">여러 프레임이 대기하지 못하게 막아 낮은 지연 시간에 집중합니다.</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
