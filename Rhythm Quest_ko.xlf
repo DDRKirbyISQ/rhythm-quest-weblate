@@ -3925,6 +3925,38 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
         <target state="translated">다른 리듬게임의 음악에서 영감을 받아 만들어진 빠르고 도전적인 곡입니다.
 "Clematis" 는 별 모양의 꽃이 피는 덩굴식물의 이름입니다.</target>
       </trans-unit>
+      <trans-unit id="591052393326358528" xml:space="preserve" resname="settings_framerate" approved="no">
+        <source>Frame Rate</source>
+        <target state="translated">프레임레이트</target>
+      </trans-unit>
+      <trans-unit id="591052968042475520" xml:space="preserve" resname="settings_vsync_description_limited" approved="no">
+        <source>Manually limits frame rate to 60 frames per second. Use in special cases where refresh synchronization is not desired, but rendering speed should be limited.</source>
+        <target state="translated">수동으로 프레임 속도를 초당 60프레임으로 제한합니다. 새로 고침 동기화가 필요하지 않지만 렌더링 속도를 제한해야 하는 특별한 경우에 사용하십시오.</target>
+      </trans-unit>
+      <trans-unit id="591053590082924544" xml:space="preserve" resname="settings_framerate_description_normal" approved="no">
+        <source>(Default) Use native device refresh rate to render as fast as possible.</source>
+        <target state="translated">(기본값) 네이티브 장치 리프레시 속도를 사용하여 가능한 한 빠르게 렌더링합니다.</target>
+      </trans-unit>
+      <trans-unit id="591053594969288704" xml:space="preserve" resname="settings_framerate_description_half" approved="no">
+        <source>Render at half of device refresh rate. Use to conserve battery, or for high refresh rate devices where full rendering speed is unnecessary.</source>
+        <target state="translated">기기 리프세시 속도의 절반 속도로 렌더링합니다. 배터리 절약을 위해 사용하거나, 최대 렌더링 속도가 필요하지 않은 고주사율 기기에서 사용하세요.</target>
+      </trans-unit>
+      <trans-unit id="591053958275706880" xml:space="preserve" resname="settings_half" approved="no">
+        <source>Half</source>
+        <target state="translated">절반</target>
+      </trans-unit>
+      <trans-unit id="591062119338520576" xml:space="preserve" resname="settings_marathonmode" approved="no">
+        <source>Marathon Mode</source>
+        <target state="translated">마라톤 모드</target>
+      </trans-unit>
+      <trans-unit id="591062289165889536" xml:space="preserve" resname="settings_marathonmode_description_disabled" approved="no">
+        <source>Play each level individually as normal.</source>
+        <target state="translated">평소와 같이 각 레벨을 하나씩 플레이합니다.</target>
+      </trans-unit>
+      <trans-unit id="591062292584247296" xml:space="preserve" resname="settings_marathonmode_description_enabled" approved="no">
+        <source>Automatically proceed directly to the next level after finishing each one.</source>
+        <target state="translated">각 레벨이 끝나면 바로 다음 레벨로 자동 진행됩니다.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
