@@ -1480,7 +1480,7 @@ Por favor conecte un dispositivo gamepad compatible.</target>
         </trans-unit>
         <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
           <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target state="needs-translation">Optimiza para menor latencia al desactivar que múltiples fotogramas estén en cola.</target>
+          <target state="translated">(Por defecto) Optimiza para menor latencia al desactivar que múltiples fotogramas estén en cola.</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
@@ -3924,6 +3924,334 @@ Prueba esto solo si tu mando no funciona.
 "Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
         <target state="translated">Una pista rápida y desafiante inspirada en canciones de otros juegos de ritmo.
 "Clematis" es el nombre de una enredadera con flores, usualmente con pétalos en formas de estrella.</target>
+      </trans-unit>
+      <trans-unit id="604274476202110976" xml:space="preserve" resname="editor_text_songinfo_customartistname" approved="no">
+        <source>Music artist name override: {0}</source>
+        <target state="translated">Sobreescritura del nombre de artista: {0}</target>
+      </trans-unit>
+      <trans-unit id="604847284741255168" xml:space="preserve" resname="editor_unverifiedartist_description" approved="no">
+        <source>If a music artist is not in the Verified Artist list, it's recommended that you contact them to have their name added. Click the button below to learn how.</source>
+        <target state="translated">Si un artista de música no está en la lista de Artistas Verificados, es recomendado que le contactes para agregar su nombre. Cliquea el botón de debajo para conocer cómo.</target>
+      </trans-unit>
+      <trans-unit id="604847761344212992" xml:space="preserve" resname="editor_unverifiedartist_description2" approved="no">
+        <source>Otherwise, you can continue with an unverified artist, but your level will be subject to the following restrictions:
+
+- Music cannot be bundled with the exported level
+- A copyright warning displays to any user playing the level
+- Levels may be subject to additional restrictions on distribution</source>
+        <target state="translated">Por otro lado, puedes continuar con un artista no verificado, pero tu nivel estará sujeto a las siguientes restricciones:
+
+- La música no se puede incluir en el nivel exportado
+- Se mostrará una advertencia de copyright al usuario que juegue el nivel
+- El nivel podrá estar sujeto a restricciones de distribución adicionales</target>
+      </trans-unit>
+      <trans-unit id="606079863167430656" xml:space="preserve" resname="editor_input_musicurl_description" approved="no">
+        <source>An optional link that players can use to legally obtain the music file for the level.</source>
+        <target state="translated">Un enlace opcional que los jugadores pueden utilizar para obtener legalmente el archivo de música del nivel.</target>
+      </trans-unit>
+      <trans-unit id="606080154264711168" xml:space="preserve" resname="editor_input_customartistname_description" approved="no">
+        <source>Use only if the song is attributed to the artist under a different name.</source>
+        <target state="translated">Úsalo solo si la canción se atribuye al artista con un nombre diferente.</target>
+      </trans-unit>
+      <trans-unit id="603460992468037632" xml:space="preserve" resname="editor_terms_description" approved="no">
+        <source>Before you can export your level, you must agree to the Rhythm Quest User Content Terms of Service.
+
+Click the button below to open the terms of service in a new browser window.</source>
+        <target state="translated">Antes de poder exportar tu nivel, debes aceptar los Términos de servicio de contenido de usuario de Rhythm Quest.
+
+Haz clic en el botón de abajo para abrir los términos de servicio en una nueva ventana del navegador.</target>
+      </trans-unit>
+      <trans-unit id="591052393326358528" xml:space="preserve" resname="settings_framerate" approved="no">
+        <source>Frame Rate</source>
+        <target state="translated">Tasa de fotogramas</target>
+      </trans-unit>
+      <trans-unit id="591052706317905920" xml:space="preserve" resname="settings_vsync_limited" approved="no">
+        <source>Limited</source>
+        <target state="translated">Limitado</target>
+      </trans-unit>
+      <trans-unit id="591052968042475520" xml:space="preserve" resname="settings_vsync_description_limited" approved="no">
+        <source>Manually limits frame rate to 60 frames per second. Use in special cases where refresh synchronization is not desired, but rendering speed should be limited.</source>
+        <target state="translated">Manualmente limita la tasa de fotogramas a 60 por segundo. Usar en casos especiales donde la sincronización por refresco no es deseada, pero la velocidad de renderizado debería estar limitada.</target>
+      </trans-unit>
+      <trans-unit id="591053590082924544" xml:space="preserve" resname="settings_framerate_description_normal" approved="no">
+        <source>(Default) Use native device refresh rate to render as fast as possible.</source>
+        <target state="translated">(Por defecto) Usar tasa de refresco nativa del dispositivo para renderizar lo más rápido posible.</target>
+      </trans-unit>
+      <trans-unit id="591053594969288704" xml:space="preserve" resname="settings_framerate_description_half" approved="no">
+        <source>Render at half of device refresh rate. Use to conserve battery, or for high refresh rate devices where full rendering speed is unnecessary.</source>
+        <target state="translated">Renderizar a la mitad de la tasa de refresco del dispositivo. Usar para conversar batería, o para dispositivos con altas tasas de refresco donde renderizar a máxima velocidad es innecesario.</target>
+      </trans-unit>
+      <trans-unit id="591053958275706880" xml:space="preserve" resname="settings_half" approved="no">
+        <source>Half</source>
+        <target state="translated">Medio</target>
+      </trans-unit>
+      <trans-unit id="591062119338520576" xml:space="preserve" resname="settings_marathonmode" approved="no">
+        <source>Marathon Mode</source>
+        <target state="translated">Modo Maratón</target>
+      </trans-unit>
+      <trans-unit id="591062289165889536" xml:space="preserve" resname="settings_marathonmode_description_disabled" approved="no">
+        <source>Play each level individually as normal.</source>
+        <target state="translated">Jugar cada nivel individualmente de forma normal.</target>
+      </trans-unit>
+      <trans-unit id="591062292584247296" xml:space="preserve" resname="settings_marathonmode_description_enabled" approved="no">
+        <source>Automatically proceed directly to the next level after finishing each one.</source>
+        <target state="translated">Automáticamente proceder al siguiente nivel al finalizar cada uno.</target>
+      </trans-unit>
+      <trans-unit id="591068283547725824" xml:space="preserve" resname="settings_strictinputs" approved="no">
+        <source>Strict Inputs</source>
+        <target state="translated">Controles estrictos</target>
+      </trans-unit>
+      <trans-unit id="591069604375998464" xml:space="preserve" resname="settings_strictinputs_partial" approved="no">
+        <source>Partial</source>
+        <target state="translated">Parcial</target>
+      </trans-unit>
+      <trans-unit id="591071807786496000" xml:space="preserve" resname="settings_strictinputs_description_disabled" approved="no">
+        <source>(Default) No punishment for extra attack or jump inputs.</source>
+        <target state="translated">(Por defecto) No penalizar por entradas de salto o ataque extras.</target>
+      </trans-unit>
+      <trans-unit id="591071808856043520" xml:space="preserve" resname="settings_strictinputs_description_partial" approved="no">
+        <source>Use increased cooldown after missed attacks to punish extra attack presses.</source>
+        <target state="translated">Usar enfriamiento extendido después de fallar ataques para penalizar entrada de ataque extra.</target>
+      </trans-unit>
+      <trans-unit id="591071810214998016" xml:space="preserve" resname="settings_strictinputs_description_enabled" approved="no">
+        <source>Force an immediate respawn whenever any extraneous inputs are made.</source>
+        <target state="translated">Forzar una reaparición inmediata cuando se realicen entradas extrañas.</target>
+      </trans-unit>
+      <trans-unit id="591074951232794624" xml:space="preserve" resname="extra_input" approved="no">
+        <source>Extra Input</source>
+        <target state="translated">Controles extra</target>
+      </trans-unit>
+      <trans-unit id="592160924427399168" xml:space="preserve" resname="editor_text_musicload_restrictions" approved="no">
+        <source>Click below to select an audio file to load.
+
+Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</source>
+        <target state="translated">Cliquea debajo para seleccionar un archivo de audio para cargar.
+
+Nota: Las restricciones de publicación podrán ser aplicadas si no posees el permiso para redistribuir la música!</target>
+      </trans-unit>
+      <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic" approved="no">
+        <source>Click below to load music for this level.</source>
+        <target state="translated">Cliquea debajo para cargar música para este nivel.</target>
+      </trans-unit>
+      <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch" approved="no">
+        <source>(type to search...)</source>
+        <target state="translated">(escribe para buscar...)</target>
+      </trans-unit>
+      <trans-unit id="592881952782856192" xml:space="preserve" resname="editor_artistselect_unverifiedartist" approved="no">
+        <source>The artist isn't in this list</source>
+        <target state="translated">Este artista no está en esta lista</target>
+      </trans-unit>
+      <trans-unit id="592883402007162880" xml:space="preserve" resname="button_refresh" approved="no">
+        <source>Refresh &lt;sprite name="fonticons_4"&gt;</source>
+        <target state="translated">Refrescar &lt;sprite name="fonticons_4"&gt;</target>
+      </trans-unit>
+      <trans-unit id="594796035111170048" xml:space="preserve" resname="editor_artistselect_instructions" approved="no">
+        <source>Select the artist of the song from the list below:</source>
+        <target state="translated">Seleccionar al artista de la canción en la lista de debajo:</target>
+      </trans-unit>
+      <trans-unit id="602437255543173120" xml:space="preserve" resname="loading" approved="no">
+        <source>Loading...</source>
+        <target state="translated">Cargando...</target>
+      </trans-unit>
+      <trans-unit id="602437369808596992" xml:space="preserve" resname="editor_artistselect_database_error" approved="no">
+        <source>Could not load Verified Artist database!
+An internet connection is required to select a Verified Artist.
+Try again later.</source>
+        <target state="translated">No se pudo cargar la base de datos de Artistas Verificados!
+Una conexión a internet es requerida para seleccionar un Artista Verificado.
+Inténtalo de nuevo más tarde.</target>
+      </trans-unit>
+      <trans-unit id="602715196751654912" xml:space="preserve" resname="editor_artistusage" approved="no">
+        <source>Artist Permission: {0}</source>
+        <target state="translated">Permiso del Artista: {0}</target>
+      </trans-unit>
+      <trans-unit id="602715319154028544" xml:space="preserve" resname="editor_artistpermission_approved" approved="no">
+        <source>Approved</source>
+        <target state="translated">Aprobado</target>
+      </trans-unit>
+      <trans-unit id="602715428726026240" xml:space="preserve" resname="editor_artistpermission_mostlyapproved" approved="no">
+        <source>Mostly Approved</source>
+        <target state="translated">Aprobado en su mayor parte</target>
+      </trans-unit>
+      <trans-unit id="602715430588297216" xml:space="preserve" resname="editor_artistpermission_partiallyapproved" approved="no">
+        <source>Partially Approved</source>
+        <target state="translated">Aprobado parcialmente</target>
+      </trans-unit>
+      <trans-unit id="602715431259385856" xml:space="preserve" resname="editor_artistpermission_denied" approved="no">
+        <source>Denied</source>
+        <target state="translated">Denegado</target>
+      </trans-unit>
+      <trans-unit id="602715597945221120" xml:space="preserve" resname="editor_artistusage_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, without any notable restrictions.
+
+Please ensure that the selected song is suitable for usage in general. For example, unofficial covers and bootleg remixes are usually not allowed, and collaborations with other artists are subject to their approval.</source>
+        <target state="translated">El artista seleccionado, {0}, ha aprobado un uso general de sus canciones en niveles personalizados de Rhythm Quest, sin restricciones notables.
+
+Por favor asegúrate de que la canción seleccionada sea adecuada para su uso general. Por ejemplo, las versiones no oficiales y los remixes "bootleg" no suelen estar permitidos, y las colaboraciones con otros artistas están sujetas a su aprobación.</target>
+      </trans-unit>
+      <trans-unit id="602715642677473280" xml:space="preserve" resname="editor_artistusage_mostlyapproved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, but has some additional notes, terms, or restrictions that should be followed:</source>
+        <target state="translated">El artista seleccionado, {0}, ha aprobado un uso general de sus canciones en niveles personaliados de Rhythm Quest, pero con algunas notas adicionales, términos, o restricciones que deberían respetarse:</target>
+      </trans-unit>
+      <trans-unit id="602715647983267840" xml:space="preserve" resname="editor_artistusage_partiallyapproved_description" approved="no">
+        <source>The selected artist, {0}, has only approved specific usage of their songs in Rhythm Quest custom levels. Any usage must comply with the following restrictions or terms:</source>
+        <target state="translated">El artista seleccionado, {0}, solo ha aprobado un específico de sus canciones en niveles personalizados de Rhythm Quest. Cualquier uso debe cumplir con las siguientes restricciones o términos:</target>
+      </trans-unit>
+      <trans-unit id="602715649497411584" xml:space="preserve" resname="editor_artistusage_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their songs to be used in Rhythm Quest custom levels. You may not use their music in your custom levels.</source>
+        <target state="translated">El artista seleccionado, {0}, ha denegado el permiso para que sus canciones se utilicen en los niveles personalizados de Rhythm Quest. No puedes utilizar su música en tus niveles personalizados.</target>
+      </trans-unit>
+      <trans-unit id="602717774784802816" xml:space="preserve" resname="editor_artistmusicinclusion_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved inclusion of their music in custom level exports.
+
+A copy of the music file will automatically be included when exporting this level.</source>
+        <target state="translated">El artista seleccionado, {0}, ha aprobado que su música se incluya en las exportaciones de niveles personalizados.
+
+Al exportar este nivel, se incluirá automáticamente una copia del archivo de música.</target>
+      </trans-unit>
+      <trans-unit id="602717780258369536" xml:space="preserve" resname="editor_artistmusicinclusion_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their music to be included in custom level exports, other than a streaming preview clip.
+
+Players will need to (legally) obtain their own copy of the music in order to play this custom level. You can optionally include a link that players can use to do this.</source>
+        <target state="translated">El artista seleccionado, {0}, ha denegado el permiso para que su música se incluya en las exportaciones de niveles personalizados, salvo en un fragmento de vista previa en streaming.
+
+Los jugadores deberán obtener (de forma legal) su propia copia de la música para poder jugar este nivel personalizado. Si lo deseas, puedes incluir un enlace que los jugadores puedan utilizar para ello.</target>
+      </trans-unit>
+      <trans-unit id="603416924463607808" xml:space="preserve" resname="editor_artistmusicinclusion" approved="no">
+        <source>Music Inclusion: {0}</source>
+        <target state="translated">Inclusión de la música: {0}</target>
+      </trans-unit>
+      <trans-unit id="603418862110420992" xml:space="preserve" resname="editor_externallink_description" approved="no">
+        <source>Do you want to open the following link in your browser?
+Only follow links that you trust -- never download or open unknown files!</source>
+        <target state="translated">¿Deseas abrir el siguiente enlace en tu navegador?
+Sigue solo enlaces en los que confíes -- ¡nunca descargues ni abras archivos desconocidos!</target>
+      </trans-unit>
+      <trans-unit id="603460837958266880" xml:space="preserve" resname="editor_terms_header" approved="no">
+        <source>User Content Terms of Service</source>
+        <target state="translated">Condiciones de uso del contenido de los usuarios</target>
+      </trans-unit>
+      <trans-unit id="603463981123547136" xml:space="preserve" resname="editor_terms_openurl" approved="no">
+        <source>View (opens in browser)</source>
+        <target state="translated">Ver (se abre en el navegador)</target>
+      </trans-unit>
+      <trans-unit id="603836714130911232" xml:space="preserve" resname="editor_musicproperties_musicfile" approved="no">
+        <source>Music File</source>
+        <target state="translated">Archivo de Música</target>
+      </trans-unit>
+      <trans-unit id="603838760150151168" xml:space="preserve" resname="editor_terms_prompt" approved="no">
+        <source>Do you agree to the terms of service?</source>
+        <target state="translated">Estás de acuerdo con los términos de servicio?</target>
+      </trans-unit>
+      <trans-unit id="603841547642646528" xml:space="preserve" resname="editor_check_noartist" approved="no">
+        <source>Music artist needs to be selected</source>
+        <target state="translated">Se debe seleccionar un artista de música</target>
+      </trans-unit>
+      <trans-unit id="603841841663356928" xml:space="preserve" resname="editor_check_musicinclusiondenied" approved="no">
+        <source>Music artist has denied music inclusion - song will not be included in export</source>
+        <target state="translated">El artista de la música ha denegado la inclusión de su música - la canción no será incluida en la exportación</target>
+      </trans-unit>
+      <trans-unit id="604270392938115072" xml:space="preserve" resname="editor_text_artist_nomusic" approved="no">
+        <source>(Load a song first before selecting an artist)</source>
+        <target state="translated">(Carga una canción primero antes de seleccionar un artista)</target>
+      </trans-unit>
+      <trans-unit id="604270523401940992" xml:space="preserve" resname="editor_text_artist_notselected" approved="no">
+        <source>No artist selected!</source>
+        <target state="translated">Ningún artista seleccionado!</target>
+      </trans-unit>
+      <trans-unit id="604274214708228096" xml:space="preserve" resname="editor_text_songinfo_nomusicorartist" approved="no">
+        <source>(Select a song + artist first)</source>
+        <target state="translated">(Selecciona una canción + un artista primero)</target>
+      </trans-unit>
+      <trans-unit id="604274319653908480" xml:space="preserve" resname="editor_text_songinfo_customurl" approved="no">
+        <source>Music URL: {0}</source>
+        <target state="translated">URL de la música: {0}</target>
+      </trans-unit>
+      <trans-unit id="604274415640555520" xml:space="preserve" resname="editor_text_songinfo_customurl_none" approved="no">
+        <source>No music URL specified</source>
+        <target state="translated">Ningún URL de música especificado</target>
+      </trans-unit>
+      <trans-unit id="604274496246689792" xml:space="preserve" resname="editor_text_songinfo_customartistname_none" approved="no">
+        <source>No music artist name override</source>
+        <target state="translated">Ninguna sobreescritura de nombre de artista de la música</target>
+      </trans-unit>
+      <trans-unit id="604846316972716032" xml:space="preserve" resname="editor_text_artist_unverified" approved="no">
+        <source>This artist is not verified!
+Extra restrictions will apply.</source>
+        <target state="translated">Este artista no está verificado!
+Serán aplicadas restricciones extras.</target>
+      </trans-unit>
+      <trans-unit id="604937877538516992" xml:space="preserve" resname="editor_button_continueunverifiedartist" approved="no">
+        <source>Continue with unverified artist</source>
+        <target state="translated">Continuar con un artista no verificado</target>
+      </trans-unit>
+      <trans-unit id="604938007180259328" xml:space="preserve" resname="editor_button_verifiedartistcontact" approved="no">
+        <source>Instructions (opens in browser)</source>
+        <target state="translated">Instrucciones (abrir en navegador)</target>
+      </trans-unit>
+      <trans-unit id="604940784920997888" xml:space="preserve" resname="editor_unverifiedartistname_input" approved="no">
+        <source>Enter the name of the unverified artist:</source>
+        <target state="translated">Ingresa el nombre del artista no verificado:</target>
+      </trans-unit>
+      <trans-unit id="604942973202640896" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_1" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; There is already a Verified Artist listing with this name:</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; Ya existe un Artista Verificado con el siguiente nombre:</target>
+      </trans-unit>
+      <trans-unit id="604943065670266880" xml:space="preserve" resname="editor_unverifiedartistname_input_placeholder" approved="no">
+        <source>(enter name here)</source>
+        <target state="translated">(ingresa el nombre aquí)</target>
+      </trans-unit>
+      <trans-unit id="604943691267485696" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; Did you mean to use the following artist?</source>
+        <target state="translated">&lt;sprite name="fonticons_9&gt; Te referías a usar al siguiente artista?</target>
+      </trans-unit>
+      <trans-unit id="604944351903920128" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_2" approved="no">
+        <source>Click below to use that artist's entry.</source>
+        <target state="translated">Haz clic a continuación para utilizar la entrada de ese artista.</target>
+      </trans-unit>
+      <trans-unit id="604945298977763328" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch2" approved="no">
+        <source>If so, go back and select that artist from the Verified Artist list.</source>
+        <target state="translated">Si es así, vuelve atrás y selecciona a ese artista de la lista de Artistas Verificados.</target>
+      </trans-unit>
+      <trans-unit id="604959446465818624" xml:space="preserve" resname="editor_unverifiedartistname_button_useexactmatch" approved="no">
+        <source>Use {0}</source>
+        <target state="translated">Usar {0}</target>
+      </trans-unit>
+      <trans-unit id="606049528971046912" xml:space="preserve" resname="editor_button_viewtermsofservice" approved="no">
+        <source>View Terms of Service</source>
+        <target state="translated">Ver Términos de Servicio</target>
+      </trans-unit>
+      <trans-unit id="606069108305080320" xml:space="preserve" resname="editor_text_songinfo_songname" approved="no">
+        <source>Song name: {0}</source>
+        <target state="translated">Nombre de canción: {0</target>
+      </trans-unit>
+      <trans-unit id="606069124184715264" xml:space="preserve" resname="editor_text_songinfo_songname_none" approved="no">
+        <source>No song name specified</source>
+        <target state="translated">Nombre de canción no especificado</target>
+      </trans-unit>
+      <trans-unit id="606079403970834432" xml:space="preserve" resname="editor_input_customartistname" approved="no">
+        <source>Music Artist Name Override:</source>
+        <target state="translated">Sobreescritura del nombre del artista:</target>
+      </trans-unit>
+      <trans-unit id="606079477983522816" xml:space="preserve" resname="editor_input_musicurl" approved="no">
+        <source>Music URL:</source>
+        <target state="translated">URL de la música:</target>
+      </trans-unit>
+      <trans-unit id="606082848459108352" xml:space="preserve" resname="editor_input_customartistname_placeholder" approved="no">
+        <source>(will display {0} if left blank)</source>
+        <target state="translated">(Se mostrará {0} si es dejado en blanco)</target>
+      </trans-unit>
+      <trans-unit id="606083429936443392" xml:space="preserve" resname="editor_input_musicurl_placeholder" approved="no">
+        <source>(enter a URL)</source>
+        <target state="translated">(Ingresa una URL)</target>
+      </trans-unit>
+      <trans-unit id="606095350521704448" xml:space="preserve" resname="editor_input_customartistname_exactmatch" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; This name belongs to another artist: {0}</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; Este nombre le pertenece a otro artista: {0}</target>
+      </trans-unit>
+      <trans-unit id="606259392049623040" xml:space="preserve" resname="editor_input_musicurl_invalidurl" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; Por favor ingresa una URL válida (ejemplo: https://example.com)</target>
       </trans-unit>
     </body>
   </file>
