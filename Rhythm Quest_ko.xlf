@@ -1480,7 +1480,7 @@ Please connect a supported gamepad device.</source>
         </trans-unit>
         <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
           <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target state="needs-translation">여러 프레임이 대기하지 못하게 막아 낮은 지연 시간에 집중합니다.</target>
+          <target state="translated">(기본) 여러 프레임이 대기하지 못하게 막아 낮은 지연 시간에 집중합니다.</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
@@ -3956,6 +3956,338 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
       <trans-unit id="591062292584247296" xml:space="preserve" resname="settings_marathonmode_description_enabled" approved="no">
         <source>Automatically proceed directly to the next level after finishing each one.</source>
         <target state="translated">각 레벨이 끝나면 바로 다음 레벨로 자동 진행됩니다.</target>
+      </trans-unit>
+      <trans-unit id="602715597945221120" xml:space="preserve" resname="editor_artistusage_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, without any notable restrictions.
+
+Please ensure that the selected song is suitable for usage in general. For example, unofficial covers and bootleg remixes are usually not allowed, and collaborations with other artists are subject to their approval.</source>
+        <target state="translated">선택한 아티스트, {0}, 은 별도의 제한사항없이 Rhythm Quest 커스텀 레벨에서 일반적인 사용을 허가하였습니다.
+
+선택한 곡이 일반적으로 적합한지 확인하여 주십시오. 예를 들어, 비공식 커버 또는 무단 리믹스등은 허용되지 않습니다, 또한 다른 아티스트와의 콜라보레이션은 해당 아티스트의 허가가 필요합니다.</target>
+      </trans-unit>
+      <trans-unit id="602715647983267840" xml:space="preserve" resname="editor_artistusage_partiallyapproved_description" approved="no">
+        <source>The selected artist, {0}, has only approved specific usage of their songs in Rhythm Quest custom levels. Any usage must comply with the following restrictions or terms:</source>
+        <target state="translated">선택한 아티스트, {0}, 은 Rhythm Quest 커스텀 레벨에서의 특수한 용도로의 사용만을 허가하였습니다. 모든 사용은 해당 제한사항을 준수해야합니다. :</target>
+      </trans-unit>
+      <trans-unit id="602717774784802816" xml:space="preserve" resname="editor_artistmusicinclusion_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved inclusion of their music in custom level exports.
+
+A copy of the music file will automatically be included when exporting this level.</source>
+        <target state="translated">선택한 아티스트 {0} 은 커스텀레벨 배포에 자신의 곡이 포함되는것을 허가하였습니다.
+
+레벨을 내보낼때 해당 곡의 복사본이 자동으로 포함됩니다.</target>
+      </trans-unit>
+      <trans-unit id="603460992468037632" xml:space="preserve" resname="editor_terms_description" approved="no">
+        <source>Before you can export your level, you must agree to the Rhythm Quest User Content Terms of Service.
+
+Click the button below to open the terms of service in a new browser window.</source>
+        <target state="translated">당신의 레벨을 내보내기 전에, Rhythm Quest 유저 컨텐츠 이용약관에 동의하여야만 합니다.
+
+아래의 버튼을 눌러 이용약관을 새로운 브라우저 창에서 여세요.</target>
+      </trans-unit>
+      <trans-unit id="603842479784767488" xml:space="preserve" resname="editor_check_missingname" approved="no">
+        <source>Song name needs to be filled out</source>
+        <target state="translated">곡 이름을 입력하여야 합니다</target>
+      </trans-unit>
+      <trans-unit id="604270392938115072" xml:space="preserve" resname="editor_text_artist_nomusic" approved="no">
+        <source>(Load a song first before selecting an artist)</source>
+        <target state="translated">(아티스트를 선택하기 전에 곡을 먼저 불러오세요)</target>
+      </trans-unit>
+      <trans-unit id="604274496246689792" xml:space="preserve" resname="editor_text_songinfo_customartistname_none" approved="no">
+        <source>No music artist name override</source>
+        <target state="translated">곡 아티스트 이름 덮어쓰지 않음</target>
+      </trans-unit>
+      <trans-unit id="604847284741255168" xml:space="preserve" resname="editor_unverifiedartist_description" approved="no">
+        <source>If a music artist is not in the Verified Artist list, it's recommended that you contact them to have their name added. Click the button below to learn how.</source>
+        <target state="translated">만약 곡 아티스트가 검증된 아티스트 목록에 없을 경우, 당신이 아티스트에게 연락하여 아티스트 이름을 추가하는 것이 권장됩니다. 아래의 버튼을 눌러 알아보세요.</target>
+      </trans-unit>
+      <trans-unit id="604847761344212992" xml:space="preserve" resname="editor_unverifiedartist_description2" approved="no">
+        <source>Otherwise, you can continue with an unverified artist, but your level will be subject to the following restrictions:
+
+- Music cannot be bundled with the exported level
+- A copyright warning displays to any user playing the level
+- Levels may be subject to additional restrictions on distribution</source>
+        <target state="translated">또는, 검증되지 않은 아티스트로 계속할 수 있습니다, 하지만 당신의 레벨에 다음과 같은 제한 사항이 적용됩니다:
+
+- 곡을 배포에 포함할 수 없습니다
+- 레벨을 플레이할시 저작권 경고가 표시됩니다
+- 레벨을 배포할 때 추가적인 제한 사항이 적용될 수 있습니다</target>
+      </trans-unit>
+      <trans-unit id="604945298977763328" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch2" approved="no">
+        <source>If so, go back and select that artist from the Verified Artist list.</source>
+        <target state="translated">만약 그렇다면, 뒤로 돌아가 검증된 아티스트 목록에서 해당 아티스트를 선택해주세요.</target>
+      </trans-unit>
+      <trans-unit id="606079863167430656" xml:space="preserve" resname="editor_input_musicurl_description" approved="no">
+        <source>An optional link that players can use to legally obtain the music file for the level.</source>
+        <target state="translated">플레이어가 합법적으로 곡의 사본을 획득할 수 있는 링크입니다.</target>
+      </trans-unit>
+      <trans-unit id="606259392049623040" xml:space="preserve" resname="editor_input_musicurl_invalidurl" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; 올바른 URL을 입력해주세요 (예: https://example.com)</target>
+      </trans-unit>
+      <trans-unit id="591052706317905920" xml:space="preserve" resname="settings_vsync_limited" approved="no">
+        <source>Limited</source>
+        <target state="translated">제한됨</target>
+      </trans-unit>
+      <trans-unit id="591068283547725824" xml:space="preserve" resname="settings_strictinputs" approved="no">
+        <source>Strict Inputs</source>
+        <target state="translated">엄격한 입력</target>
+      </trans-unit>
+      <trans-unit id="591069604375998464" xml:space="preserve" resname="settings_strictinputs_partial" approved="no">
+        <source>Partial</source>
+        <target state="translated">부분</target>
+      </trans-unit>
+      <trans-unit id="591071807786496000" xml:space="preserve" resname="settings_strictinputs_description_disabled" approved="no">
+        <source>(Default) No punishment for extra attack or jump inputs.</source>
+        <target state="translated">(기본) 추가적인 공격 또는 점프 입력에 대해 페널티가 없습니다.</target>
+      </trans-unit>
+      <trans-unit id="591071808856043520" xml:space="preserve" resname="settings_strictinputs_description_partial" approved="no">
+        <source>Use increased cooldown after missed attacks to punish extra attack presses.</source>
+        <target state="translated">놓친 공격 또는 추가적인 공격 입력에 대해 추가적인 쿨타임을 부여합니다.</target>
+      </trans-unit>
+      <trans-unit id="591071810214998016" xml:space="preserve" resname="settings_strictinputs_description_enabled" approved="no">
+        <source>Force an immediate respawn whenever any extraneous inputs are made.</source>
+        <target state="translated">추가적인 입력이 발생 했을 때 강제로 다시 시작 합니다.</target>
+      </trans-unit>
+      <trans-unit id="591074951232794624" xml:space="preserve" resname="extra_input" approved="no">
+        <source>Extra Input</source>
+        <target state="translated">추가 입력</target>
+      </trans-unit>
+      <trans-unit id="592160924427399168" xml:space="preserve" resname="editor_text_musicload_restrictions" approved="no">
+        <source>Click below to select an audio file to load.
+
+Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</source>
+        <target state="translated">아래를 눌러 불러올 오디오 파일을 선택하세요.
+
+노트: 음악을 사용하거나 재배포할 권한이 없다면 배포에 제한 사항이 적용될 수 있습니다!</target>
+      </trans-unit>
+      <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic" approved="no">
+        <source>Click below to load music for this level.</source>
+        <target state="translated">아래를 눌러 이 레벨을 위한 노래를 불러오세요.</target>
+      </trans-unit>
+      <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch" approved="no">
+        <source>(type to search...)</source>
+        <target state="translated">(입력하여 검색...)</target>
+      </trans-unit>
+      <trans-unit id="592881952782856192" xml:space="preserve" resname="editor_artistselect_unverifiedartist" approved="no">
+        <source>The artist isn't in this list</source>
+        <target state="translated">아티스트가 목록에 없습니다</target>
+      </trans-unit>
+      <trans-unit id="592883402007162880" xml:space="preserve" resname="button_refresh" approved="no">
+        <source>Refresh &lt;sprite name="fonticons_4"&gt;</source>
+        <target state="translated">새로 고침 &lt;sprite name="fonticons_4"&gt;</target>
+      </trans-unit>
+      <trans-unit id="594796035111170048" xml:space="preserve" resname="editor_artistselect_instructions" approved="no">
+        <source>Select the artist of the song from the list below:</source>
+        <target state="translated">아래의 리스트에서 곡의 아티스트를 선택하세요:</target>
+      </trans-unit>
+      <trans-unit id="602437255543173120" xml:space="preserve" resname="loading" approved="no">
+        <source>Loading...</source>
+        <target state="translated">불러오는중...</target>
+      </trans-unit>
+      <trans-unit id="602437369808596992" xml:space="preserve" resname="editor_artistselect_database_error" approved="no">
+        <source>Could not load Verified Artist database!
+An internet connection is required to select a Verified Artist.
+Try again later.</source>
+        <target state="translated">검증된 아티스트 목록을 불러올 수 없습니다!
+검증된 아티스트를 선택하기 위해선 인터넷 연결이 필요합니다.
+잠시 후 다시 시도해주세요.</target>
+      </trans-unit>
+      <trans-unit id="602715196751654912" xml:space="preserve" resname="editor_artistusage" approved="no">
+        <source>Artist Permission: {0}</source>
+        <target state="translated">아티스트 권한: {0}</target>
+      </trans-unit>
+      <trans-unit id="602715319154028544" xml:space="preserve" resname="editor_artistpermission_approved" approved="no">
+        <source>Approved</source>
+        <target state="translated">허가됨</target>
+      </trans-unit>
+      <trans-unit id="602715428726026240" xml:space="preserve" resname="editor_artistpermission_mostlyapproved" approved="no">
+        <source>Mostly Approved</source>
+        <target state="translated">대체로 허가됨</target>
+      </trans-unit>
+      <trans-unit id="602715430588297216" xml:space="preserve" resname="editor_artistpermission_partiallyapproved" approved="no">
+        <source>Partially Approved</source>
+        <target state="translated">부분적으로 허가됨</target>
+      </trans-unit>
+      <trans-unit id="602715431259385856" xml:space="preserve" resname="editor_artistpermission_denied" approved="no">
+        <source>Denied</source>
+        <target state="translated">거부됨</target>
+      </trans-unit>
+      <trans-unit id="602715642677473280" xml:space="preserve" resname="editor_artistusage_mostlyapproved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, but has some additional notes, terms, or restrictions that should be followed:</source>
+        <target state="translated">선택한 아티스트, {0}, 은 Rhythm Quest 커스텀레벨에서의 일반적인 사용을 허가하였습니다, 단 일부 유의사항 또는 제한 사항이 적용됩니다. :</target>
+      </trans-unit>
+      <trans-unit id="602715649497411584" xml:space="preserve" resname="editor_artistusage_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their songs to be used in Rhythm Quest custom levels. You may not use their music in your custom levels.</source>
+        <target state="translated">선택한 아티스트, {0}, 은 Rhythm Quest 커스텀레벨에서의 곡 사용을 거부하였습니다. 이 아티스트의 곡은 당신의 커스텀레벨에서 사용할 수 없습니다.</target>
+      </trans-unit>
+      <trans-unit id="602717780258369536" xml:space="preserve" resname="editor_artistmusicinclusion_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their music to be included in custom level exports, other than a streaming preview clip.
+
+Players will need to (legally) obtain their own copy of the music in order to play this custom level. You can optionally include a link that players can use to do this.</source>
+        <target state="translated">선택한 아티스트 {0} 은 커스텀레벨 배포에 프리뷰 클립을 제외한 자신의 곡이 포함되는것을 거부하였습니다.
+
+플레이어는 (합법적으로) 음악의 사본을 구하여 이 커스텀레벨을 플레이해야합니다. 당신은 링크를 포함하여 이것을 도와줄 수 있습니다.</target>
+      </trans-unit>
+      <trans-unit id="603416924463607808" xml:space="preserve" resname="editor_artistmusicinclusion" approved="no">
+        <source>Music Inclusion: {0}</source>
+        <target state="translated">음악 포함: {0}</target>
+      </trans-unit>
+      <trans-unit id="603418862110420992" xml:space="preserve" resname="editor_externallink_description" approved="no">
+        <source>Do you want to open the following link in your browser?
+Only follow links that you trust -- never download or open unknown files!</source>
+        <target state="translated">다음 링크를 브라우저에서 여시겠습니까?
+당신이 신뢰하는 링크만 여세요 -- 절대로 모르는 파일을 열거나 다운로드 하지 마세요!</target>
+      </trans-unit>
+      <trans-unit id="603460837958266880" xml:space="preserve" resname="editor_terms_header" approved="no">
+        <source>User Content Terms of Service</source>
+        <target state="translated">유저 컨텐츠 이용약관</target>
+      </trans-unit>
+      <trans-unit id="603463981123547136" xml:space="preserve" resname="editor_terms_openurl" approved="no">
+        <source>View (opens in browser)</source>
+        <target state="translated">보기 (브라우저에서 열기)</target>
+      </trans-unit>
+      <trans-unit id="603836714130911232" xml:space="preserve" resname="editor_musicproperties_musicfile" approved="no">
+        <source>Music File</source>
+        <target state="translated">음악 파일</target>
+      </trans-unit>
+      <trans-unit id="603838760150151168" xml:space="preserve" resname="editor_terms_prompt" approved="no">
+        <source>Do you agree to the terms of service?</source>
+        <target state="translated">이용약관에 동의합니까?</target>
+      </trans-unit>
+      <trans-unit id="603841547642646528" xml:space="preserve" resname="editor_check_noartist" approved="no">
+        <source>Music artist needs to be selected</source>
+        <target state="translated">음악 아티스트를 선택하여야 합니다</target>
+      </trans-unit>
+      <trans-unit id="603841841663356928" xml:space="preserve" resname="editor_check_musicinclusiondenied" approved="no">
+        <source>Music artist has denied music inclusion - song will not be included in export</source>
+        <target state="translated">음악 아티스트가 곡 포함을 거부하였습니다 -- 곡이 배포에 포함되지 않습니다</target>
+      </trans-unit>
+      <trans-unit id="603841874722861056" xml:space="preserve" resname="editor_check_unverifiedartist" approved="no">
+        <source>Music artist is unverified - song will not be included in export</source>
+        <target state="translated">음악 아티스트가 확인되지 않습니다 - 곡이 배포에 포함되지 않습니다</target>
+      </trans-unit>
+      <trans-unit id="603841907992080384" xml:space="preserve" resname="editor_check_editortermsunaccepted" approved="no">
+        <source>Latest Terms of Service needs to be accepted</source>
+        <target state="translated">최신 이용약관이 수락되어야 합니다</target>
+      </trans-unit>
+      <trans-unit id="603842672307515392" xml:space="preserve" resname="editor_check_missingauthor" approved="no">
+        <source>Chart author needs to be filled out</source>
+        <target state="translated">채보 제작자가 입력되어야 합니다</target>
+      </trans-unit>
+      <trans-unit id="604187026721124352" xml:space="preserve" resname="editor_check_noobstacles" approved="no">
+        <source>Level doesn't contain any obstacles</source>
+        <target state="translated">레벨에 아무 장애물이 없습니다</target>
+      </trans-unit>
+      <trans-unit id="604189336276873216" xml:space="preserve" resname="editor_musicproperties_musicartist" approved="no">
+        <source>Music Artist</source>
+        <target state="translated">곡 아티스트</target>
+      </trans-unit>
+      <trans-unit id="604189777677037568" xml:space="preserve" resname="editor_musicproperties_songinfo" approved="no">
+        <source>Song Info</source>
+        <target state="translated">곡 정보</target>
+      </trans-unit>
+      <trans-unit id="604265676023836672" xml:space="preserve" resname="editor_button_select" approved="no">
+        <source>Select</source>
+        <target state="translated">선택</target>
+      </trans-unit>
+      <trans-unit id="604265968601706496" xml:space="preserve" resname="editor_button_edit" approved="no">
+        <source>Edit</source>
+        <target state="translated">편집</target>
+      </trans-unit>
+      <trans-unit id="604270523401940992" xml:space="preserve" resname="editor_text_artist_notselected" approved="no">
+        <source>No artist selected!</source>
+        <target state="translated">아티스트가 선택되지 않음!</target>
+      </trans-unit>
+      <trans-unit id="604274214708228096" xml:space="preserve" resname="editor_text_songinfo_nomusicorartist" approved="no">
+        <source>(Select a song + artist first)</source>
+        <target state="translated">(곡 + 아티스트를 먼저 선택하세요)</target>
+      </trans-unit>
+      <trans-unit id="604274319653908480" xml:space="preserve" resname="editor_text_songinfo_customurl" approved="no">
+        <source>Music URL: {0}</source>
+        <target state="translated">곡 URL: {0}</target>
+      </trans-unit>
+      <trans-unit id="604274415640555520" xml:space="preserve" resname="editor_text_songinfo_customurl_none" approved="no">
+        <source>No music URL specified</source>
+        <target state="translated">곡 URL이 지정되지 않았습니다</target>
+      </trans-unit>
+      <trans-unit id="604274476202110976" xml:space="preserve" resname="editor_text_songinfo_customartistname" approved="no">
+        <source>Music artist name override: {0}</source>
+        <target state="translated">곡 아티스트 이름 덮어쓰기: {0}</target>
+      </trans-unit>
+      <trans-unit id="604846316972716032" xml:space="preserve" resname="editor_text_artist_unverified" approved="no">
+        <source>This artist is not verified!
+Extra restrictions will apply.</source>
+        <target state="translated">이 아티스트는 검증되지 않았습니다!
+추가 제한사항이 적용됩니다.</target>
+      </trans-unit>
+      <trans-unit id="604937877538516992" xml:space="preserve" resname="editor_button_continueunverifiedartist" approved="no">
+        <source>Continue with unverified artist</source>
+        <target state="translated">검증되지 않은 아티스트로 계속하기</target>
+      </trans-unit>
+      <trans-unit id="604938007180259328" xml:space="preserve" resname="editor_button_verifiedartistcontact" approved="no">
+        <source>Instructions (opens in browser)</source>
+        <target state="translated">방법 (브라우저에서 열기)</target>
+      </trans-unit>
+      <trans-unit id="604940784920997888" xml:space="preserve" resname="editor_unverifiedartistname_input" approved="no">
+        <source>Enter the name of the unverified artist:</source>
+        <target state="translated">검증되지 않은 아티스트의 이름을 입력하세요:</target>
+      </trans-unit>
+      <trans-unit id="604942973202640896" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_1" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; There is already a Verified Artist listing with this name:</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; 검증된 아티스트 목록에 해당 이름이 이미 존재합니다:</target>
+      </trans-unit>
+      <trans-unit id="604943065670266880" xml:space="preserve" resname="editor_unverifiedartistname_input_placeholder" approved="no">
+        <source>(enter name here)</source>
+        <target state="translated">(여기에 이름 입력)</target>
+      </trans-unit>
+      <trans-unit id="604943691267485696" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; Did you mean to use the following artist?</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; 해당 아티스트를 사용하고자 하셨나요?</target>
+      </trans-unit>
+      <trans-unit id="604944351903920128" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_2" approved="no">
+        <source>Click below to use that artist's entry.</source>
+        <target state="translated">아래를 눌러 해당 아티스트의 항목을 사용.</target>
+      </trans-unit>
+      <trans-unit id="604959446465818624" xml:space="preserve" resname="editor_unverifiedartistname_button_useexactmatch" approved="no">
+        <source>Use {0}</source>
+        <target state="translated">{0} 사용</target>
+      </trans-unit>
+      <trans-unit id="606049528971046912" xml:space="preserve" resname="editor_button_viewtermsofservice" approved="no">
+        <source>View Terms of Service</source>
+        <target state="translated">이용 약관 보기</target>
+      </trans-unit>
+      <trans-unit id="606069108305080320" xml:space="preserve" resname="editor_text_songinfo_songname" approved="no">
+        <source>Song name: {0}</source>
+        <target state="translated">곡 이름: {0}</target>
+      </trans-unit>
+      <trans-unit id="606069124184715264" xml:space="preserve" resname="editor_text_songinfo_songname_none" approved="no">
+        <source>No song name specified</source>
+        <target state="translated">곡 이름이 지정되지 않음</target>
+      </trans-unit>
+      <trans-unit id="606079403970834432" xml:space="preserve" resname="editor_input_customartistname" approved="no">
+        <source>Music Artist Name Override:</source>
+        <target state="translated">곡 아티스트 이름 덮어쓰기:</target>
+      </trans-unit>
+      <trans-unit id="606079477983522816" xml:space="preserve" resname="editor_input_musicurl" approved="no">
+        <source>Music URL:</source>
+        <target state="translated">곡 URL:</target>
+      </trans-unit>
+      <trans-unit id="606080154264711168" xml:space="preserve" resname="editor_input_customartistname_description" approved="no">
+        <source>Use only if the song is attributed to the artist under a different name.</source>
+        <target state="translated">작곡가의 다른 명의로 된 곡인 경우에만 사용하세요.</target>
+      </trans-unit>
+      <trans-unit id="606082848459108352" xml:space="preserve" resname="editor_input_customartistname_placeholder" approved="no">
+        <source>(will display {0} if left blank)</source>
+        <target state="translated">(공백으로 둘시 {0} 을 대신 표시합니다)</target>
+      </trans-unit>
+      <trans-unit id="606083429936443392" xml:space="preserve" resname="editor_input_musicurl_placeholder" approved="no">
+        <source>(enter a URL)</source>
+        <target state="translated">(URL 입력)</target>
+      </trans-unit>
+      <trans-unit id="606095350521704448" xml:space="preserve" resname="editor_input_customartistname_exactmatch" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; This name belongs to another artist: {0}</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; 이 이름은 다른 아티스트에게 귀속됩니다: {0}</target>
       </trans-unit>
     </body>
   </file>
