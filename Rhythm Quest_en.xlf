@@ -2140,10 +2140,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Load Image</source>
           <target>Load Image</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
-          <source>Replace Image</source>
-          <target>Replace Image</target>
-        </trans-unit>
         <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
           <source>Estimated Difficulty: {0}</source>
           <target>Estimated Difficulty: {0}</target>
@@ -4283,6 +4279,202 @@ Extra restrictions will apply.</target>
         <trans-unit id="606259392049623040" xml:space="preserve" resname="editor_input_musicurl_invalidurl">
           <source>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</source>
           <target>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</target>
+        </trans-unit>
+        <trans-unit id="608217629049270272" xml:space="preserve" resname="editor_setting_activedifficulty">
+          <source>Difficulty</source>
+          <target>Difficulty</target>
+        </trans-unit>
+        <trans-unit id="609960527738482688" xml:space="preserve" resname="editor_action_deletedifficulty">
+          <source>Delete chart: {0}</source>
+          <target>Delete chart: {0}</target>
+        </trans-unit>
+        <trans-unit id="609960657237618688" xml:space="preserve" resname="editor_action_createdifficulty">
+          <source>Create chart: {0}</source>
+          <target>Create chart: {0}</target>
+        </trans-unit>
+        <trans-unit id="610022060854128640" xml:space="preserve" resname="editor_deletedifficulty_description">
+          <source>Are you sure you want to delete the chart for this difficulty?</source>
+          <target>Are you sure you want to delete the chart for this difficulty?</target>
+        </trans-unit>
+        <trans-unit id="610023780959170560" xml:space="preserve" resname="editor_difficultycreate_description">
+          <source>A chart for this difficulty does not yet exist.
+Do you want to create one?</source>
+          <target>A chart for this difficulty does not yet exist.
+Do you want to create one?</target>
+        </trans-unit>
+        <trans-unit id="610027983639195648" xml:space="preserve" resname="editor_createdifficulty_createnew">
+          <source>Yes, create from scratch</source>
+          <target>Yes, create from scratch</target>
+        </trans-unit>
+        <trans-unit id="610028108012892160" xml:space="preserve" resname="editor_createdifficulty_copy">
+          <source>Yes, copy from the {0} chart</source>
+          <target>Yes, copy from the {0} chart</target>
+        </trans-unit>
+        <trans-unit id="610060919927255040" xml:space="preserve" resname="editor_bannertext_enabled">
+          <source>Text: Enabled</source>
+          <target>Text: Enabled</target>
+        </trans-unit>
+        <trans-unit id="610061008473206784" xml:space="preserve" resname="editor_bannertext_disabled">
+          <source>Text: Disabled</source>
+          <target>Text: Disabled</target>
+        </trans-unit>
+        <trans-unit id="610064961193684992" xml:space="preserve" resname="editor_button_resetbanner">
+          <source>Reset</source>
+          <target>Reset</target>
+        </trans-unit>
+        <trans-unit id="610233822157254656" xml:space="preserve" resname="editor_label_banner_size">
+          <source>Banner Image
+(will be cropped to 200x75 ratio):</source>
+          <target>Banner Image
+(will be cropped to 200x75 ratio):</target>
+        </trans-unit>
+        <trans-unit id="610969822919700480" xml:space="preserve" resname="songselect_button_managemusic">
+          <source>Manage Audio</source>
+          <target>Manage Audio</target>
+        </trans-unit>
+        <trans-unit id="610970007754289152" xml:space="preserve" resname="songselect_button_providemusic">
+          <source>Provide Music</source>
+          <target>Provide Music</target>
+        </trans-unit>
+        <trans-unit id="610970324034170880" xml:space="preserve" resname="songselect_button_visitartisturl">
+          <source>Visit Song/Artist Webpage</source>
+          <target>Visit Song/Artist Webpage</target>
+        </trans-unit>
+        <trans-unit id="611096421765787648" xml:space="preserve" resname="custommusic_description">
+          <source>The music artist for this song, {0}, has requested that their music not be redistributed, so you need to provide your own copy of the song to play this level.</source>
+          <target>The music artist for this song, {0}, has requested that their music not be redistributed, so you need to provide your own copy of the song to play this level.</target>
+        </trans-unit>
+        <trans-unit id="611096607019806720" xml:space="preserve" resname="custommusic_url_description_custom">
+          <source>The author of this level, {0}, has provided the following URL, which may be specific to the song, {1}:</source>
+          <target>The author of this level, {0}, has provided the following URL, which may be specific to the song, {1}:</target>
+        </trans-unit>
+        <trans-unit id="611104313331986432" xml:space="preserve" resname="custommusic_url_button_open">
+          <source>Open Link</source>
+          <target>Open Link</target>
+        </trans-unit>
+        <trans-unit id="611104737942351872" xml:space="preserve" resname="custommusic_url_description_artist">
+          <source>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</source>
+          <target>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</target>
+        </trans-unit>
+        <trans-unit id="611107369528373248" xml:space="preserve" resname="custommusic_audiodescription_notloaded">
+          <source>Provide an audio file for to the following song:</source>
+          <target>Provide an audio file for to the following song:</target>
+        </trans-unit>
+        <trans-unit id="611107371453558784" xml:space="preserve" resname="custommusic_audiodescription_loaded">
+          <source>You have previously provided the following audio file:</source>
+          <target>You have previously provided the following audio file:</target>
+        </trans-unit>
+        <trans-unit id="611122451809349632" xml:space="preserve" resname="custommusic_button_audioedittiming">
+          <source>Edit Timing</source>
+          <target>Edit Timing</target>
+        </trans-unit>
+        <trans-unit id="611302747427090432" xml:space="preserve" resname="custommusic_audiosync_title">
+          <source>Audio File Synchronization</source>
+          <target>Audio File Synchronization</target>
+        </trans-unit>
+        <trans-unit id="611303369954078720" xml:space="preserve" resname="custommusic_audiosync_previewclip">
+          <source>Target to match</source>
+          <target>Target to match</target>
+        </trans-unit>
+        <trans-unit id="611303813979877376" xml:space="preserve" resname="custommusic_audiosync_loadedclip">
+          <source>Your provided audio</source>
+          <target>Your provided audio</target>
+        </trans-unit>
+        <trans-unit id="611303970494525440" xml:space="preserve" resname="custommusic_audiosync_instructions">
+          <source>Check the timing of your provided audio against the reference clip and adjust if necessary.
+Use the buttons below, or drag left and right.</source>
+          <target>Check the timing of your provided audio against the reference clip and adjust if necessary.
+Use the buttons below, or drag left and right.</target>
+        </trans-unit>
+        <trans-unit id="612421302243602432" xml:space="preserve" resname="unverifiedartistwarning_description">
+          <source>The music artist for this custom level, {0}, is not registered in the Verified Artist database, so there is no guarantee that this level respects copyright restrictions.
+
+Please use discretion to avoid copyright violations, especially if you are planning to stream or record gameplay.
+
+If you believe the audio for this level is being used without proper permission, please report it wherever you obtained this custom level from.</source>
+          <target>The music artist for this custom level, {0}, is not registered in the Verified Artist database, so there is no guarantee that this level respects copyright restrictions.
+
+Please use discretion to avoid copyright violations, especially if you are planning to stream or record gameplay.
+
+If you believe the audio for this level is being used without proper permission, please report it wherever you obtained this custom level from.</target>
+        </trans-unit>
+        <trans-unit id="612421505268887552" xml:space="preserve" resname="unverifiedartistwarning_title">
+          <source>Unverified Artist Warning</source>
+          <target>Unverified Artist Warning</target>
+        </trans-unit>
+        <trans-unit id="612423555172052992" xml:space="preserve" resname="button_iunderstand">
+          <source>I Understand</source>
+          <target>I Understand</target>
+        </trans-unit>
+        <trans-unit id="614945673847812096" xml:space="preserve" resname="custommusic_links_description">
+          <source>One or more links have been provided that may help in obtaining a copy of this song or finding more information about the artist.</source>
+          <target>One or more links have been provided that may help in obtaining a copy of this song or finding more information about the artist.</target>
+        </trans-unit>
+        <trans-unit id="614945941184360448" xml:space="preserve" resname="custommusic_links_button">
+          <source>View Links</source>
+          <target>View Links</target>
+        </trans-unit>
+        <trans-unit id="616978452559212544" xml:space="preserve" resname="editor_notification_save_withoutfilename">
+          <source>Level saved</source>
+          <target>Level saved</target>
+        </trans-unit>
+        <trans-unit id="617875122964705280" xml:space="preserve" resname="switch_leveleditor_description">
+          <source>The level editor is not supported on the Nintendo Switch platform due to technical and platform limitations.
+Levels must be authored using another version of the game.</source>
+          <target>The level editor is not supported on the Nintendo Switch platform due to technical and platform limitations.
+Levels must be authored using another version of the game.</target>
+        </trans-unit>
+        <trans-unit id="618645622389256192" xml:space="preserve" resname="songselect_button_favorite_add">
+          <source>Mark as Favorite</source>
+          <target>Mark as Favorite</target>
+        </trans-unit>
+        <trans-unit id="618645714328399872" xml:space="preserve" resname="songselect_button_favorite_remove">
+          <source>Remove from Favorites</source>
+          <target>Remove from Favorites</target>
+        </trans-unit>
+        <trans-unit id="618645795127472128" xml:space="preserve" resname="songselect_button_deletelevel">
+          <source>Delete Level</source>
+          <target>Delete Level</target>
+        </trans-unit>
+        <trans-unit id="618645985863446528" xml:space="preserve" resname="songselect_button_managecustomlevel">
+          <source>Manage...</source>
+          <target>Manage...</target>
+        </trans-unit>
+        <trans-unit id="618710669861892096" xml:space="preserve" resname="songselect_folder_favorites">
+          <source>Favorites</source>
+          <target>Favorites</target>
+        </trans-unit>
+        <trans-unit id="618935861091545088" xml:space="preserve" resname="deletecustomlevel_description">
+          <source>Are you sure you want to delete this level?
+The level will be permanently erased from storage.</source>
+          <target>Are you sure you want to delete this level?
+The level will be permanently erased from storage.</target>
+        </trans-unit>
+        <trans-unit id="618939559461040128" xml:space="preserve" resname="deletecustomlevel_confirmation">
+          <source>Level deleted.
+Scoring data has been retained in case you import the same level again.</source>
+          <target>Level deleted.
+Scoring data has been retained in case you import the same level again.</target>
+        </trans-unit>
+        <trans-unit id="621461981368201216" xml:space="preserve" resname="level_play_count">
+          <source>Play Count: {0}</source>
+          <target>Play Count: {0}</target>
+        </trans-unit>
+        <trans-unit id="622635393503506432" xml:space="preserve" resname="custommusic_badcorrelation_description">
+          <source>The audio you provided doesn't seem to match the original song (based on comparison to the audio preview included with the level).
+
+Do you still want to continue with this audio?</source>
+          <target>The audio you provided doesn't seem to match the original song (based on comparison to the audio preview included with the level).
+
+Do you still want to continue with this audio?</target>
+        </trans-unit>
+        <trans-unit id="622745255558295552" xml:space="preserve" resname="audiodisplay_button_play">
+          <source>Play</source>
+          <target>Play</target>
+        </trans-unit>
+        <trans-unit id="622745278706659328" xml:space="preserve" resname="audiodisplay_button_pause">
+          <source>Pause</source>
+          <target>Pause</target>
         </trans-unit>
       </group>
     </body>
