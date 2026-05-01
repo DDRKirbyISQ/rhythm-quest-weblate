@@ -2132,10 +2132,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Load Image</source>
           <target>載入圖片</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
-          <source>Replace Image</source>
-          <target>更換圖片</target>
-        </trans-unit>
         <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
           <source>Estimated Difficulty: {0}</source>
           <target>預計難度：{0}</target>

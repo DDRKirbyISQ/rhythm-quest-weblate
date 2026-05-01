@@ -2132,10 +2132,6 @@ Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos al
           <source>Load Image</source>
           <target>Carregar Imagem</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage">
-          <source>Replace Image</source>
-          <target>Substituir Imagem</target>
-        </trans-unit>
         <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
           <source>Estimated Difficulty: {0}</source>
           <target>Dificuldade Estimada: {0}</target>

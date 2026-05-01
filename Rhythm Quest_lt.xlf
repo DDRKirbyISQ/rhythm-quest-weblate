@@ -2132,10 +2132,6 @@ Spauskite kad pridėti šuolius ar sparnuotus oro šuolius. Kai įmanoma naudoki
           <source>Load Image</source>
           <target state="final">Užkrauti paveikslėlį</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage" approved="yes">
-          <source>Replace Image</source>
-          <target state="final">Pakeisti paveikslėlį</target>
-        </trans-unit>
         <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty" approved="yes">
           <source>Estimated Difficulty: {0}</source>
           <target state="final">Numatomas sunkumas: {0}</target>

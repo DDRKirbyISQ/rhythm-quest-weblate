@@ -2132,10 +2132,6 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Load Image</source>
           <target>이미지 불러오기</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage" approved="no">
-          <source>Replace Image</source>
-          <target state="translated">이미지 바꾸기</target>
-        </trans-unit>
         <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty">
           <source>Estimated Difficulty: {0}</source>
           <target>예상 난이도: {0}</target>

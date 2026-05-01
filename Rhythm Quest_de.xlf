@@ -2132,10 +2132,6 @@ Klicke, um Spr체nge oder gefl체gelte Luftspr체nge hinzuzuf체gen. Bevorzuge gefl�
           <source>Load Image</source>
           <target state="final">Bild laden</target>
         </trans-unit>
-        <trans-unit id="307358933450534912" xml:space="preserve" resname="editor_button_replaceimage" approved="yes">
-          <source>Replace Image</source>
-          <target state="final">Bild ersetzen</target>
-        </trans-unit>
         <trans-unit id="307359154603601920" xml:space="preserve" resname="customlevel_estimateddifficulty" approved="yes">
           <source>Estimated Difficulty: {0}</source>
           <target state="final">Gesch채tzte Schwierigkeit: {0}</target>
