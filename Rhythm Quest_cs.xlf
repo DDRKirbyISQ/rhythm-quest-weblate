@@ -45,6 +45,166 @@
         <source>Controls</source>
         <target state="translated">Ovládání</target>
       </trans-unit>
+      <trans-unit id="2145567465472" xml:space="preserve" resname="menu_settings_accessibility" approved="no">
+        <source>Accessibility</source>
+        <target state="translated">Přístupnost</target>
+      </trans-unit>
+      <trans-unit id="2495603105792" xml:space="preserve" resname="settings_scalingmode" approved="no">
+        <source>Scaling Mode</source>
+        <target state="translated">Typ Velikosti</target>
+      </trans-unit>
+      <trans-unit id="3732662738944" xml:space="preserve" resname="settings_scalingmode_flexible" approved="no">
+        <source>Flexible</source>
+        <target state="translated">Flexibilní</target>
+      </trans-unit>
+      <trans-unit id="6129103495168" xml:space="preserve" resname="settings_screenmode_windowed" approved="no">
+        <source>Windowed</source>
+        <target state="translated">V Okně</target>
+      </trans-unit>
+      <trans-unit id="6243276644352" xml:space="preserve" resname="settings_screenmode_fullscreen" approved="no">
+        <source>Fullscreen</source>
+        <target state="translated">Celá Obrazovka</target>
+      </trans-unit>
+      <trans-unit id="6191699288064" xml:space="preserve" resname="settings_screenmode_maximized" approved="no">
+        <source>Maximized</source>
+        <target state="translated">Zvětšené</target>
+      </trans-unit>
+      <trans-unit id="6554196205568" xml:space="preserve" resname="settings_screenmode_description_windowed" approved="no">
+        <source>Game will be run in a window. Can be resized.</source>
+        <target state="translated">Hra bude běžet v okně. Velikost se může změnit.</target>
+      </trans-unit>
+      <trans-unit id="6629123252224" xml:space="preserve" resname="settings_screenmode_description_fullscreen" approved="no">
+        <source>Game will run in exclusive fullscreen mode.</source>
+        <target state="translated">Hra bude běžet exkluzivně v celé obrazovce.</target>
+      </trans-unit>
+      <trans-unit id="7020619587584" xml:space="preserve" resname="settings_scalingmode_description_pixelperfect" approved="no">
+        <source>(Default) UI and camera will only scale by integer amounts. Ensures that pixels are square, but may need to be more zoomed out.</source>
+        <target state="needs-translation">(Výchozí) UI a kamera se jenom zvetší při daných hodnot. Zajistí čtvercové pixely, ale možná potřebují být více oddálené.</target>
+      </trans-unit>
+      <trans-unit id="7401168789504" xml:space="preserve" resname="settings_resolution" approved="no">
+        <source>Resolution</source>
+        <target state="translated">Rozlišení</target>
+      </trans-unit>
+      <trans-unit id="7480428552192" xml:space="preserve" resname="settings_resolution_description" approved="no">
+        <source>Adjust the windowed resolution to preset values. (Fullscreen resolutions cannot be changed)</source>
+        <target state="translated">Nastavte si rozlišení okna na dané hodnoty. (Rozlišení přes celou obrazovku nejdou změnit)</target>
+      </trans-unit>
+      <trans-unit id="7611617992704" xml:space="preserve" resname="settings_vsync" approved="no">
+        <source>Vertical Sync</source>
+        <target state="translated">Vertikální Synchronizace</target>
+      </trans-unit>
+      <trans-unit id="7796020568064" xml:space="preserve" resname="settings_vsync_description_enabled" approved="no">
+        <source>(Default) Synchronizes rendering with display refresh rate. Prevents visual tearing artifacts.</source>
+        <target state="translated">(Výchozí) Synchrunizuje renderování s vašim displejem. Zabraňuje roztržování obrazu.</target>
+      </trans-unit>
+      <trans-unit id="8183335182336" xml:space="preserve" resname="settings_disabled" approved="no">
+        <source>Disabled</source>
+        <target state="translated">Vypnuto</target>
+      </trans-unit>
+      <trans-unit id="8240667123712" xml:space="preserve" resname="settings_enabled" approved="no">
+        <source>Enabled</source>
+        <target state="translated">Zapnuto</target>
+      </trans-unit>
+      <trans-unit id="9080853323776" xml:space="preserve" resname="menu_settings_scaling" approved="no">
+        <source>Scaling Settings...</source>
+        <target state="translated">Nastavení Velikosti...</target>
+      </trans-unit>
+      <trans-unit id="9791422947328" xml:space="preserve" resname="settings_back_description" approved="no">
+        <source>Return to the previous menu.</source>
+        <target state="translated">Vrátit se na předchozí menu.</target>
+      </trans-unit>
+      <trans-unit id="319502424825856" xml:space="preserve" resname="settings_zoomlevel" approved="no">
+        <source>Zoom Level</source>
+        <target state="translated">Přiblížení</target>
+      </trans-unit>
+      <trans-unit id="320040700829696" xml:space="preserve" resname="settings_default" approved="no">
+        <source>Default</source>
+        <target state="translated">Výchozí</target>
+      </trans-unit>
+      <trans-unit id="320110116560896" xml:space="preserve" resname="settings_zoomlevel_far" approved="no">
+        <source>Far</source>
+        <target state="translated">Oddálené</target>
+      </trans-unit>
+      <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far" approved="no">
+        <source>Forces a zoomed-out gameplay view.</source>
+        <target state="translated">Nutně oddálí viditelnost hry.</target>
+      </trans-unit>
+      <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near" approved="no">
+        <source>Forces a zoomed-in gameplay view.</source>
+        <target state="translated">Nutně přiblíží viditelnost hry.</target>
+      </trans-unit>
+      <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="no">
+        <source>Adjust the volume of the in-game sound effects.</source>
+        <target state="translated">Nastavte si hlasitost herních zvukových efektů.</target>
+      </trans-unit>
+      <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume" approved="no">
+        <source>Sfx Volume</source>
+        <target state="translated">Hlasitost Efektů</target>
+      </trans-unit>
+      <trans-unit id="358197546803200" xml:space="preserve" resname="menu_settings_effects" approved="no">
+        <source>Effect Settings...</source>
+        <target state="translated">Nastavení Efektů...</target>
+      </trans-unit>
+      <trans-unit id="358671092113408" xml:space="preserve" resname="settings_screenshake" approved="no">
+        <source>Screen Shake</source>
+        <target state="translated">Třepání Obrazovky</target>
+      </trans-unit>
+      <trans-unit id="358848221765632" xml:space="preserve" resname="settings_screenshake_description_enabled" approved="no">
+        <source>Enables screen shake effects.</source>
+        <target state="translated">Zapne efekt třepání obrazovky.</target>
+      </trans-unit>
+      <trans-unit id="359071123857408" xml:space="preserve" resname="settings_screenflashes" approved="no">
+        <source>Screen Flashes</source>
+        <target state="translated">Blízkání Obrazovky</target>
+      </trans-unit>
+      <trans-unit id="359737783312384" xml:space="preserve" resname="settings_screenflashes_description_enabled" approved="no">
+        <source>Enables screen flash effects.</source>
+        <target state="translated">Zapne efekt blízkání obrazovky.</target>
+      </trans-unit>
+      <trans-unit id="359765734154240" xml:space="preserve" resname="settings_screenflashes_description_disabled" approved="no">
+        <source>Disables screen flash effects.</source>
+        <target state="translated">Vypne efekt blízkání obrazovky.</target>
+      </trans-unit>
+      <trans-unit id="3909477818368" xml:space="preserve" resname="settings_scalingmode_pixelperfect" approved="no">
+        <source>Pixel Perfect</source>
+        <target state="translated">Perfektně Pixelový</target>
+      </trans-unit>
+      <trans-unit id="5845367218176" xml:space="preserve" resname="settings_screenmode" approved="no">
+        <source>Screen Mode</source>
+        <target state="translated">Typ Obrazovky</target>
+      </trans-unit>
+      <trans-unit id="6626753470464" xml:space="preserve" resname="settings_screenmode_description_maximized" approved="no">
+        <source>Game will run in a maximized window.</source>
+        <target state="translated">Hra bude běžet ve zvětšeném okně.</target>
+      </trans-unit>
+      <trans-unit id="7019260633088" xml:space="preserve" resname="settings_scalingmode_description_flexible" approved="no">
+        <source>UI and camera will scale up to fit the screen. May result in non-square pixels, especially at lower resolutions.</source>
+        <target state="translated">UI a kamera se zvětší na celou obrazovku. Výsledek nemusí mít čtvercové pixely, hlavně při menších rozlišení.</target>
+      </trans-unit>
+      <trans-unit id="7794003107840" xml:space="preserve" resname="settings_vsync_description_disabled" approved="no">
+        <source>Disables display refresh synchronization. May result in faster rendering, but screen tearing may appear.</source>
+        <target state="translated">Vypne synchronizaci s vašim displejem. Výsledek může zrychlit renderování, ale možná se objeví roztržování obrazu.</target>
+      </trans-unit>
+      <trans-unit id="320138646216704" xml:space="preserve" resname="settings_zoomlevel_near" approved="no">
+        <source>Near</source>
+        <target state="translated">Přiblížené</target>
+      </trans-unit>
+      <trans-unit id="327510823362560" xml:space="preserve" resname="settings_zoomlevel_description_default" approved="no">
+        <source>Use default gameplay zoom level. Should suffice in most cases.</source>
+        <target state="translated">Používat výchozí přiblížení viditelnosti hry. Mělo by postačit ve většině případech.</target>
+      </trans-unit>
+      <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume" approved="no">
+        <source>Music Volume</source>
+        <target state="translated">Hlasitost Hudby</target>
+      </trans-unit>
+      <trans-unit id="354055432527872" xml:space="preserve" resname="settings_musicvolume_description" approved="no">
+        <source>Adjust the volume of the game music.</source>
+        <target state="translated">Nastavte si hlasitost herní hudby.</target>
+      </trans-unit>
+      <trans-unit id="358843008245760" xml:space="preserve" resname="settings_screenshake_description_disabled" approved="no">
+        <source>Disables screen shake effects.</source>
+        <target state="translated">Vypne efekty třepání obrazovky.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
