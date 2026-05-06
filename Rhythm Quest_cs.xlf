@@ -1,36 +1,43 @@
-<?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Assets/Localization/Main String Table_cs.asset" source-language="en" datatype="plaintext" target-language="cs">
     <header>
       <skl>
-        <external-file href="Assets/Localization/Main String Table_cs.asset" uid="81a9395e078493c4a8e317d3f2a0bb55" />
+        <external-file href="Assets/Localization/Main String Table_cs.asset" uid="81a9395e078493c4a8e317d3f2a0bb55"/>
       </skl>
     </header>
     <body>
       <group id="6ca82a53a246bd44785ebd6538ab2a47" resname="Main String Table">
-        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings">
+        <trans-unit id="251952455680" xml:space="preserve" resname="menu_settings" approved="no">
           <source>Settings</source>
+          <target state="translated">Nastavení</target>
         </trans-unit>
-        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame">
+        <trans-unit id="729511714816" xml:space="preserve" resname="menu_startgame" approved="no">
           <source>Start Game</source>
+          <target state="translated">Začít Hru</target>
         </trans-unit>
         <trans-unit id="1006411276288" xml:space="preserve" resname="menu_extras">
           <source>Extras</source>
         </trans-unit>
-        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit">
+        <trans-unit id="1103303892992" xml:space="preserve" resname="menu_quit" approved="no">
           <source>Quit</source>
+          <target state="translated">Ukončit</target>
         </trans-unit>
-        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back">
+        <trans-unit id="1439284420608" xml:space="preserve" resname="menu_back" approved="no">
           <source>Back</source>
+          <target state="translated">Zpátky</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
           <source>Lag Calibration...</source>
+          <target state="translated">Kalibrace Zpoždění...</target>
         </trans-unit>
-        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
+        <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics" approved="no">
           <source>Graphics</source>
+          <target state="translated">Grafika</target>
         </trans-unit>
-        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio">
+        <trans-unit id="1924846411776" xml:space="preserve" resname="menu_settings_audio" approved="no">
           <source>Audio</source>
+          <target state="translated">Zvuk</target>
         </trans-unit>
         <trans-unit id="1981716979712" xml:space="preserve" resname="menu_settings_interface">
           <source>Interface Settings</source>
@@ -3279,12 +3286,6 @@ Do you still want to continue with this audio?</source>
         </trans-unit>
         <trans-unit id="622745278706659328" xml:space="preserve" resname="audiodisplay_button_pause">
           <source>Pause</source>
-        </trans-unit>
-        <trans-unit id="627795589527810048" xml:space="preserve" resname="language_description_lt">
-          <source>Use Lithuanian translation by {0}.</source>
-        </trans-unit>
-        <trans-unit id="627795780628688896" xml:space="preserve" resname="language_description_id">
-          <source>Use Indonesian translation by {0}.</source>
         </trans-unit>
       </group>
     </body>
