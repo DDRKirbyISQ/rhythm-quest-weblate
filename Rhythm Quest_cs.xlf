@@ -39,4 +39,12 @@
       </group>
     </body>
   </file>
+  <file original="Assets/Localization/Main String Table_en.asset" source-language="en" target-language="cs" datatype="plaintext">
+    <body>
+      <trans-unit id="2095546195968" xml:space="preserve" resname="menu_settings_controls" approved="no">
+        <source>Controls</source>
+        <target state="translated">Ovládání</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
