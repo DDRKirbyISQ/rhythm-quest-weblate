@@ -4285,6 +4285,10 @@ Only follow links that you trust -- never download or open unknown files!</sourc
         <source>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</source>
         <target state="translated">&lt;sprite name="fonticons_12"&gt; 请输入一个有效的 URL（例如：https://example.com）</target>
       </trans-unit>
+      <trans-unit id="608217629049270272" xml:space="preserve" resname="editor_setting_activedifficulty" approved="no">
+        <source>Difficulty</source>
+        <target state="translated">难度</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
