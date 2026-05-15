@@ -1028,13 +1028,13 @@ Would you like to enable screen reader mode?
 画面読み上げモードを有効にしたまま続けますか？
 （設定 -&gt; アクセシビリティで後から変更できます。）</target>
         </trans-unit>
-        <trans-unit id="134569382538686464" xml:space="preserve" resname="menu_prev_level_accessible">
+        <trans-unit id="134569382538686464" xml:space="preserve" resname="menu_prev_level_accessible" approved="no">
           <source>Previous (Level {0} {1})</source>
-          <target>前へ (Level {0} {1})</target>
+          <target state="translated">前へ（Level {0} {1}）</target>
         </trans-unit>
-        <trans-unit id="134569383104917504" xml:space="preserve" resname="menu_next_level_accessible">
+        <trans-unit id="134569383104917504" xml:space="preserve" resname="menu_next_level_accessible" approved="no">
           <source>Next (Level {0} {1})</source>
-          <target>次へ (Level {0} {1})</target>
+          <target state="translated">次へ（Level {0} {1}）</target>
         </trans-unit>
         <trans-unit id="135522706851147776" xml:space="preserve" resname="decrement">
           <source>Decrement</source>
@@ -1886,15 +1886,15 @@ Click to start a preview of the level at a given point. Click again to stop.</so
         </trans-unit>
         <trans-unit id="287740270351265792" xml:space="preserve" resname="editor_text_musicfilename" approved="no">
           <source>Song loaded: {0}</source>
-          <target state="translated">曲が読み込まれました： {0}</target>
+          <target state="translated">曲が読み込まれました：{0}</target>
         </trans-unit>
         <trans-unit id="287740271756357632" xml:space="preserve" resname="editor_text_musicduration" approved="no">
           <source>Duration: {0}</source>
-          <target state="translated">長さ： {0}</target>
+          <target state="translated">長さ：{0}</target>
         </trans-unit>
         <trans-unit id="287740272452612096" xml:space="preserve" resname="editor_text_musicfilesize" approved="no">
           <source>Filesize: {0}</source>
-          <target state="translated">ファイルサイズ： {0}</target>
+          <target state="translated">ファイルサイズ：{0}</target>
         </trans-unit>
         <trans-unit id="287815658003804160" xml:space="preserve" resname="editor_input_beatspermeasure" approved="no">
           <source>Beats per measure:</source>
@@ -1918,11 +1918,11 @@ Click to start a preview of the level at a given point. Click again to stop.</so
         </trans-unit>
         <trans-unit id="299088209224970240" xml:space="preserve" resname="editor_notification_save" approved="no">
           <source>Level saved: {0}</source>
-          <target state="translated">レベルを保存しました： {0}</target>
+          <target state="translated">レベルを保存しました：{0}</target>
         </trans-unit>
         <trans-unit id="299088242817150976" xml:space="preserve" resname="editor_notification_load" approved="no">
           <source>Level loaded: {0}</source>
-          <target state="translated">レベルを読み込みました： {0}</target>
+          <target state="translated">レベルを読み込みました：{0}</target>
         </trans-unit>
         <trans-unit id="299088264182935552" xml:space="preserve" resname="editor_notification_new">
           <source>New level created</source>
@@ -2010,13 +2010,13 @@ Do you want to save them first?</source>
           <source>jump</source>
           <target>ジャンプ</target>
         </trans-unit>
-        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup">
+        <trans-unit id="302756239675011072" xml:space="preserve" resname="editor_type_jumpup" approved="no">
           <source>jump (up)</source>
-          <target>ジャンプ (上)</target>
+          <target state="translated">ジャンプ（上）</target>
         </trans-unit>
         <trans-unit id="302756293387268096" xml:space="preserve" resname="editor_type_jumpdown" approved="no">
           <source>jump (down)</source>
-          <target state="translated">ジャンプ (下)</target>
+          <target state="translated">ジャンプ（下）</target>
         </trans-unit>
         <trans-unit id="302756293953499136" xml:space="preserve" resname="editor_type_basicenemy" approved="no">
           <source>basic enemy</source>
@@ -2064,45 +2064,45 @@ Click and drag objects to move them.</source>
           <source>Checkpoint #{0} does not exist!</source>
           <target>チェックポイント #{0} は存在しません！</target>
         </trans-unit>
-        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description">
+        <trans-unit id="306241380665831424" xml:space="preserve" resname="editor_tool_jumpnormal_description" approved="no">
           <source>&lt;color=#ffff00&gt;Jumps (Normal)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;ジャンプ(通常)&lt;/color&gt;
+          <target state="translated">&lt;color=#ffff00&gt;ジャンプ（通常）&lt;/color&gt;
 クリックでジャンプまたは空中ジャンプを追加します。通常のジャンプが優先されます。</target>
         </trans-unit>
-        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description">
+        <trans-unit id="306241442062053376" xml:space="preserve" resname="editor_tool_jumpup_description" approved="no">
           <source>&lt;color=#ffff00&gt;Jumps (Up)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded rising jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;ジャンプ(上)&lt;/color&gt;
+          <target state="translated">&lt;color=#ffff00&gt;ジャンプ（上）&lt;/color&gt;
 クリックでジャンプまたは空中ジャンプを追加します。上昇ジャンプが優先されます。</target>
         </trans-unit>
-        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description">
+        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description" approved="no">
           <source>&lt;color=#ffff00&gt;Jumps (Down)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded falling jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;ジャンプ(上)&lt;/color&gt;
+          <target state="translated">&lt;color=#ffff00&gt;ジャンプ（上）&lt;/color&gt;
 クリックでジャンプまたは空中ジャンプを追加します。落下ジャンプが優先されます。</target>
         </trans-unit>
-        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
+        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description" approved="no">
           <source>&lt;color=#ffff00&gt;Jumps (Air)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;ジャンプ(空中)&lt;/color&gt;
+          <target state="translated">&lt;color=#ffff00&gt;ジャンプ（空中）&lt;/color&gt;
 クリックでジャンプまたは空中ジャンプを追加します。空中ジャンプが優先されます。</target>
         </trans-unit>
-        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal">
+        <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal" approved="no">
           <source>Jumps (Normal)</source>
-          <target>ジャンプ (通常)</target>
+          <target state="translated">ジャンプ（通常）</target>
         </trans-unit>
-        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup">
+        <trans-unit id="306241842941046784" xml:space="preserve" resname="editor_tooltip_jumpup" approved="no">
           <source>Jumps (Up)</source>
-          <target>ジャンプ (上)</target>
+          <target state="translated">ジャンプ（上）</target>
         </trans-unit>
         <trans-unit id="306241843503083520" xml:space="preserve" resname="editor_tooltip_jumpdown" approved="no">
           <source>Jumps (Down)</source>
-          <target state="translated">ジャンプ (下)</target>
+          <target state="translated">ジャンプ（下）</target>
         </trans-unit>
-        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair">
+        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair" approved="no">
           <source>Jumps (Air)</source>
-          <target>ジャンプ (空中)</target>
+          <target state="translated">ジャンプ（空中）</target>
         </trans-unit>
         <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations">
           <source>Congratulations!</source>
@@ -2136,9 +2136,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Estimated Difficulty: {0}</source>
           <target>推定難易度：{0}</target>
         </trans-unit>
-        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize">
+        <trans-unit id="307368089108656128" xml:space="preserve" resname="editor_error_bannerfilesize" approved="no">
           <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
-          <target>画像ファイルが大きすぎます! ({0} MB) {1} MB以下の画像を選択してください。</target>
+          <target state="translated">画像ファイルが大きすぎます!（{0} MB） {1} MB以下の画像を選択してください。</target>
         </trans-unit>
         <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay" approved="no">
           <source>Chart by {0}</source>
@@ -2365,7 +2365,7 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="343681726035046400" xml:space="preserve" resname="bonus_level_violet_hyperwave" approved="no">
         <source>Violet Hyperwave</source>
-        <target state="translated">バイオレット・ハイパーウェーブ</target>
+        <target state="translated">Violet Hyperwave</target>
       </trans-unit>
       <trans-unit id="343681746662633472" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind" approved="no">
         <source>A Single Leaf Flutters in the Wind</source>
@@ -2373,7 +2373,7 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="350453003995361280" xml:space="preserve" resname="bonus_level_super_mega_zero" approved="no">
         <source>Super Mega Zero (RQ Edit)</source>
-        <target state="translated">Super Mega Zero (RQ Edit)</target>
+        <target state="translated">Super Mega Zero（RQ Edit）</target>
       </trans-unit>
       <trans-unit id="351463530208997376" xml:space="preserve" resname="menu_settings_colorskins_colors" approved="no">
         <source>Colors</source>
@@ -2585,7 +2585,7 @@ Do you still want to continue?</source>
       </trans-unit>
       <trans-unit id="349794538746589184" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix" approved="no">
         <source>Standing Here Alone (Expert Mix)</source>
-        <target state="translated">ひとり佇んで (Expert Mix)</target>
+        <target state="translated">ひとり佇んで （Expert Mix）</target>
       </trans-unit>
       <trans-unit id="351467846487552000" xml:space="preserve" resname="settings_enemyspacing_description" approved="no">
         <source>Adjust the visual position of enemies (does not affect timing window relative to the beat).</source>
@@ -2749,11 +2749,11 @@ I. Allegro</source>
       </trans-unit>
       <trans-unit id="367280470698745856" xml:space="preserve" resname="modio_username" approved="no">
         <source>Username: {0}</source>
-        <target state="translated">ユーザー名： {0}</target>
+        <target state="translated">ユーザー名：{0}</target>
       </trans-unit>
       <trans-unit id="367280471059456000" xml:space="preserve" resname="modio_userid" approved="no">
         <source>User ID: {0}</source>
-        <target state="translated">ユーザーID： {0}</target>
+        <target state="translated">ユーザーID：{0}</target>
       </trans-unit>
       <trans-unit id="367567791497981952" xml:space="preserve" resname="modio_error_emailformat" approved="no">
         <source>Invalid email format. Please enter a valid email address.</source>
@@ -2765,11 +2765,11 @@ I. Allegro</source>
 Author: {1}
 
 Last updated: {2}</source>
-        <target state="translated">レベルID： {0}
+        <target state="translated">レベルID：{0}
 
-作成者： {1}
+作成者：{1}
 
-最終更新： {2}</target>
+最終更新：{2}</target>
       </trans-unit>
       <trans-unit id="367588497170411520" xml:space="preserve" resname="editor_button_exportasfile" approved="no">
         <source>Export as .rqzip</source>
@@ -2859,7 +2859,7 @@ Check the code and try again.</source>
       </trans-unit>
       <trans-unit id="367934554802794496" xml:space="preserve" resname="modio_publishflow_levelid" approved="no">
         <source>Got mod.io level ID: {0}</source>
-        <target state="translated">mod.io レベルID {0} を取得しました</target>
+        <target state="translated">mod.io レベルID：{0} を取得しました</target>
       </trans-unit>
       <trans-unit id="367934555301916672" xml:space="preserve" resname="modio_publishflow_packaginglevel" approved="no">
         <source>Packaging level data...</source>
@@ -3003,7 +3003,7 @@ Check the code and try again.</source>
       </trans-unit>
       <trans-unit id="384130744141524992" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix" approved="no">
         <source>Song of the Sea (Expert Mix)</source>
-        <target state="translated">海の歌 (Expert Mix)</target>
+        <target state="translated">海の歌（Expert Mix）</target>
       </trans-unit>
       <trans-unit id="384489772956823552" xml:space="preserve" resname="settings_trackfreeze_description_disabled" approved="no">
         <source>Track freezing is disabled.</source>
@@ -3139,11 +3139,11 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
       </trans-unit>
       <trans-unit id="397655248960532480" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix" approved="no">
         <source>Flower Fang (Expert Mix)</source>
-        <target state="translated">花の牙 (Expert Mix)</target>
+        <target state="translated">Flower Fang（Expert Mix）</target>
       </trans-unit>
       <trans-unit id="406936145144623104" xml:space="preserve" resname="bonus_level_midnight_moon" approved="no">
         <source>Midnight Moon</source>
-        <target state="translated">真夜中の月</target>
+        <target state="translated">夜半の月</target>
       </trans-unit>
       <trans-unit id="409651472907415552" xml:space="preserve" resname="menu_description_backtomainmenu" approved="no">
         <source>Return to the main menu.</source>
@@ -3277,7 +3277,7 @@ The intro melody has a reference to "Lonely Rolling Star" since we've both creat
       </trans-unit>
       <trans-unit id="455535688182181888" xml:space="preserve" resname="songselect_purchase_remainingcoins" approved="no">
         <source>(Owned: {0})</source>
-        <target state="translated">(所持： {0})</target>
+        <target state="translated">（所持：{0}）</target>
       </trans-unit>
       <trans-unit id="455549152749465600" xml:space="preserve" resname="songselect_purchase_button_insufficient" approved="no">
         <source>Not enough coins!</source>
@@ -3305,11 +3305,11 @@ for {1}?</source>
       </trans-unit>
       <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
         <source>Bottled Up (RQ Edit)</source>
-        <target state="translated">秘めた思い (RQ Edit)</target>
+        <target state="translated">秘めた思い（RQ Edit）</target>
       </trans-unit>
       <trans-unit id="460242985097670656" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn" approved="no">
         <source>The Warrior Wakes in the Sunrise Dawn (RQ Edit)</source>
-        <target state="translated">暁に目覚める戦士 (RQ Edit)</target>
+        <target state="translated">暁の戦士（RQ Edit）</target>
       </trans-unit>
       <trans-unit id="460255341911519232" xml:space="preserve" resname="bonus_level_claustrophobia" approved="no">
         <source>Claustrophobia</source>
@@ -3427,13 +3427,13 @@ Restart from the beginning when reaching the end of the level.</source>
       </trans-unit>
       <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
         <source>Scherzo of Magical Science (RQ Edit)</source>
-        <target state="translated">不思議な科学のいたずら (RQ Edit)</target>
+        <target state="translated">フシギなカガクのイタズラ（RQ Edit）</target>
       </trans-unit>
       <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
         <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
 This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
         <target state="translated">Steve O'Gorman が開発したターン制戦略ゲーム「Hero Hours Contract」のために依頼を受けて制作した楽曲です。
-この曲は、3人の主人公のうち、危なっかしい科学実験が好きな末っ子 "マジカルサイエンスガール" のテーマ曲です。</target>
+この曲は、3人の主人公のうち、危ない科学実験が好きな末っ子 "マジカルサイエンスガール" のテーマ曲です。</target>
       </trans-unit>
       <trans-unit id="491098924952367104" xml:space="preserve" resname="menu_settings_colorskins_diamonds" approved="no">
         <source>Diamonds</source>
@@ -3477,7 +3477,7 @@ This is the theme for "Magical Science Girl", the youngest of the three protagon
       </trans-unit>
       <trans-unit id="437422092961230848" xml:space="preserve" resname="difficulty_label" approved="no">
         <source>Difficulty: {0}</source>
-        <target state="translated">難易度： {0}</target>
+        <target state="translated">難易度：{0}</target>
       </trans-unit>
       <trans-unit id="437422163152908288" xml:space="preserve" resname="difficulty_normal" approved="no">
         <source>Normal</source>
@@ -3649,55 +3649,55 @@ Tap right half of screen to jump, tap left half to attack.</source>
       </trans-unit>
       <trans-unit id="534227761726533632" xml:space="preserve" resname="uap_levelstats_basicenemies" approved="no">
         <source>Basic Enemies: {0}</source>
-        <target state="translated">ふつうの敵: {0}</target>
+        <target state="translated">ふつうの敵：{0}</target>
       </trans-unit>
       <trans-unit id="534227803556327424" xml:space="preserve" resname="uap_levelstats_multihitenemies" approved="no">
         <source>Ghost Enemies: {0}</source>
-        <target state="translated">ゴースト: {0}</target>
+        <target state="translated">ゴースト：{0}</target>
       </trans-unit>
       <trans-unit id="534227815900164096" xml:space="preserve" resname="uap_levelstats_multihitenemieseighth" approved="no">
         <source>Fast Ghost Enemies: {0}</source>
-        <target state="translated">速いゴースト: {0}</target>
+        <target state="translated">速いゴースト：{0}</target>
       </trans-unit>
       <trans-unit id="534227838494879744" xml:space="preserve" resname="uap_levelstats_combinedenemies" approved="no">
         <source>Jump+Attack Enemies: {0}</source>
-        <target state="translated">ジャンプ攻撃で倒す敵: {0}</target>
+        <target state="translated">ジャンプ攻撃で倒す敵：{0}</target>
       </trans-unit>
       <trans-unit id="534227789501214720" xml:space="preserve" resname="uap_levelstats_doublehitenemies" approved="no">
         <source>Double Hit Enemies: {0}</source>
-        <target state="translated">２回攻撃で倒す敵: {0}</target>
+        <target state="translated">２回攻撃で倒す敵：{0}</target>
       </trans-unit>
       <trans-unit id="534227841795796992" xml:space="preserve" resname="uap_levelstats_spikeenemies" approved="no">
         <source>Spike Enemies: {0}</source>
-        <target state="translated">トゲ: {0}</target>
+        <target state="translated">トゲ：{0}</target>
       </trans-unit>
       <trans-unit id="534227855800578048" xml:space="preserve" resname="uap_levelstats_checkpoints" approved="no">
         <source>Checkpoints: {0}</source>
-        <target state="translated">チェックポイント: {0}</target>
+        <target state="translated">チェックポイント：{0}</target>
       </trans-unit>
       <trans-unit id="534227868089888768" xml:space="preserve" resname="uap_levelstats_normaljumps" approved="no">
         <source>Normal Jumps: {0}</source>
-        <target state="translated">通常ジャンプ: {0}</target>
+        <target state="translated">通常ジャンプ：{0}</target>
       </trans-unit>
       <trans-unit id="534227881121591296" xml:space="preserve" resname="uap_levelstats_airjumps" approved="no">
         <source>Air Jumps: {0}</source>
-        <target state="translated">空中ジャンプ: {0}</target>
+        <target state="translated">空中ジャンプ：{0}</target>
       </trans-unit>
       <trans-unit id="534227897504542720" xml:space="preserve" resname="uap_levelstats_flightpaths" approved="no">
         <source>Flight Paths: {0}</source>
-        <target state="translated">飛行ルート: {0}</target>
+        <target state="translated">飛行ルート：{0}</target>
       </trans-unit>
       <trans-unit id="534227925535076352" xml:space="preserve" resname="uap_levelstats_speedzones" approved="no">
         <source>Speed Zones: {0}</source>
-        <target state="translated">スピードゾーン: {0}</target>
+        <target state="translated">スピードゾーン：{0}</target>
       </trans-unit>
       <trans-unit id="534227937249767424" xml:space="preserve" resname="uap_levelstats_bpm" approved="no">
         <source>Beats Per Minute: {0}</source>
-        <target state="translated">BPM: {0}</target>
+        <target state="translated">BPM：{0}</target>
       </trans-unit>
       <trans-unit id="534227950088531968" xml:space="preserve" resname="uap_levelstats_songlength" approved="no">
         <source>Song Length: {0}</source>
-        <target state="translated">曲の長さ: {0}</target>
+        <target state="translated">曲の長さ：{0}</target>
       </trans-unit>
       <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="no">
         <source>River Crossing (with Water)</source>
@@ -3717,11 +3717,11 @@ Tap right half of screen to jump, tap left half to attack.</source>
       </trans-unit>
       <trans-unit id="534227768630358016" xml:space="preserve" resname="uap_levelstats_flyingenemies" approved="no">
         <source>Flying Enemies: {0}</source>
-        <target state="translated">飛んでいる敵: {0}</target>
+        <target state="translated">飛んでいる敵：{0}</target>
       </trans-unit>
       <trans-unit id="534227912285270016" xml:space="preserve" resname="uap_levelstats_waterzones" approved="no">
         <source>Water Zones: {0}</source>
-        <target state="translated">水中ゾーン: {0}</target>
+        <target state="translated">水中ゾーン：{0}</target>
       </trans-unit>
       <trans-unit id="544683207776055296" xml:space="preserve" resname="bonus_level_trailer_description" approved="no">
         <source>A level that was made for the initial gameplay trailer for the game in 2022.
@@ -3893,7 +3893,7 @@ May cause doubled inputs otherwise!</source>
       </trans-unit>
       <trans-unit id="554872559583932416" xml:space="preserve" resname="drumcalibration_currentsetting" approved="no">
         <source>Current Audio Latency: {0}</source>
-        <target state="translated">現在の音楽の遅延: {0}</target>
+        <target state="translated">現在の音楽の遅延：{0}</target>
       </trans-unit>
       <trans-unit id="555286575556898816" xml:space="preserve" resname="drumcalibration_automatic_complete_result" approved="no">
         <source>Audio latency set to {0}</source>
@@ -3933,7 +3933,7 @@ May cause doubled inputs otherwise!</source>
         <source>Click below to select an audio file to load.
 
 Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</source>
-        <target state="translated">下をクリックして、読み込む音楽ファイルを選択してください。
+        <target state="translated">下のボタンをクリックして、読み込む音楽ファイルを選択してください。
 
 注意：その音楽を使用、または再配布する権利が無い場合は、公開時に制限がかかることがあります！</target>
       </trans-unit>
@@ -4035,7 +4035,7 @@ Players will need to (legally) obtain their own copy of the music in order to pl
       </trans-unit>
       <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic" approved="no">
         <source>Click below to load music for this level.</source>
-        <target state="translated">下をクリックして、このレベルで使用する音楽を読み込んでください。</target>
+        <target state="translated">下のボタンをクリックして、このレベルで使用する音楽を読み込んでください。</target>
       </trans-unit>
       <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch" approved="no">
         <source>(type to search...)</source>
@@ -4059,7 +4059,7 @@ Players will need to (legally) obtain their own copy of the music in order to pl
       </trans-unit>
       <trans-unit id="602715196751654912" xml:space="preserve" resname="editor_artistusage" approved="no">
         <source>Artist Permission: {0}</source>
-        <target state="translated">アーティスト使用許可： {0}</target>
+        <target state="translated">アーティスト使用許可：{0}</target>
       </trans-unit>
       <trans-unit id="602715319154028544" xml:space="preserve" resname="editor_artistpermission_approved" approved="no">
         <source>Approved</source>
@@ -4173,7 +4173,7 @@ Click the button below to open the terms of service in a new browser window.</so
       </trans-unit>
       <trans-unit id="604274319653908480" xml:space="preserve" resname="editor_text_songinfo_customurl" approved="no">
         <source>Music URL: {0}</source>
-        <target state="translated">楽曲URL： {0}</target>
+        <target state="translated">楽曲URL：{0}</target>
       </trans-unit>
       <trans-unit id="604274415640555520" xml:space="preserve" resname="editor_text_songinfo_customurl_none" approved="no">
         <source>No music URL specified</source>
@@ -4188,6 +4188,298 @@ Click the button below to open the terms of service in a new browser window.</so
 Extra restrictions will apply.</source>
         <target state="translated">このアーティストは認証されていません！
 追加の制限が適用されます。</target>
+      </trans-unit>
+      <trans-unit id="604945298977763328" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch2" approved="no">
+        <source>If so, go back and select that artist from the Verified Artist list.</source>
+        <target state="translated">その場合は戻って、認証済みアーティストのリストからそのアーティストを選択してください。</target>
+      </trans-unit>
+      <trans-unit id="610970324034170880" xml:space="preserve" resname="songselect_button_visitartisturl" approved="no">
+        <source>Visit Song/Artist Webpage</source>
+        <target state="translated">楽曲/アーティストのWebページを開く</target>
+      </trans-unit>
+      <trans-unit id="611096421765787648" xml:space="preserve" resname="custommusic_description" approved="no">
+        <source>The music artist for this song, {0}, has requested that their music not be redistributed, so you need to provide your own copy of the song to play this level.</source>
+        <target state="translated">この楽曲の音楽アーティスト「{0}」は、楽曲の再配布を許可していません。このレベルをプレイするには、楽曲のコピーを用意する必要があります。</target>
+      </trans-unit>
+      <trans-unit id="611107369528373248" xml:space="preserve" resname="custommusic_audiodescription_notloaded" approved="no">
+        <source>Provide an audio file for to the following song:</source>
+        <target state="translated">次の楽曲の音楽ファイルを指定してください：</target>
+      </trans-unit>
+      <trans-unit id="611303970494525440" xml:space="preserve" resname="custommusic_audiosync_instructions" approved="no">
+        <source>Check the timing of your provided audio against the reference clip and adjust if necessary.
+Use the buttons below, or drag left and right.</source>
+        <target state="translated">指定した音楽のタイミングを参照クリップと比較し、必要に応じて調整してください。
+下のボタンを使用するか、左右にドラッグしてください。</target>
+      </trans-unit>
+      <trans-unit id="612421302243602432" xml:space="preserve" resname="unverifiedartistwarning_description" approved="no">
+        <source>The music artist for this custom level, {0}, is not registered in the Verified Artist database, so there is no guarantee that this level respects copyright restrictions.
+
+Please use discretion to avoid copyright violations, especially if you are planning to stream or record gameplay.
+
+If you believe the audio for this level is being used without proper permission, please report it wherever you obtained this custom level from.</source>
+        <target state="translated">このカスタムレベルの音楽アーティスト「{0}」は、認証済みアーティストのデータベースに登録されていないため、このレベルが著作権上の制限を守っている保証はありません。
+
+特に、ゲームのプレイを配信または録画する予定がある場合は、著作権侵害を避けるため慎重に判断してください。
+
+このレベルの音声が適切な許可なく使用されていると思われる場合は、このカスタムレベルを入手した場所で報告してください。</target>
+      </trans-unit>
+      <trans-unit id="618935861091545088" xml:space="preserve" resname="deletecustomlevel_description" approved="no">
+        <source>Are you sure you want to delete this level?
+The level will be permanently erased from storage.</source>
+        <target state="translated">このレベルを削除してもよろしいですか？
+このレベルはストレージから完全に削除されます。</target>
+      </trans-unit>
+      <trans-unit id="618939559461040128" xml:space="preserve" resname="deletecustomlevel_confirmation" approved="no">
+        <source>Level deleted.
+Scoring data has been retained in case you import the same level again.</source>
+        <target state="translated">レベルを削除しました。
+同じレベルを再度インポートしたときのため、スコアデータは保持されています。</target>
+      </trans-unit>
+      <trans-unit id="622635393503506432" xml:space="preserve" resname="custommusic_badcorrelation_description" approved="no">
+        <source>The audio you provided doesn't seem to match the original song (based on comparison to the audio preview included with the level).
+
+Do you still want to continue with this audio?</source>
+        <target state="translated">指定した音楽ファイルは、元の楽曲と一致していないようです（レベルに含まれる音声プレビューとの比較に基づいています）。
+
+このまま続行しますか？</target>
+      </trans-unit>
+      <trans-unit id="604937877538516992" xml:space="preserve" resname="editor_button_continueunverifiedartist" approved="no">
+        <source>Continue with unverified artist</source>
+        <target state="translated">未認証アーティストのまま続行</target>
+      </trans-unit>
+      <trans-unit id="604938007180259328" xml:space="preserve" resname="editor_button_verifiedartistcontact" approved="no">
+        <source>Instructions (opens in browser)</source>
+        <target state="translated">手順（ブラウザで開きます）</target>
+      </trans-unit>
+      <trans-unit id="604940784920997888" xml:space="preserve" resname="editor_unverifiedartistname_input" approved="no">
+        <source>Enter the name of the unverified artist:</source>
+        <target state="translated">未認証アーティストの名前を入力してください：</target>
+      </trans-unit>
+      <trans-unit id="604942973202640896" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_1" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; There is already a Verified Artist listing with this name:</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; この名前は、すでに認証済みアーティストとして登録されています：</target>
+      </trans-unit>
+      <trans-unit id="604943065670266880" xml:space="preserve" resname="editor_unverifiedartistname_input_placeholder" approved="no">
+        <source>(enter name here)</source>
+        <target state="translated">（ここに名前を入力）</target>
+      </trans-unit>
+      <trans-unit id="604943691267485696" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch" approved="no">
+        <source>&lt;sprite name="fonticons_8"&gt; Did you mean to use the following artist?</source>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; このアーティストではありませんか？</target>
+      </trans-unit>
+      <trans-unit id="604944351903920128" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_2" approved="no">
+        <source>Click below to use that artist's entry.</source>
+        <target state="translated">下のボタンをクリックすると、そのアーティストの登録情報を使用できます。</target>
+      </trans-unit>
+      <trans-unit id="604959446465818624" xml:space="preserve" resname="editor_unverifiedartistname_button_useexactmatch" approved="no">
+        <source>Use {0}</source>
+        <target state="translated">{0} を使用</target>
+      </trans-unit>
+      <trans-unit id="606049528971046912" xml:space="preserve" resname="editor_button_viewtermsofservice" approved="no">
+        <source>View Terms of Service</source>
+        <target state="translated">利用規約を表示</target>
+      </trans-unit>
+      <trans-unit id="606069108305080320" xml:space="preserve" resname="editor_text_songinfo_songname" approved="no">
+        <source>Song name: {0}</source>
+        <target state="translated">曲名：{0}</target>
+      </trans-unit>
+      <trans-unit id="606069124184715264" xml:space="preserve" resname="editor_text_songinfo_songname_none" approved="no">
+        <source>No song name specified</source>
+        <target state="translated">曲名が指定されていません</target>
+      </trans-unit>
+      <trans-unit id="606079403970834432" xml:space="preserve" resname="editor_input_customartistname" approved="no">
+        <source>Music Artist Name Override:</source>
+        <target state="translated">アーティスト名の上書き：</target>
+      </trans-unit>
+      <trans-unit id="606079477983522816" xml:space="preserve" resname="editor_input_musicurl" approved="no">
+        <source>Music URL:</source>
+        <target state="translated">楽曲URL：</target>
+      </trans-unit>
+      <trans-unit id="606079863167430656" xml:space="preserve" resname="editor_input_musicurl_description" approved="no">
+        <source>An optional link that players can use to legally obtain the music file for the level.</source>
+        <target state="translated">プレイヤーがこのレベル用の音楽ファイルを合法的に入手することのできるリンクです。</target>
+      </trans-unit>
+      <trans-unit id="606080154264711168" xml:space="preserve" resname="editor_input_customartistname_description" approved="no">
+        <source>Use only if the song is attributed to the artist under a different name.</source>
+        <target state="translated">楽曲が別名義でアーティストに帰属している場合にのみ使用してください。</target>
+      </trans-unit>
+      <trans-unit id="606082848459108352" xml:space="preserve" resname="editor_input_customartistname_placeholder" approved="no">
+        <source>(will display {0} if left blank)</source>
+        <target state="translated">（空欄の場合は {0} と表示されます）</target>
+      </trans-unit>
+      <trans-unit id="606083429936443392" xml:space="preserve" resname="editor_input_musicurl_placeholder" approved="no">
+        <source>(enter a URL)</source>
+        <target state="translated">（URLを入力）</target>
+      </trans-unit>
+      <trans-unit id="606095350521704448" xml:space="preserve" resname="editor_input_customartistname_exactmatch" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; This name belongs to another artist: {0}</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; この名前は別のアーティストに属しています：{0}</target>
+      </trans-unit>
+      <trans-unit id="606259392049623040" xml:space="preserve" resname="editor_input_musicurl_invalidurl" approved="no">
+        <source>&lt;sprite name="fonticons_12"&gt; Please enter a valid URL (example: https://example.com)</source>
+        <target state="translated">&lt;sprite name="fonticons_12"&gt; 有効なURLを入力してください（例：https://example.com）</target>
+      </trans-unit>
+      <trans-unit id="608217629049270272" xml:space="preserve" resname="editor_setting_activedifficulty" approved="no">
+        <source>Difficulty</source>
+        <target state="translated">難易度</target>
+      </trans-unit>
+      <trans-unit id="609960527738482688" xml:space="preserve" resname="editor_action_deletedifficulty" approved="no">
+        <source>Delete chart: {0}</source>
+        <target state="translated">譜面を削除：{0}</target>
+      </trans-unit>
+      <trans-unit id="609960657237618688" xml:space="preserve" resname="editor_action_createdifficulty" approved="no">
+        <source>Create chart: {0}</source>
+        <target state="translated">譜面を作成：{0}</target>
+      </trans-unit>
+      <trans-unit id="610022060854128640" xml:space="preserve" resname="editor_deletedifficulty_description" approved="no">
+        <source>Are you sure you want to delete the chart for this difficulty?</source>
+        <target state="translated">この難易度の譜面を削除してもよろしいですか？</target>
+      </trans-unit>
+      <trans-unit id="610023780959170560" xml:space="preserve" resname="editor_difficultycreate_description" approved="no">
+        <source>A chart for this difficulty does not yet exist.
+Do you want to create one?</source>
+        <target state="translated">この難易度の譜面はまだ存在しません。
+作成しますか？</target>
+      </trans-unit>
+      <trans-unit id="610027983639195648" xml:space="preserve" resname="editor_createdifficulty_createnew" approved="no">
+        <source>Yes, create from scratch</source>
+        <target state="translated">はい、最初から作成します</target>
+      </trans-unit>
+      <trans-unit id="610028108012892160" xml:space="preserve" resname="editor_createdifficulty_copy" approved="no">
+        <source>Yes, copy from the {0} chart</source>
+        <target state="translated">はい、{0} の譜面をコピーします</target>
+      </trans-unit>
+      <trans-unit id="610060919927255040" xml:space="preserve" resname="editor_bannertext_enabled" approved="no">
+        <source>Text: Enabled</source>
+        <target state="translated">テキスト：有効</target>
+      </trans-unit>
+      <trans-unit id="610061008473206784" xml:space="preserve" resname="editor_bannertext_disabled" approved="no">
+        <source>Text: Disabled</source>
+        <target state="translated">テキスト：無効</target>
+      </trans-unit>
+      <trans-unit id="610064961193684992" xml:space="preserve" resname="editor_button_resetbanner" approved="no">
+        <source>Reset</source>
+        <target state="translated">リセット</target>
+      </trans-unit>
+      <trans-unit id="610233822157254656" xml:space="preserve" resname="editor_label_banner_size" approved="no">
+        <source>Banner Image
+(will be cropped to 200x75 ratio):</source>
+        <target state="translated">バナー画像
+（200x75 の比率に切り抜かれます）：</target>
+      </trans-unit>
+      <trans-unit id="610969822919700480" xml:space="preserve" resname="songselect_button_managemusic" approved="no">
+        <source>Manage Audio</source>
+        <target state="translated">音楽を管理</target>
+      </trans-unit>
+      <trans-unit id="610970007754289152" xml:space="preserve" resname="songselect_button_providemusic" approved="no">
+        <source>Provide Music</source>
+        <target state="translated">音楽を指定</target>
+      </trans-unit>
+      <trans-unit id="611096607019806720" xml:space="preserve" resname="custommusic_url_description_custom" approved="no">
+        <source>The author of this level, {0}, has provided the following URL, which may be specific to the song, {1}:</source>
+        <target state="translated">このレベルの作者「{0}」は、楽曲「{1}」に関する以下のURLを提供しています：</target>
+      </trans-unit>
+      <trans-unit id="611104313331986432" xml:space="preserve" resname="custommusic_url_button_open" approved="no">
+        <source>Open Link</source>
+        <target state="translated">リンクを開く</target>
+      </trans-unit>
+      <trans-unit id="611104737942351872" xml:space="preserve" resname="custommusic_url_description_artist" approved="no">
+        <source>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</source>
+        <target state="translated">このレベルの音楽アーティスト「{0}」には、登録済みの以下のURLがあります。楽曲の入手方法に関する詳細が確認できる場合があります：</target>
+      </trans-unit>
+      <trans-unit id="611107371453558784" xml:space="preserve" resname="custommusic_audiodescription_loaded" approved="no">
+        <source>You have previously provided the following audio file:</source>
+        <target state="translated">以前に指定した音楽ファイル：</target>
+      </trans-unit>
+      <trans-unit id="611122451809349632" xml:space="preserve" resname="custommusic_button_audioedittiming" approved="no">
+        <source>Edit Timing</source>
+        <target state="translated">タイミングの編集</target>
+      </trans-unit>
+      <trans-unit id="611302747427090432" xml:space="preserve" resname="custommusic_audiosync_title" approved="no">
+        <source>Audio File Synchronization</source>
+        <target state="translated">音楽ファイルの同期</target>
+      </trans-unit>
+      <trans-unit id="611303369954078720" xml:space="preserve" resname="custommusic_audiosync_previewclip" approved="no">
+        <source>Target to match</source>
+        <target state="translated">合わせる対象</target>
+      </trans-unit>
+      <trans-unit id="611303813979877376" xml:space="preserve" resname="custommusic_audiosync_loadedclip" approved="no">
+        <source>Your provided audio</source>
+        <target state="translated">指定した音楽</target>
+      </trans-unit>
+      <trans-unit id="612421505268887552" xml:space="preserve" resname="unverifiedartistwarning_title" approved="no">
+        <source>Unverified Artist Warning</source>
+        <target state="translated">未認証アーティストに関する警告</target>
+      </trans-unit>
+      <trans-unit id="612423555172052992" xml:space="preserve" resname="button_iunderstand" approved="no">
+        <source>I Understand</source>
+        <target state="translated">理解しました</target>
+      </trans-unit>
+      <trans-unit id="614945673847812096" xml:space="preserve" resname="custommusic_links_description" approved="no">
+        <source>One or more links have been provided that may help in obtaining a copy of this song or finding more information about the artist.</source>
+        <target state="translated">この楽曲のコピーを入手したり、アーティストに関する詳しい情報を確認したりするのに役立つ可能性があるリンクが1つ以上提供されています。</target>
+      </trans-unit>
+      <trans-unit id="614945941184360448" xml:space="preserve" resname="custommusic_links_button" approved="no">
+        <source>View Links</source>
+        <target state="translated">リンクを表示</target>
+      </trans-unit>
+      <trans-unit id="616978452559212544" xml:space="preserve" resname="editor_notification_save_withoutfilename" approved="no">
+        <source>Level saved</source>
+        <target state="translated">レベルを保存しました</target>
+      </trans-unit>
+      <trans-unit id="617875122964705280" xml:space="preserve" resname="switch_leveleditor_description" approved="no">
+        <source>The level editor is not supported on the Nintendo Switch platform due to technical and platform limitations.
+Levels must be authored using another version of the game.</source>
+        <target state="translated">Nintendo Switch版では、技術上およびプラットフォーム上の制限により、レベルエディターはサポートされていません。
+レベルの作成には、別バージョンのゲームを使用する必要があります。</target>
+      </trans-unit>
+      <trans-unit id="618645622389256192" xml:space="preserve" resname="songselect_button_favorite_add" approved="no">
+        <source>Mark as Favorite</source>
+        <target state="translated">お気に入りに追加</target>
+      </trans-unit>
+      <trans-unit id="618645714328399872" xml:space="preserve" resname="songselect_button_favorite_remove" approved="no">
+        <source>Remove from Favorites</source>
+        <target state="translated">お気に入りから削除</target>
+      </trans-unit>
+      <trans-unit id="618645795127472128" xml:space="preserve" resname="songselect_button_deletelevel" approved="no">
+        <source>Delete Level</source>
+        <target state="translated">レベルを削除</target>
+      </trans-unit>
+      <trans-unit id="618645985863446528" xml:space="preserve" resname="songselect_button_managecustomlevel" approved="no">
+        <source>Manage...</source>
+        <target state="translated">管理...</target>
+      </trans-unit>
+      <trans-unit id="618710669861892096" xml:space="preserve" resname="songselect_folder_favorites" approved="no">
+        <source>Favorites</source>
+        <target state="translated">お気に入り</target>
+      </trans-unit>
+      <trans-unit id="621461981368201216" xml:space="preserve" resname="level_play_count" approved="no">
+        <source>Play Count: {0}</source>
+        <target state="translated">プレイ回数：{0}</target>
+      </trans-unit>
+      <trans-unit id="622745255558295552" xml:space="preserve" resname="audiodisplay_button_play" approved="no">
+        <source>Play</source>
+        <target state="translated">再生</target>
+      </trans-unit>
+      <trans-unit id="622745278706659328" xml:space="preserve" resname="audiodisplay_button_pause" approved="no">
+        <source>Pause</source>
+        <target state="translated">一時停止</target>
+      </trans-unit>
+      <trans-unit id="604847284741255168" xml:space="preserve" resname="editor_unverifiedartist_description" approved="no">
+        <source>If a music artist is not in the Verified Artist list, it's recommended that you contact them to have their name added. Click the button below to learn how.</source>
+        <target state="translated">アーティストが認証済みアーティストのリストにない場合は、名前を追加してもらえるよう本人に連絡することをおすすめします。手順を確認するには、下のボタンをクリックしてください。</target>
+      </trans-unit>
+      <trans-unit id="604847761344212992" xml:space="preserve" resname="editor_unverifiedartist_description2" approved="no">
+        <source>Otherwise, you can continue with an unverified artist, but your level will be subject to the following restrictions:
+
+- Music cannot be bundled with the exported level
+- A copyright warning displays to any user playing the level
+- Levels may be subject to additional restrictions on distribution</source>
+        <target state="translated">また、未認証アーティストのまま続行することもできますが、その場合、以下の制限が適用されます：
+
+- レベルに楽曲を同梱できません
+- レベルをプレイするユーザーに著作権に関する警告が表示されます
+- レベルの配布に追加の制限がかかる場合があります</target>
       </trans-unit>
     </body>
   </file>
