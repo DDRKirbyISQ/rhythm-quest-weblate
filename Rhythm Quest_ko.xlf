@@ -944,9 +944,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Attack</source>
           <target>공격</target>
         </trans-unit>
-        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold">
+        <trans-unit id="126862317724676096" xml:space="preserve" resname="settings_audiocuejumphold" approved="no">
           <source>Jump Hold</source>
-          <target>점프 홀드</target>
+          <target state="translated">점프 유지</target>
         </trans-unit>
         <trans-unit id="126862339107237888" xml:space="preserve" resname="settings_audiocuejumprelease">
           <source>Jump Release</source>
@@ -1870,7 +1870,7 @@ Click to start a preview of the level at a given point. Click again to stop.</so
         </trans-unit>
         <trans-unit id="287725561489174528" xml:space="preserve" resname="editor_action_musicproperties" approved="no">
           <source>Edit music data</source>
-          <target state="translated">음악 정보 수정</target>
+          <target state="translated">곡 정보 수정</target>
         </trans-unit>
         <trans-unit id="287731387545202688" xml:space="preserve" resname="editor_input_firstbeattime">
           <source>First beat time:</source>
@@ -1932,9 +1932,9 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>File...</source>
           <target state="translated">파일...</target>
         </trans-unit>
-        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music">
+        <trans-unit id="299089944148488192" xml:space="preserve" resname="editor_menu_music" approved="no">
           <source>Music</source>
-          <target>음악</target>
+          <target state="translated">곡</target>
         </trans-unit>
         <trans-unit id="299090029674541056" xml:space="preserve" resname="editor_button_test" approved="no">
           <source>Test Level</source>
@@ -1960,11 +1960,11 @@ Click to start a preview of the level at a given point. Click again to stop.</so
           <source>Edit level metadata</source>
           <target>레벨 메타데이터 수정</target>
         </trans-unit>
-        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges">
+        <trans-unit id="300437624984481792" xml:space="preserve" resname="editor_text_unsavedchanges" approved="no">
           <source>You have unsaved changes!
 Do you want to save them first?</source>
-          <target>저장하지 않은 변경사항이 존재합니다!
-변경 내용을 저장하시겠습니까?</target>
+          <target state="translated">저장하지 않은 변경사항이 존재합니다!
+변경 사항을 저장하시겠습니까?</target>
         </trans-unit>
         <trans-unit id="300438167509315584" xml:space="preserve" resname="editor_button_saveunsavedchanges">
           <source>Save</source>
@@ -2036,7 +2036,7 @@ Do you want to save them first?</source>
         </trans-unit>
         <trans-unit id="302758151371665408" xml:space="preserve" resname="editor_action_move" approved="no">
           <source>Move {0} from {1} to {2}</source>
-          <target state="translated">{0} - {1} 에서 {2} 로 이동</target>
+          <target state="translated">{1} 에서 {2} 로 {0} 이동</target>
         </trans-unit>
         <trans-unit id="302761726302793728" xml:space="preserve" resname="editor_type_speedzoneend" approved="no">
           <source>speed zone end</source>
@@ -2076,10 +2076,10 @@ Click to add jumps or winged air jumps. Prefer grounded rising jumps when possib
           <target>&lt;color=#ffff00&gt;점프 (위)&lt;/color&gt;
 클릭하여 점프 또는 날개 공중점프를 추가. 가능한경우 지면상승 점프를 선호.</target>
         </trans-unit>
-        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description">
+        <trans-unit id="306241443349704704" xml:space="preserve" resname="editor_tool_jumpdown_description" approved="no">
           <source>&lt;color=#ffff00&gt;Jumps (Down)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer grounded falling jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;점프 (위)&lt;/color&gt;
+          <target state="translated">&lt;color=#ffff00&gt;점프 (아래)&lt;/color&gt;
 클릭하여 점프 또는 날개 공중점프를 추가. 가능한경우 지면하락 점프를 선호.</target>
         </trans-unit>
         <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
@@ -2198,9 +2198,9 @@ Click to insert yellow "dotted-eighth" rhythm ghost enemies.</source>
           <source>Jump to Checkpoint</source>
           <target>체크포인트로 이동</target>
         </trans-unit>
-        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip">
+        <trans-unit id="322649082283470848" xml:space="preserve" resname="editor_menu_previewclip" approved="no">
           <source>Preview Clip...</source>
-          <target>클립 미리보기...</target>
+          <target state="translated">미리보기 클립...</target>
         </trans-unit>
         <trans-unit id="323256581890027520" xml:space="preserve" resname="editor_input_previewstarttime">
           <source>Preview start time:</source>
@@ -2334,7 +2334,7 @@ You can import levels from:
           <source>Select the main pitch/key of your song.
 Note: Coin Sfx play in perfect fifths
 (Example: Key of C -&gt; Coin notes will be C and G)</source>
-          <target state="translated">노래의 주가 되는 피치/조성을 선택해주세요.
+          <target state="translated">곡의 주가 되는 피치/조성을 선택해주세요.
 주의: 동전 효과음은 완전5도로 재생됩니다
 (예: C의 조성 - &gt; 코인 노트는 C와 G가 됩니다)</target>
         </trans-unit>
@@ -2524,9 +2524,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>All</source>
           <target>전체</target>
         </trans-unit>
-        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype">
+        <trans-unit id="357292766266175488" xml:space="preserve" resname="settings_colorskins_actiontype" approved="no">
           <source>Action Type</source>
-          <target>동작 유형</target>
+          <target state="translated">액션 유형</target>
         </trans-unit>
         <trans-unit id="357293540027183104" xml:space="preserve" resname="settings_colorskins_beatgrids_default_description" approved="no">
           <source>Floor beat grid markers match level background colors.</source>
@@ -2897,7 +2897,7 @@ Last updated: {2}</source>
 
 제작자: {1}
 
-최근 갱신 시간: {2}</target>
+마지막 업데이트: {2}</target>
       </trans-unit>
       <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description" approved="no">
         <source>Rolling spikes are colored according to beat offset.</source>
@@ -3101,7 +3101,7 @@ mod.io에 레벨을 게시하기 위해 계정을 로그인하거나 등록하�
       </trans-unit>
       <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="no">
         <source>(credit the song's artist)</source>
-        <target state="translated">(노래의 작곡가를 적어주세요)</target>
+        <target state="translated">(곡의 작곡가를 적어주세요)</target>
       </trans-unit>
       <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="no">
         <source>(your name)</source>
@@ -3208,8 +3208,8 @@ for {1}?</source>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
         <source>Purchase for
 {0}</source>
-        <target state="translated">구매가:
-{0}</target>
+        <target state="translated">{0}으로
+구매</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
         <source>Purchase Level</source>
@@ -3420,7 +3420,7 @@ Tap right half of screen to jump, tap left half to attack.</source>
       <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
         <source>Proceed through song sections normally.
 Restart from the beginning when reaching the end of the level.</source>
-        <target state="translated">노래 섹션을 정상적으로 진행합니다.
+        <target state="translated">곡 섹션을 정상적으로 진행합니다.
 레벨의 끝에 도달하면 처음부터 다시 시작합니다.</target>
       </trans-unit>
       <trans-unit id="467132898166484992" xml:space="preserve" resname="settings_sectionlock_description_enabled" approved="no">
@@ -4059,7 +4059,7 @@ Note: Publishing restrictions may apply if you do not have permission to use or 
       </trans-unit>
       <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic" approved="no">
         <source>Click below to load music for this level.</source>
-        <target state="translated">아래를 눌러 이 레벨을 위한 노래를 불러오세요.</target>
+        <target state="translated">아래를 눌러 이 레벨을 위한 곡을 불러오세요.</target>
       </trans-unit>
       <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch" approved="no">
         <source>(type to search...)</source>
@@ -4284,6 +4284,202 @@ Extra restrictions will apply.</source>
       <trans-unit id="606095350521704448" xml:space="preserve" resname="editor_input_customartistname_exactmatch" approved="no">
         <source>&lt;sprite name="fonticons_12"&gt; This name belongs to another artist: {0}</source>
         <target state="translated">&lt;sprite name="fonticons_12"&gt; 이 이름은 다른 아티스트에게 귀속됩니다: {0}</target>
+      </trans-unit>
+      <trans-unit id="611096421765787648" xml:space="preserve" resname="custommusic_description" approved="no">
+        <source>The music artist for this song, {0}, has requested that their music not be redistributed, so you need to provide your own copy of the song to play this level.</source>
+        <target state="translated">이 곡의 아티스트 {0} 님이 곡의 재배포를 허용하지 않았습니다, 그러하므로 직접 곡의 사본을 준비해야합니다.</target>
+      </trans-unit>
+      <trans-unit id="611107371453558784" xml:space="preserve" resname="custommusic_audiodescription_loaded" approved="no">
+        <source>You have previously provided the following audio file:</source>
+        <target state="translated">이 전에 해당 오디오 파일을 제공하셨습니다:</target>
+      </trans-unit>
+      <trans-unit id="611303369954078720" xml:space="preserve" resname="custommusic_audiosync_previewclip" approved="no">
+        <source>Target to match</source>
+        <target state="translated">맞출 대상</target>
+      </trans-unit>
+      <trans-unit id="614945673847812096" xml:space="preserve" resname="custommusic_links_description" approved="no">
+        <source>One or more links have been provided that may help in obtaining a copy of this song or finding more information about the artist.</source>
+        <target state="translated">이 곡의 사본 또는 이 아티스트에 대한 추가 정보를 얻기 위한 링크가 하나 이상 제공되었습니다.</target>
+      </trans-unit>
+      <trans-unit id="618935861091545088" xml:space="preserve" resname="deletecustomlevel_description" approved="no">
+        <source>Are you sure you want to delete this level?
+The level will be permanently erased from storage.</source>
+        <target state="translated">이 레벨을 삭제하시겠습니까?
+레벨이 저장공간에서 영원히 삭제됩니다.</target>
+      </trans-unit>
+      <trans-unit id="622635393503506432" xml:space="preserve" resname="custommusic_badcorrelation_description" approved="no">
+        <source>The audio you provided doesn't seem to match the original song (based on comparison to the audio preview included with the level).
+
+Do you still want to continue with this audio?</source>
+        <target state="translated">당신이 제공한 오디오가 원본 곡과 일치하지 않는것 같습니다 (오디오 프리뷰와 비교한 결과에 기반하였습니다)
+
+해당 오디오로 계속하시겠습니까?</target>
+      </trans-unit>
+      <trans-unit id="612421302243602432" xml:space="preserve" resname="unverifiedartistwarning_description" approved="no">
+        <source>The music artist for this custom level, {0}, is not registered in the Verified Artist database, so there is no guarantee that this level respects copyright restrictions.
+
+Please use discretion to avoid copyright violations, especially if you are planning to stream or record gameplay.
+
+If you believe the audio for this level is being used without proper permission, please report it wherever you obtained this custom level from.</source>
+        <target state="translated">이 레벨의 곡 아티스트 {0} 님은 검증된 아티스트 데이터베이스에 등록되어 있지 않습니다, 그 때문에 이 레벨이 저작권 제한사항을 준수하는지 보증할 수 없습니다.
+
+자발적으로, 특히 게임플레이를 스트리밍 하거나 녹화할 경우 저작권을 위반하지 않도록 주의하여 주십시오.
+
+만약 이 레벨에 사용되는 오디오가 적절한 권한없이 사용되고 있다고 생각된다면, 이 레벨을 제공받은 곳으로 신고하여 주십시오.</target>
+      </trans-unit>
+      <trans-unit id="608217629049270272" xml:space="preserve" resname="editor_setting_activedifficulty" approved="no">
+        <source>Difficulty</source>
+        <target state="translated">난이도</target>
+      </trans-unit>
+      <trans-unit id="609960527738482688" xml:space="preserve" resname="editor_action_deletedifficulty" approved="no">
+        <source>Delete chart: {0}</source>
+        <target state="translated">채보 삭제: {0}</target>
+      </trans-unit>
+      <trans-unit id="609960657237618688" xml:space="preserve" resname="editor_action_createdifficulty" approved="no">
+        <source>Create chart: {0}</source>
+        <target state="translated">채보 생성: {0}</target>
+      </trans-unit>
+      <trans-unit id="610022060854128640" xml:space="preserve" resname="editor_deletedifficulty_description" approved="no">
+        <source>Are you sure you want to delete the chart for this difficulty?</source>
+        <target state="translated">이 난이도에 대한 채보를 삭제하시겠습니까?</target>
+      </trans-unit>
+      <trans-unit id="610023780959170560" xml:space="preserve" resname="editor_difficultycreate_description" approved="no">
+        <source>A chart for this difficulty does not yet exist.
+Do you want to create one?</source>
+        <target state="translated">해당 난이도에 대한 채보가 존재하지 않습니다.
+생성하시겠습니까?</target>
+      </trans-unit>
+      <trans-unit id="610027983639195648" xml:space="preserve" resname="editor_createdifficulty_createnew" approved="no">
+        <source>Yes, create from scratch</source>
+        <target state="translated">네, 새로 생성합니다</target>
+      </trans-unit>
+      <trans-unit id="610028108012892160" xml:space="preserve" resname="editor_createdifficulty_copy" approved="no">
+        <source>Yes, copy from the {0} chart</source>
+        <target state="translated">네, {0} 채보를 복사합니다</target>
+      </trans-unit>
+      <trans-unit id="610060919927255040" xml:space="preserve" resname="editor_bannertext_enabled" approved="no">
+        <source>Text: Enabled</source>
+        <target state="translated">텍스트: 활성화됨</target>
+      </trans-unit>
+      <trans-unit id="610061008473206784" xml:space="preserve" resname="editor_bannertext_disabled" approved="no">
+        <source>Text: Disabled</source>
+        <target state="translated">텍스트: 비활성화됨</target>
+      </trans-unit>
+      <trans-unit id="610064961193684992" xml:space="preserve" resname="editor_button_resetbanner" approved="no">
+        <source>Reset</source>
+        <target state="translated">초기화</target>
+      </trans-unit>
+      <trans-unit id="610969822919700480" xml:space="preserve" resname="songselect_button_managemusic" approved="no">
+        <source>Manage Audio</source>
+        <target state="translated">오디오 관리</target>
+      </trans-unit>
+      <trans-unit id="610970007754289152" xml:space="preserve" resname="songselect_button_providemusic" approved="no">
+        <source>Provide Music</source>
+        <target state="translated">곡 제공</target>
+      </trans-unit>
+      <trans-unit id="610970324034170880" xml:space="preserve" resname="songselect_button_visitartisturl" approved="no">
+        <source>Visit Song/Artist Webpage</source>
+        <target state="translated">곡/아티스트 웹페이지 방문</target>
+      </trans-unit>
+      <trans-unit id="611096607019806720" xml:space="preserve" resname="custommusic_url_description_custom" approved="no">
+        <source>The author of this level, {0}, has provided the following URL, which may be specific to the song, {1}:</source>
+        <target state="translated">이 레벨의 작성자 {0}님이 URL을 제공했습니다, 이는 {1} 곡에 관련이 있을 수 있습니다, :</target>
+      </trans-unit>
+      <trans-unit id="611104313331986432" xml:space="preserve" resname="custommusic_url_button_open" approved="no">
+        <source>Open Link</source>
+        <target state="translated">링크 열기</target>
+      </trans-unit>
+      <trans-unit id="611104737942351872" xml:space="preserve" resname="custommusic_url_description_artist" approved="no">
+        <source>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</source>
+        <target state="translated">이 곡의 작곡가 [0} 님이 다음 URL을 제공하셨습니다, 해당 곡의 대한 정보를 제공할 수 도 있습니다:</target>
+      </trans-unit>
+      <trans-unit id="611107369528373248" xml:space="preserve" resname="custommusic_audiodescription_notloaded" approved="no">
+        <source>Provide an audio file for to the following song:</source>
+        <target state="translated">해당 곡의 오디오 파일을 제공해주세요:</target>
+      </trans-unit>
+      <trans-unit id="611122451809349632" xml:space="preserve" resname="custommusic_button_audioedittiming" approved="no">
+        <source>Edit Timing</source>
+        <target state="translated">타이밍 수정</target>
+      </trans-unit>
+      <trans-unit id="611302747427090432" xml:space="preserve" resname="custommusic_audiosync_title" approved="no">
+        <source>Audio File Synchronization</source>
+        <target state="translated">오디오 파일 싱크</target>
+      </trans-unit>
+      <trans-unit id="610233822157254656" xml:space="preserve" resname="editor_label_banner_size" approved="no">
+        <source>Banner Image
+(will be cropped to 200x75 ratio):</source>
+        <target state="translated">배너 이미지
+(200x75 비율로 잘림):</target>
+      </trans-unit>
+      <trans-unit id="611303813979877376" xml:space="preserve" resname="custommusic_audiosync_loadedclip" approved="no">
+        <source>Your provided audio</source>
+        <target state="translated">당신이 제공한 오디오</target>
+      </trans-unit>
+      <trans-unit id="611303970494525440" xml:space="preserve" resname="custommusic_audiosync_instructions" approved="no">
+        <source>Check the timing of your provided audio against the reference clip and adjust if necessary.
+Use the buttons below, or drag left and right.</source>
+        <target state="translated">제공한 오디오의 타이밍을 레퍼런스 클립과 비교하여 필요할 경우 조정하십시오.
+아래의 버튼을 사용하여 왼쪽 또는 오른쪽으로 드래그하세요.</target>
+      </trans-unit>
+      <trans-unit id="612423555172052992" xml:space="preserve" resname="button_iunderstand" approved="no">
+        <source>I Understand</source>
+        <target state="translated">이헤하였습니다</target>
+      </trans-unit>
+      <trans-unit id="612421505268887552" xml:space="preserve" resname="unverifiedartistwarning_title" approved="no">
+        <source>Unverified Artist Warning</source>
+        <target state="translated">검증되지 않은 아티스트 경고</target>
+      </trans-unit>
+      <trans-unit id="614945941184360448" xml:space="preserve" resname="custommusic_links_button" approved="no">
+        <source>View Links</source>
+        <target state="translated">링크 보기</target>
+      </trans-unit>
+      <trans-unit id="616978452559212544" xml:space="preserve" resname="editor_notification_save_withoutfilename" approved="no">
+        <source>Level saved</source>
+        <target state="translated">레벨 저장됨</target>
+      </trans-unit>
+      <trans-unit id="617875122964705280" xml:space="preserve" resname="switch_leveleditor_description" approved="no">
+        <source>The level editor is not supported on the Nintendo Switch platform due to technical and platform limitations.
+Levels must be authored using another version of the game.</source>
+        <target state="translated">닌텐도 스위치 버전에서는 기술적 그리고 플랫폼 제한사항에 따라 레벨 에디터가 지원되지 않습니다.
+레벨은 다른 버전의 게임에서 작성되어야 합니다.</target>
+      </trans-unit>
+      <trans-unit id="618645622389256192" xml:space="preserve" resname="songselect_button_favorite_add" approved="no">
+        <source>Mark as Favorite</source>
+        <target state="translated">즐겨찾기로 등록</target>
+      </trans-unit>
+      <trans-unit id="618645714328399872" xml:space="preserve" resname="songselect_button_favorite_remove" approved="no">
+        <source>Remove from Favorites</source>
+        <target state="translated">즐겨찾기에서 제거</target>
+      </trans-unit>
+      <trans-unit id="618645795127472128" xml:space="preserve" resname="songselect_button_deletelevel" approved="no">
+        <source>Delete Level</source>
+        <target state="translated">레벨 삭제</target>
+      </trans-unit>
+      <trans-unit id="618645985863446528" xml:space="preserve" resname="songselect_button_managecustomlevel" approved="no">
+        <source>Manage...</source>
+        <target state="translated">관리...</target>
+      </trans-unit>
+      <trans-unit id="618710669861892096" xml:space="preserve" resname="songselect_folder_favorites" approved="no">
+        <source>Favorites</source>
+        <target state="translated">즐겨찾기</target>
+      </trans-unit>
+      <trans-unit id="618939559461040128" xml:space="preserve" resname="deletecustomlevel_confirmation" approved="no">
+        <source>Level deleted.
+Scoring data has been retained in case you import the same level again.</source>
+        <target state="translated">레벨 삭제됨.
+해당 레벨을 다시 불러올것을 대비하여 점수 데이터를 보존하였습니다.</target>
+      </trans-unit>
+      <trans-unit id="621461981368201216" xml:space="preserve" resname="level_play_count" approved="no">
+        <source>Play Count: {0}</source>
+        <target state="translated">플레이 횟수: {0}</target>
+      </trans-unit>
+      <trans-unit id="622745255558295552" xml:space="preserve" resname="audiodisplay_button_play" approved="no">
+        <source>Play</source>
+        <target state="translated">플레이</target>
+      </trans-unit>
+      <trans-unit id="622745278706659328" xml:space="preserve" resname="audiodisplay_button_pause" approved="no">
+        <source>Pause</source>
+        <target state="translated">정지</target>
       </trans-unit>
     </body>
   </file>
