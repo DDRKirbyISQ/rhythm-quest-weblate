@@ -893,8 +893,8 @@ For the best experience, feel free to try the standalone offline build instead!<
           <target>Jump Rumble</target>
         </trans-unit>
         <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
-          <source>Ui Rumble</source>
-          <target>Ui Rumble</target>
+          <source>UI Rumble</source>
+          <target>UI Rumble</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -905,12 +905,12 @@ For the best experience, feel free to try the standalone offline build instead!<
           <target>Enables vibration on successful jumps.</target>
         </trans-unit>
         <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>Disables vibration for ui elements.</target>
+          <source>Disables vibration for UI elements.</source>
+          <target>Disables vibration for UI elements.</target>
         </trans-unit>
         <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
-          <source>Enables vibration for ui elements.</source>
-          <target>Enables vibration for ui elements.</target>
+          <source>Enables vibration for UI elements.</source>
+          <target>Enables vibration for UI elements.</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -4475,6 +4475,14 @@ Do you still want to continue with this audio?</target>
         <trans-unit id="622745278706659328" xml:space="preserve" resname="audiodisplay_button_pause">
           <source>Pause</source>
           <target>Pause</target>
+        </trans-unit>
+        <trans-unit id="627795589527810048" xml:space="preserve" resname="language_description_lt">
+          <source>Use Lithuanian translation by {0}.</source>
+          <target>Use Lithuanian translation by {0}.</target>
+        </trans-unit>
+        <trans-unit id="627795780628688896" xml:space="preserve" resname="language_description_id">
+          <source>Use Indonesian translation by {0}.</source>
+          <target>Use Indonesian translation by {0}.</target>
         </trans-unit>
       </group>
     </body>
