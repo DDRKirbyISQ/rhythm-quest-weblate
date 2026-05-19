@@ -2364,12 +2364,6 @@ Click on a checkpoint section to edit its color palette.</target>
           <source>Palettes</source>
           <target>Palettes</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
-          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-          <target>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</target>
-        </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
