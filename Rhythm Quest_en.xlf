@@ -2586,7 +2586,7 @@ Other enemies colored based on enemy type.</target>
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
           <target>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</target>
         </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
+        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_jumptype_description">
           <source>Air jump wings are colored blue, flight path wings are colored green.</source>
           <target>Air jump wings are colored blue, flight path wings are colored green.</target>
         </trans-unit>
@@ -2595,8 +2595,8 @@ Other enemies colored based on enemy type.</target>
           <target>All wings are colored based on beat offset.</target>
         </trans-unit>
         <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
-          <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>All wings are colored blue/green based on action type (jump vs jump + attack).</target>
+          <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+          <target>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
