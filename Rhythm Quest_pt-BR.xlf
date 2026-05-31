@@ -892,9 +892,9 @@ Para obter a melhor experiência, sinta-se à vontade para testar a versão offl
           <source>Jump Rumble</source>
           <target state="final">Vibração do Pulo</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="yes">
-          <source>Ui Rumble</source>
-          <target state="final">Vibração da Interface</target>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
+          <source>UI Rumble</source>
+          <target state="needs-translation">Vibração da Interface</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled" approved="yes">
           <source>Disables vibration on successful jumps.</source>
@@ -904,13 +904,13 @@ Para obter a melhor experiência, sinta-se à vontade para testar a versão offl
           <source>Enables vibration on successful jumps.</source>
           <target state="final">Ativa a vibração em pulos bem-sucedidos.</target>
         </trans-unit>
-        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>Desativa a vibração para os elementos de interface.</target>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
+          <source>Disables vibration for UI elements.</source>
+          <target state="needs-translation">Desativa a vibração para os elementos de interface.</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="yes">
-          <source>Enables vibration for ui elements.</source>
-          <target state="final">Ativa a vibração para os elementos da interface.</target>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
+          <source>Enables vibration for UI elements.</source>
+          <target state="needs-translation">Ativa a vibração para os elementos da interface.</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -2576,9 +2576,9 @@ Outros inimigos coloridos baseado no tipo de inimigo.</target>
           <source>All wings are colored based on beat offset.</source>
           <target>Todas as asas são coloridas com base no deslocamento da batida.</target>
         </trans-unit>
-        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
-          <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>Todas as asas são coloridas de azul/verde com base no tipo de ação (pular vs pular + atacar).</target>
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
+          <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+          <target state="needs-translation">Todas as asas são coloridas de azul/verde com base no tipo de ação (pular vs pular + atacar).</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
