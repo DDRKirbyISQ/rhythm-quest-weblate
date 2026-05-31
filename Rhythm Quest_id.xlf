@@ -892,9 +892,9 @@ Untuk pengalaman terbaik, silahkan coba versi offline!</target>
           <source>Jump Rumble</source>
           <target>Lompat Gemuruh</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
-          <source>Ui Rumble</source>
-          <target>Antarmuka Bergemuruh</target>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
+          <source>UI Rumble</source>
+          <target state="needs-translation">Antarmuka Bergemuruh</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -904,13 +904,13 @@ Untuk pengalaman terbaik, silahkan coba versi offline!</target>
           <source>Enables vibration on successful jumps.</source>
           <target>Aktifkan getaran pada lompatan yang berhasil.</target>
         </trans-unit>
-        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>Menonaktifkan getaran untuk elemen antarmuka.</target>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
+          <source>Disables vibration for UI elements.</source>
+          <target state="needs-translation">Menonaktifkan getaran untuk elemen antarmuka.</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
-          <source>Enables vibration for ui elements.</source>
-          <target>Aktifkan getaran untuk elemen antarmuka.</target>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
+          <source>Enables vibration for UI elements.</source>
+          <target state="needs-translation">Aktifkan getaran untuk elemen antarmuka.</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
