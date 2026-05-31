@@ -892,9 +892,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Jump Rumble</source>
           <target>ジャンプの振動</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
-          <source>Ui Rumble</source>
-          <target>UIの振動</target>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
+          <source>UI Rumble</source>
+          <target state="needs-translation">UIの振動</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -904,13 +904,13 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Enables vibration on successful jumps.</source>
           <target>ジャンプが成功したときの振動を有効にします。</target>
         </trans-unit>
-        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>UIによる振動を無効にします。</target>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
+          <source>Disables vibration for UI elements.</source>
+          <target state="needs-translation">UIによる振動を無効にします。</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
-          <source>Enables vibration for ui elements.</source>
-          <target>UIによる振動を有効にします。</target>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
+          <source>Enables vibration for UI elements.</source>
+          <target state="needs-translation">UIによる振動を有効にします。</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description" approved="no">
           <source>Haptic vibration feedback settings.</source>
@@ -2490,8 +2490,8 @@ Other enemies colored based on enemy type.</source>
         <target state="translated">浮いている羽の色を変更します。</target>
       </trans-unit>
       <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
-        <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-        <target state="translated">全ての羽を、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて青と緑で色付けします。</target>
+        <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+        <target state="needs-translation">全ての羽を、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて青と緑で色付けします。</target>
       </trans-unit>
       <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen" approved="no">
         <source>Alternate Green</source>
