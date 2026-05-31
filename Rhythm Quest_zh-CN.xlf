@@ -892,9 +892,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Jump Rumble</source>
           <target>跳跃震动</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
-          <source>Ui Rumble</source>
-          <target>界面震动</target>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
+          <source>UI Rumble</source>
+          <target state="needs-translation">界面震动</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -904,13 +904,13 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Enables vibration on successful jumps.</source>
           <target>开启跳跃时的震动效果。</target>
         </trans-unit>
-        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>关闭游戏界面的震动效果。</target>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
+          <source>Disables vibration for UI elements.</source>
+          <target state="needs-translation">关闭游戏界面的震动效果。</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
-          <source>Enables vibration for ui elements.</source>
-          <target>开启游戏界面的震动效果。</target>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
+          <source>Enables vibration for UI elements.</source>
+          <target state="needs-translation">开启游戏界面的震动效果。</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -2582,9 +2582,9 @@ Other enemies colored based on enemy type.</source>
           <source>All wings are colored based on beat offset.</source>
           <target>所有飞翼均根据节拍偏移着色。</target>
         </trans-unit>
-        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description">
-          <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target>飞翼将根据操作类型 (跳跃/跳跃+攻击) 以 蓝/绿 着色。</target>
+        <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
+          <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+          <target state="needs-translation">飞翼将根据操作类型 (跳跃/跳跃+攻击) 以 蓝/绿 着色。</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
