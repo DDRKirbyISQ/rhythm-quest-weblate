@@ -892,9 +892,9 @@ Dla najlepszych wyników, polecamy korzystania z wersji offline zamiast tej!</ta
           <source>Jump Rumble</source>
           <target>Drganie Podczas Skoku</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
-          <source>Ui Rumble</source>
-          <target>Drganie w Interfejsach</target>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
+          <source>UI Rumble</source>
+          <target state="needs-translation">Drganie w Interfejsach</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -904,13 +904,13 @@ Dla najlepszych wyników, polecamy korzystania z wersji offline zamiast tej!</ta
           <source>Enables vibration on successful jumps.</source>
           <target>Włącz wibracje przy udanych skokach.</target>
         </trans-unit>
-        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>Wyłącza wibracje dla elementów interfejsu użytkownika.</target>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
+          <source>Disables vibration for UI elements.</source>
+          <target state="needs-translation">Wyłącza wibracje dla elementów interfejsu użytkownika.</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
-          <source>Enables vibration for ui elements.</source>
-          <target>Włącza wibracje dla elementów interfejsu użytkownika.</target>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
+          <source>Enables vibration for UI elements.</source>
+          <target state="needs-translation">Włącza wibracje dla elementów interfejsu użytkownika.</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -2579,8 +2579,8 @@ Pozostali wrogowie są kolorowani na podstawie typu wroga.</target>
           <target>Wszystkie skrzydła są kolorowane na podstawie przesunięcia rytmu.</target>
         </trans-unit>
         <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
-          <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target state="translated">Wszystkie skrzydła są kolorowane na niebiesko/zielono w zależności od rodzaju akcji (skok / skok + atak).</target>
+          <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+          <target state="needs-translation">Wszystkie skrzydła są kolorowane na niebiesko/zielono w zależności od rodzaju akcji (skok / skok + atak).</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
