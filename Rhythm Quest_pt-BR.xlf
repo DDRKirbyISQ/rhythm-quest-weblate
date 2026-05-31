@@ -2082,11 +2082,11 @@ Click to add jumps or winged air jumps. Prefer grounded falling jumps when possi
           <target>&lt;color=#ffff00&gt;Saltos (Baixo)&lt;/color&gt;
 Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos decaídos no chão quando possível.</target>
         </trans-unit>
-        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description">
+        <trans-unit id="306241444779962368" xml:space="preserve" resname="editor_tool_jumpair_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Jumps (Air)&lt;/color&gt;
 Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</source>
-          <target>&lt;color=#ffff00&gt;Saltos (Aéreo)&lt;/color&gt;
-Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos alados quando possível.</target>
+          <target state="final">&lt;color=#ffff00&gt;Pulos(Aéreo)&lt;/color&gt;
+Clique para adicionar pulos ou pulos aéreos alados. Priorize pulos aéreos alados quando possível.</target>
         </trans-unit>
         <trans-unit id="306241835546488832" xml:space="preserve" resname="editor_tooltip_jumpnormal">
           <source>Jumps (Normal)</source>
@@ -2100,9 +2100,9 @@ Clique para adicionar saltos ou saltos aéreos alados. Prefira saltos aéreos al
           <source>Jumps (Down)</source>
           <target>Pulos (Baixo)</target>
         </trans-unit>
-        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair">
+        <trans-unit id="306241844077703168" xml:space="preserve" resname="editor_tooltip_jumpair" approved="yes">
           <source>Jumps (Air)</source>
-          <target>Pulos (Aéreo)</target>
+          <target state="final">Pulos (Aéreo)</target>
         </trans-unit>
         <trans-unit id="306243391427751936" xml:space="preserve" resname="demo_congratulations">
           <source>Congratulations!</source>
@@ -3750,6 +3750,14 @@ Ele tenta apresentar diferentes mecânicas e uma música enérgica.</target>
       <trans-unit id="544758230347984896" xml:space="preserve" resname="perfect_cleared_short" approved="yes">
         <source>Perfect</source>
         <target state="final">Perfeito</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="translated">Tempos fortes</target>
+      </trans-unit>
+      <trans-unit id="491166196152709120" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats_description" approved="no">
+        <source>Display diamonds on obstacles that are on downbeats.</source>
+        <target state="translated">Exibir diamantes em obstáculos que estão em tempos fortes.</target>
       </trans-unit>
     </body>
   </file>
