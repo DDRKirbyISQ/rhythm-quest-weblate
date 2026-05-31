@@ -892,9 +892,9 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Jump Rumble</source>
           <target>점프 진동</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
-          <source>Ui Rumble</source>
-          <target>Ui 진동</target>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
+          <source>UI Rumble</source>
+          <target state="needs-translation">Ui 진동</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -904,13 +904,13 @@ For the best experience, feel free to try the standalone offline build instead!<
           <source>Enables vibration on successful jumps.</source>
           <target>점프 성공 시 진동을 사용합니다.</target>
         </trans-unit>
-        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>UI 요소에 진동을 사용합니다.</target>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
+          <source>Disables vibration for UI elements.</source>
+          <target state="needs-translation">UI 요소에 진동을 사용합니다.</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
-          <source>Enables vibration for ui elements.</source>
-          <target>UI 요소에 진동을 사용하지 않습니다.</target>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
+          <source>Enables vibration for UI elements.</source>
+          <target state="needs-translation">UI 요소에 진동을 사용하지 않습니다.</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -2906,8 +2906,8 @@ Last updated: {2}</source>
         <target state="translated">모든 날개가 박자 오프셋에 맞춰 칠해집니다.</target>
       </trans-unit>
       <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
-        <source>All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-        <target state="translated">모든 날개가 액션 종류 (공격 vs 공격+점프)에 맞춰 파란색/초록색으로 칠해집니다.</target>
+        <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
+        <target state="needs-translation">모든 날개가 액션 종류 (공격 vs 공격+점프)에 맞춰 파란색/초록색으로 칠해집니다.</target>
       </trans-unit>
       <trans-unit id="367888214211211264" xml:space="preserve" resname="modio_loginstatus_correctaccount" approved="no">
         <source>&lt;sprite name="fonticons_10"&gt; This account is the author of the current level on mod.io.</source>
