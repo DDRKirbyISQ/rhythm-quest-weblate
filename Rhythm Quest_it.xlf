@@ -891,9 +891,9 @@ Per un'esperienza migliore prova la versione offline!</target>
           <source>Jump Rumble</source>
           <target>Vibrazione salto</target>
         </trans-unit>
-        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui">
-          <source>Ui Rumble</source>
-          <target>Vibrazione interfaccia utente</target>
+        <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
+          <source>UI Rumble</source>
+          <target state="needs-translation">Vibrazione interfaccia utente</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -903,13 +903,13 @@ Per un'esperienza migliore prova la versione offline!</target>
           <source>Enables vibration on successful jumps.</source>
           <target>Attiva la vibrazione quando salti con successo.</target>
         </trans-unit>
-        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled">
-          <source>Disables vibration for ui elements.</source>
-          <target>Disattiva la vibrazione per gli elementi dell'interfaccia utente.</target>
+        <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
+          <source>Disables vibration for UI elements.</source>
+          <target state="needs-translation">Disattiva la vibrazione per gli elementi dell'interfaccia utente.</target>
         </trans-unit>
-        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled">
-          <source>Enables vibration for ui elements.</source>
-          <target>Attiva la vibrazione per gli elementi dell'interfaccia utente.</target>
+        <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
+          <source>Enables vibration for UI elements.</source>
+          <target state="needs-translation">Attiva la vibrazione per gli elementi dell'interfaccia utente.</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
