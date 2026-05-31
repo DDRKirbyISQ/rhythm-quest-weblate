@@ -2356,12 +2356,6 @@ Click on a checkpoint section to edit its color palette.</source>
           <source>Palettes</source>
           <target>調色盤</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
-          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-          <target>Rhythm Quest關卡編輯器目前只能使用滑鼠或其他可點擊的裝置。
-您還想要繼續嗎？</target>
-        </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
@@ -2583,10 +2577,6 @@ Other enemies colored based on enemy type.</source>
         <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
           <target>滾動尖刺根據動作類型以藍色/綠色著色（跳躍vs跳躍+攻擊）。</target>
-        </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
-          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-          <target>空中跳躍翅膀是藍色，飛行路徑翅膀是綠色。</target>
         </trans-unit>
         <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
           <source>All wings are colored based on beat offset.</source>

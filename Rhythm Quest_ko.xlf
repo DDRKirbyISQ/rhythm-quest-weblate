@@ -2356,12 +2356,6 @@ Click on a checkpoint section to edit its color palette.</source>
           <source>Palettes</source>
           <target>팔레트</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="no">
-          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-          <target state="translated">Rhythm Quest 레벨 편집기를 사용하려면 마우스나 다른 포인팅 장치가 필요합니다.
-정말로 계속하시겠습니까?</target>
-        </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="no">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
@@ -3010,10 +3004,6 @@ Other enemies colored based on enemy type.</source>
       <trans-unit id="357296573091983360" xml:space="preserve" resname="settings_colorskins_spikes_default_description" approved="no">
         <source>All rolling spikes are colored blue.</source>
         <target state="translated">모든 가시공이 파란색으로 칠해집니다.</target>
-      </trans-unit>
-      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="no">
-        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-        <target state="translated">공중 점프 날개는 파란색으로, 비행 길 날개는 초록색으로 칠해집니다.</target>
       </trans-unit>
       <trans-unit id="380821656448053248" xml:space="preserve" resname="settings_menu_practicemode_description" approved="no">
         <source>Repeatedly practice the current section with various assists.</source>

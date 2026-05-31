@@ -2357,12 +2357,6 @@ Klicke auf einen Checkpoint Abschnitt, um seine Farbpalette zu bearbeiten.</targ
           <source>Palettes</source>
           <target state="final">Paletten</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="yes">
-          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-          <target state="final">Der Rhythm Quest Level-Editor kann derzeit nur mit einer Maus oder einem anderen Zeigegerät verwendet werden.
-Möchtest du trotzdem fortfahren?</target>
-        </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
@@ -2584,10 +2578,6 @@ Andere Gegner werden je nach Feindtyp eingefärbt.</target>
         <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="yes">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
           <target state="final">Rollende Stacheln sind je nach Aktionstyp (Sprung vs. Sprung + Angriff) blau/grün gefärbt.</target>
-        </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="yes">
-          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-          <target state="final">Luftsprungflügel sind blau gefärbt, Flugpfadflügel sind grün gefärbt.</target>
         </trans-unit>
         <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="yes">
           <source>All wings are colored based on beat offset.</source>

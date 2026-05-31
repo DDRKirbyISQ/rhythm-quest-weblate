@@ -2356,12 +2356,6 @@ Spauskite ant kontrolinio taško sekcijos, norėdami redaguoti jos spalvų palet
           <source>Palettes</source>
           <target state="final">Paletės</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="yes">
-          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-          <target state="final">„Rhythm Quest“ lygių redaktorius šiuo metu palaiko tik pelę arba kitus panašius įrenginius.
-Ar norite tęsti?</target>
-        </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
@@ -2583,10 +2577,6 @@ Kiti priešai bus nuspalvinti pagal priešo rūšį.</target>
         <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="yes">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
           <target state="final">Riedantys spygliai nuspalvinti mėlynai/žaliai pagal veiksmo rūšį (šuolis prieš šuolis+ataka).</target>
-        </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="yes">
-          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-          <target state="final">Oro šuolio sparnai nuspalvinti mėlynai, skrydžio tako sparnai nuspalvinti žaliai.</target>
         </trans-unit>
         <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="yes">
           <source>All wings are colored based on beat offset.</source>

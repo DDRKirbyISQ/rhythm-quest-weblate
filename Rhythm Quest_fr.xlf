@@ -2356,12 +2356,6 @@ Cliquer sur une section de point de passage pour changer sa palette de couleurs.
           <source>Palettes</source>
           <target state="final">Palettes</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="yes">
-          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-          <target state="final">L'éditeur de niveau de Rhythm Quest ne peut actuellement être utilisé qu'avec une souris ou un autre périphérique de pointage.
-Voulez-vous tout de même continuer ?</target>
-        </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description" approved="yes">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
@@ -2583,10 +2577,6 @@ Les autres ennemis sont colorés en fonction de leur type.</target>
         <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
           <target>Les ennemis à pointes sont colorés en bleu/vert en fonction du type d'action (saut ou saut+attaque).</target>
-        </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="no">
-          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-          <target state="translated">Les ailes de saut sont colorées en bleu. Les ailes de chemin de vol sont colorées en vert.</target>
         </trans-unit>
         <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
           <source>All wings are colored based on beat offset.</source>

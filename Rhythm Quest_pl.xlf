@@ -2352,12 +2352,6 @@ Kliknij punkt zapisu sekcji, aby zmienić jej paletę kolorów.</target>
           <source>Palettes</source>
           <target>Palety</target>
         </trans-unit>
-        <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt">
-          <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-          <target>Edytor poziomów Rhythm Quest może być obecnie używany jedynie za pomocą myszki, lub podobnym urządzeniem wskazującym.
-Czy nadal chcesz kontynuować?</target>
-        </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
 Click on a checkpoint section to edit its particle effects.</source>
@@ -2579,10 +2573,6 @@ Pozostali wrogowie są kolorowani na podstawie typu wroga.</target>
         <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="no">
           <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
           <target state="translated">Toczące kolce są kolorowane na niebiesko/zielono w zależności od rodzaju akcji (skok / skok + atak).</target>
-        </trans-unit>
-        <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description">
-          <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-          <target>Skrzydła do powietrznych skoków są niebieskie, skrzydła do tras powietrznych są zielone.</target>
         </trans-unit>
         <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description">
           <source>All wings are colored based on beat offset.</source>

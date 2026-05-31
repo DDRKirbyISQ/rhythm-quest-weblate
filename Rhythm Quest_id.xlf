@@ -2495,12 +2495,6 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
         <source>Song name:</source>
         <target state="translated">Nama lagu:</target>
       </trans-unit>
-      <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="no">
-        <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-        <target state="needs-translation">Level editor Rhythm Quest hanya bisa menggunakan mouse atau perangkat pointer lainnya.
-Apakah kamu tetap ingin melanjutkan?</target>
-      </trans-unit>
       <trans-unit id="330166522303262720" xml:space="preserve" resname="editor_label_backdropset" approved="no">
         <source>Backdrop Set</source>
         <target state="needs-translation">Set Latar Belakang</target>

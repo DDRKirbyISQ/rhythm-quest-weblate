@@ -2485,10 +2485,6 @@ Other enemies colored based on enemy type.</source>
         <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
         <target state="translated">転がるトゲを、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて青と緑で色付けします。</target>
       </trans-unit>
-      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_default_description" approved="no">
-        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
-        <target state="translated">空中ジャンプの羽を青に、飛行ルートの羽を緑にします。</target>
-      </trans-unit>
       <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description" approved="no">
         <source>Change the color of floating wings.</source>
         <target state="translated">浮いている羽の色を変更します。</target>
@@ -2572,12 +2568,6 @@ Note: Coin Sfx play in perfect fifths
         <target state="translated">曲のメインのピッチ/キーを入力してください。
 注意： コインの効果音は完全5度で再生されます
 （例：キーがCのとき、コインの音はCとGになります）</target>
-      </trans-unit>
-      <trans-unit id="338620783999627264" xml:space="preserve" resname="leveleditor_mouseprompt" approved="no">
-        <source>The Rhythm Quest level editor can currently only be used with a mouse or other pointing device.
-Do you still want to continue?</source>
-        <target state="translated">「Rhythm Quest」のレベルエディターは、現在マウスまたはその他のポインティングデバイスでのみ遊ぶことができます。
-それでも続行しますか？</target>
       </trans-unit>
       <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette" approved="no">
         <source>Change color palette for section {0}</source>
