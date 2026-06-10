@@ -205,6 +205,418 @@
         <source>Disables screen shake effects.</source>
         <target state="translated">Vypne efekty třepání obrazovky.</target>
       </trans-unit>
+      <trans-unit id="365691023220736" xml:space="preserve" resname="settings_audiolatency" approved="no">
+        <source>Audio Offset</source>
+        <target state="translated">Opoždění Zvuku</target>
+      </trans-unit>
+      <trans-unit id="365961467748352" xml:space="preserve" resname="settings_audiolatency_description" approved="no">
+        <source>Adjust this value until the beeps match the flashing lights perfectly.</source>
+        <target state="translated">Měňte tuhle hodnotu, dokud pípání nebude souhlasit s blikajícími světly.</target>
+      </trans-unit>
+      <trans-unit id="676896017735680" xml:space="preserve" resname="menu_settings_cheats" approved="no">
+        <source>Cheats</source>
+        <target state="translated">Podvádění</target>
+      </trans-unit>
+      <trans-unit id="677158023323648" xml:space="preserve" resname="menu_settings_autoplay" approved="no">
+        <source>Auto Play</source>
+        <target state="translated">Automatické Hraní</target>
+      </trans-unit>
+      <trans-unit id="677947445862400" xml:space="preserve" resname="settings_autoplay_description_disabled" approved="no">
+        <source>Auto play is disabled.</source>
+        <target state="translated">Automatické hraní je vypnuté.</target>
+      </trans-unit>
+      <trans-unit id="678057827360768" xml:space="preserve" resname="settings_autoplay_description_enabled" approved="no">
+        <source>Auto play is enabled. Levels will play automatically without player input. (Progress will still be saved)</source>
+        <target state="translated">Automatické hraní je zapnuté. Levely se budou hrát automaticky bez ovládání hráče. (Postup furt bude uložen)</target>
+      </trans-unit>
+      <trans-unit id="684385916411904" xml:space="preserve" resname="press_continue_keyboard" approved="no">
+        <source>Press Enter to Continue</source>
+        <target state="translated">Zmáčkněte Enter pro Pokračování</target>
+      </trans-unit>
+      <trans-unit id="684411304534016" xml:space="preserve" resname="press_continue_mouse" approved="no">
+        <source>Click to Continue</source>
+        <target state="translated">Klikněte pro Pokračování</target>
+      </trans-unit>
+      <trans-unit id="684427750400000" xml:space="preserve" resname="press_continue_touch" approved="no">
+        <source>Tap to Continue</source>
+        <target state="translated">Dotkněte pro Pokračování</target>
+      </trans-unit>
+      <trans-unit id="684443810390016" xml:space="preserve" resname="press_continue_xbox" approved="no">
+        <source>Press &lt;sprite name="controller_icons_100"&gt; to Continue</source>
+        <target state="translated">Zmáčkněte &lt;sprite name="controller_icons_100"&gt; pro Pokračování</target>
+      </trans-unit>
+      <trans-unit id="684505680568320" xml:space="preserve" resname="press_continue_playstation" approved="no">
+        <source>Press &lt;sprite name="controller_icons_37"&gt; to Continue</source>
+        <target state="translated">Zmáčkněte &lt;sprite name="controller_icons_37"&gt; pro Pokračování</target>
+      </trans-unit>
+      <trans-unit id="685727166750720" xml:space="preserve" resname="menu_settings_pixelfont" approved="no">
+        <source>Font Style</source>
+        <target state="translated">Styl Fontu</target>
+      </trans-unit>
+      <trans-unit id="685859639648256" xml:space="preserve" resname="settings_pixelfont_enabled" approved="no">
+        <source>Pixel Font</source>
+        <target state="translated">Pixelový Font</target>
+      </trans-unit>
+      <trans-unit id="685980620152832" xml:space="preserve" resname="settings_pixelfont_disabled" approved="no">
+        <source>Smooth Font</source>
+        <target state="translated">Hladký Font</target>
+      </trans-unit>
+      <trans-unit id="686144499998720" xml:space="preserve" resname="settings_pixelfont_description_disabled" approved="no">
+        <source>Use smooth font for the interface.</source>
+        <target state="translated">Používat hladký font pro interface.</target>
+      </trans-unit>
+      <trans-unit id="686155371634688" xml:space="preserve" resname="settings_pixelfont_description_enabled" approved="no">
+        <source>Use pixel-styled font for the interface.</source>
+        <target state="translated">Používat pixelovaný font pro interface.</target>
+      </trans-unit>
+      <trans-unit id="686875068063744" xml:space="preserve" resname="settings_onscreenbuttons" approved="no">
+        <source>On-screen Buttons</source>
+        <target state="translated">Tlačítka Na Obrazovce</target>
+      </trans-unit>
+      <trans-unit id="687017267552256" xml:space="preserve" resname="settings_hide" approved="no">
+        <source>Hide</source>
+        <target state="translated">Schovat</target>
+      </trans-unit>
+      <trans-unit id="687076352712704" xml:space="preserve" resname="settings_show" approved="no">
+        <source>Show</source>
+        <target state="translated">Ukázat</target>
+      </trans-unit>
+      <trans-unit id="687255701151744" xml:space="preserve" resname="settings_onscreenbuttons_description_hide" approved="no">
+        <source>On-screen buttons will be hidden. Tap the left and right sides of the screen to play.</source>
+        <target state="translated">Tlačítka na obrazovce budou schovaná. Dotkněte se levé a pravé strany obrazovky pro hraní.</target>
+      </trans-unit>
+      <trans-unit id="687256393211904" xml:space="preserve" resname="settings_onscreenbuttons_description_show" approved="no">
+        <source>On-screen buttons will be shown. (You don't have to tap exactly on them)</source>
+        <target state="translated">Tlačítka na obrazovce budou zobrazeny. (Nemusíte se na ně přesně dotýkat)</target>
+      </trans-unit>
+      <trans-unit id="741261233971200" xml:space="preserve" resname="menu_changelog" approved="no">
+        <source>Changelog</source>
+        <target state="translated">List změn</target>
+      </trans-unit>
+      <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="no">
+        <source>Green Grasslands</source>
+        <target state="translated">Zelené Louky</target>
+      </trans-unit>
+      <trans-unit id="744164334067712" xml:space="preserve" resname="world_2" approved="no">
+        <source>Cloudy Courseway</source>
+        <target state="translated">Oblačná Dráha</target>
+      </trans-unit>
+      <trans-unit id="744201462046720" xml:space="preserve" resname="world_3" approved="no">
+        <source>Retro Ridge</source>
+        <target state="translated">Retro Hory</target>
+      </trans-unit>
+      <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="no">
+        <source>Magical Metropolis</source>
+        <target state="translated">Magické Město</target>
+      </trans-unit>
+      <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="no">
+        <source>Crystal Caverns</source>
+        <target state="translated">Krystalické Jeskyně</target>
+      </trans-unit>
+      <trans-unit id="744334979325952" xml:space="preserve" resname="world_6" approved="no">
+        <source>Space Sojourn</source>
+        <target state="translated">Vesmírný Pobyt</target>
+      </trans-unit>
+      <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="no">
+        <source>Sunrise Vista</source>
+        <target state="translated">Východní Vyhlídka</target>
+      </trans-unit>
+      <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="no">
+        <source>Raceway Plain</source>
+        <target state="translated">Závodní Planina</target>
+      </trans-unit>
+      <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="no">
+        <source>River Crossing</source>
+        <target state="translated">Říčný Přechod</target>
+      </trans-unit>
+      <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="no">
+        <source>Mystic Forest</source>
+        <target state="translated">Mytický Les</target>
+      </trans-unit>
+      <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="no">
+        <source>Skyward Summit</source>
+        <target state="translated">Podnebný Vrchol</target>
+      </trans-unit>
+      <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="no">
+        <source>Winged Airways</source>
+        <target state="translated">Okřídlené Cesty</target>
+      </trans-unit>
+      <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="no">
+        <source>Twilight Flight</source>
+        <target state="translated">Soumračný Let</target>
+      </trans-unit>
+      <trans-unit id="1098534900817920" xml:space="preserve" resname="credits" approved="no">
+        <source>a game by DDRKirby(ISQ)</source>
+        <target state="translated">hra od DDRKirby(ISQ)</target>
+      </trans-unit>
+      <trans-unit id="1098780208881664" xml:space="preserve" resname="credits_2" approved="no">
+        <source>Programming: DDRKirby(ISQ)
+Design: DDRKirby(ISQ)
+Music: DDRKirby(ISQ)
+Sfx: DDRKirby(ISQ)
+Graphics: DDRKirby(ISQ)</source>
+        <target state="translated">Programování: DDRKirby(ISQ)
+Design: DDRKirby(ISQ)
+Hudba: DDRKirby(ISQ)
+Zvukové Efekty: DDRKirby(ISQ)
+Grafika: DDRKirby(ISQ)</target>
+      </trans-unit>
+      <trans-unit id="1099515852054528" xml:space="preserve" resname="credits_3" approved="no">
+        <source>Moral Support: fuzzybunny2</source>
+        <target state="translated">Morální Pomoc: fuzzybunny2</target>
+      </trans-unit>
+      <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits" approved="no">
+        <source>Credits</source>
+        <target state="translated">Kredity</target>
+      </trans-unit>
+      <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="no">
+        <source>Resume</source>
+        <target state="translated">Pokračovat</target>
+      </trans-unit>
+      <trans-unit id="2857455277662208" xml:space="preserve" resname="menu_paused" approved="no">
+        <source>Paused</source>
+        <target state="translated">Zastaveno</target>
+      </trans-unit>
+      <trans-unit id="2857571598295040" xml:space="preserve" resname="level_complete" approved="no">
+        <source>Level Complete</source>
+        <target state="translated">Level Dokončen</target>
+      </trans-unit>
+      <trans-unit id="3197839306907648" xml:space="preserve" resname="menu_settings_language" approved="no">
+        <source>Language</source>
+        <target state="translated">Jazyk</target>
+      </trans-unit>
+      <trans-unit id="3226665296158720" xml:space="preserve" resname="menu_locked" approved="no">
+        <source>(Locked)</source>
+        <target state="translated">(Zamknuto)</target>
+      </trans-unit>
+      <trans-unit id="3231710431502336" xml:space="preserve" resname="settings_flipcontrols" approved="no">
+        <source>Control Positioning</source>
+        <target state="translated">Pozice Ovládání</target>
+      </trans-unit>
+      <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="no">
+        <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
+        <target state="translated">(Výchozí) Dotkněte se levé části obrazovky pro skok, pravé části pro útok.</target>
+      </trans-unit>
+      <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="no">
+        <source>Tap left half of screen to attack, tap right half to jump.</source>
+        <target state="translated">Dotkněte se levé části obrazovky pro útok, pravé části pro skok.</target>
+      </trans-unit>
+      <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="no">
+        <source>Jump</source>
+        <target state="translated">Skok</target>
+      </trans-unit>
+      <trans-unit id="3421606251585536" xml:space="preserve" resname="control_attack" approved="no">
+        <source>Attack</source>
+        <target state="translated">Útok</target>
+      </trans-unit>
+      <trans-unit id="3421883184701440" xml:space="preserve" resname="control_press_key" approved="no">
+        <source>Press a key</source>
+        <target state="translated">Zmáčkni klávesu</target>
+      </trans-unit>
+      <trans-unit id="3424745826541568" xml:space="preserve" resname="settings_controls_attack_description" approved="no">
+        <source>Select a key to use for &lt;Attack&gt;.</source>
+        <target state="translated">Vyberte si klávesu pro &lt;Attack&gt;.</target>
+      </trans-unit>
+      <trans-unit id="3424747470708736" xml:space="preserve" resname="settings_controls_jump_description" approved="no">
+        <source>Select a key to use for &lt;Jump&gt;.</source>
+        <target state="translated">Vyberte si klávesu pro &lt;Jump&gt;.</target>
+      </trans-unit>
+      <trans-unit id="3425099582529536" xml:space="preserve" resname="settings_reset_bindings_description" approved="no">
+        <source>Resets key bindings to their defaults.</source>
+        <target state="translated">Resetuje nastavené klávesy do jejich výchozích.</target>
+      </trans-unit>
+      <trans-unit id="3425519755321344" xml:space="preserve" resname="settings_mousecontrols" approved="no">
+        <source>Mouse Controls</source>
+        <target state="translated">Ovládání Myši</target>
+      </trans-unit>
+      <trans-unit id="3425805974626304" xml:space="preserve" resname="settings_mousecontrols_flipped" approved="no">
+        <source>Flipped</source>
+        <target state="translated">Převrácené</target>
+      </trans-unit>
+      <trans-unit id="3425933976395776" xml:space="preserve" resname="settings_mousecontrols_description_disabled" approved="no">
+        <source>In-game mouse controls are disabled.</source>
+        <target state="translated">Ovládání myši ve hře je vypnuté.</target>
+      </trans-unit>
+      <trans-unit id="3425935322767360" xml:space="preserve" resname="settings_mousecontrols_description_enabled" approved="no">
+        <source>Right click to &lt;Jump&gt;. Left click to &lt;Attack&gt;.</source>
+        <target state="translated">Pravý klik pro &lt;Jump&gt;. Levý klik pro &lt;Attack&gt;.</target>
+      </trans-unit>
+      <trans-unit id="3591242915602432" xml:space="preserve" resname="settings_resetdata" approved="no">
+        <source>Reset Game Data</source>
+        <target state="translated">Resetovat Data Hry</target>
+      </trans-unit>
+      <trans-unit id="3592311737507840" xml:space="preserve" resname="resetdata_confirm" approved="no">
+        <source>All saved game data will be erased.
+Are you sure you want to proceed?</source>
+        <target state="translated">Všechny uloužené data hry budou vymazány.
+Jste si jistí, že chcete pokračovat?</target>
+      </trans-unit>
+      <trans-unit id="3593007027281920" xml:space="preserve" resname="menu_yes" approved="no">
+        <source>Yes</source>
+        <target state="translated">Ano</target>
+      </trans-unit>
+      <trans-unit id="3593109217304576" xml:space="preserve" resname="menu_no" approved="no">
+        <source>No</source>
+        <target state="translated">Ne</target>
+      </trans-unit>
+      <trans-unit id="3594149341782016" xml:space="preserve" resname="resetdata_confirmed" approved="no">
+        <source>Game data has successfully been erased.</source>
+        <target state="translated">Data hry byly úspěšně vymazány.</target>
+      </trans-unit>
+      <trans-unit id="5030482186690560" xml:space="preserve" resname="menu_done" approved="no">
+        <source>Done</source>
+        <target state="translated">Hotovo</target>
+      </trans-unit>
+      <trans-unit id="5031836540035072" xml:space="preserve" resname="menu_continue" approved="no">
+        <source>Continue</source>
+        <target state="translated">Pokračovat</target>
+      </trans-unit>
+      <trans-unit id="5449665252777984" xml:space="preserve" resname="tutorial_intro" approved="no">
+        <source>How to Play</source>
+        <target state="translated">Jak hrát</target>
+      </trans-unit>
+      <trans-unit id="5792096530194432" xml:space="preserve" resname="tutorial_mobile_jump_normal" approved="no">
+        <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Jump.</source>
+        <target state="translated">&lt;color=#{0}&gt;Dotkněte se levé části&lt;/color&gt; obrazovky pro Skok.</target>
+      </trans-unit>
+      <trans-unit id="5792207784108032" xml:space="preserve" resname="tutorial_mobile_jump_flipped" approved="no">
+        <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Jump.</source>
+        <target state="translated">&lt;color=#{0}&gt;Dotkněte se pravé části&lt;/color&gt; obrazovky pro Skok.</target>
+      </trans-unit>
+      <trans-unit id="5804369004978176" xml:space="preserve" resname="tutorial_mobile_attack_normal" approved="no">
+        <source>&lt;color=#{0}&gt;Tap the right side&lt;/color&gt; of the screen to Attack.</source>
+        <target state="translated">&lt;color=#{0}&gt;Dotkněte se pravé části&lt;/color&gt; obrazovky pro Útok.</target>
+      </trans-unit>
+      <trans-unit id="5804371349594112" xml:space="preserve" resname="tutorial_mobile_attack_flipped" approved="no">
+        <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
+        <target state="translated">&lt;color=#{0}&gt;Dotkněte se levé části&lt;/color&gt; obrazovky pro Útok.</target>
+      </trans-unit>
+      <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop" approved="no">
+        <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
+        <target state="translated">Tohle ovládání si můžete změnit v &lt;color=yellow&gt;"Nastavení"&lt;/color&gt;.</target>
+      </trans-unit>
+      <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile" approved="no">
+        <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
+        <target state="translated">&lt;color=yellow&gt;Skákejte&lt;/color&gt; a &lt;color=yellow&gt;Útočte&lt;/color&gt; s hudbou pro ukončení zbytek levelu!</target>
+      </trans-unit>
+      <trans-unit id="5886153180831744" xml:space="preserve" resname="settings_flipcontrols_flipped" approved="no">
+        <source>Flipped</source>
+        <target state="translated">Převrácené</target>
+      </trans-unit>
+      <trans-unit id="7937638259056640" xml:space="preserve" resname="calibration_finished" approved="no">
+        <source>Calibration complete!</source>
+        <target state="translated">Kalibrace dokončena!</target>
+      </trans-unit>
+      <trans-unit id="7962982219341824" xml:space="preserve" resname="calibration_latency" approved="no">
+        <source>Audio Latency: {0}ms</source>
+        <target state="translated">Latence Zvuku: {0}ms</target>
+      </trans-unit>
+      <trans-unit id="8271386817159168" xml:space="preserve" resname="description_default" approved="no">
+        <source>(Select an option to view more details)</source>
+        <target state="translated">(Vyberte možnost pro více detailů)</target>
+      </trans-unit>
+      <trans-unit id="10524183210057728" xml:space="preserve" resname="level3-1" approved="no">
+        <source>Spiked Steppes</source>
+        <target state="translated">Špičaté Stepi</target>
+      </trans-unit>
+      <trans-unit id="10840403359031296" xml:space="preserve" resname="settings_resetdata_description" approved="no">
+        <source>Resets all game progress.</source>
+        <target state="translated">Resetuje všechny postupy hry.</target>
+      </trans-unit>
+      <trans-unit id="10842369715855360" xml:space="preserve" resname="menu_unavailable" approved="no">
+        <source>Unavailable</source>
+        <target state="translated">Nedostupné</target>
+      </trans-unit>
+      <trans-unit id="10847340389720064" xml:space="preserve" resname="perfect_clear" approved="no">
+        <source>Perfect Clear!</source>
+        <target state="translated">Perfektní Dokončení!</target>
+      </trans-unit>
+      <trans-unit id="10887283725656064" xml:space="preserve" resname="death_count" approved="no">
+        <source>Respawns: {0}</source>
+        <target state="translated">Oživnutí: {0}</target>
+      </trans-unit>
+      <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="no">
+        <source>Haunted Prairie</source>
+        <target state="translated">Strašidelné Prérie</target>
+      </trans-unit>
+      <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart" approved="no">
+        <source>Restart Level</source>
+        <target state="translated">Restartovat Level</target>
+      </trans-unit>
+      <trans-unit id="28258823836360704" xml:space="preserve" resname="menu_cancel" approved="no">
+        <source>Cancel</source>
+        <target state="translated">Zrušit</target>
+      </trans-unit>
+      <trans-unit id="28261395754213376" xml:space="preserve" resname="calibration_accuracy" approved="no">
+        <source>Your accuracy: {0}%</source>
+        <target state="translated">Tvoje přesnost: {0}%</target>
+      </trans-unit>
+      <trans-unit id="28263847639474176" xml:space="preserve" resname="menu_quit_to_menu" approved="no">
+        <source>Quit to Menu</source>
+        <target state="translated">Odejít do Menu</target>
+      </trans-unit>
+      <trans-unit id="34008930576228352" xml:space="preserve" resname="new" approved="no">
+        <source>New</source>
+        <target state="translated">Nový</target>
+      </trans-unit>
+      <trans-unit id="38386175316680704" xml:space="preserve" resname="menu_shop" approved="no">
+        <source>Shop</source>
+        <target state="translated">Obchod</target>
+      </trans-unit>
+      <trans-unit id="38391786557235200" xml:space="preserve" resname="menu_shop_characters" approved="no">
+        <source>Characters</source>
+        <target state="translated">Postavy</target>
+      </trans-unit>
+      <trans-unit id="38400393906577408" xml:space="preserve" resname="menu_shop_coincountlabels" approved="no">
+        <source>Collected:
+Spent:
+
+Remaining:</source>
+        <target state="translated">Pozbírano:
+Utráceno:
+
+Zbývá:</target>
+      </trans-unit>
+      <trans-unit id="38445397991579648" xml:space="preserve" resname="menu_selected" approved="no">
+        <source>Selected</source>
+        <target state="translated">Vybrané</target>
+      </trans-unit>
+      <trans-unit id="38782235913412608" xml:space="preserve" resname="menu_confirm_purchase" approved="no">
+        <source>Purchase for {0}?</source>
+        <target state="translated">Koupit za {0}?</target>
+      </trans-unit>
+      <trans-unit id="43149713272823808" xml:space="preserve" resname="bonus_level_take_it_to_the_limit" approved="no">
+        <source>Take It to the Limit</source>
+        <target state="translated">Dotáhni To na Hranici</target>
+      </trans-unit>
+      <trans-unit id="43823627337392128" xml:space="preserve" resname="menu_preview" approved="no">
+        <source>Preview</source>
+        <target state="translated">Nahlédnout</target>
+      </trans-unit>
+      <trans-unit id="43823662246584320" xml:space="preserve" resname="menu_buy" approved="no">
+        <source>Buy</source>
+        <target state="translated">Koupit</target>
+      </trans-unit>
+      <trans-unit id="43824978029109248" xml:space="preserve" resname="menu_play" approved="no">
+        <source>Play</source>
+        <target state="translated">Hrát</target>
+      </trans-unit>
+      <trans-unit id="44349284984381440" xml:space="preserve" resname="bonus_level_what_lies_beneath" approved="no">
+        <source>What Lies Beneath</source>
+        <target state="translated">Co se Skrývá pod Povrchem</target>
+      </trans-unit>
+      <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="no">
+        <source>City in the Rain</source>
+        <target state="translated">Město v Dešti</target>
+      </trans-unit>
+      <trans-unit id="684530015920128" xml:space="preserve" resname="press_continue_switch" approved="no">
+        <source>Press &lt;sprite name="controller_icons_60"&gt; to Continue</source>
+        <target state="translated">Zmáčkněte &lt;sprite name="controller_icons_60"&gt; pro Pokračování</target>
+      </trans-unit>
+      <trans-unit id="3425932130902016" xml:space="preserve" resname="settings_mousecontrols_description_flipped" approved="no">
+        <source>Left click to &lt;Jump&gt;. Right click to &lt;Attack&gt;.</source>
+        <target state="translated">Levý klik pro &lt;Jump&gt;. Pravý klik pro &lt;Attack&gt;.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
