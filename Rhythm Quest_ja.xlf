@@ -894,7 +894,7 @@ For the best experience, feel free to try the standalone offline build instead!<
         </trans-unit>
         <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
           <source>UI Rumble</source>
-          <target state="needs-translation">UIの振動</target>
+          <target state="translated">UIの揺れ</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -906,11 +906,11 @@ For the best experience, feel free to try the standalone offline build instead!<
         </trans-unit>
         <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
           <source>Disables vibration for UI elements.</source>
-          <target state="needs-translation">UIによる振動を無効にします。</target>
+          <target state="translated">UIの揺れを無効にします。</target>
         </trans-unit>
         <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
           <source>Enables vibration for UI elements.</source>
-          <target state="needs-translation">UIによる振動を有効にします。</target>
+          <target state="translated">UIの揺れを有効にします。</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description" approved="no">
           <source>Haptic vibration feedback settings.</source>
@@ -2461,29 +2461,29 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="357293631966326784" xml:space="preserve" resname="settings_colorskins_beatgrids_all_description" approved="no">
         <source>All beat grid markers will be colored according to beat offset.</source>
-        <target state="translated">全てのビートグリッドマーカーを、ビートオフセットに応じて色付けします。</target>
+        <target state="translated">ビートオフセットに応じて、全てのビートグリッドマーカーに色を付けます。</target>
       </trans-unit>
       <trans-unit id="357293659594207232" xml:space="preserve" resname="settings_colorskins_beatgrids_actiontype_description" approved="no">
         <source>Beat grid markers will be colored according to action type (jump/attack/both).</source>
-        <target state="translated">ビートグリッドマーカーを、アクションの種類（ジャンプ/攻撃/両方）に応じて色付けします。</target>
+        <target state="translated">アクションの種類（ジャンプ/攻撃/両方）に応じて、ビートグリッドマーカーに色を付けます。</target>
       </trans-unit>
       <trans-unit id="357294979600396288" xml:space="preserve" resname="settings_colorskins_enemies_default_description" approved="no">
         <source>Basic enemies colored red/green based on action type (attack vs attack+jump).
 Other enemies colored based on enemy type.</source>
-        <target state="translated">ベーシックな敵を、アクションの種類（攻撃/攻撃+ジャンプ）に応じて赤と緑で色付けします。
-その他の敵は、敵の種類に応じて色付けします。</target>
+        <target state="translated">アクションの種類（攻撃/攻撃+ジャンプ）に応じて、ベーシックな敵に赤か緑の色を付けます。
+その他の敵は、敵の種類に応じて色を付けます。</target>
       </trans-unit>
       <trans-unit id="357295258337062912" xml:space="preserve" resname="settings_colorskins_enemies_all_description" approved="no">
         <source>All enemies colored based on beat offset.</source>
-        <target state="translated">全ての敵を、ビートオフセットに応じて色付けします。</target>
+        <target state="translated">ビートオフセットに応じて、全ての敵に色を付けます。</target>
       </trans-unit>
       <trans-unit id="357295265802924032" xml:space="preserve" resname="settings_colorskins_enemies_actiontype_description" approved="no">
         <source>All enemies colored red/green based on action type (attack vs attack+jump).</source>
-        <target state="translated">全ての敵を、アクションの種類（攻撃/攻撃+ジャンプ）に応じて赤と緑で色付けします。</target>
+        <target state="translated">アクションの種類（攻撃/攻撃+ジャンプ）に応じて、全ての敵に赤か緑の色を付けます。</target>
       </trans-unit>
       <trans-unit id="357296579437965312" xml:space="preserve" resname="settings_colorskins_spikes_actiontype_description" approved="no">
         <source>Rolling spikes are colored blue/green based on action type (jump vs jump + attack).</source>
-        <target state="translated">転がるトゲを、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて青と緑で色付けします。</target>
+        <target state="translated">アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて、転がるトゲに青か緑の色を付けます。</target>
       </trans-unit>
       <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description" approved="no">
         <source>Change the color of floating wings.</source>
@@ -2491,7 +2491,7 @@ Other enemies colored based on enemy type.</source>
       </trans-unit>
       <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
         <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-        <target state="needs-translation">全ての羽を、アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて青と緑で色付けします。</target>
+        <target state="translated">（デフォルト） アクションの種類（ジャンプ/ジャンプ+攻撃）に応じて、全ての羽に青か緑の色を付けます。</target>
       </trans-unit>
       <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen" approved="no">
         <source>Alternate Green</source>
@@ -2603,21 +2603,21 @@ Note: Coin Sfx play in perfect fifths
       </trans-unit>
       <trans-unit id="357296575839252480" xml:space="preserve" resname="settings_colorskins_spikes_beatoffset_description" approved="no">
         <source>Rolling spikes are colored according to beat offset.</source>
-        <target state="translated">転がるトゲをビートオフセットに応じて色付けします。</target>
+        <target state="translated">ビートオフセットに応じて、転がるトゲに色を付けます。</target>
       </trans-unit>
       <trans-unit id="357293593592639488" xml:space="preserve" resname="settings_colorskins_beatgrids_actionsonly_description" approved="no">
         <source>Beat grid markers with obstacles will be colored according beat offset.</source>
-        <target state="translated">ビートグリッドマーカーに障害物がある場合、ビートオフセットに応じて色付けします。</target>
+        <target state="translated">ビートオフセットに応じて、障害物があるビートグリッドマーカーに色を付けます。</target>
       </trans-unit>
       <trans-unit id="357295015872737280" xml:space="preserve" resname="settings_colorskins_enemies_basiconly_description" approved="no">
         <source>Basic enemies colored based on beat offset.
 Other enemies colored based on enemy type.</source>
-        <target state="translated">ベーシックな敵を、ビートオフセットに応じて色付けします。
-その他の敵は、敵の種類に応じて色付けします。</target>
+        <target state="translated">ビートオフセットに応じて、ベーシックな敵に色を付けます。
+その他の敵は、敵の種類に応じて色を付けます。</target>
       </trans-unit>
       <trans-unit id="357297114585018368" xml:space="preserve" resname="settings_colorskins_wings_beatoffset_description" approved="no">
         <source>All wings are colored based on beat offset.</source>
-        <target state="translated">全ての羽を、ビートオフセットに応じて色付けします。</target>
+        <target state="translated">ビートオフセットに応じて、全ての羽に色を付けます。</target>
       </trans-unit>
       <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="no">
         <source>Quantum Orbit</source>
@@ -4470,6 +4470,18 @@ Levels must be authored using another version of the game.</source>
 - レベルに楽曲を同梱できません
 - レベルをプレイするユーザーに著作権に関する警告が表示されます
 - レベルの配布に追加の制限がかかる場合があります</target>
+      </trans-unit>
+      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_jumptype_description" approved="no">
+        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        <target state="translated">空中ジャンプの翼を青色、飛行ルートの翼を緑色にします。</target>
+      </trans-unit>
+      <trans-unit id="627795589527810048" xml:space="preserve" resname="language_description_lt" approved="no">
+        <source>Use Lithuanian translation by {0}.</source>
+        <target state="translated">{0} によるリトアニア語の翻訳を使用する。</target>
+      </trans-unit>
+      <trans-unit id="627795780628688896" xml:space="preserve" resname="language_description_id" approved="no">
+        <source>Use Indonesian translation by {0}.</source>
+        <target state="translated">{0} によるインドネシア語の翻訳を使用する。</target>
       </trans-unit>
     </body>
   </file>
