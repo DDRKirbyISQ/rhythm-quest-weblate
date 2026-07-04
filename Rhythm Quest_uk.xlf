@@ -324,9 +324,9 @@
           <source>Retro Ridge</source>
           <target>Ретро Кряж</target>
         </trans-unit>
-        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4">
+        <trans-unit id="744221242384384" xml:space="preserve" resname="world_4" approved="no">
           <source>Magical Metropolis</source>
-          <target>Магічний Метрополіс</target>
+          <target state="translated">Магічний метрополіс</target>
         </trans-unit>
         <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
           <source>Crystal Caverns</source>
@@ -336,33 +336,33 @@
           <source>Space Sojourn</source>
           <target>Космічний Простір</target>
         </trans-unit>
-        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1">
+        <trans-unit id="747260183404544" xml:space="preserve" resname="level1-1" approved="no">
           <source>Sunrise Vista</source>
-          <target>Ранкова Алея</target>
+          <target state="translated">Ранкова алея</target>
         </trans-unit>
-        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2">
+        <trans-unit id="747296564797440" xml:space="preserve" resname="level1-2" approved="no">
           <source>Raceway Plain</source>
-          <target>Гоночна Рівнина</target>
+          <target state="translated">Гоночна рівнина</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="no">
           <source>River Crossing</source>
-          <target>Річкова Переправа</target>
+          <target state="translated">Річкова переправа</target>
         </trans-unit>
-        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
+        <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4" approved="no">
           <source>Mystic Forest</source>
-          <target>Містичний Ліс</target>
+          <target state="translated">Містичний ліс</target>
         </trans-unit>
-        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1">
+        <trans-unit id="747334560997376" xml:space="preserve" resname="level2-1" approved="no">
           <source>Skyward Summit</source>
-          <target>Небесна Вершина</target>
+          <target state="translated">Небесна вершина</target>
         </trans-unit>
-        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2">
+        <trans-unit id="747970249711616" xml:space="preserve" resname="level2-2" approved="no">
           <source>Winged Airways</source>
-          <target>Крилаті Шляхи</target>
+          <target state="translated">Крилаті шляхи</target>
         </trans-unit>
-        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3">
+        <trans-unit id="747972602716160" xml:space="preserve" resname="level2-3" approved="no">
           <source>Twilight Flight</source>
-          <target>Сутінковий Політ</target>
+          <target state="translated">Сутінковий політ</target>
         </trans-unit>
         <trans-unit id="1098534900817920" xml:space="preserve" resname="credits">
           <source>a game by DDRKirby(ISQ)</source>
@@ -558,9 +558,9 @@ Are you sure you want to proceed?</source>
           <source>Respawns: {0}</source>
           <target>Відроджень: {0}</target>
         </trans-unit>
-        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3">
+        <trans-unit id="13888090402283520" xml:space="preserve" resname="level3-3" approved="no">
           <source>Haunted Prairie</source>
-          <target>Прерія Привидів</target>
+          <target state="translated">Прерія привидів</target>
         </trans-unit>
         <trans-unit id="17687955292729344" xml:space="preserve" resname="menu_restart">
           <source>Restart Level</source>
@@ -628,13 +628,13 @@ Remaining:</source>
           <source>What Lies Beneath</source>
           <target state="translated">What Lies Beneath</target>
         </trans-unit>
-        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5">
+        <trans-unit id="67024956296048640" xml:space="preserve" resname="level1-5" approved="no">
           <source>City in the Rain</source>
-          <target>Місто у Дощі</target>
+          <target state="translated">Місто у дощі</target>
         </trans-unit>
-        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1">
+        <trans-unit id="71481787101786112" xml:space="preserve" resname="level4-1" approved="no">
           <source>Enchanted Oasis</source>
-          <target>Зачарований Оазис</target>
+          <target state="translated">Зачарований оазис</target>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
@@ -682,21 +682,21 @@ Lower if audio is too early. Raise if audio is too late.</source>
           <source>Too Late</source>
           <target>Пізно</target>
         </trans-unit>
-        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2">
+        <trans-unit id="99027480951435264" xml:space="preserve" resname="level3-2" approved="no">
           <source>Twilight Tunnel</source>
-          <target>Сутінковий Тунель</target>
+          <target state="translated">Сутінковий тунель</target>
         </trans-unit>
-        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4">
+        <trans-unit id="101498319252795392" xml:space="preserve" resname="level3-4" approved="no">
           <source>Midnight Marathon</source>
-          <target>Опівнічний Марафон</target>
+          <target state="translated">Опівнічний марафон</target>
         </trans-unit>
-        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5">
+        <trans-unit id="102518910644314112" xml:space="preserve" resname="level3-5" approved="no">
           <source>Gearwheel Factory</source>
-          <target>Завод Зубчастих Коліс</target>
+          <target state="translated">Завод зубчастих коліс</target>
         </trans-unit>
-        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3">
+        <trans-unit id="110169329690783744" xml:space="preserve" resname="level4-3" approved="no">
           <source>Outerworld Highway</source>
-          <target>Шосе Зовнішнього Світу</target>
+          <target state="translated">Шосе зовнішнього світу</target>
         </trans-unit>
         <trans-unit id="110268752701730816" xml:space="preserve" resname="level4-2">
           <source>Misty Meadow</source>
@@ -1304,9 +1304,9 @@ Would you like to enable screen reader mode?
           <source>Use Chinese (Traditional) translation by {0}.</source>
           <target>Використовувати китайський (традиційне письмо) переклад від {0}.</target>
         </trans-unit>
-        <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5">
+        <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5" approved="no">
           <source>Moonlit Mesa</source>
-          <target>Місячна Меза</target>
+          <target state="translated">Місячна меза</target>
         </trans-unit>
         <trans-unit id="188455561419599872" xml:space="preserve" resname="credits_4">
           <source>Promotional Art: Kat Jia</source>
@@ -1328,25 +1328,25 @@ Would you like to enable screen reader mode?
           <source>Gleaming Glassway</source>
           <target>Скляний шлях</target>
         </trans-unit>
-        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2">
+        <trans-unit id="207302238079332352" xml:space="preserve" resname="level5-2" approved="no">
           <source>Sunken Street</source>
-          <target>Затонула Вулиця</target>
+          <target state="translated">Затонула вулиця</target>
         </trans-unit>
-        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3">
+        <trans-unit id="211343465527422976" xml:space="preserve" resname="level5-3" approved="no">
           <source>Crossway Corridor</source>
-          <target>Перехресний Коридор</target>
+          <target state="translated">Перехресний коридор</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
           <source>Planar Puzzle</source>
-          <target>Планарний Пазл</target>
+          <target state="translated">Планарний пазл</target>
         </trans-unit>
-        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
+        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="no">
           <source>Brilliant Boulevard</source>
-          <target>Блискучий Бульвар</target>
+          <target state="translated">Блискучий бульвар</target>
         </trans-unit>
-        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
+        <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2" approved="no">
           <source>Speedy Starfield</source>
-          <target>Швидкісна Галактика</target>
+          <target state="translated">Швидкісна галактика</target>
         </trans-unit>
         <trans-unit id="244957349215514624" xml:space="preserve" resname="perfect_cleared">
           <source>Perfect Cleared</source>
@@ -2786,7 +2786,7 @@ Check the code and try again.</source>
         </trans-unit>
         <trans-unit id="368535552562868224" xml:space="preserve" resname="level6-1" approved="no">
           <source>Spellbound Nebula</source>
-          <target state="translated">Зачарована Туманність</target>
+          <target state="translated">Зачарована туманність</target>
         </trans-unit>
         <trans-unit id="368978838519853056" xml:space="preserve" resname="settings_coinoutlines">
           <source>Coin Outlines</source>
@@ -3066,9 +3066,9 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
           <source>Practice Settings</source>
           <target>Налаштування практики</target>
         </trans-unit>
-        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3">
+        <trans-unit id="393187844666732544" xml:space="preserve" resname="level6-3" approved="no">
           <source>Quantum Orbit</source>
-          <target>Квантова Орбіта</target>
+          <target state="translated">Квантова орбіта</target>
         </trans-unit>
         <trans-unit id="396782417120899072" xml:space="preserve" resname="menu_settings_additionalsettings">
           <source>Additional Settings...</source>
@@ -3121,7 +3121,7 @@ Press &lt;sprite name="controller_icons_97"&gt; for settings</source>
         <trans-unit id="402394618540109824" xml:space="preserve" resname="bonus_level_rondo_alla_turca" approved="no">
           <source>Turkish March (Rondo alla Turca)
 from Piano Sonata No. 11</source>
-          <target state="translated">Турецький Марш (Rondo alla Turca)
+          <target state="translated">Турецький марш (Rondo alla Turca)
 з Piano Sonata No. 11</target>
         </trans-unit>
         <trans-unit id="402932192782364672" xml:space="preserve" resname="menu_settings_controls_ingame">
@@ -3143,7 +3143,7 @@ from Piano Sonata No. 11</source>
       </trans-unit>
       <trans-unit id="417105838392258560" xml:space="preserve" resname="level6-4" approved="no">
         <source>Cosmic Conflux</source>
-        <target state="translated">Космічне Злиття</target>
+        <target state="translated">Космічне злиття</target>
       </trans-unit>
       <trans-unit id="420675224264814592" xml:space="preserve" resname="menu_skiptutorial" approved="no">
         <source>Skip Tutorial</source>
@@ -3155,7 +3155,7 @@ from Piano Sonata No. 11</source>
       </trans-unit>
       <trans-unit id="411780370331906048" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee" approved="no">
         <source>Flight of the Bumblebee</source>
-        <target state="translated">Політ Джмеля</target>
+        <target state="translated">Політ джмеля</target>
       </trans-unit>
       <trans-unit id="435967372606353408" xml:space="preserve" resname="levelkey" approved="no">
         <source>Level {0}</source>
@@ -3278,14 +3278,14 @@ The identity of the titular "Elise" is uncertain, but is thought to be an close 
       <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
         <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
 The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
-        <target state="needs-translation">Третя частина фортепіанної сонати № 11 ля мажор Вольфганга Амадея Моцарта також відома як "Rondo alla Turca" або "Турецький марш" є миттєво впізнаваною мелодією.
+        <target state="translated">Третя частина фортепіанної сонати № 11 ля мажор Вольфганга Амадея Моцарта також відома як "Rondo alla Turca" або "Турецький марш" це миттєво впізнавана мелодія.
 Вважається, що ця композиція наслідує стиль військових маршових оркестрів Турецької імперії.</target>
       </trans-unit>
       <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
         <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
 The constant sixteenth note patterns give it a frantic sense of energy.</source>
-        <target state="needs-translation">"Політ джмеля" - відома оркестрова інтермедія, написана для опери "Казка про царя Салтана", покликана нагадати про хаотичний політ джмеля.
-Постійні патерни шістнадцятих нот надають їй шаленої енергійності.</target>
+        <target state="translated">"Політ джмеля" - відома оркестрова інтермедія, написана для опери "Казка про царя Салтана", покликана нагадати про хаотичний політ джмеля.
+Постійні шістнадцяті ноти надають їй шаленої енергійності.</target>
       </trans-unit>
       <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
         <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
