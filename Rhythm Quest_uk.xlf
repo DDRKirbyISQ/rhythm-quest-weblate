@@ -28,9 +28,9 @@
           <source>Back</source>
           <target>Назад</target>
         </trans-unit>
-        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration">
+        <trans-unit id="1630032977920" xml:space="preserve" resname="menu_settings_calibration" approved="no">
           <source>Lag Calibration...</source>
-          <target>Калібрування...</target>
+          <target state="translated">Калібрація...</target>
         </trans-unit>
         <trans-unit id="1795984809984" xml:space="preserve" resname="menu_settings_graphics">
           <source>Graphics</source>
@@ -3805,7 +3805,7 @@ It tries to feature different mechanics and high-energy music.</source>
       </trans-unit>
       <trans-unit id="554869235312799744" xml:space="preserve" resname="drumcalibration_automatic_description_mouse" approved="no">
         <source>Press any key or click in time with the drum sound</source>
-        <target state="translated">Натисніть будь-яку клавішу коли почуєте звук барабана</target>
+        <target state="translated">Натисни будь-яку клавішу коли почуєте звук барабана</target>
       </trans-unit>
       <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="no">
         <source>Beams</source>
@@ -3838,20 +3838,238 @@ Click on a checkpoint section to edit its graphics.</source>
 Try this only if your gamepad does not work.
 May cause doubled inputs otherwise!</source>
         <target state="translated">Увімкнути альтернативну обробку вхідних даних для геймпада.
-Використовуйте це лише в тому випадку, якщо ваш геймпад не працює.
+Краще використовувати це лише в тому випадку, якщо геймпад не працює.
 В іншому випадку це може призвести до подвійних натиснень!</target>
       </trans-unit>
       <trans-unit id="554869231915413504" xml:space="preserve" resname="drumcalibration_automatic_description_keyboard" approved="no">
         <source>Press any key or click in time with the drum sound</source>
-        <target state="translated">Натисніть будь-яку клавішу коли почуєте звук барабана</target>
+        <target state="translated">Натисни будь-яку клавішу коли почуєте звук барабана</target>
       </trans-unit>
       <trans-unit id="554867302229389312" xml:space="preserve" resname="drumcalibration_manual_description" approved="no">
         <source>Choose the setting where the drum animation most closely matches the timing of the sound.</source>
-        <target state="translated">Виберіть варіант, у якому анімація барабана найбільш точно відповідає ритму.</target>
+        <target state="translated">Вибери варіант, у якому анімація барабана найбільш точно відповідає ритму.</target>
       </trans-unit>
       <trans-unit id="554868269746270208" xml:space="preserve" resname="drumcalibration_automatic_title" approved="no">
         <source>Automatic Calibration</source>
         <target state="translated">Автоматична калібрація</target>
+      </trans-unit>
+      <trans-unit id="602437255543173120" xml:space="preserve" resname="loading" approved="no">
+        <source>Loading...</source>
+        <target state="translated">Завантаження...</target>
+      </trans-unit>
+      <trans-unit id="554869239016370176" xml:space="preserve" resname="drumcalibration_automatic_description_xbox" approved="no">
+        <source>Press &lt;sprite name="controller_icons_100"&gt; in time with the drum sound</source>
+        <target state="translated">Натискай &lt;sprite name="controller_icons_100"&gt; у момент, коли гратиме звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554869418767462400" xml:space="preserve" resname="drumcalibration_automatic_description_playstation" approved="no">
+        <source>Press &lt;sprite name="controller_icons_37"&gt; in time with the drum sound</source>
+        <target state="translated">Натискай &lt;sprite name="controller_icons_37"&gt; у момент, коли гратиме звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554869465953382400" xml:space="preserve" resname="drumcalibration_automatic_description_touch" approved="no">
+        <source>Tap in time with the drum sound</source>
+        <target state="translated">Натискай на екран, коли гратиме звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554871433715298304" xml:space="preserve" resname="drumcalibration_button_automatic" approved="no">
+        <source>Recalibrate</source>
+        <target state="translated">Відкалібрувати знову</target>
+      </trans-unit>
+      <trans-unit id="554871584253063168" xml:space="preserve" resname="drumcalibration_button_manual" approved="no">
+        <source>Adjust Manually</source>
+        <target state="translated">Налаштувати вручну</target>
+      </trans-unit>
+      <trans-unit id="554872038705901568" xml:space="preserve" resname="drumcalibration_title" approved="no">
+        <source>Audio Calibration</source>
+        <target state="translated">Калібровка аудіо</target>
+      </trans-unit>
+      <trans-unit id="554872353526165504" xml:space="preserve" resname="drumcalibration_description" approved="no">
+        <source>The sound of the drum should be in time with the animation.</source>
+        <target state="translated">Звук барабана повинен грати в ритм анімації.</target>
+      </trans-unit>
+      <trans-unit id="554872559583932416" xml:space="preserve" resname="drumcalibration_currentsetting" approved="no">
+        <source>Current Audio Latency: {0}</source>
+        <target state="translated">Поточна затримка аудіо: {0}</target>
+      </trans-unit>
+      <trans-unit id="560707620111691776" xml:space="preserve" resname="songselect_folder_mainlevels" approved="no">
+        <source>Main Levels</source>
+        <target state="translated">Основні рівні</target>
+      </trans-unit>
+      <trans-unit id="560707793755877376" xml:space="preserve" resname="songselect_folder_bonuslevels" approved="no">
+        <source>Bonus Levels</source>
+        <target state="translated">Бонусні рівні</target>
+      </trans-unit>
+      <trans-unit id="560707795412627456" xml:space="preserve" resname="songselect_folder_customlevels" approved="no">
+        <source>Custom Levels</source>
+        <target state="translated">Користувацькі рівні</target>
+      </trans-unit>
+      <trans-unit id="591052393326358528" xml:space="preserve" resname="settings_framerate" approved="no">
+        <source>Frame Rate</source>
+        <target state="translated">Частота кадрів</target>
+      </trans-unit>
+      <trans-unit id="591052706317905920" xml:space="preserve" resname="settings_vsync_limited" approved="no">
+        <source>Limited</source>
+        <target state="translated">Обмежена</target>
+      </trans-unit>
+      <trans-unit id="591053590082924544" xml:space="preserve" resname="settings_framerate_description_normal" approved="no">
+        <source>(Default) Use native device refresh rate to render as fast as possible.</source>
+        <target state="translated">(За замовчуванням) Використовувати власну частоту оновлення пристрою для максимально швидкого відображення.</target>
+      </trans-unit>
+      <trans-unit id="591053958275706880" xml:space="preserve" resname="settings_half" approved="no">
+        <source>Half</source>
+        <target state="translated">Половина</target>
+      </trans-unit>
+      <trans-unit id="591062119338520576" xml:space="preserve" resname="settings_marathonmode" approved="no">
+        <source>Marathon Mode</source>
+        <target state="translated">Режим марафону</target>
+      </trans-unit>
+      <trans-unit id="591062289165889536" xml:space="preserve" resname="settings_marathonmode_description_disabled" approved="no">
+        <source>Play each level individually as normal.</source>
+        <target state="translated">Проходити кожен рівень окремо, як зазвичай.</target>
+      </trans-unit>
+      <trans-unit id="591068283547725824" xml:space="preserve" resname="settings_strictinputs" approved="no">
+        <source>Strict Inputs</source>
+        <target state="translated">Сувора гра</target>
+      </trans-unit>
+      <trans-unit id="591069604375998464" xml:space="preserve" resname="settings_strictinputs_partial" approved="no">
+        <source>Partial</source>
+        <target state="translated">Частково</target>
+      </trans-unit>
+      <trans-unit id="591071807786496000" xml:space="preserve" resname="settings_strictinputs_description_disabled" approved="no">
+        <source>(Default) No punishment for extra attack or jump inputs.</source>
+        <target state="translated">(За замовчуванням) Немає покарання за зайві атаки або стрибки.</target>
+      </trans-unit>
+      <trans-unit id="591071810214998016" xml:space="preserve" resname="settings_strictinputs_description_enabled" approved="no">
+        <source>Force an immediate respawn whenever any extraneous inputs are made.</source>
+        <target state="translated">Примушувати негайне відродження при будь-якому посторонньому нажатті.</target>
+      </trans-unit>
+      <trans-unit id="591074951232794624" xml:space="preserve" resname="extra_input" approved="no">
+        <source>Extra Input</source>
+        <target state="needs-translation">Додаткові нажаття</target>
+      </trans-unit>
+      <trans-unit id="592160924427399168" xml:space="preserve" resname="editor_text_musicload_restrictions" approved="no">
+        <source>Click below to select an audio file to load.
+
+Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</source>
+        <target state="translated">Натисни нижче, щоб вибрати аудіофайл для завантаження.
+
+Примітка: Якщо у тебе немає дозволу на використання або поширення музики, можуть застосовуватися обмеження щодо публікації!</target>
+      </trans-unit>
+      <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic" approved="no">
+        <source>Click below to load music for this level.</source>
+        <target state="translated">Натисни нижче, щоб завантажити музику для цього рівня.</target>
+      </trans-unit>
+      <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch" approved="no">
+        <source>(type to search...)</source>
+        <target state="translated">(натисни для пошуку...)</target>
+      </trans-unit>
+      <trans-unit id="592881952782856192" xml:space="preserve" resname="editor_artistselect_unverifiedartist" approved="no">
+        <source>The artist isn't in this list</source>
+        <target state="translated">Вказаного артиста немає в списку</target>
+      </trans-unit>
+      <trans-unit id="592883402007162880" xml:space="preserve" resname="button_refresh" approved="no">
+        <source>Refresh &lt;sprite name="fonticons_4"&gt;</source>
+        <target state="needs-translation">Оновити &lt;sprite name="fonticons_4"&gt;</target>
+      </trans-unit>
+      <trans-unit id="594796035111170048" xml:space="preserve" resname="editor_artistselect_instructions" approved="no">
+        <source>Select the artist of the song from the list below:</source>
+        <target state="translated">Вибери артиста пісні зі списку нижче:</target>
+      </trans-unit>
+      <trans-unit id="602437369808596992" xml:space="preserve" resname="editor_artistselect_database_error" approved="no">
+        <source>Could not load Verified Artist database!
+An internet connection is required to select a Verified Artist.
+Try again later.</source>
+        <target state="translated">Не вдалося завантажити базу даних перевірених артистів!
+Для вибору перевіреного артиста необхідне підключення до Інтернету.
+Спробуй ще раз пізніше.</target>
+      </trans-unit>
+      <trans-unit id="602715196751654912" xml:space="preserve" resname="editor_artistusage" approved="no">
+        <source>Artist Permission: {0}</source>
+        <target state="translated">Дозвіл артиста: {0}</target>
+      </trans-unit>
+      <trans-unit id="602715319154028544" xml:space="preserve" resname="editor_artistpermission_approved" approved="no">
+        <source>Approved</source>
+        <target state="translated">Схвалено</target>
+      </trans-unit>
+      <trans-unit id="602715428726026240" xml:space="preserve" resname="editor_artistpermission_mostlyapproved" approved="no">
+        <source>Mostly Approved</source>
+        <target state="translated">Здебільшого схвалено</target>
+      </trans-unit>
+      <trans-unit id="602715430588297216" xml:space="preserve" resname="editor_artistpermission_partiallyapproved" approved="no">
+        <source>Partially Approved</source>
+        <target state="translated">Частково схвалено</target>
+      </trans-unit>
+      <trans-unit id="602715431259385856" xml:space="preserve" resname="editor_artistpermission_denied" approved="no">
+        <source>Denied</source>
+        <target state="translated">Відхилено</target>
+      </trans-unit>
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="no">
+        <source>Clematis</source>
+        <target state="translated">Clematis</target>
+      </trans-unit>
+      <trans-unit id="554869438883344384" xml:space="preserve" resname="drumcalibration_automatic_description_switch" approved="no">
+        <source>Press &lt;sprite name="controller_icons_60"&gt; in time with the drum sound</source>
+        <target state="translated">Натискай &lt;sprite name="controller_icons60"&gt; у момент, коли гратиме звук барабана</target>
+      </trans-unit>
+      <trans-unit id="555286575556898816" xml:space="preserve" resname="drumcalibration_automatic_complete_result" approved="no">
+        <source>Audio latency set to {0}</source>
+        <target state="translated">Затримка аудіо встановлена на {0}</target>
+      </trans-unit>
+      <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description" approved="no">
+        <source>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
+        <target state="translated">Швидкий та складний трек, натхненний піснями з інших ритм-ігор.
+«Clematis» — це назва квітучої ліани, яка часто має квіти у формі зірки.</target>
+      </trans-unit>
+      <trans-unit id="591052968042475520" xml:space="preserve" resname="settings_vsync_description_limited" approved="no">
+        <source>Manually limits frame rate to 60 frames per second. Use in special cases where refresh synchronization is not desired, but rendering speed should be limited.</source>
+        <target state="translated">Ручне обмеження частоти кадрів до 60 кадрів на секунду. Використовується в особливих випадках, коли синхронізація з частотою оновлення екрану не потрібна, але швидкість рендерингу слід обмежити.</target>
+      </trans-unit>
+      <trans-unit id="591053594969288704" xml:space="preserve" resname="settings_framerate_description_half" approved="no">
+        <source>Render at half of device refresh rate. Use to conserve battery, or for high refresh rate devices where full rendering speed is unnecessary.</source>
+        <target state="translated">Рендеринг із частотою, що становить половину частоти оновлення екрану пристрою. Використовується для економії заряду акумулятора або на пристроях із високою частотою оновлення екрану, де повна швидкість рендерингу не потрібна.</target>
+      </trans-unit>
+      <trans-unit id="591062292584247296" xml:space="preserve" resname="settings_marathonmode_description_enabled" approved="no">
+        <source>Automatically proceed directly to the next level after finishing each one.</source>
+        <target state="translated">Після завершення кожного рівня автоматично переходити до наступного.</target>
+      </trans-unit>
+      <trans-unit id="591071808856043520" xml:space="preserve" resname="settings_strictinputs_description_partial" approved="no">
+        <source>Use increased cooldown after missed attacks to punish extra attack presses.</source>
+        <target state="translated">Використовувати подовжений час відновлення після промахів, щоб покарати гравця за зайві натискання атаки.</target>
+      </trans-unit>
+      <trans-unit id="602715597945221120" xml:space="preserve" resname="editor_artistusage_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, without any notable restrictions.
+
+Please ensure that the selected song is suitable for usage in general. For example, unofficial covers and bootleg remixes are usually not allowed, and collaborations with other artists are subject to their approval.</source>
+        <target state="translated">Вибраний артист, {0}, дав згоду на загальне використання своїх пісень у користувацьких рівнях Rhythm Quest без будь-яких істотних обмежень.
+
+Будь ласка, переконайся, що вибрана пісня загалом підходить для використання. Наприклад, неофіційні кавери та піратські ремікси зазвичай не допускаються, а спільні роботи з іншими виконавцями вимагають їхньої згоди.</target>
+      </trans-unit>
+      <trans-unit id="602715642677473280" xml:space="preserve" resname="editor_artistusage_mostlyapproved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, but has some additional notes, terms, or restrictions that should be followed:</source>
+        <target state="translated">Вибраний артист, {0}, дав згоду на загальне використання своїх пісень у користувацьких рівнях Rhythm Quest, але висунув деякі додаткові зауваження, умови чи обмеження, яких слід дотримуватися:</target>
+      </trans-unit>
+      <trans-unit id="602715647983267840" xml:space="preserve" resname="editor_artistusage_partiallyapproved_description" approved="no">
+        <source>The selected artist, {0}, has only approved specific usage of their songs in Rhythm Quest custom levels. Any usage must comply with the following restrictions or terms:</source>
+        <target state="translated">Вибраний артист, {0}, дозволив використовувати свої пісні в користувацьких рівнях гри Rhythm Quest у виключних випадках. Будь-яке використання має відповідати таким обмеженням або умовам:</target>
+      </trans-unit>
+      <trans-unit id="602715649497411584" xml:space="preserve" resname="editor_artistusage_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their songs to be used in Rhythm Quest custom levels. You may not use their music in your custom levels.</source>
+        <target state="translated">Вибраний артист, {0}, відмовив у наданні дозволу на використання своїх пісень у користувацьких рівнях Rhythm Quest. Заборонено використовувати їх музику у своїх користувацьких рівнях.</target>
+      </trans-unit>
+      <trans-unit id="602717774784802816" xml:space="preserve" resname="editor_artistmusicinclusion_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved inclusion of their music in custom level exports.
+
+A copy of the music file will automatically be included when exporting this level.</source>
+        <target state="translated">Вибраний артист, {0}, дав згоду на використання своєї музики в експортованих користувацьких рівнях.
+
+Під час експорту цього рівня автоматично буде додано копію музичного файлу.</target>
+      </trans-unit>
+      <trans-unit id="602717780258369536" xml:space="preserve" resname="editor_artistmusicinclusion_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their music to be included in custom level exports, other than a streaming preview clip.
+
+Players will need to (legally) obtain their own copy of the music in order to play this custom level. You can optionally include a link that players can use to do this.</source>
+        <target state="translated">Вибраний артист, {0}, відмовив у наданні дозволу на використання своєї музики в експортованих користувацьких рівнях, за винятком фрагмента для попереднього прослуховування.
+
+Щоб пройти цей рівень, гравцям потрібно (на законних підставах) придбати власну копію музики. За бажанням ти можеш додати посилання, за яким гравці зможуть це зробити.</target>
       </trans-unit>
     </body>
   </file>
