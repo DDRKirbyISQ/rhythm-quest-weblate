@@ -4478,6 +4478,54 @@ Do you still want to continue with this audio?</target>
           <source>Use Indonesian translation by {0}.</source>
           <target>Use Indonesian translation by {0}.</target>
         </trans-unit>
+        <trans-unit id="650222244997148672" xml:space="preserve" resname="settings_levelfading">
+          <source>Level Fading</source>
+          <target>Level Fading</target>
+        </trans-unit>
+        <trans-unit id="650225494643224576" xml:space="preserve" resname="settings_levelfading_fadein">
+          <source>Fade In</source>
+          <target>Fade In</target>
+        </trans-unit>
+        <trans-unit id="650225624465321984" xml:space="preserve" resname="settings_levelfading_fadeinplus">
+          <source>Fade In+</source>
+          <target>Fade In+</target>
+        </trans-unit>
+        <trans-unit id="650225686226448384" xml:space="preserve" resname="settings_levelfading_fadeout">
+          <source>Fade Out</source>
+          <target>Fade Out</target>
+        </trans-unit>
+        <trans-unit id="650225709408366592" xml:space="preserve" resname="settings_levelfading_fadeoutplus">
+          <source>Fade Out+</source>
+          <target>Fade Out+</target>
+        </trans-unit>
+        <trans-unit id="650225790589120512" xml:space="preserve" resname="settings_levelfading_description_disabled">
+          <source>Obstacles appear normally.</source>
+          <target>Obstacles appear normally.</target>
+        </trans-unit>
+        <trans-unit id="650225794825367552" xml:space="preserve" resname="settings_levelfading_description_fadein">
+          <source>Obstacles start hidden and fade in.</source>
+          <target>Obstacles start hidden and fade in.</target>
+        </trans-unit>
+        <trans-unit id="650225809438322688" xml:space="preserve" resname="settings_levelfading_description_fadeinplus">
+          <source>Obstacles start hidden and fade in suddenly.</source>
+          <target>Obstacles start hidden and fade in suddenly.</target>
+        </trans-unit>
+        <trans-unit id="650225823657013248" xml:space="preserve" resname="settings_levelfading_description_fadeout">
+          <source>Obstacles start visible and fade out.</source>
+          <target>Obstacles start visible and fade out.</target>
+        </trans-unit>
+        <trans-unit id="650225831605219328" xml:space="preserve" resname="settings_levelfading_description_fadeoutplus">
+          <source>Obstacles start visible and fade out far in advance.</source>
+          <target>Obstacles start visible and fade out far in advance.</target>
+        </trans-unit>
+        <trans-unit id="650238073012793344" xml:space="preserve" resname="settings_levelfading_fadein_invisible">
+          <source>Invisible</source>
+          <target>Invisible</target>
+        </trans-unit>
+        <trans-unit id="650238209558360064" xml:space="preserve" resname="settings_levelfading_description_invisible">
+          <source>Obstacles are completely invisible.</source>
+          <target>Obstacles are completely invisible.</target>
+        </trans-unit>
       </group>
     </body>
   </file>
