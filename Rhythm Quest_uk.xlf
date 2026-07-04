@@ -638,7 +638,7 @@ Remaining:</source>
         </trans-unit>
         <trans-unit id="74755657544019968" xml:space="preserve" resname="bonus_level_trailer" approved="no">
           <source>Gameplay Trailer</source>
-          <target state="translated">Трейлер Гри</target>
+          <target state="translated">Трейлер гри</target>
         </trans-unit>
         <trans-unit id="76485853687099392" xml:space="preserve" resname="level2-4">
           <source>Snowy Peak</source>
@@ -1480,7 +1480,7 @@ Please connect a supported gamepad device.</source>
         </trans-unit>
         <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
           <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target state="needs-translation">Оптимізувати для меншої затримки шляхом заборони декільком кадрам чергуватися.</target>
+          <target state="translated">(За замовчуванням) Оптимізувати для меншої затримки шляхом заборони декільком кадрам чергуватися.</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
@@ -2450,9 +2450,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Let's Have an Adventure!</source>
           <target>Let's Have an Adventure!</target>
         </trans-unit>
-        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows">
+        <trans-unit id="351867171826872320" xml:space="preserve" resname="settings_scalingtimingwindows" approved="no">
           <source>Scaling Windows</source>
-          <target>Зміна Хітбоксів</target>
+          <target state="translated">Зміна хітбоксів</target>
         </trans-unit>
         <trans-unit id="351867849664147456" xml:space="preserve" resname="settings_scalingtimingwindows_description_disabled">
           <source>(Default) Timing windows match expected visual spacings. Windows are shorter in duration with faster music speeds.</source>
@@ -2584,7 +2584,7 @@ Other enemies colored based on enemy type.</source>
         </trans-unit>
         <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
           <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target state="needs-translation">Всі крила зафарбовані синім/зеленим відповідно до типу дії (стрибок vs стрибок + атака).</target>
+          <target state="translated">(За замовчуванням) Всі крила зафарбовані синім/зеленим відповідно до типу дії (стрибок vs стрибок + атака).</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
@@ -2916,11 +2916,11 @@ Check the code and try again.</source>
           <source>(These settings will reset after the current section is complete)</source>
           <target>(Ці параметри скидаються після завершення поточної секції)</target>
         </trans-unit>
-        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt">
+        <trans-unit id="380890484766978048" xml:space="preserve" resname="description_assistprompt" approved="no">
           <source>It looks like you're having trouble with this section.
 Would you like to enable game assist features?</source>
-          <target>Виглядає, що у Вас виникають проблеми з цією секцією.
-Не хотіли б Ви увімкнути допоміжні функції гри?</target>
+          <target state="translated">Схоже, що у Вас виникають проблеми з цією секцією.
+Не хотіли б увімкнути допоміжні функції гри?</target>
         </trans-unit>
         <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
           <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
@@ -3230,7 +3230,7 @@ from Piano Sonata No. 11</source>
       <trans-unit id="455527379299512320" xml:space="preserve" resname="bonus_level_take_it_to_the_limit_description" approved="no">
         <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
 This was the final and most difficult level added to the game in a post-jam update.</source>
-        <target state="needs-translation">Спочатку представлений у моїй старій ритм-грі "Ripple Runner Deluxe", духовному попереднику Rhythm Quest.
+        <target state="translated">Спочатку представлений у моїй старій ритм-грі "Ripple Runner Deluxe", духовному попереднику Rhythm Quest.
 Це був останній і найскладніший рівень, доданий до гри в пост-джемовому оновленні.</target>
       </trans-unit>
       <trans-unit id="460242983138930688" xml:space="preserve" resname="bonus_level_bottled_up" approved="no">
@@ -3248,13 +3248,13 @@ This was the final and most difficult level added to the game in a post-jam upda
       <trans-unit id="464194569502502912" xml:space="preserve" resname="bonus_level_the_warrior_wakes_in_the_sunrise_dawn_description" approved="no">
         <source>This track was composed in one hour and placed first in round 569 of "One Hour Compo", a weekly online composition competition.
 It makes heavy use of a guzheng (Chinese plucked zither) instrument library.</source>
-        <target state="needs-translation">Цей трек був написаний за одну годину і посів перше місце у 569-му раунді "One Hour Compo", щотижневого онлайн-конкурсу композицій.↵
+        <target state="translated">Цей трек був написаний за одну годину і посів перше місце у 569-му раунді "One Hour Compo", щотижневого онлайн-конкурсу композицій.↵
 У ньому широко використовується бібліотека інструментів гучженг (китайська щипкова цитра).</target>
       </trans-unit>
       <trans-unit id="464194634061230080" xml:space="preserve" resname="bonus_level_claustrophobia_description" approved="no">
         <source>Originally featured in the game "Nyamo's Adventure" that I worked on in 2016 for the Ludum Dare game jam. 
 Nyamo's Adventure is a 2D "metroidvania"-style platformer about a shapeshifting blob.</source>
-        <target state="needs-translation">Вперше з'явився у грі "Nyamo's Adventure", над якою я працював у 2016 році для ігрового джему Ludum Dare.
+        <target state="translated">Вперше з'явився у грі "Nyamo's Adventure", над якою я працював у 2016 році для ігрового джему Ludum Dare.
 Nyamo's Adventure - це 2D-платформер у стилі "метроїдванія" про кульку, що може змінювати форми.</target>
       </trans-unit>
       <trans-unit id="464194706337476608" xml:space="preserve" resname="bonus_level_a_single_leaf_flutters_in_the_wind_description" approved="no">
@@ -3266,8 +3266,8 @@ This level focuses only on basic mechanics and is playable even if you haven't y
       <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
         <source>A chiptune track originally intended for inclusion in world 3.
 This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
-        <target state="needs-translation">Чіптюн-трек, спочатку призначений для включення в світ 3.
-На цьому рівні спочатку з'явилася комбінація "зелена атака + стрибок", а потім ця механіка була перенесена у світ 5.</target>
+        <target state="translated">Чіптюн-трек, спочатку призначений для включення в світ 3.
+На цьому рівні вперше з'явилася комбінація "зелена атака + стрибок", але потім ця механіка була перенесена у світ 5.</target>
       </trans-unit>
       <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
         <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
@@ -3308,20 +3308,20 @@ The intro melody has a reference to "Lonely Rolling Star" since we've both creat
       <trans-unit id="464194661840105472" xml:space="preserve" resname="bonus_level_bottled_up_description" approved="no">
         <source>A song that I wrote in 2019 as one of several tracks focusing on interesting percussive sounds and rhythms, somewhat inspired by tracks from the duo "Made in Heights".
 It makes use of several samples I recorded myself using glass bottles.</source>
-        <target state="needs-translation">Пісня, яку я написав у 2019 році як один з декількох треків, що фокусуються на цікавих перкусійних звуках і ритмах, дещо натхненний треками дуету "Made in Heights".
+        <target state="translated">Пісня, яку я написав у 2019 році як один з декількох треків, що фокусуються на цікавих перкусійних звуках і ритмах, дещо натхненний треками дуету "Made in Heights".
 У ній використано кілька семплів, які я записав сам, використовуючи скляні пляшки.</target>
       </trans-unit>
       <trans-unit id="464194763702972416" xml:space="preserve" resname="bonus_level_as_the_cherry_blossom_falls_description" approved="no">
         <source>Originally featured in the rhythm game "Samurai Shaver" that I worked on in 2017 for the Ludum Dare game jam.
 This was the first track added to the game after the game jam ended, and uses a slower tempo.</source>
-        <target state="needs-translation">Спочатку з'явився в ритм-грі "Samurai Shaver", над якою я працював у 2017 році для ігрового джему Ludum Dare.
+        <target state="translated">Спочатку з'явився в ритм-грі "Samurai Shaver", над якою я працював у 2017 році для ігрового джему Ludum Dare.
 Це був перший трек, доданий до гри після закінчення ігрового джему, він використовує повільніший темп.</target>
       </trans-unit>
       <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
         <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
 The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
-        <target state="needs-translation">Трек, натхненний музикою "рідкого драм-н-бейсу". Темп досить швидкий, досягаючи 170 ударів на хвилину.
-Швидкі барабанні патерни контрастують з пишними мелодійними елементами та атмосферними педами.</target>
+        <target state="needs-translation">Трек, натхненний музикою стилю "рідкого драм-н-бейсу". Має досить швидкий темп, досягаючи 170 ударів на хвилину.
+Швидкі барабанні партії контрастують з пишними мелодійними елементами та атмосферними педами.</target>
       </trans-unit>
       <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
         <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
@@ -3339,7 +3339,7 @@ It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".
         <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
 Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
         <target state="needs-translation">Спочатку представлена в "Melody Muncher" - двоклавішній ритм-грі, яку я зробив у 2015 році для ігрового джему Ludum Dare.
-Пісні з "Melody Muncher" природно піддаються включенню в чарти "Rhythm Quest" завдяки схожій механіці.</target>
+Пісні з "Melody Muncher" природно піддаються включенню в рівні "Rhythm Quest" завдяки схожій механіці.</target>
       </trans-unit>
       <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
         <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
@@ -3356,12 +3356,13 @@ This was the song with the slowest tempo in that game, notable for its use of ch
       <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
         <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
 This song was designed to be energetic and fast-paced to get players excited about the game.</source>
-        <target state="needs-translation">Титульний трек і музика до трейлера "Super Mega Zero", платформера, розробленого компанією Silkworm, для якого мені було доручено написати музику в моєму класичному "9-бітному" стилі.
+        <target state="translated">Титульний трек і музика до трейлера "Super Mega Zero", платформера, розробленого компанією Silkworm, для якого мені було доручено написати музику в моєму класичному "9-бітному" стилі.
 Ця пісня була розроблена, щоб бути енергійною та стрімкою, щоб захопити гравців грою.</target>
       </trans-unit>
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
-        <source>Purchase for</source>
-        <target state="needs-translation">Розблокувати за
+        <source>Purchase for
+{0}</source>
+        <target state="translated">Розблокувати за
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
@@ -3390,7 +3391,7 @@ for {1}?</source>
       </trans-unit>
       <trans-unit id="456082936532086784" xml:space="preserve" resname="menu_navigatebacktolevelselect" approved="no">
         <source>Back to Level Select</source>
-        <target state="needs-translation">Назад до Вибору Рівнів</target>
+        <target state="translated">Назад до вибору рівнів</target>
       </trans-unit>
       <trans-unit id="459181654340841472" xml:space="preserve" resname="menu_navigatebacktomenu_description" approved="no">
         <source>Return to the main menu.</source>
@@ -3398,7 +3399,7 @@ for {1}?</source>
       </trans-unit>
       <trans-unit id="459181703636496384" xml:space="preserve" resname="menu_navigatebacktolevelselect_description" approved="no">
         <source>Return to the level selection menu.</source>
-        <target state="needs-translation">Повернутися до меню вибору рівнів.</target>
+        <target state="translated">Повернутися до меню вибору рівнів.</target>
       </trans-unit>
       <trans-unit id="138026306454204416" xml:space="preserve" resname="tutorial_attack" approved="no">
         <source>Press {0} or {1} to Attack.</source>
@@ -3725,6 +3726,132 @@ Tap right half of screen to jump, tap left half to attack.</source>
 It tries to feature different mechanics and high-energy music.</source>
         <target state="translated">Рівень, який був створений для першого трейлера гри у 2022 році.
 Він намагається показати різні механіки та енергійну музику.</target>
+      </trans-unit>
+      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_jumptype_description" approved="no">
+        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        <target state="translated">Крила для стрибків у польоті синього кольору, крила для шляхів польоту зеленого.</target>
+      </trans-unit>
+      <trans-unit id="546527137941467136" xml:space="preserve" resname="particle_dotsfadeinout" approved="no">
+        <source>Fading Dots</source>
+        <target state="translated">Тьмяніючі точки</target>
+      </trans-unit>
+      <trans-unit id="546527284469477376" xml:space="preserve" resname="particle_leaves" approved="no">
+        <source>Leaves</source>
+        <target state="translated">Листя</target>
+      </trans-unit>
+      <trans-unit id="546527310365110272" xml:space="preserve" resname="particle_petals" approved="no">
+        <source>Petals</source>
+        <target state="translated">Пелюстки</target>
+      </trans-unit>
+      <trans-unit id="546527321702313984" xml:space="preserve" resname="particle_snow" approved="no">
+        <source>Snow</source>
+        <target state="translated">Сніг</target>
+      </trans-unit>
+      <trans-unit id="546527335681929216" xml:space="preserve" resname="particle_rain" approved="no">
+        <source>Rain</source>
+        <target state="translated">Дощ</target>
+      </trans-unit>
+      <trans-unit id="546527388018454528" xml:space="preserve" resname="particle_stars" approved="no">
+        <source>Stars</source>
+        <target state="translated">Зірки</target>
+      </trans-unit>
+      <trans-unit id="546527398986559488" xml:space="preserve" resname="particle_trails" approved="no">
+        <source>Trails</source>
+        <target state="translated">Сліди</target>
+      </trans-unit>
+      <trans-unit id="546529396163129344" xml:space="preserve" resname="particle_none" approved="no">
+        <source>(None)</source>
+        <target state="translated">(Немає)</target>
+      </trans-unit>
+      <trans-unit id="546926692260425728" xml:space="preserve" resname="editor_tooltip_graphics" approved="no">
+        <source>Graphics</source>
+        <target state="translated">Графіка</target>
+      </trans-unit>
+      <trans-unit id="546927294524731392" xml:space="preserve" resname="editor_action_graphics" approved="no">
+        <source>Change graphics for section {0}</source>
+        <target state="translated">Змінити графіку для секції {0}</target>
+      </trans-unit>
+      <trans-unit id="546928097410985984" xml:space="preserve" resname="editor_graphics_dialog_title" approved="no">
+        <source>Graphics: Section {0}</source>
+        <target state="translated">Графіка: секція {0}</target>
+      </trans-unit>
+      <trans-unit id="546989447839526912" xml:space="preserve" resname="settings_alternategamepadinput" approved="no">
+        <source>Input Mode</source>
+        <target state="translated">Режим введення</target>
+      </trans-unit>
+      <trans-unit id="546990657946562560" xml:space="preserve" resname="settings_alternategamepadinput_alternate" approved="no">
+        <source>Alternate</source>
+        <target state="translated">Альтернативний</target>
+      </trans-unit>
+      <trans-unit id="547296436545171456" xml:space="preserve" resname="uap_close" approved="no">
+        <source>Close</source>
+        <target state="translated">Закрити</target>
+      </trans-unit>
+      <trans-unit id="554070939442917376" xml:space="preserve" resname="drumcalibration_prompt_title" approved="no">
+        <source>Calibration Check</source>
+        <target state="translated">Перевірка калібації</target>
+      </trans-unit>
+      <trans-unit id="554071137015607296" xml:space="preserve" resname="drumcalibration_prompt_description" approved="no">
+        <source>Is the sound of the drum in time with the animation?</source>
+        <target state="translated">Чи звук барабана збігається з ритмом анімації?</target>
+      </trans-unit>
+      <trans-unit id="554071667536343040" xml:space="preserve" resname="drumcalibration_notinsync" approved="no">
+        <source>No, it sounds too early or late</source>
+        <target state="translated">Ні, звук грає зарано або запізно</target>
+      </trans-unit>
+      <trans-unit id="554867204447580160" xml:space="preserve" resname="drumcalibration_manual_title" approved="no">
+        <source>Manual Calibration</source>
+        <target state="translated">Ручна калібрація</target>
+      </trans-unit>
+      <trans-unit id="554869235312799744" xml:space="preserve" resname="drumcalibration_automatic_description_mouse" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">Натисніть будь-яку клавішу коли почуєте звук барабана</target>
+      </trans-unit>
+      <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="no">
+        <source>Beams</source>
+        <target state="translated">Пучки</target>
+      </trans-unit>
+      <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="no">
+        <source>Diamonds + Stars</source>
+        <target state="translated">Ромби + зірки</target>
+      </trans-unit>
+      <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="no">
+        <source>Dots</source>
+        <target state="translated">Точки</target>
+      </trans-unit>
+      <trans-unit id="546527136267939840" xml:space="preserve" resname="particle_dotsandstars" approved="no">
+        <source>Dots + Stars</source>
+        <target state="translated">Точки + зірки</target>
+      </trans-unit>
+      <trans-unit id="546926689769009152" xml:space="preserve" resname="editor_tool_graphics_description" approved="no">
+        <source>&lt;color=#ffff00&gt;Graphics&lt;/color&gt;
+Click on a checkpoint section to edit its graphics.</source>
+        <target state="translated">&lt;color=#ffff00&gt;Графіка&lt;/color&gt;
+Натисни на секцію контрольної точки для редагування графіки.</target>
+      </trans-unit>
+      <trans-unit id="546989644518830080" xml:space="preserve" resname="settings_alternategamepadinput_description_normal" approved="no">
+        <source>(Default) Use normal gamepad input.</source>
+        <target state="needs-translation">(За замовчуванням) Використовувати звичайне введення з геймпада.</target>
+      </trans-unit>
+      <trans-unit id="546989651141636096" xml:space="preserve" resname="settings_alternategamepadinput_description_alternate" approved="no">
+        <source>Enable alternate gamepad input handling.
+Try this only if your gamepad does not work.
+May cause doubled inputs otherwise!</source>
+        <target state="translated">Увімкнути альтернативну обробку вхідних даних для геймпада.
+Використовуйте це лише в тому випадку, якщо ваш геймпад не працює.
+В іншому випадку це може призвести до подвійних натиснень!</target>
+      </trans-unit>
+      <trans-unit id="554869231915413504" xml:space="preserve" resname="drumcalibration_automatic_description_keyboard" approved="no">
+        <source>Press any key or click in time with the drum sound</source>
+        <target state="translated">Натисніть будь-яку клавішу коли почуєте звук барабана</target>
+      </trans-unit>
+      <trans-unit id="554867302229389312" xml:space="preserve" resname="drumcalibration_manual_description" approved="no">
+        <source>Choose the setting where the drum animation most closely matches the timing of the sound.</source>
+        <target state="translated">Виберіть варіант, у якому анімація барабана найбільш точно відповідає ритму.</target>
+      </trans-unit>
+      <trans-unit id="554868269746270208" xml:space="preserve" resname="drumcalibration_automatic_title" approved="no">
+        <source>Automatic Calibration</source>
+        <target state="translated">Автоматична калібрація</target>
       </trans-unit>
     </body>
   </file>
