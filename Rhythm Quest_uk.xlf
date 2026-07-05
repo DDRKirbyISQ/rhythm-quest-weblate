@@ -1252,57 +1252,57 @@ Would you like to enable screen reader mode?
           <source>Use original English text.</source>
           <target>Використовувати оригінальний текст англійською.</target>
         </trans-unit>
-        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES">
+        <trans-unit id="177292975399546880" xml:space="preserve" resname="language_description_es-ES" approved="no">
           <source>Use Spanish translation by {0}.</source>
-          <target>Використовувати іспанський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад іспанською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de">
+        <trans-unit id="177292976032886784" xml:space="preserve" resname="language_description_de" approved="no">
           <source>Use German translation by {0}.</source>
-          <target>Використовувати німецький переклад від {0}.</target>
+          <target state="translated">Використовувати переклад німецькою від {0}.</target>
         </trans-unit>
-        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr">
+        <trans-unit id="177292976515231744" xml:space="preserve" resname="language_description_fr" approved="no">
           <source>Use French translation by {0}.</source>
-          <target>Використовувати французький переклад від {0}.</target>
+          <target state="translated">Використовувати переклад французькою від {0}.</target>
         </trans-unit>
-        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it">
+        <trans-unit id="177292977047908352" xml:space="preserve" resname="language_description_it" approved="no">
           <source>Use Italian translation by {0}.</source>
-          <target>Використовувати італійський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад італійською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja">
+        <trans-unit id="177292977593167872" xml:space="preserve" resname="language_description_ja" approved="no">
           <source>Use Japanese translation by {0}.</source>
-          <target>Використовувати японський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад японською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko">
+        <trans-unit id="177292978130038784" xml:space="preserve" resname="language_description_ko" approved="no">
           <source>Use Korean translation by {0}.</source>
-          <target>Використовувати корейський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад корейською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl">
+        <trans-unit id="177293100427554816" xml:space="preserve" resname="language_description_pl" approved="no">
           <source>Use Polish translation by {0}.</source>
-          <target>Використовувати польський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад польською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR">
+        <trans-unit id="177293100981202944" xml:space="preserve" resname="language_description_pt-BR" approved="no">
           <source>Use Brazilian Portuguese translation by {0}.</source>
-          <target>Використовувати бразильський португальський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад бразильською португальською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru">
+        <trans-unit id="177293101530656768" xml:space="preserve" resname="language_description_ru" approved="no">
           <source>Use Russian translation by {0}.</source>
-          <target>Використовувати російський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад російською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE">
+        <trans-unit id="177293134707601408" xml:space="preserve" resname="language_description_sv-SE" approved="no">
           <source>Use Swedish translation by {0}.</source>
-          <target>Використовувати шведський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад швецькою від {0}.</target>
         </trans-unit>
-        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk">
+        <trans-unit id="177293135336747008" xml:space="preserve" resname="language_description_uk" approved="no">
           <source>Use Ukrainian translation by {0}.</source>
-          <target>Використовувати український переклад від {0}.</target>
+          <target state="translated">Використовувати переклад українською від {0}.</target>
         </trans-unit>
-        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN">
+        <trans-unit id="177293159982477312" xml:space="preserve" resname="language_description_zh-CN" approved="no">
           <source>Use Chinese (Simplified) translation by {0}.</source>
-          <target>Використовувати китайський (спрощене письмо) переклад від {0}.</target>
+          <target state="translated">Використовувати переклад китайською (спрощене письмо) від {0}.</target>
         </trans-unit>
-        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW">
+        <trans-unit id="177293160473210880" xml:space="preserve" resname="language_description_zh-TW" approved="no">
           <source>Use Chinese (Traditional) translation by {0}.</source>
-          <target>Використовувати китайський (традиційне письмо) переклад від {0}.</target>
+          <target state="translated">Використовувати переклад китайською (традиційне письмо) від {0}.</target>
         </trans-unit>
         <trans-unit id="185612980952281088" xml:space="preserve" resname="level4-5" approved="no">
           <source>Moonlit Mesa</source>
@@ -1320,9 +1320,9 @@ Would you like to enable screen reader mode?
           <source>Checkpoints behave normally.</source>
           <target>Контрольні точки поводяться нормально.</target>
         </trans-unit>
-        <trans-unit id="194143242711511040" xml:space="preserve" resname="language_description_vi">
+        <trans-unit id="194143242711511040" xml:space="preserve" resname="language_description_vi" approved="no">
           <source>Use Vietnamese translation by {0}.</source>
-          <target>Використовувати в'єтнамський переклад від {0}.</target>
+          <target state="translated">Використовувати переклад в'єтнамською від {0}.</target>
         </trans-unit>
         <trans-unit id="201294543144660992" xml:space="preserve" resname="level5-1">
           <source>Gleaming Glassway</source>
@@ -4053,7 +4053,7 @@ Please ensure that the selected song is suitable for usage in general. For examp
       </trans-unit>
       <trans-unit id="602715649497411584" xml:space="preserve" resname="editor_artistusage_denied_description" approved="no">
         <source>The selected artist, {0}, has denied permission for their songs to be used in Rhythm Quest custom levels. You may not use their music in your custom levels.</source>
-        <target state="translated">Вибраний виконавець, {0}, відмовив у наданні дозволу на використання своїх пісень у користувацьких рівнях Rhythm Quest. Заборонено використовувати їх музику у своїх користувацьких рівнях.</target>
+        <target state="translated">Вибраний виконавець, {0}, відмовив у наданні дозволу на використання своїх пісень у користувацьких рівнях Rhythm Quest. Заборонено використовувати його музику у своїх користувацьких рівнях.</target>
       </trans-unit>
       <trans-unit id="602717774784802816" xml:space="preserve" resname="editor_artistmusicinclusion_approved_description" approved="no">
         <source>The selected artist, {0}, has approved inclusion of their music in custom level exports.
@@ -4278,6 +4278,258 @@ Click the button below to open the terms of service in a new browser window.</so
       <trans-unit id="604937877538516992" xml:space="preserve" resname="editor_button_continueunverifiedartist" approved="no">
         <source>Continue with unverified artist</source>
         <target state="translated">Продовжити з неперевіреним виконавцем</target>
+      </trans-unit>
+      <trans-unit id="608217629049270272" xml:space="preserve" resname="editor_setting_activedifficulty" approved="no">
+        <source>Difficulty</source>
+        <target state="translated">Складність</target>
+      </trans-unit>
+      <trans-unit id="609960527738482688" xml:space="preserve" resname="editor_action_deletedifficulty" approved="no">
+        <source>Delete chart: {0}</source>
+        <target state="translated">Видалити рівень: {0}</target>
+      </trans-unit>
+      <trans-unit id="609960657237618688" xml:space="preserve" resname="editor_action_createdifficulty" approved="no">
+        <source>Create chart: {0}</source>
+        <target state="translated">Створити рівень: {0}</target>
+      </trans-unit>
+      <trans-unit id="610022060854128640" xml:space="preserve" resname="editor_deletedifficulty_description" approved="no">
+        <source>Are you sure you want to delete the chart for this difficulty?</source>
+        <target state="translated">Ти точно хочеш видалити рівень для цієї складності?</target>
+      </trans-unit>
+      <trans-unit id="610023780959170560" xml:space="preserve" resname="editor_difficultycreate_description" approved="no">
+        <source>A chart for this difficulty does not yet exist.
+Do you want to create one?</source>
+        <target state="translated">Рівня для цієї складності ще не існує.
+Хочеш його створити?</target>
+      </trans-unit>
+      <trans-unit id="610027983639195648" xml:space="preserve" resname="editor_createdifficulty_createnew" approved="no">
+        <source>Yes, create from scratch</source>
+        <target state="translated">Так, створити з нуля</target>
+      </trans-unit>
+      <trans-unit id="610028108012892160" xml:space="preserve" resname="editor_createdifficulty_copy" approved="no">
+        <source>Yes, copy from the {0} chart</source>
+        <target state="translated">Так, скопіювати з рівня {0}</target>
+      </trans-unit>
+      <trans-unit id="610060919927255040" xml:space="preserve" resname="editor_bannertext_enabled" approved="no">
+        <source>Text: Enabled</source>
+        <target state="translated">Текст: Увімкнено</target>
+      </trans-unit>
+      <trans-unit id="610061008473206784" xml:space="preserve" resname="editor_bannertext_disabled" approved="no">
+        <source>Text: Disabled</source>
+        <target state="translated">Текст: Вимкнено</target>
+      </trans-unit>
+      <trans-unit id="610064961193684992" xml:space="preserve" resname="editor_button_resetbanner" approved="no">
+        <source>Reset</source>
+        <target state="translated">Скинути</target>
+      </trans-unit>
+      <trans-unit id="610969822919700480" xml:space="preserve" resname="songselect_button_managemusic" approved="no">
+        <source>Manage Audio</source>
+        <target state="translated">Керувати аудіо</target>
+      </trans-unit>
+      <trans-unit id="611122451809349632" xml:space="preserve" resname="custommusic_button_audioedittiming" approved="no">
+        <source>Edit Timing</source>
+        <target state="needs-translation">Редагування часових параметрів</target>
+      </trans-unit>
+      <trans-unit id="611302747427090432" xml:space="preserve" resname="custommusic_audiosync_title" approved="no">
+        <source>Audio File Synchronization</source>
+        <target state="translated">Синхронізація аудіофайлів</target>
+      </trans-unit>
+      <trans-unit id="611303813979877376" xml:space="preserve" resname="custommusic_audiosync_loadedclip" approved="no">
+        <source>Your provided audio</source>
+        <target state="needs-translation">Надане аудіо</target>
+      </trans-unit>
+      <trans-unit id="612421505268887552" xml:space="preserve" resname="unverifiedartistwarning_title" approved="no">
+        <source>Unverified Artist Warning</source>
+        <target state="translated">Попередження про неперевіреного виконавця</target>
+      </trans-unit>
+      <trans-unit id="612423555172052992" xml:space="preserve" resname="button_iunderstand" approved="no">
+        <source>I Understand</source>
+        <target state="translated">Я розумію</target>
+      </trans-unit>
+      <trans-unit id="614945673847812096" xml:space="preserve" resname="custommusic_links_description" approved="no">
+        <source>One or more links have been provided that may help in obtaining a copy of this song or finding more information about the artist.</source>
+        <target state="translated">Наведено одне або кілька посилань, які можуть допомогти отримати копію цієї пісні або знайти додаткову інформацію про виконавця.</target>
+      </trans-unit>
+      <trans-unit id="614945941184360448" xml:space="preserve" resname="custommusic_links_button" approved="no">
+        <source>View Links</source>
+        <target state="translated">Переглянути посилання</target>
+      </trans-unit>
+      <trans-unit id="616978452559212544" xml:space="preserve" resname="editor_notification_save_withoutfilename" approved="no">
+        <source>Level saved</source>
+        <target state="translated">Рівень збережено</target>
+      </trans-unit>
+      <trans-unit id="618645622389256192" xml:space="preserve" resname="songselect_button_favorite_add" approved="no">
+        <source>Mark as Favorite</source>
+        <target state="translated">Позначити як улюблене</target>
+      </trans-unit>
+      <trans-unit id="618645714328399872" xml:space="preserve" resname="songselect_button_favorite_remove" approved="no">
+        <source>Remove from Favorites</source>
+        <target state="translated">Видалити з улюблених</target>
+      </trans-unit>
+      <trans-unit id="618645795127472128" xml:space="preserve" resname="songselect_button_deletelevel" approved="no">
+        <source>Delete Level</source>
+        <target state="translated">Видалити рівень</target>
+      </trans-unit>
+      <trans-unit id="618645985863446528" xml:space="preserve" resname="songselect_button_managecustomlevel" approved="no">
+        <source>Manage...</source>
+        <target state="translated">Керувати...</target>
+      </trans-unit>
+      <trans-unit id="618710669861892096" xml:space="preserve" resname="songselect_folder_favorites" approved="no">
+        <source>Favorites</source>
+        <target state="translated">Улюблені</target>
+      </trans-unit>
+      <trans-unit id="621461981368201216" xml:space="preserve" resname="level_play_count" approved="no">
+        <source>Play Count: {0}</source>
+        <target state="needs-translation">Кількість переглядів: {0}</target>
+      </trans-unit>
+      <trans-unit id="622635393503506432" xml:space="preserve" resname="custommusic_badcorrelation_description" approved="no">
+        <source>The audio you provided doesn't seem to match the original song (based on comparison to the audio preview included with the level).
+
+Do you still want to continue with this audio?</source>
+        <target state="translated">Здається, наданий аудіофайл не збігається з оригінальною піснею (судячи з порівняння з аудіо-превью, що додається до рівня).
+
+Ти надалі хочеш залишити цей аудіофайл?</target>
+      </trans-unit>
+      <trans-unit id="622745255558295552" xml:space="preserve" resname="audiodisplay_button_play" approved="no">
+        <source>Play</source>
+        <target state="translated">Грати</target>
+      </trans-unit>
+      <trans-unit id="622745278706659328" xml:space="preserve" resname="audiodisplay_button_pause" approved="no">
+        <source>Pause</source>
+        <target state="translated">Пауза</target>
+      </trans-unit>
+      <trans-unit id="627795589527810048" xml:space="preserve" resname="language_description_lt" approved="no">
+        <source>Use Lithuanian translation by {0}.</source>
+        <target state="translated">Використовувати переклад литовською від {0}.</target>
+      </trans-unit>
+      <trans-unit id="627795780628688896" xml:space="preserve" resname="language_description_id" approved="no">
+        <source>Use Indonesian translation by {0}.</source>
+        <target state="translated">Використовувати переклад індонезійською від {0}.</target>
+      </trans-unit>
+      <trans-unit id="650225624465321984" xml:space="preserve" resname="settings_levelfading_fadeinplus" approved="no">
+        <source>Fade In+</source>
+        <target state="needs-translation">Поступове з’явлення+</target>
+      </trans-unit>
+      <trans-unit id="650225686226448384" xml:space="preserve" resname="settings_levelfading_fadeout" approved="no">
+        <source>Fade Out</source>
+        <target state="needs-translation">Поступове зникання</target>
+      </trans-unit>
+      <trans-unit id="650225709408366592" xml:space="preserve" resname="settings_levelfading_fadeoutplus" approved="no">
+        <source>Fade Out+</source>
+        <target state="needs-translation">Поступове зникання+</target>
+      </trans-unit>
+      <trans-unit id="650225794825367552" xml:space="preserve" resname="settings_levelfading_description_fadein" approved="no">
+        <source>Obstacles start hidden and fade in.</source>
+        <target state="translated">Перешкоди залишаються прихованими і поступово з’являються.</target>
+      </trans-unit>
+      <trans-unit id="650225823657013248" xml:space="preserve" resname="settings_levelfading_description_fadeout" approved="no">
+        <source>Obstacles start visible and fade out.</source>
+        <target state="needs-translation">Перешкоди залишаються видимими і з часом никають.</target>
+      </trans-unit>
+      <trans-unit id="650238073012793344" xml:space="preserve" resname="settings_levelfading_fadein_invisible" approved="no">
+        <source>Invisible</source>
+        <target state="needs-translation">Невидимо</target>
+      </trans-unit>
+      <trans-unit id="650238209558360064" xml:space="preserve" resname="settings_levelfading_description_invisible" approved="no">
+        <source>Obstacles are completely invisible.</source>
+        <target state="translated">Перешкоди повністю невидимі.</target>
+      </trans-unit>
+      <trans-unit id="610233822157254656" xml:space="preserve" resname="editor_label_banner_size" approved="no">
+        <source>Banner Image
+(will be cropped to 200x75 ratio):</source>
+        <target state="needs-translation">Зображення банера
+(буде обрізано до пропорцій 200x75):</target>
+      </trans-unit>
+      <trans-unit id="611303970494525440" xml:space="preserve" resname="custommusic_audiosync_instructions" approved="no">
+        <source>Check the timing of your provided audio against the reference clip and adjust if necessary.
+Use the buttons below, or drag left and right.</source>
+        <target state="needs-translation">Порівняйте синхронізацію наданого аудіозапису зі вказанми кліпом і, за необхідності, відкоригуйте її.
+Скористайся кнопками нижче або перетягни вліво чи вправо.</target>
+      </trans-unit>
+      <trans-unit id="612421302243602432" xml:space="preserve" resname="unverifiedartistwarning_description" approved="no">
+        <source>The music artist for this custom level, {0}, is not registered in the Verified Artist database, so there is no guarantee that this level respects copyright restrictions.
+
+Please use discretion to avoid copyright violations, especially if you are planning to stream or record gameplay.
+
+If you believe the audio for this level is being used without proper permission, please report it wherever you obtained this custom level from.</source>
+        <target state="translated">Музичний виконавець з цього користувацького рівня, {0}, не зареєстрований у базі даних перевірених виконавців, тому немає гарантії, що цей рівень відповідає вимогам авторського права.
+
+Будь ласка, дій розсудливо, щоб уникнути порушень авторських прав, особливо якщо ти плануєш транслювати або записувати ігровий процес.
+
+Якщо ти вважаєш, що аудіоматеріал для цього рівня використовується без належного дозволу, будь ласка, повідом про це на тому ресурсі, звідки було отримано цей користувацький рівень.</target>
+      </trans-unit>
+      <trans-unit id="617875122964705280" xml:space="preserve" resname="switch_leveleditor_description" approved="no">
+        <source>The level editor is not supported on the Nintendo Switch platform due to technical and platform limitations.
+Levels must be authored using another version of the game.</source>
+        <target state="translated">Редактор рівнів не підтримується на платформі Nintendo Switch через технічні обмеження та обмеження платформи.
+Рівні можна створювати лише на інших версіях гри.</target>
+      </trans-unit>
+      <trans-unit id="618935861091545088" xml:space="preserve" resname="deletecustomlevel_description" approved="no">
+        <source>Are you sure you want to delete this level?
+The level will be permanently erased from storage.</source>
+        <target state="needs-translation">Ти впевнений/-на, що хочеш видалити цей рівень?
+Рівень буде назавжди видалено з пам’яті.</target>
+      </trans-unit>
+      <trans-unit id="618939559461040128" xml:space="preserve" resname="deletecustomlevel_confirmation" approved="no">
+        <source>Level deleted.
+Scoring data has been retained in case you import the same level again.</source>
+        <target state="translated">Рівень видалено.
+Дані про результати збережено на випадок, якщо ти знову імпортуватимеш цей самий рівень.</target>
+      </trans-unit>
+      <trans-unit id="650222244997148672" xml:space="preserve" resname="settings_levelfading" approved="no">
+        <source>Level Fading</source>
+        <target state="needs-translation">Згасання рівня</target>
+      </trans-unit>
+      <trans-unit id="650225494643224576" xml:space="preserve" resname="settings_levelfading_fadein" approved="no">
+        <source>Fade In</source>
+        <target state="needs-translation">Поступове з’явлення</target>
+      </trans-unit>
+      <trans-unit id="650225790589120512" xml:space="preserve" resname="settings_levelfading_description_disabled" approved="no">
+        <source>Obstacles appear normally.</source>
+        <target state="translated">Перешкоди з'являються як зазвичай.</target>
+      </trans-unit>
+      <trans-unit id="650225809438322688" xml:space="preserve" resname="settings_levelfading_description_fadeinplus" approved="no">
+        <source>Obstacles start hidden and fade in suddenly.</source>
+        <target state="translated">Перешкоди залишаються прихованими і раптово з’являються.</target>
+      </trans-unit>
+      <trans-unit id="650225831605219328" xml:space="preserve" resname="settings_levelfading_description_fadeoutplus" approved="no">
+        <source>Obstacles start visible and fade out far in advance.</source>
+        <target state="needs-translation">Перешкоди залишаються видимими і зникають задовго до того, як до них наблизитися.</target>
+      </trans-unit>
+      <trans-unit id="611096607019806720" xml:space="preserve" resname="custommusic_url_description_custom" approved="no">
+        <source>The author of this level, {0}, has provided the following URL, which may be specific to the song, {1}:</source>
+        <target state="needs-translation">Автор цього рівня, {0}, надав наступну URL-адресу, яка, ймовірно, стосується саме цієї пісні, {1}:</target>
+      </trans-unit>
+      <trans-unit id="611104313331986432" xml:space="preserve" resname="custommusic_url_button_open" approved="no">
+        <source>Open Link</source>
+        <target state="translated">Відкрити посилання</target>
+      </trans-unit>
+      <trans-unit id="611104737942351872" xml:space="preserve" resname="custommusic_url_description_artist" approved="no">
+        <source>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</source>
+        <target state="translated">У профілі музичного виконавця з цього рівня, {0}, вказано наступну URL-адресу, за якою можна дізнатися більше про те, як отримати його музику:</target>
+      </trans-unit>
+      <trans-unit id="611107369528373248" xml:space="preserve" resname="custommusic_audiodescription_notloaded" approved="no">
+        <source>Provide an audio file for to the following song:</source>
+        <target state="translated">Надай аудіофайл до наступної пісні:</target>
+      </trans-unit>
+      <trans-unit id="611107371453558784" xml:space="preserve" resname="custommusic_audiodescription_loaded" approved="no">
+        <source>You have previously provided the following audio file:</source>
+        <target state="translated">Раніше було надано такий аудіофайл:</target>
+      </trans-unit>
+      <trans-unit id="610970007754289152" xml:space="preserve" resname="songselect_button_providemusic" approved="no">
+        <source>Provide Music</source>
+        <target state="needs-translation">Надати музику</target>
+      </trans-unit>
+      <trans-unit id="610970324034170880" xml:space="preserve" resname="songselect_button_visitartisturl" approved="no">
+        <source>Visit Song/Artist Webpage</source>
+        <target state="translated">Перейти на веб-сторінку пісні/виконавця</target>
+      </trans-unit>
+      <trans-unit id="611096421765787648" xml:space="preserve" resname="custommusic_description" approved="no">
+        <source>The music artist for this song, {0}, has requested that their music not be redistributed, so you need to provide your own copy of the song to play this level.</source>
+        <target state="translated">Виконавець цієї пісні, {0}, попросив не поширювати його музику, тому для проходження цього рівня потрібно надати власну копію пісні.</target>
+      </trans-unit>
+      <trans-unit id="611303369954078720" xml:space="preserve" resname="custommusic_audiosync_previewclip" approved="no">
+        <source>Target to match</source>
+        <target state="needs-translation">Ціль, яку потрібно досягти</target>
       </trans-unit>
     </body>
   </file>
