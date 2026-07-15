@@ -894,7 +894,7 @@ For the best experience, feel free to try the standalone offline build instead!<
         </trans-unit>
         <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
           <source>UI Rumble</source>
-          <target state="needs-translation">界面震动</target>
+          <target state="translated">UI界面震动</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -906,11 +906,11 @@ For the best experience, feel free to try the standalone offline build instead!<
         </trans-unit>
         <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
           <source>Disables vibration for UI elements.</source>
-          <target state="needs-translation">关闭游戏界面的震动效果。</target>
+          <target state="translated">关闭游戏UI界面的震动效果。</target>
         </trans-unit>
         <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
           <source>Enables vibration for UI elements.</source>
-          <target state="needs-translation">开启游戏界面的震动效果。</target>
+          <target state="translated">开启游戏UI界面的震动效果。</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -2584,7 +2584,7 @@ Other enemies colored based on enemy type.</source>
         </trans-unit>
         <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
           <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target state="needs-translation">飞翼将根据操作类型 (跳跃/跳跃+攻击) 以 蓝/绿 着色。</target>
+          <target state="translated">(默认设置)所有飞翼将根据动作类型 (跳跃 与 跳跃加攻击)标记为蓝色/绿色。</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
@@ -4278,6 +4278,258 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       <trans-unit id="608217629049270272" xml:space="preserve" resname="editor_setting_activedifficulty" approved="no">
         <source>Difficulty</source>
         <target state="translated">难度</target>
+      </trans-unit>
+      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_jumptype_description" approved="no">
+        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        <target state="translated">空中跳跃翼是蓝色的，飞行路径翼是绿色的。</target>
+      </trans-unit>
+      <trans-unit id="610022060854128640" xml:space="preserve" resname="editor_deletedifficulty_description" approved="no">
+        <source>Are you sure you want to delete the chart for this difficulty?</source>
+        <target state="translated">您确定要删除在此难度下绘制的地图吗？</target>
+      </trans-unit>
+      <trans-unit id="610027983639195648" xml:space="preserve" resname="editor_createdifficulty_createnew" approved="no">
+        <source>Yes, create from scratch</source>
+        <target state="translated">是的，从零开始</target>
+      </trans-unit>
+      <trans-unit id="610060919927255040" xml:space="preserve" resname="editor_bannertext_enabled" approved="no">
+        <source>Text: Enabled</source>
+        <target state="translated">文本:启用</target>
+      </trans-unit>
+      <trans-unit id="610061008473206784" xml:space="preserve" resname="editor_bannertext_disabled" approved="no">
+        <source>Text: Disabled</source>
+        <target state="translated">文本:禁用</target>
+      </trans-unit>
+      <trans-unit id="610064961193684992" xml:space="preserve" resname="editor_button_resetbanner" approved="no">
+        <source>Reset</source>
+        <target state="translated">复位</target>
+      </trans-unit>
+      <trans-unit id="610233822157254656" xml:space="preserve" resname="editor_label_banner_size" approved="no">
+        <source>Banner Image
+(will be cropped to 200x75 ratio):</source>
+        <target state="translated">封面图
+(将会被裁剪成200x75的比例):</target>
+      </trans-unit>
+      <trans-unit id="610969822919700480" xml:space="preserve" resname="songselect_button_managemusic" approved="no">
+        <source>Manage Audio</source>
+        <target state="translated">管理音频</target>
+      </trans-unit>
+      <trans-unit id="610970007754289152" xml:space="preserve" resname="songselect_button_providemusic" approved="no">
+        <source>Provide Music</source>
+        <target state="translated">提供音乐</target>
+      </trans-unit>
+      <trans-unit id="610970324034170880" xml:space="preserve" resname="songselect_button_visitartisturl" approved="no">
+        <source>Visit Song/Artist Webpage</source>
+        <target state="translated">浏览歌曲/艺人主页</target>
+      </trans-unit>
+      <trans-unit id="611104313331986432" xml:space="preserve" resname="custommusic_url_button_open" approved="no">
+        <source>Open Link</source>
+        <target state="translated">打开链接</target>
+      </trans-unit>
+      <trans-unit id="611104737942351872" xml:space="preserve" resname="custommusic_url_description_artist" approved="no">
+        <source>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</source>
+        <target state="translated">本关卡的音乐艺术家,{0},在文件中包含有URL链接，可以获取此艺术家音乐的更多细节：</target>
+      </trans-unit>
+      <trans-unit id="611107369528373248" xml:space="preserve" resname="custommusic_audiodescription_notloaded" approved="no">
+        <source>Provide an audio file for to the following song:</source>
+        <target state="translated">提供自定义曲目的音频文件：</target>
+      </trans-unit>
+      <trans-unit id="611107371453558784" xml:space="preserve" resname="custommusic_audiodescription_loaded" approved="no">
+        <source>You have previously provided the following audio file:</source>
+        <target state="translated">您之前提供了以下音频文件：</target>
+      </trans-unit>
+      <trans-unit id="611302747427090432" xml:space="preserve" resname="custommusic_audiosync_title" approved="no">
+        <source>Audio File Synchronization</source>
+        <target state="translated">音频文件同步</target>
+      </trans-unit>
+      <trans-unit id="611303369954078720" xml:space="preserve" resname="custommusic_audiosync_previewclip" approved="no">
+        <source>Target to match</source>
+        <target state="translated">目标匹配</target>
+      </trans-unit>
+      <trans-unit id="611303813979877376" xml:space="preserve" resname="custommusic_audiosync_loadedclip" approved="no">
+        <source>Your provided audio</source>
+        <target state="translated">您所提供的音频</target>
+      </trans-unit>
+      <trans-unit id="612421505268887552" xml:space="preserve" resname="unverifiedartistwarning_title" approved="no">
+        <source>Unverified Artist Warning</source>
+        <target state="translated">未经认证的艺术家警告</target>
+      </trans-unit>
+      <trans-unit id="609960657237618688" xml:space="preserve" resname="editor_action_createdifficulty" approved="no">
+        <source>Create chart: {0}</source>
+        <target state="translated">创建图表: {0}</target>
+      </trans-unit>
+      <trans-unit id="610028108012892160" xml:space="preserve" resname="editor_createdifficulty_copy" approved="no">
+        <source>Yes, copy from the {0} chart</source>
+        <target state="translated">是的，复制{0}图表</target>
+      </trans-unit>
+      <trans-unit id="611096607019806720" xml:space="preserve" resname="custommusic_url_description_custom" approved="no">
+        <source>The author of this level, {0}, has provided the following URL, which may be specific to the song, {1}:</source>
+        <target state="translated">这个关卡的作者,{0},提供了可能与歌曲相关URL链接，{1}：</target>
+      </trans-unit>
+      <trans-unit id="611122451809349632" xml:space="preserve" resname="custommusic_button_audioedittiming" approved="no">
+        <source>Edit Timing</source>
+        <target state="translated">编辑时间节点</target>
+      </trans-unit>
+      <trans-unit id="612423555172052992" xml:space="preserve" resname="button_iunderstand" approved="no">
+        <source>I Understand</source>
+        <target state="translated">我已知晓</target>
+      </trans-unit>
+      <trans-unit id="614945673847812096" xml:space="preserve" resname="custommusic_links_description" approved="no">
+        <source>One or more links have been provided that may help in obtaining a copy of this song or finding more information about the artist.</source>
+        <target state="translated">已提供一个或多个链接，可能有助于获取此歌曲的副本或查找有关艺术家的更多信息。</target>
+      </trans-unit>
+      <trans-unit id="614945941184360448" xml:space="preserve" resname="custommusic_links_button" approved="no">
+        <source>View Links</source>
+        <target state="translated">浏览链接</target>
+      </trans-unit>
+      <trans-unit id="616978452559212544" xml:space="preserve" resname="editor_notification_save_withoutfilename" approved="no">
+        <source>Level saved</source>
+        <target state="translated">关卡已保存</target>
+      </trans-unit>
+      <trans-unit id="618645622389256192" xml:space="preserve" resname="songselect_button_favorite_add" approved="no">
+        <source>Mark as Favorite</source>
+        <target state="translated">标记为收藏</target>
+      </trans-unit>
+      <trans-unit id="618645714328399872" xml:space="preserve" resname="songselect_button_favorite_remove" approved="no">
+        <source>Remove from Favorites</source>
+        <target state="translated">移除收藏</target>
+      </trans-unit>
+      <trans-unit id="618645795127472128" xml:space="preserve" resname="songselect_button_deletelevel" approved="no">
+        <source>Delete Level</source>
+        <target state="translated">删除关卡</target>
+      </trans-unit>
+      <trans-unit id="618645985863446528" xml:space="preserve" resname="songselect_button_managecustomlevel" approved="no">
+        <source>Manage...</source>
+        <target state="translated">管理……</target>
+      </trans-unit>
+      <trans-unit id="618710669861892096" xml:space="preserve" resname="songselect_folder_favorites" approved="no">
+        <source>Favorites</source>
+        <target state="translated">收藏夹</target>
+      </trans-unit>
+      <trans-unit id="621461981368201216" xml:space="preserve" resname="level_play_count" approved="no">
+        <source>Play Count: {0}</source>
+        <target state="translated">游玩次数: {0}</target>
+      </trans-unit>
+      <trans-unit id="622745255558295552" xml:space="preserve" resname="audiodisplay_button_play" approved="no">
+        <source>Play</source>
+        <target state="translated">播放</target>
+      </trans-unit>
+      <trans-unit id="622745278706659328" xml:space="preserve" resname="audiodisplay_button_pause" approved="no">
+        <source>Pause</source>
+        <target state="translated">暂停</target>
+      </trans-unit>
+      <trans-unit id="627795589527810048" xml:space="preserve" resname="language_description_lt" approved="no">
+        <source>Use Lithuanian translation by {0}.</source>
+        <target state="translated">请使用立陶宛语翻译{0}.</target>
+      </trans-unit>
+      <trans-unit id="627795780628688896" xml:space="preserve" resname="language_description_id" approved="no">
+        <source>Use Indonesian translation by {0}.</source>
+        <target state="translated">使用印尼语翻译{0}.</target>
+      </trans-unit>
+      <trans-unit id="618939559461040128" xml:space="preserve" resname="deletecustomlevel_confirmation" approved="no">
+        <source>Level deleted.
+Scoring data has been retained in case you import the same level again.</source>
+        <target state="translated">关卡已删除。
+模型数据已保留，用于防止重复导入同一关卡。</target>
+      </trans-unit>
+      <trans-unit id="650225794825367552" xml:space="preserve" resname="settings_levelfading_description_fadein" approved="no">
+        <source>Obstacles start hidden and fade in.</source>
+        <target state="translated">地形和敌人在远处隐藏并逐渐显现。</target>
+      </trans-unit>
+      <trans-unit id="650222244997148672" xml:space="preserve" resname="settings_levelfading" approved="no">
+        <source>Level Fading</source>
+        <target state="translated">关卡渐隐</target>
+      </trans-unit>
+      <trans-unit id="650225494643224576" xml:space="preserve" resname="settings_levelfading_fadein" approved="no">
+        <source>Fade In</source>
+        <target state="translated">远处渐隐</target>
+      </trans-unit>
+      <trans-unit id="650225624465321984" xml:space="preserve" resname="settings_levelfading_fadeinplus" approved="no">
+        <source>Fade In+</source>
+        <target state="translated">远处渐隐+</target>
+      </trans-unit>
+      <trans-unit id="650225686226448384" xml:space="preserve" resname="settings_levelfading_fadeout" approved="no">
+        <source>Fade Out</source>
+        <target state="translated">近处渐隐</target>
+      </trans-unit>
+      <trans-unit id="650225709408366592" xml:space="preserve" resname="settings_levelfading_fadeoutplus" approved="no">
+        <source>Fade Out+</source>
+        <target state="translated">近处渐隐+</target>
+      </trans-unit>
+      <trans-unit id="650225790589120512" xml:space="preserve" resname="settings_levelfading_description_disabled" approved="no">
+        <source>Obstacles appear normally.</source>
+        <target state="translated">地形及敌人正常显示。</target>
+      </trans-unit>
+      <trans-unit id="650225809438322688" xml:space="preserve" resname="settings_levelfading_description_fadeinplus" approved="no">
+        <source>Obstacles start hidden and fade in suddenly.</source>
+        <target state="translated">地形和敌人在稍远处隐藏并逐渐显现。</target>
+      </trans-unit>
+      <trans-unit id="650225823657013248" xml:space="preserve" resname="settings_levelfading_description_fadeout" approved="no">
+        <source>Obstacles start visible and fade out.</source>
+        <target state="translated">地形和敌人在远处出现并逐渐隐藏。</target>
+      </trans-unit>
+      <trans-unit id="650225831605219328" xml:space="preserve" resname="settings_levelfading_description_fadeoutplus" approved="no">
+        <source>Obstacles start visible and fade out far in advance.</source>
+        <target state="translated">地形和敌人在远处出现并快速隐藏。</target>
+      </trans-unit>
+      <trans-unit id="650238073012793344" xml:space="preserve" resname="settings_levelfading_fadein_invisible" approved="no">
+        <source>Invisible</source>
+        <target state="translated">全部隐藏</target>
+      </trans-unit>
+      <trans-unit id="650238209558360064" xml:space="preserve" resname="settings_levelfading_description_invisible" approved="no">
+        <source>Obstacles are completely invisible.</source>
+        <target state="translated">地形和敌人全部隐藏。</target>
+      </trans-unit>
+      <trans-unit id="610023780959170560" xml:space="preserve" resname="editor_difficultycreate_description" approved="no">
+        <source>A chart for this difficulty does not yet exist.
+Do you want to create one?</source>
+        <target state="translated">目前还没有绘制此难度的图表。
+您想创建一个吗？</target>
+      </trans-unit>
+      <trans-unit id="611096421765787648" xml:space="preserve" resname="custommusic_description" approved="no">
+        <source>The music artist for this song, {0}, has requested that their music not be redistributed, so you need to provide your own copy of the song to play this level.</source>
+        <target state="translated">这首歌的音乐艺术家,{0},禁止在未授权的情况下分享他们的歌曲，请提供您拥有的歌曲来游玩这个关卡。</target>
+      </trans-unit>
+      <trans-unit id="611303970494525440" xml:space="preserve" resname="custommusic_audiosync_instructions" approved="no">
+        <source>Check the timing of your provided audio against the reference clip and adjust if necessary.
+Use the buttons below, or drag left and right.</source>
+        <target state="translated">根据对照参考剪辑您提供的音频的时间节点，并在必要时进行调整。
+使用下面的按钮，向左或向右拖动。</target>
+      </trans-unit>
+      <trans-unit id="612421302243602432" xml:space="preserve" resname="unverifiedartistwarning_description" approved="no">
+        <source>The music artist for this custom level, {0}, is not registered in the Verified Artist database, so there is no guarantee that this level respects copyright restrictions.
+
+Please use discretion to avoid copyright violations, especially if you are planning to stream or record gameplay.
+
+If you believe the audio for this level is being used without proper permission, please report it wherever you obtained this custom level from.</source>
+        <target state="translated">此自定义关卡的音乐艺术家,{0},未在Verified artist数据库中注册，因此无法保证此关卡遵守版权限制。
+
+请谨慎规避侵犯版权，特别是直播游玩或发布游玩视频。
+
+如果您认为本关卡的音频未经许可被使用，请向您获取此自定义关卡的平台举报。</target>
+      </trans-unit>
+      <trans-unit id="617875122964705280" xml:space="preserve" resname="switch_leveleditor_description" approved="no">
+        <source>The level editor is not supported on the Nintendo Switch platform due to technical and platform limitations.
+Levels must be authored using another version of the game.</source>
+        <target state="translated">由于技术和平台限制，Nintendo Switch版本不支持关卡编辑器功能。
+请使用其他平台的游戏版本创建关卡。</target>
+      </trans-unit>
+      <trans-unit id="618935861091545088" xml:space="preserve" resname="deletecustomlevel_description" approved="no">
+        <source>Are you sure you want to delete this level?
+The level will be permanently erased from storage.</source>
+        <target state="translated">确定删除此关卡？
+该关卡数据将会从存储器中永久删除。</target>
+      </trans-unit>
+      <trans-unit id="622635393503506432" xml:space="preserve" resname="custommusic_badcorrelation_description" approved="no">
+        <source>The audio you provided doesn't seem to match the original song (based on comparison to the audio preview included with the level).
+
+Do you still want to continue with this audio?</source>
+        <target state="translated">您所提供的音频似乎与原曲不符（对比关卡内包含的音频预览）。
+
+您还要继续使用这段音频吗？</target>
+      </trans-unit>
+      <trans-unit id="609960527738482688" xml:space="preserve" resname="editor_action_deletedifficulty" approved="no">
+        <source>Delete chart: {0}</source>
+        <target state="translated">删除图表: {0}</target>
       </trans-unit>
     </body>
   </file>
