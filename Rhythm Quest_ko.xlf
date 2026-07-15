@@ -4483,6 +4483,14 @@ Scoring data has been retained in case you import the same level again.</source>
         <source>Air jump wings are colored blue, flight path wings are colored green.</source>
         <target state="translated">공중점프를 파란색으로, 비행 경로 날개를 초록으로 표시합니다.</target>
       </trans-unit>
+      <trans-unit id="650225809438322688" xml:space="preserve" resname="settings_levelfading_description_fadeinplus">
+        <source>Obstacles start hidden and fade in suddenly.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="650225831605219328" xml:space="preserve" resname="settings_levelfading_description_fadeoutplus">
+        <source>Obstacles start visible and fade out far in advance.</source>
+        <target></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
