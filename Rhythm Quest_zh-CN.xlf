@@ -172,9 +172,9 @@
           <source>Adjust the volume of the game music.</source>
           <target>调整游戏音乐的音量。</target>
         </trans-unit>
-        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description">
+        <trans-unit id="354080359276544" xml:space="preserve" resname="settings_sfxvolume_description" approved="no">
           <source>Adjust the volume of the in-game sound effects.</source>
-          <target>调整游戏与界面音效音量。</target>
+          <target state="translated">调整游戏音效音量。</target>
         </trans-unit>
         <trans-unit id="354206066761728" xml:space="preserve" resname="settings_sfxvolume">
           <source>Sfx Volume</source>
@@ -384,9 +384,9 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Moral Support: fuzzybunny2</source>
           <target>特别鸣谢：fuzzybunny2</target>
         </trans-unit>
-        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits">
+        <trans-unit id="1099932480659456" xml:space="preserve" resname="menu_credits" approved="no">
           <source>Credits</source>
-          <target>感谢名单</target>
+          <target state="translated">制作人员名单</target>
         </trans-unit>
         <trans-unit id="2857056911056896" xml:space="preserve" resname="menu_resume" approved="yes">
           <source>Resume</source>
@@ -412,13 +412,13 @@ Graphics: DDRKirby(ISQ)</source>
           <source>Control Positioning</source>
           <target>按键位置</target>
         </trans-unit>
-        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled">
+        <trans-unit id="3232070810296320" xml:space="preserve" resname="settings_flipcontrols_description_disabled" approved="no">
           <source>(Default) Tap left half of screen to jump, tap right half to attack.</source>
-          <target>（默认）点击屏幕左侧跳跃，点击屏幕右侧攻击。</target>
+          <target state="translated">（默认）轻触左半屏幕跳跃，轻触右半屏幕攻击。</target>
         </trans-unit>
-        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled">
+        <trans-unit id="3232083653255168" xml:space="preserve" resname="settings_flipcontrols_description_enabled" approved="no">
           <source>Tap left half of screen to attack, tap right half to jump.</source>
-          <target>点击屏幕左侧攻击，点击屏幕右侧跳跃。</target>
+          <target state="translated">点击左半屏幕攻击，点击右半屏幕跳跃。</target>
         </trans-unit>
         <trans-unit id="3421541629943808" xml:space="preserve" resname="control_jump" approved="yes">
           <source>Jump</source>
@@ -514,9 +514,9 @@ Are you sure you want to proceed?</source>
           <source>&lt;color=#{0}&gt;Tap the left side&lt;/color&gt; of the screen to Attack.</source>
           <target state="translated">&lt;color=#{0}&gt;点击屏幕左侧&lt;/color&gt;以攻击。</target>
         </trans-unit>
-        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop">
+        <trans-unit id="5811415876100096" xml:space="preserve" resname="tutorial_outro_desktop" approved="no">
           <source>You can change these controls in the &lt;color=yellow&gt;"Settings" &lt;/color&gt; menu.</source>
-          <target>你可以在&lt;color=yellow&gt;主选单&lt;/color&gt;更改操作。</target>
+          <target state="translated">您可以在&lt;color=yellow&gt;主菜单设置&lt;/color&gt;中更改控制按键。</target>
         </trans-unit>
         <trans-unit id="5811667421093888" xml:space="preserve" resname="tutorial_outro_mobile">
           <source>&lt;color=yellow&gt;Jump&lt;/color&gt; and &lt;color=yellow&gt;Attack&lt;/color&gt; with the music to finish the rest of the level!</source>
@@ -668,11 +668,11 @@ Remaining:</source>
           <source>World {0} &gt;</source>
           <target state="final">世界{0} &gt;</target>
         </trans-unit>
-        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame">
+        <trans-unit id="92133789223280640" xml:space="preserve" resname="settings_audiolatency_description_ingame" approved="no">
           <source>Adjusts audio latency calibration.
 Lower if audio is too early. Raise if audio is too late.</source>
-          <target>调整音频延迟。
-如果音频比关卡早就调低一些，否则就调高一些。</target>
+          <target state="translated">调整音频延迟。
+若音频过早，请调低数值。若音频过晚，请调高数值。</target>
         </trans-unit>
         <trans-unit id="93028977504346112" xml:space="preserve" resname="too_early" approved="yes">
           <source>Too Early</source>
@@ -736,22 +736,22 @@ Sorry about this!
 十分抱歉！
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
-        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome">
+        <trans-unit id="119239080454959104" xml:space="preserve" resname="demo_welcome" approved="no">
           <source>Welcome to the Rhythm Quest Demo!</source>
-          <target>欢迎来到 Rhythm Quest 的试Demo玩版！</target>
+          <target state="translated">欢迎来到 Rhythm Quest Demo版！</target>
         </trans-unit>
-        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice">
+        <trans-unit id="119239084846395392" xml:space="preserve" resname="demo_notice" approved="no">
           <source>This is an early demo build of Rhythm Quest, so only some levels are accessible, and everything in the game is still subject to change!
 
 If you want to wishlist the game on Steam or subscribe to the mailing list or Discord to be notified when the full game releases, please visit &lt;u&gt;rhythmquestgame.com&lt;/u&gt;
 
 Have fun, and thanks for playing!
                                                                 --DDRKirby(ISQ)</source>
-          <target>这是 Rhythm Quest 的早期试玩版，所以只有部分关卡开放，而且游戏的功能后续可能会有更改！
+          <target state="translated">这是 Rhythm Quest 的早期试玩版，所以只有部分关卡开放，部分内容后续可能更改！
 
-你可以访问 &lt;u&gt;rhythmquestgame.com&lt;/u&gt; 以在 Steam 上添加至愿望单、订阅邮件列表、加入 Discord 服务器，以及获取游戏发布的通知。
+如果您愿意将此游戏添加至Steam愿望单、订阅邮件列表、加入 Discord 服务器，以及获取完整版发布的通知，请访问 &lt;u&gt;rhythmquestgame.com&lt;/u&gt; 。
 
-感谢你玩我的游戏，祝你玩得愉快！
+感谢您的游玩，祝您愉快！
                                                                 --DDRKirby(ISQ)</target>
         </trans-unit>
         <trans-unit id="119550684518199296" xml:space="preserve" resname="webgl_notice" approved="no">
@@ -762,13 +762,13 @@ Please make sure hardware graphics acceleration is enabled for your browser for 
 Save data is stored in your browser and may potentially not persist across version updates.
 
 For the best experience, feel free to try the standalone offline build instead!</source>
-          <target state="translated">备注：你正在游玩试玩版的浏览器版本，所以可能会出现少许音频问题，游戏元素和音乐节拍同步的精确度也会降低。
+          <target state="translated">备注：您正在游玩试玩版的浏览器版本，因此您可能会遇到一些轻微的音频卡顿和同步准确性不稳定的情况。
 
-为了你的游戏体验，请在浏览器设置里启用图形硬件加速。
+为了您的游戏体验，请在浏览器设置里启用图形硬件加速。
 
-游戏存档储存在你的浏览器里，并且游戏更新时可能无法继承存档。
+游戏存档储存在您的浏览器里，并且游戏更新时可能无法继承存档。
 
-若要获得最佳的游戏体验，你可以尝试下载离线版本游玩！</target>
+若要获得最佳的游戏体验，您可以尝试下载离线版本游玩！</target>
         </trans-unit>
         <trans-unit id="119570895791239168" xml:space="preserve" resname="demoend">
           <source>You've reached the end of the Rhythm Quest demo - thank you for playing!</source>
@@ -1974,9 +1974,9 @@ Do you want to save them first?</source>
           <source>Don't Save</source>
           <target>不保存</target>
         </trans-unit>
-        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings">
+        <trans-unit id="300559402272600064" xml:space="preserve" resname="editor_button_settings" approved="no">
           <source>Settings...</source>
-          <target>设置</target>
+          <target state="translated">设置……</target>
         </trans-unit>
         <trans-unit id="301313836623638528" xml:space="preserve" resname="settings_screenfilter_blur">
           <source>Blur</source>
@@ -4419,11 +4419,11 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       </trans-unit>
       <trans-unit id="627795589527810048" xml:space="preserve" resname="language_description_lt" approved="no">
         <source>Use Lithuanian translation by {0}.</source>
-        <target state="translated">请使用立陶宛语翻译{0}.</target>
+        <target state="translated">使用{0} 制作的立陶宛语翻译。</target>
       </trans-unit>
       <trans-unit id="627795780628688896" xml:space="preserve" resname="language_description_id" approved="no">
         <source>Use Indonesian translation by {0}.</source>
-        <target state="translated">使用印尼语翻译{0}.</target>
+        <target state="translated">使用{0} 制作的印度尼西亚语翻译。</target>
       </trans-unit>
       <trans-unit id="618939559461040128" xml:space="preserve" resname="deletecustomlevel_confirmation" approved="no">
         <source>Level deleted.
