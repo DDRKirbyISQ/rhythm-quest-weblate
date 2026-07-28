@@ -894,7 +894,7 @@ Pour une meilleure expérience, considérez d'essayer la version hors ligne !<
         </trans-unit>
         <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
           <source>UI Rumble</source>
-          <target state="needs-translation">Vibration liée à l'interface</target>
+          <target state="translated">Vibration liée à l'interface</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -3910,6 +3910,126 @@ Risque de dupliquer vos actions sinon !</target>
 "Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
         <target state="translated">Une musique rapide et difficile inspirée par celles d'autres jeux de rythme.
 Les Clématites sont des plantes grimpantes à fleurs qui fleurissent souvent en forme d'étoile.</target>
+      </trans-unit>
+      <trans-unit id="591052706317905920" xml:space="preserve" resname="settings_vsync_limited" approved="no">
+        <source>Limited</source>
+        <target state="translated">Limité</target>
+      </trans-unit>
+      <trans-unit id="591052968042475520" xml:space="preserve" resname="settings_vsync_description_limited" approved="no">
+        <source>Manually limits frame rate to 60 frames per second. Use in special cases where refresh synchronization is not desired, but rendering speed should be limited.</source>
+        <target state="needs-translation">Limite manuellement la fréquence d'image à 60 image par seconde. Utiliser dans les cas spécifiques où la synchronisation du rafraîchissement n'est pas souhaitée, mais où la vitesse de rendu doit être limitée.</target>
+      </trans-unit>
+      <trans-unit id="591053594969288704" xml:space="preserve" resname="settings_framerate_description_half" approved="no">
+        <source>Render at half of device refresh rate. Use to conserve battery, or for high refresh rate devices where full rendering speed is unnecessary.</source>
+        <target state="translated">Affiche à la moitié de la fréquence de rafraîchissement de l'appareil. À utiliser pour économiser la batterie ou sur les appareils à fréquence de rafraîchissement élevée où la vitesse d'affichage maximale n'est pas nécessaire.</target>
+      </trans-unit>
+      <trans-unit id="591071810214998016" xml:space="preserve" resname="settings_strictinputs_description_enabled" approved="no">
+        <source>Force an immediate respawn whenever any extraneous inputs are made.</source>
+        <target state="needs-translation">Forcer immédiatement la réapparition dès qu'un mouvement indésirable est effectué.</target>
+      </trans-unit>
+      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_jumptype_description" approved="no">
+        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        <target state="needs-translation">Les ailes pour sauter sont bleues, celles pour voler sont vertes.</target>
+      </trans-unit>
+      <trans-unit id="591052393326358528" xml:space="preserve" resname="settings_framerate" approved="no">
+        <source>Frame Rate</source>
+        <target state="translated">Fréquence d'image</target>
+      </trans-unit>
+      <trans-unit id="591053590082924544" xml:space="preserve" resname="settings_framerate_description_normal" approved="no">
+        <source>(Default) Use native device refresh rate to render as fast as possible.</source>
+        <target state="needs-translation">(Par défaut) Utilise la fréquence de rafraichissement native de l'appareil pour obtenir un rendu le plus vite possible.</target>
+      </trans-unit>
+      <trans-unit id="591053958275706880" xml:space="preserve" resname="settings_half" approved="no">
+        <source>Half</source>
+        <target state="translated">Moitié</target>
+      </trans-unit>
+      <trans-unit id="591062119338520576" xml:space="preserve" resname="settings_marathonmode" approved="no">
+        <source>Marathon Mode</source>
+        <target state="translated">Mode marathon</target>
+      </trans-unit>
+      <trans-unit id="591062289165889536" xml:space="preserve" resname="settings_marathonmode_description_disabled" approved="no">
+        <source>Play each level individually as normal.</source>
+        <target state="needs-translation">Jouer à chaque niveaux séparément, comme d'habitude.</target>
+      </trans-unit>
+      <trans-unit id="591062292584247296" xml:space="preserve" resname="settings_marathonmode_description_enabled" approved="no">
+        <source>Automatically proceed directly to the next level after finishing each one.</source>
+        <target state="translated">Passer automatiquement au niveau suivant dès la fin de chaque niveau.</target>
+      </trans-unit>
+      <trans-unit id="591068283547725824" xml:space="preserve" resname="settings_strictinputs" approved="no">
+        <source>Strict Inputs</source>
+        <target state="needs-translation">Entrées strictes</target>
+      </trans-unit>
+      <trans-unit id="591069604375998464" xml:space="preserve" resname="settings_strictinputs_partial" approved="no">
+        <source>Partial</source>
+        <target state="translated">Partiel</target>
+      </trans-unit>
+      <trans-unit id="591071807786496000" xml:space="preserve" resname="settings_strictinputs_description_disabled" approved="no">
+        <source>(Default) No punishment for extra attack or jump inputs.</source>
+        <target state="translated">(Par défaut) Aucune pénalité pour les attaques ou les sauts supplémentaires.</target>
+      </trans-unit>
+      <trans-unit id="591071808856043520" xml:space="preserve" resname="settings_strictinputs_description_partial" approved="no">
+        <source>Use increased cooldown after missed attacks to punish extra attack presses.</source>
+        <target state="translated">Utilisez un temps de recharge plus long après les attaques manquées pour pénaliser les attaques superflues.</target>
+      </trans-unit>
+      <trans-unit id="591074951232794624" xml:space="preserve" resname="extra_input" approved="no">
+        <source>Extra Input</source>
+        <target state="needs-translation">Entrée supplémentaire</target>
+      </trans-unit>
+      <trans-unit id="592160924427399168" xml:space="preserve" resname="editor_text_musicload_restrictions" approved="no">
+        <source>Click below to select an audio file to load.
+
+Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</source>
+        <target state="needs-translation">Cliquez ci-dessous pour sélectionner le fichier audio à charger.
+
+Note : Des restrictions de publication peuvent s'appliquer si vous n'êtes pas autorisé à utiliser ou à rediffuser cette musique !</target>
+      </trans-unit>
+      <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic" approved="no">
+        <source>Click below to load music for this level.</source>
+        <target state="translated">Cliquez ci-dessous pour charger la musique de ce niveau.</target>
+      </trans-unit>
+      <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch" approved="no">
+        <source>(type to search...)</source>
+        <target state="translated">(Taper pour rechercher...)</target>
+      </trans-unit>
+      <trans-unit id="592881952782856192" xml:space="preserve" resname="editor_artistselect_unverifiedartist" approved="no">
+        <source>The artist isn't in this list</source>
+        <target state="translated">L'artiste n'est pas dans cette liste</target>
+      </trans-unit>
+      <trans-unit id="594796035111170048" xml:space="preserve" resname="editor_artistselect_instructions" approved="no">
+        <source>Select the artist of the song from the list below:</source>
+        <target state="translated">Sélectionnez l'interprète de la chanson dans la liste ci-dessous :</target>
+      </trans-unit>
+      <trans-unit id="602437255543173120" xml:space="preserve" resname="loading" approved="no">
+        <source>Loading...</source>
+        <target state="translated">Chargement...</target>
+      </trans-unit>
+      <trans-unit id="602437369808596992" xml:space="preserve" resname="editor_artistselect_database_error" approved="no">
+        <source>Could not load Verified Artist database!
+An internet connection is required to select a Verified Artist.
+Try again later.</source>
+        <target state="needs-translation">Impossible de charger la base de données des Artistes Vérifiés !
+Une connexion Internet est nécessaire pour sélectionner un Artiste Vérifié.
+Réessayez plus tard.</target>
+      </trans-unit>
+      <trans-unit id="602715196751654912" xml:space="preserve" resname="editor_artistusage" approved="no">
+        <source>Artist Permission: {0}</source>
+        <target state="translated">Autorisation de l'artiste : {0}</target>
+      </trans-unit>
+      <trans-unit id="602715319154028544" xml:space="preserve" resname="editor_artistpermission_approved" approved="no">
+        <source>Approved</source>
+        <target state="translated">Approuvé</target>
+      </trans-unit>
+      <trans-unit id="602715428726026240" xml:space="preserve" resname="editor_artistpermission_mostlyapproved" approved="no">
+        <source>Mostly Approved</source>
+        <target state="needs-translation">Presque approuvé</target>
+      </trans-unit>
+      <trans-unit id="602715430588297216" xml:space="preserve" resname="editor_artistpermission_partiallyapproved" approved="no">
+        <source>Partially Approved</source>
+        <target state="needs-translation">Partiellement approuvé</target>
+      </trans-unit>
+      <trans-unit id="602715431259385856" xml:space="preserve" resname="editor_artistpermission_denied" approved="no">
+        <source>Denied</source>
+        <target state="translated">Refusé</target>
       </trans-unit>
     </body>
   </file>
