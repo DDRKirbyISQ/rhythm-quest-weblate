@@ -3513,6 +3513,10 @@ If you believe the audio for this level is being used without proper permission,
         <source>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</source>
         <target state="translated">此關卡的音樂藝術家,{0},在文件中包含有URL網址，可以獲取此藝術家音樂的更多細節：</target>
       </trans-unit>
+      <trans-unit id="611096421765787648" xml:space="preserve" resname="custommusic_description" approved="no">
+        <source>The music artist for this song, {0}, has requested that their music not be redistributed, so you need to provide your own copy of the song to play this level.</source>
+        <target state="translated">這首歌的音樂藝術家,{0},禁止在未授權的情況下分享他們的歌曲，請提供您擁有的歌曲來遊玩這個關卡。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
