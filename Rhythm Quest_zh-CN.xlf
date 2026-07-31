@@ -4225,7 +4225,7 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       </trans-unit>
       <trans-unit id="604943691267485696" xml:space="preserve" resname="editor_unverifiedartistname_nearmatch" approved="no">
         <source>&lt;sprite name="fonticons_8"&gt; Did you mean to use the following artist?</source>
-        <target state="translated">&lt;sprite name="fonticons_8"&gt; 你是想使用下列艺术家吗？</target>
+        <target state="translated">&lt;sprite name="fonticons_8"&gt; 您是想使用下列艺术家吗？</target>
       </trans-unit>
       <trans-unit id="604944351903920128" xml:space="preserve" resname="editor_unverifiedartistname_exactmatch_2" approved="no">
         <source>Click below to use that artist's entry.</source>
@@ -4285,7 +4285,7 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       </trans-unit>
       <trans-unit id="610022060854128640" xml:space="preserve" resname="editor_deletedifficulty_description" approved="no">
         <source>Are you sure you want to delete the chart for this difficulty?</source>
-        <target state="translated">您确定要删除在此难度下绘制的地图吗？</target>
+        <target state="translated">您确定要删除在此难度下绘制的图表吗？</target>
       </trans-unit>
       <trans-unit id="610027983639195648" xml:space="preserve" resname="editor_createdifficulty_createnew" approved="no">
         <source>Yes, create from scratch</source>
@@ -4307,7 +4307,7 @@ Only follow links that you trust -- never download or open unknown files!</sourc
         <source>Banner Image
 (will be cropped to 200x75 ratio):</source>
         <target state="translated">封面图
-(将会被裁剪成200x75的比例):</target>
+(将会被裁剪成200x75的比率):</target>
       </trans-unit>
       <trans-unit id="610969822919700480" xml:space="preserve" resname="songselect_button_managemusic" approved="no">
         <source>Manage Audio</source>
@@ -4319,7 +4319,7 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       </trans-unit>
       <trans-unit id="610970324034170880" xml:space="preserve" resname="songselect_button_visitartisturl" approved="no">
         <source>Visit Song/Artist Webpage</source>
-        <target state="translated">浏览歌曲/艺人主页</target>
+        <target state="translated">浏览歌曲/艺术家主页</target>
       </trans-unit>
       <trans-unit id="611104313331986432" xml:space="preserve" resname="custommusic_url_button_open" approved="no">
         <source>Open Link</source>
@@ -4327,7 +4327,7 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       </trans-unit>
       <trans-unit id="611104737942351872" xml:space="preserve" resname="custommusic_url_description_artist" approved="no">
         <source>The music artist for this level, {0}, has the following URL on file, which may provide more details on how to obtain their music:</source>
-        <target state="translated">本关卡的音乐艺术家,{0},在文件中包含有URL链接，可以获取此艺术家音乐的更多细节：</target>
+        <target state="translated">此关卡的音乐艺术家,{0},在文件中包含有URL链接，可以获取此艺术家音乐的更多细节：</target>
       </trans-unit>
       <trans-unit id="611107369528373248" xml:space="preserve" resname="custommusic_audiodescription_notloaded" approved="no">
         <source>Provide an audio file for to the following song:</source>
@@ -4363,7 +4363,7 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       </trans-unit>
       <trans-unit id="611096607019806720" xml:space="preserve" resname="custommusic_url_description_custom" approved="no">
         <source>The author of this level, {0}, has provided the following URL, which may be specific to the song, {1}:</source>
-        <target state="translated">这个关卡的作者,{0},提供了可能与歌曲相关URL链接，{1}：</target>
+        <target state="translated">此关卡的作者,{0},提供了可能与歌曲相关URL链接，{1}：</target>
       </trans-unit>
       <trans-unit id="611122451809349632" xml:space="preserve" resname="custommusic_button_audioedittiming" approved="no">
         <source>Edit Timing</source>
@@ -4457,7 +4457,7 @@ Scoring data has been retained in case you import the same level again.</source>
       </trans-unit>
       <trans-unit id="650225790589120512" xml:space="preserve" resname="settings_levelfading_description_disabled" approved="no">
         <source>Obstacles appear normally.</source>
-        <target state="translated">地形及敌人正常显示。</target>
+        <target state="translated">地形和敌人正常显示。</target>
       </trans-unit>
       <trans-unit id="650225809438322688" xml:space="preserve" resname="settings_levelfading_description_fadeinplus" approved="no">
         <source>Obstacles start hidden and fade in suddenly.</source>
