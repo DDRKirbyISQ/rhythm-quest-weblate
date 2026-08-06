@@ -1336,9 +1336,9 @@ Ar norėtumėte įjungti ekrano skaitymo režimą?
           <source>Crossway Corridor</source>
           <target state="final">Kryžkelių koridorius</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="yes">
-          <source>Planar Puzzle</source>
-          <target state="final">Planarinė dėlionė</target>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
+          <source>Gemstone Garden</source>
+          <target state="needs-translation">Planarinė dėlionė</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="yes">
           <source>Brilliant Boulevard</source>
