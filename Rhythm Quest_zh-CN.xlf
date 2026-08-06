@@ -156,13 +156,13 @@
           <source>Use default gameplay zoom level. Should suffice in most cases.</source>
           <target>使用默认的游戏缩放等级，适用于大多数情况。</target>
         </trans-unit>
-        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far">
+        <trans-unit id="327557367554048" xml:space="preserve" resname="settings_zoomlevel_description_far" approved="no">
           <source>Forces a zoomed-out gameplay view.</source>
-          <target>强制缩小游戏视野。</target>
+          <target state="translated">强制拉远游戏视野。</target>
         </trans-unit>
-        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near">
+        <trans-unit id="327558932029440" xml:space="preserve" resname="settings_zoomlevel_description_near" approved="no">
           <source>Forces a zoomed-in gameplay view.</source>
-          <target>强制放大游戏视野。</target>
+          <target state="translated">强制拉近游戏视野。</target>
         </trans-unit>
         <trans-unit id="353711642206208" xml:space="preserve" resname="settings_musicvolume">
           <source>Music Volume</source>
@@ -312,9 +312,9 @@
           <source>Changelog</source>
           <target state="final">更新日志</target>
         </trans-unit>
-        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1">
+        <trans-unit id="744127101231104" xml:space="preserve" resname="world_1" approved="no">
           <source>Green Grasslands</source>
-          <target>绿色草原</target>
+          <target state="translated">青色草原</target>
         </trans-unit>
         <trans-unit id="744164334067712" xml:space="preserve" resname="world_2">
           <source>Cloudy Courseway</source>
@@ -328,9 +328,9 @@
           <source>Magical Metropolis</source>
           <target>魔法之都</target>
         </trans-unit>
-        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5">
+        <trans-unit id="744236983607296" xml:space="preserve" resname="world_5" approved="no">
           <source>Crystal Caverns</source>
-          <target>水晶洞窟</target>
+          <target state="translated">水晶迷洞</target>
         </trans-unit>
         <trans-unit id="744334979325952" xml:space="preserve" resname="world_6">
           <source>Space Sojourn</source>
@@ -344,9 +344,9 @@
           <source>Raceway Plain</source>
           <target>跑道平原</target>
         </trans-unit>
-        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3">
+        <trans-unit id="747329120985088" xml:space="preserve" resname="level1-3" approved="no">
           <source>River Crossing</source>
-          <target>渡河途中</target>
+          <target state="translated">穿越河道</target>
         </trans-unit>
         <trans-unit id="747330756763648" xml:space="preserve" resname="level1-4">
           <source>Mystic Forest</source>
@@ -1338,11 +1338,11 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
           <source>Gemstone Garden</source>
-          <target state="needs-translation">平面迷阵</target>
+          <target state="translated">宝石花园</target>
         </trans-unit>
-        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
+        <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="no">
           <source>Brilliant Boulevard</source>
-          <target>辉煌大道</target>
+          <target state="translated">金光大道</target>
         </trans-unit>
         <trans-unit id="232265906994851840" xml:space="preserve" resname="level6-2">
           <source>Speedy Starfield</source>
@@ -1430,13 +1430,13 @@ Please connect a supported gamepad device.</source>
           <source>Reduces some background effects to improve framerate.</source>
           <target>减少背景效果以提高帧率。</target>
         </trans-unit>
-        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal">
+        <trans-unit id="254021837654896640" xml:space="preserve" resname="settings_graphicsquality_description_normal" approved="no">
           <source>Full graphics quality.</source>
-          <target>最佳渲染质量。</target>
+          <target state="translated">最佳画面质量。</target>
         </trans-unit>
-        <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality">
+        <trans-unit id="254023208466690048" xml:space="preserve" resname="settings_graphicsquality" approved="no">
           <source>Graphics Quality</source>
-          <target>渲染质量</target>
+          <target state="translated">画面质量</target>
         </trans-unit>
         <trans-unit id="255267299099717632" xml:space="preserve" resname="settings_uivolume">
           <source>UI Volume</source>
@@ -1446,9 +1446,9 @@ Please connect a supported gamepad device.</source>
           <source>Adjust the volume of the user interface sounds.</source>
           <target>调整界面的音量。</target>
         </trans-unit>
-        <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes">
+        <trans-unit id="255273572595707904" xml:space="preserve" resname="settings_menu_audio_volumes" approved="no">
           <source>Adjust audio volume settings.</source>
-          <target>调整音量设置。</target>
+          <target state="translated">调整音频音量设置。</target>
         </trans-unit>
         <trans-unit id="255998149349126144" xml:space="preserve" resname="settings_framequeueing">
           <source>Frame Queueing</source>
@@ -1598,10 +1598,10 @@ Please connect a supported gamepad device.</source>
           <source>Adds a timeline display for expected inputs.</source>
           <target>添加一条直接显示所需操作的时间线。</target>
         </trans-unit>
-        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description">
+        <trans-unit id="276960934266449920" xml:space="preserve" resname="editor_tool_basicenemy_description" approved="no">
           <source>&lt;color=#ffff00&gt;Basic Enemies&lt;/color&gt;
 Click to insert red or green basic enemies.</source>
-          <target>&lt;color=#ffff00&gt;基本敌人&lt;/color&gt;
+          <target state="translated">&lt;color=#ffff00&gt;基础敌人&lt;/color&gt;
 点击插入红色或绿色的基本敌人。</target>
         </trans-unit>
         <trans-unit id="276961256011509760" xml:space="preserve" resname="editor_tool_flightpath_description">
@@ -1652,9 +1652,9 @@ Click to insert purple 3-hit ghost enemies.</source>
           <target>&lt;color=#ffff00&gt;幽灵敌人&lt;/color&gt;
 点击插入紫色的三连击幽灵。</target>
         </trans-unit>
-        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy">
+        <trans-unit id="277028233967087616" xml:space="preserve" resname="editor_action_basicenemy" approved="no">
           <source>Insert basic enemy at beat {0}</source>
-          <target>在第 {0} 拍处插入基本敌人</target>
+          <target state="translated">在第 {0} 拍处插入基础敌人</target>
         </trans-unit>
         <trans-unit id="277028236349452288" xml:space="preserve" resname="editor_action_doublehitenemy">
           <source>Insert double hit enemy at beat {0}</source>
@@ -1684,7 +1684,7 @@ Click to insert checkpoints.</source>
         </trans-unit>
         <trans-unit id="277028673198796800" xml:space="preserve" resname="editor_action_editramp" approved="no">
           <source>Edit ramp from beat {0} to {1}</source>
-          <target state="translated">编辑第 {0} 拍至第 {1} 拍的斜度</target>
+          <target state="translated">编辑第 {0} 拍与第 {1} 拍之间的斜度</target>
         </trans-unit>
         <trans-unit id="277028673823748096" xml:space="preserve" resname="editor_action_insertfloor">
           <source>Insert floor at beat {0}</source>
@@ -2140,9 +2140,9 @@ Click to add jumps or winged air jumps. Prefer winged air jumps when possible.</
           <source>Image file too large! ({0} MB) Choose an image below {1} MB.</source>
           <target state="translated">图片文件太大！({0} MB) 选择一个低于 {1} MB的图片。</target>
         </trans-unit>
-        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay">
+        <trans-unit id="307425125959774208" xml:space="preserve" resname="customlevel_chartauthordisplay" approved="no">
           <source>Chart by {0}</source>
-          <target>谱面作者：{0}</target>
+          <target state="translated">图表作者：{0}</target>
         </trans-unit>
         <trans-unit id="307473983372832768" xml:space="preserve" resname="menu_customlevels_openfolder">
           <source>Open levels folder</source>
@@ -2338,23 +2338,23 @@ Note: Coin Sfx play in perfect fifths
 注意：金币音效为标准五跨度
 (例如：C调 -&gt; 金币音效的音调将是 C 和 G)</target>
         </trans-unit>
-        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title">
+        <trans-unit id="338560612325699584" xml:space="preserve" resname="editor_palette_dialog_title" approved="no">
           <source>Palette: Section {0}</source>
-          <target>色板：区域 {0}</target>
+          <target state="translated">调色板：区域 {0}</target>
         </trans-unit>
-        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette">
+        <trans-unit id="338618746176057344" xml:space="preserve" resname="editor_action_palette" approved="no">
           <source>Change color palette for section {0}</source>
-          <target>更改区域 {0} 的色板</target>
+          <target state="translated">更改区域 {0} 的调色板</target>
         </trans-unit>
         <trans-unit id="338618946756063232" xml:space="preserve" resname="editor_tool_palette_description" approved="no">
           <source>&lt;color=#ffff00&gt;Palettes&lt;/color&gt;
 Click on a checkpoint section to edit its color palette.</source>
-          <target state="translated">&lt;color=#ffff00&gt;色板&lt;/color&gt;
-点击存档点区域来编辑其色板。</target>
+          <target state="translated">&lt;color=#ffff00&gt;调色板&lt;/color&gt;
+点击存档点区域来编辑其调色板。</target>
         </trans-unit>
-        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette">
+        <trans-unit id="338618977655500800" xml:space="preserve" resname="editor_tooltip_palette" approved="no">
           <source>Palettes</source>
-          <target>色板</target>
+          <target state="translated">调色板</target>
         </trans-unit>
         <trans-unit id="338839593956454400" xml:space="preserve" resname="editor_tool_particles_description">
           <source>&lt;color=#ffff00&gt;Particles&lt;/color&gt;
@@ -2502,9 +2502,9 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Change the color of rolling spike obstacles.</source>
           <target state="translated">更改齿轮怪的颜色。</target>
         </trans-unit>
-        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description">
+        <trans-unit id="357290331158130688" xml:space="preserve" resname="settings_menu_colorskins_colors_description" approved="no">
           <source>Tweak obstacle color palettes.</source>
-          <target>调整障碍色板颜色。</target>
+          <target state="translated">调整障碍调色板颜色。</target>
         </trans-unit>
         <trans-unit id="357290536003743744" xml:space="preserve" resname="settings_menu_colorskins_wings_description" approved="no">
           <source>Change the color of floating wings.</source>
@@ -2856,9 +2856,9 @@ Check the code and try again.</source>
           <source>(name of the music track)</source>
           <target>(音乐曲目名称)</target>
         </trans-unit>
-        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder">
+        <trans-unit id="375933032074096640" xml:space="preserve" resname="editor_input_musicartist_placeholder" approved="no">
           <source>(credit the song's artist)</source>
-          <target>(歌曲艺术家鸣谢)</target>
+          <target state="translated">(歌曲艺术家名单)</target>
         </trans-unit>
         <trans-unit id="375933240270958592" xml:space="preserve" resname="editor_input_chartauthor_placeholder" approved="no">
           <source>(your name)</source>
@@ -3219,7 +3219,7 @@ from Piano Sonata No. 11</target>
       </trans-unit>
       <trans-unit id="437523904120795136" xml:space="preserve" resname="difficulty_description_normal_1" approved="no">
         <source>The way Rhythm Quest was meant to be played.</source>
-        <target state="translated">Rhythm Quest 本来的难度。</target>
+        <target state="translated">Rhythm Quest 之道的难度。</target>
       </trans-unit>
       <trans-unit id="453822713482227712" xml:space="preserve" resname="difficulty_label_newline" approved="yes">
         <source>Difficulty:
@@ -3386,7 +3386,7 @@ I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</so
       <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
         <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
 This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
-        <target state="translated">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏 “Melody Muncher”。
+        <target state="translated">最初出现在我在 2015 年参加 Ludum Dare 游戏制作比赛时制作的两键节奏游戏《Melody Muncher》中。
 这是这首歌曲的 “专家混音” ，是为了增加难度而在 Game Jam 结束后的一次更新中添加的。</target>
       </trans-unit>
       <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
@@ -3755,7 +3755,7 @@ May cause doubled inputs otherwise!</source>
       </trans-unit>
       <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="no">
         <source>Diamonds + Stars</source>
-        <target state="translated">钻石 + 星星</target>
+        <target state="translated">菱形方块 + 星星</target>
       </trans-unit>
       <trans-unit id="546527134078513152" xml:space="preserve" resname="particle_dots" approved="no">
         <source>Dots</source>
@@ -4367,7 +4367,7 @@ Only follow links that you trust -- never download or open unknown files!</sourc
       </trans-unit>
       <trans-unit id="611122451809349632" xml:space="preserve" resname="custommusic_button_audioedittiming" approved="no">
         <source>Edit Timing</source>
-        <target state="translated">编辑时间节点</target>
+        <target state="translated">编辑音频时间轴</target>
       </trans-unit>
       <trans-unit id="612423555172052992" xml:space="preserve" resname="button_iunderstand" approved="no">
         <source>I Understand</source>
@@ -4492,7 +4492,7 @@ Do you want to create one?</source>
       <trans-unit id="611303970494525440" xml:space="preserve" resname="custommusic_audiosync_instructions" approved="no">
         <source>Check the timing of your provided audio against the reference clip and adjust if necessary.
 Use the buttons below, or drag left and right.</source>
-        <target state="translated">根据对照参考剪辑您提供的音频的时间节点，并在必要时进行调整。
+        <target state="translated">核对所提供音频与参考片段的判定时间轴，必要时进行调整。
 使用下面的按钮，向左或向右拖动。</target>
       </trans-unit>
       <trans-unit id="612421302243602432" xml:space="preserve" resname="unverifiedartistwarning_description" approved="no">
