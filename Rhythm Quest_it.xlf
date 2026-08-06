@@ -1331,9 +1331,9 @@ Vuoi attivare anche la lettura dello schermo?
           <source>Sunken Street</source>
           <target>Sunken Street</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Planar Puzzle</source>
-          <target>Puzzle Planare</target>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
+          <source>Gemstone Garden</source>
+          <target state="needs-translation">Puzzle Planare</target>
         </trans-unit>
         <trans-unit id="248579730731479040" xml:space="preserve" resname="settings_keyboardcustomcontrols">
           <source>Keyboard Config</source>
