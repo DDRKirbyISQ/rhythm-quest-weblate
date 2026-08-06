@@ -1336,9 +1336,9 @@ Czy chciałbyś włączyć tryb czytnika ekranu?
           <source>Crossway Corridor</source>
           <target>Krzyżowy Korytarz</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Planar Puzzle</source>
-          <target>Płaskie Puzzle</target>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
+          <source>Gemstone Garden</source>
+          <target state="needs-translation">Płaskie Puzzle</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
           <source>Brilliant Boulevard</source>
