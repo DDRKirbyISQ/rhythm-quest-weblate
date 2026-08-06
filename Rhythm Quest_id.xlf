@@ -1336,9 +1336,9 @@ Apakah Anda ingin mengaktifkan mode pembaca layar?
           <source>Crossway Corridor</source>
           <target state="final">Crossway Corridor</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="yes">
-          <source>Planar Puzzle</source>
-          <target state="final">Planar Puzzle</target>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
+          <source>Gemstone Garden</source>
+          <target state="needs-translation">Planar Puzzle</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="yes">
           <source>Brilliant Boulevard</source>
