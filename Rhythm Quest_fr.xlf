@@ -1336,9 +1336,9 @@ Voulez-vous activer le mode lecteur d'écran ?
           <source>Crossway Corridor</source>
           <target>Couloir Carrefour</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Planar Puzzle</source>
-          <target>Plan Préoccupant</target>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
+          <source>Gemstone Garden</source>
+          <target state="needs-translation">Plan Préoccupant</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
           <source>Brilliant Boulevard</source>
