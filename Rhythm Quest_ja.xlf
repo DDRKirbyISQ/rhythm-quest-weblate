@@ -1337,8 +1337,8 @@ Would you like to enable screen reader mode?
           <target state="translated">交差する回廊</target>
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
-          <source>Planar Puzzle</source>
-          <target state="translated">幾何学のパズル</target>
+          <source>Gemstone Garden</source>
+          <target state="needs-translation">幾何学のパズル</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="no">
           <source>Brilliant Boulevard</source>
