@@ -894,7 +894,7 @@ For the best experience, feel free to try the standalone offline build instead!<
         </trans-unit>
         <trans-unit id="124686715806593024" xml:space="preserve" resname="settings_hapticui" approved="no">
           <source>UI Rumble</source>
-          <target state="needs-translation">介面震動</target>
+          <target state="translated">UI介面震動</target>
         </trans-unit>
         <trans-unit id="124687024020828160" xml:space="preserve" resname="settings_hapticjump_description_disabled">
           <source>Disables vibration on successful jumps.</source>
@@ -906,11 +906,11 @@ For the best experience, feel free to try the standalone offline build instead!<
         </trans-unit>
         <trans-unit id="124687026067648512" xml:space="preserve" resname="settings_hapticui_description_disabled" approved="no">
           <source>Disables vibration for UI elements.</source>
-          <target state="needs-translation">禁用UI介面動畫的震動。</target>
+          <target state="translated">禁用UI介面動畫的震動。</target>
         </trans-unit>
         <trans-unit id="124687026591936512" xml:space="preserve" resname="settings_hapticui_description_enabled" approved="no">
           <source>Enables vibration for UI elements.</source>
-          <target state="needs-translation">啟用UI介面動畫的震動。</target>
+          <target state="translated">啟用UI介面動畫的震動。</target>
         </trans-unit>
         <trans-unit id="124687961846231040" xml:space="preserve" resname="settings_menu_haptics_description">
           <source>Haptic vibration feedback settings.</source>
@@ -1338,7 +1338,7 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
           <source>Gemstone Garden</source>
-          <target state="needs-translation">平面迷陣</target>
+          <target state="translated">晶石庭院</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
           <source>Brilliant Boulevard</source>
@@ -1480,7 +1480,7 @@ Please connect a supported gamepad device.</source>
         </trans-unit>
         <trans-unit id="256007010944593920" xml:space="preserve" resname="settings_framequeueing_description_latency" approved="no">
           <source>(Default) Optimize for lower latency by disallowing multiple frames to be queued.</source>
-          <target state="needs-translation">取消預渲染以降低延遲。</target>
+          <target state="translated">（預設） 取消預渲染以降低延遲。</target>
         </trans-unit>
         <trans-unit id="256007027457568768" xml:space="preserve" resname="settings_framequeueing_description_performance">
           <source>Optimize for smoother performance by allowing render frame queueing. Use if framerate drops during gameplay.</source>
@@ -2584,7 +2584,7 @@ Other enemies colored based on enemy type.</source>
         </trans-unit>
         <trans-unit id="357297118011764736" xml:space="preserve" resname="settings_colorskins_wings_actiontype_description" approved="no">
           <source>(Default) All wings are colored blue/green based on action type (jump vs jump + attack).</source>
-          <target state="needs-translation">所有翅膀根據動作類型以藍色/綠色著色（跳躍vs跳躍+攻擊）。</target>
+          <target state="translated">（預設） 所有翅膀根據動作類型以藍色/綠色著色（跳躍vs跳躍+攻擊）。</target>
         </trans-unit>
         <trans-unit id="357297437017944064" xml:space="preserve" resname="settings_colorskins_altgreen">
           <source>Alternate Green</source>
@@ -3266,7 +3266,7 @@ This level focuses only on basic mechanics and is playable even if you haven't y
       <trans-unit id="454511867610312704" xml:space="preserve" resname="songselect_purchaseprice" approved="no">
         <source>Purchase for
 {0}</source>
-        <target state="needs-translation">購買需要
+        <target state="translated">購買需要
 {0}</target>
       </trans-unit>
       <trans-unit id="454593769306370048" xml:space="preserve" resname="songselect_purchase_button" approved="no">
@@ -4134,6 +4134,402 @@ Click on a checkpoint section to edit its graphics.</source>
       <trans-unit id="511679838321160192" xml:space="preserve" resname="button_skip" approved="no">
         <source>Skip</source>
         <target state="translated">跳過</target>
+      </trans-unit>
+      <trans-unit id="464207781849509888" xml:space="preserve" resname="bonus_level_what_lies_beneath_description" approved="no">
+        <source>Originally featured in my older rhythm game "Ripple Runner Deluxe", the spiritual predecessor of Rhythm Quest.
+This was the song with the slowest tempo in that game, notable for its use of chained spike platforms.</source>
+        <target state="translated">該曲首發於我的舊作節奏遊戲《Ripple Runner Deluxe》，其為《Rhythm Quest》的精神前作。
+是遊戲中速度最慢的曲目，以其連鎖尖刺平台的設計而著稱。</target>
+      </trans-unit>
+      <trans-unit id="464207598294183936" xml:space="preserve" resname="bonus_level_song_of_the_sea_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the slowest song in the game, intended to introduce the mechanic of blue enemies that teleport behind you after being hit.</source>
+        <target state="translated">最初出現在我在2015年參加Ludum Dare遊戲製作比賽時製作的兩鍵節奏遊戲“Melody Muncher”。
+這是那個遊戲中最慢的一首歌曲，旨在引入被擊打后會傳送到你身後的藍色敵人這個機制。</target>
+      </trans-unit>
+      <trans-unit id="485557302638456832" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science_description" approved="no">
+        <source>A track commissioned for "Hero Hours Contract", a turn-based tactics game developed by Steve O'Gorman.
+This is the theme for "Magical Science Girl", the youngest of the three protagonists who likes volatile science experiments.</source>
+        <target state="translated">本曲為Steve O'Gorman開發的回合制戰術遊戲《Hero Hours Contract》委約創作。
+是三位主角中最年幼、喜愛高風險科學實驗的“魔法科學少女”的主題曲。</target>
+      </trans-unit>
+      <trans-unit id="591053590082924544" xml:space="preserve" resname="settings_framerate_description_normal" approved="no">
+        <source>(Default) Use native device refresh rate to render as fast as possible.</source>
+        <target state="translated">（默认）使用设备的原生刷新率，以实现尽可能快的渲染速度。</target>
+      </trans-unit>
+      <trans-unit id="591053958275706880" xml:space="preserve" resname="settings_half" approved="no">
+        <source>Half</source>
+        <target state="translated">減半</target>
+      </trans-unit>
+      <trans-unit id="591052968042475520" xml:space="preserve" resname="settings_vsync_description_limited" approved="no">
+        <source>Manually limits frame rate to 60 frames per second. Use in special cases where refresh synchronization is not desired, but rendering speed should be limited.</source>
+        <target state="translated">手動限制幀率為60幀每秒。 適用於不需要刷新同步，但需要限制渲染速度的特殊情況。</target>
+      </trans-unit>
+      <trans-unit id="591071807786496000" xml:space="preserve" resname="settings_strictinputs_description_disabled" approved="no">
+        <source>(Default) No punishment for extra attack or jump inputs.</source>
+        <target state="translated">（默認）不會因額外的攻擊或跳躍輸入而受到懲罰。</target>
+      </trans-unit>
+      <trans-unit id="591071808856043520" xml:space="preserve" resname="settings_strictinputs_description_partial" approved="no">
+        <source>Use increased cooldown after missed attacks to punish extra attack presses.</source>
+        <target state="translated">攻擊未命中將會延長冷卻時間，以此懲罰玩家的額外攻擊操作。</target>
+      </trans-unit>
+      <trans-unit id="591074951232794624" xml:space="preserve" resname="extra_input" approved="no">
+        <source>Extra Input</source>
+        <target state="translated">额外输入</target>
+      </trans-unit>
+      <trans-unit id="603460837958266880" xml:space="preserve" resname="editor_terms_header" approved="no">
+        <source>User Content Terms of Service</source>
+        <target state="translated">用戶內容服務條款</target>
+      </trans-unit>
+      <trans-unit id="514350996338290688" xml:space="preserve" resname="settings_timingdisplay_each" approved="no">
+        <source>Each</source>
+        <target state="translated">各個</target>
+      </trans-unit>
+      <trans-unit id="514350994287276032" xml:space="preserve" resname="settings_timingdisplay_static" approved="no">
+        <source>Static</source>
+        <target state="translated">靜態</target>
+      </trans-unit>
+      <trans-unit id="514325669356548096" xml:space="preserve" resname="settings_timingdisplay_description_static" approved="no">
+        <source>Enables a fixed display that indicates how early or late you were on each successful action.</source>
+        <target state="translated">啟用固定顯示區，顯示每次成功動作早了或晚了多長時間。</target>
+      </trans-unit>
+      <trans-unit id="516854897314672640" xml:space="preserve" resname="menu_settings_rumble_mobile" approved="no">
+        <source>Vibration</source>
+        <target state="translated">振動</target>
+      </trans-unit>
+      <trans-unit id="516854789449756672" xml:space="preserve" resname="menu_settings_rumble_switch" approved="no">
+        <source>Rumble</source>
+        <target state="translated">震動</target>
+      </trans-unit>
+      <trans-unit id="546527055997349888" xml:space="preserve" resname="particle_beams" approved="no">
+        <source>Beams</source>
+        <target state="translated">光線</target>
+      </trans-unit>
+      <trans-unit id="546990657946562560" xml:space="preserve" resname="settings_alternategamepadinput_alternate" approved="no">
+        <source>Alternate</source>
+        <target state="translated">候補</target>
+      </trans-unit>
+      <trans-unit id="557764423093891072" xml:space="preserve" resname="bonus_level_clematis_description" approved="no">
+        <source>A fast and challenging track inspired by songs from other rhythm games.
+"Clematis" is the name of a flowering vine, often with star-shaped blossoms.</source>
+        <target state="translated">一首節奏明快、難度高的曲目，靈感來自其他節奏遊戲的歌曲。
+「鐵線蓮」是一種開花藤本植物的名稱，通常會開星形花朵。</target>
+      </trans-unit>
+      <trans-unit id="557764396598472704" xml:space="preserve" resname="bonus_level_clematis" approved="no">
+        <source>Clematis</source>
+        <target state="translated">鐵線蓮（Clematis）</target>
+      </trans-unit>
+      <trans-unit id="527687071966212096" xml:space="preserve" resname="settings_pixelclamping" approved="no">
+        <source>Pixel Clamping</source>
+        <target state="translated">像素鉗位</target>
+      </trans-unit>
+      <trans-unit id="542857592563347456" xml:space="preserve" resname="level1-3water" approved="no">
+        <source>River Crossing (with Water)</source>
+        <target state="translated">渡河途中（帶水）</target>
+      </trans-unit>
+      <trans-unit id="544772552944037888" xml:space="preserve" resname="settings_audiocuejumpholdattack" approved="no">
+        <source>Jump Hold+Attack</source>
+        <target state="translated">長按跳躍+攻擊</target>
+      </trans-unit>
+      <trans-unit id="491166202511273984" xml:space="preserve" resname="settings_colorskins_diamonds_offbeats_description" approved="no">
+        <source>(Default) Display diamonds on obstacles that are on offbeats.</source>
+        <target state="translated">（預設）在處於弱拍的障礙上顯示菱形標誌。</target>
+      </trans-unit>
+      <trans-unit id="357297108939485184" xml:space="preserve" resname="settings_colorskins_wings_jumptype_description" approved="no">
+        <source>Air jump wings are colored blue, flight path wings are colored green.</source>
+        <target state="translated">空中跳躍翅膀設定為藍色，飛行路徑翅膀設定為綠色。</target>
+      </trans-unit>
+      <trans-unit id="464201281194209280" xml:space="preserve" resname="bonus_level_eine_kleine_nachtmusik_description" approved="no">
+        <source>The first movement of Serenade No. 13 for strings in G major by Wolfgang Amadeus Mozart, known as "Eine kleine Nachtmusik", or "a little night music", is one of Mozart's most famous works.
+The piece was originally written as a composition for a string quintet.</source>
+        <target state="translated">沃爾夫岡·阿馬德烏斯·莫扎特的G大調弦樂小夜曲第十三號首樂章，又名《Eine kleine Nachtmusik》（"小夜曲"），是莫扎特最著名的作品之一。
+該曲最初是為弦樂五重奏創作的樂曲。</target>
+      </trans-unit>
+      <trans-unit id="464199638461493248" xml:space="preserve" resname="bonus_level_fur_elise_description" approved="no">
+        <source>Bagatelle No. 25 in A minor, more commonly known as "Für Elise", is a well-known composition by Ludwig van Beethoven.
+The identity of the titular "Elise" is uncertain, but is thought to be an close friend or important figure in his life.</source>
+        <target state="translated">A小調第25號小品曲，更常見的名稱是《致愛麗絲》，是路德維希·凡·貝多芬的一首著名作品。
+標題中“愛麗絲”的身份尚不明確，但一般都認為是他生命中的一位親密朋友或者重要人物。</target>
+      </trans-unit>
+      <trans-unit id="464196951691014144" xml:space="preserve" resname="bonus_level_midnight_moon_description" approved="no">
+        <source>A track inspired by "liquid drum and bass" music. The tempo is quite fast at 170 beats per minute.
+The fast drum patterns contrast with lush melodic elements and atmospheric pads.</source>
+        <target state="translated">一首受“液態擊鼓&amp;貝斯”音樂啟發的曲目。 節奏相當快，每分鐘170拍。
+快速的鼓點伴奏與豐富的旋律元素和氛圍合成音形成鮮明對比。</target>
+      </trans-unit>
+      <trans-unit id="464203800565821440" xml:space="preserve" resname="bonus_level_flight_of_the_bumblebee_description" approved="no">
+        <source>"Flight of the Bumblebee" is a well-known orchestral interlude written for the opera "The Tale of Tsar Saltan", intended to evoke the chaotic flight pattern of a bumblebee.
+The constant sixteenth note patterns give it a frantic sense of energy.</source>
+        <target state="translated">《野蜂飛舞》是為歌劇《薩旦王的故事》譜寫的一段著名管弦樂間奏曲，旨在模仿野蜂混亂的飛行軌跡。
+持續不斷的十六分音符賦予樂曲一種狂爆的能量感。</target>
+      </trans-unit>
+      <trans-unit id="467132581005799424" xml:space="preserve" resname="menu_settings_sectionlock" approved="no">
+        <source>Section Lock</source>
+        <target state="translated">區域鎖</target>
+      </trans-unit>
+      <trans-unit id="467129120897937408" xml:space="preserve" resname="description_menu_exitpracticemode" approved="no">
+        <source>Exit practice mode, returning to the checkpoint you were previously playing.</source>
+        <target state="translated">退出練習模式，回到你之前遊玩的存檔點。</target>
+      </trans-unit>
+      <trans-unit id="464206673198493696" xml:space="preserve" resname="bonus_level_standing_here_alone_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+This is the "expert mix" of the song, added to increase the difficulty in a post-jam update.</source>
+        <target state="translated">最初出現在我在2015年參加Ludum Dare遊戲製作比賽時製作的兩鍵節奏遊戲“Melody Muncher”。
+這是這首歌曲的“專家混音”，是為了增加難度而在Game Jam結束后的一次更新中添加的。</target>
+      </trans-unit>
+      <trans-unit id="491166052019646464" xml:space="preserve" resname="settings_colorskins_diamonds_downbeats" approved="no">
+        <source>Downbeats</source>
+        <target state="translated">強拍</target>
+      </trans-unit>
+      <trans-unit id="485557163664388096" xml:space="preserve" resname="bonus_level_scherzo_of_magical_science" approved="no">
+        <source>Scherzo of Magical Science (RQ Edit)</source>
+        <target state="translated">魔幻科學諧謔曲 (RQ Edit)</target>
+      </trans-unit>
+      <trans-unit id="475579438329540608" xml:space="preserve" resname="description_menu_resumepractice" approved="no">
+        <source>Resume practicing.</source>
+        <target state="translated">繼續練習。</target>
+      </trans-unit>
+      <trans-unit id="467132895071088640" xml:space="preserve" resname="settings_sectionlock_description_disabled" approved="no">
+        <source>Proceed through song sections normally.
+Restart from the beginning when reaching the end of the level.</source>
+        <target state="translated">正常通過歌曲的各個區域。
+到達關卡末尾后從頭開始。</target>
+      </trans-unit>
+      <trans-unit id="517151765173153792" xml:space="preserve" resname="menu_settings_gamepad" approved="no">
+        <source>Gamepad</source>
+        <target state="translated">手把</target>
+      </trans-unit>
+      <trans-unit id="516856365111357440" xml:space="preserve" resname="menu_settings_gameplay" approved="no">
+        <source>Gameplay</source>
+        <target state="translated">遊玩設定</target>
+      </trans-unit>
+      <trans-unit id="516855926571708416" xml:space="preserve" resname="menu_settings_calibrate" approved="no">
+        <source>Calibration</source>
+        <target state="translated">校準</target>
+      </trans-unit>
+      <trans-unit id="531587844828815360" xml:space="preserve" resname="uap_coincount" approved="no">
+        <source>{0} out of {1} coins</source>
+        <target state="translated">已收集{0}金幣，總共{1}金幣</target>
+      </trans-unit>
+      <trans-unit id="546527106844897280" xml:space="preserve" resname="particle_diamondsandstars" approved="no">
+        <source>Diamonds + Stars</source>
+        <target state="translated">菱形+星星</target>
+      </trans-unit>
+      <trans-unit id="546989651141636096" xml:space="preserve" resname="settings_alternategamepadinput_description_alternate" approved="no">
+        <source>Enable alternate gamepad input handling.
+Try this only if your gamepad does not work.
+May cause doubled inputs otherwise!</source>
+        <target state="translated">啟用備用的手把輸入處理方式。
+僅當你的手把不能正常工作時才需要嘗試這一選項。
+否則可能會出現重複輸入的問題！</target>
+      </trans-unit>
+      <trans-unit id="546527398986559488" xml:space="preserve" resname="particle_trails" approved="no">
+        <source>Trails</source>
+        <target state="translated">殘影</target>
+      </trans-unit>
+      <trans-unit id="546989644518830080" xml:space="preserve" resname="settings_alternategamepadinput_description_normal" approved="no">
+        <source>(Default) Use normal gamepad input.</source>
+        <target state="translated">（預設）使用普通手把輸入。</target>
+      </trans-unit>
+      <trans-unit id="591053594969288704" xml:space="preserve" resname="settings_framerate_description_half" approved="no">
+        <source>Render at half of device refresh rate. Use to conserve battery, or for high refresh rate devices where full rendering speed is unnecessary.</source>
+        <target state="translated">以設備刷新率一半的速率進行渲染。 用於節省電池電量，也適合無需全速渲染的高刷新率設備。</target>
+      </trans-unit>
+      <trans-unit id="591052706317905920" xml:space="preserve" resname="settings_vsync_limited" approved="no">
+        <source>Limited</source>
+        <target state="translated">限制</target>
+      </trans-unit>
+      <trans-unit id="591052393326358528" xml:space="preserve" resname="settings_framerate" approved="no">
+        <source>Frame Rate</source>
+        <target state="translated">幀速率</target>
+      </trans-unit>
+      <trans-unit id="591071810214998016" xml:space="preserve" resname="settings_strictinputs_description_enabled" approved="no">
+        <source>Force an immediate respawn whenever any extraneous inputs are made.</source>
+        <target state="translated">任何額外輸入都將強制重生。</target>
+      </trans-unit>
+      <trans-unit id="591068283547725824" xml:space="preserve" resname="settings_strictinputs" approved="no">
+        <source>Strict Inputs</source>
+        <target state="translated">嚴格輸入判定</target>
+      </trans-unit>
+      <trans-unit id="591069604375998464" xml:space="preserve" resname="settings_strictinputs_partial" approved="no">
+        <source>Partial</source>
+        <target state="translated">部分严判</target>
+      </trans-unit>
+      <trans-unit id="591062292584247296" xml:space="preserve" resname="settings_marathonmode_description_enabled" approved="no">
+        <source>Automatically proceed directly to the next level after finishing each one.</source>
+        <target state="translated">每個關卡完成后將會自動進入下一關。</target>
+      </trans-unit>
+      <trans-unit id="591062289165889536" xml:space="preserve" resname="settings_marathonmode_description_disabled" approved="no">
+        <source>Play each level individually as normal.</source>
+        <target state="translated">像平常那樣單獨遊玩每個關卡。</target>
+      </trans-unit>
+      <trans-unit id="603416924463607808" xml:space="preserve" resname="editor_artistmusicinclusion" approved="no">
+        <source>Music Inclusion: {0}</source>
+        <target state="translated">包含音樂：{0}</target>
+      </trans-unit>
+      <trans-unit id="602715649497411584" xml:space="preserve" resname="editor_artistusage_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their songs to be used in Rhythm Quest custom levels. You may not use their music in your custom levels.</source>
+        <target state="translated">所選藝術家{0}已拒絕在Rhythm Quest自訂關卡中使用其歌曲。 您不得在自訂關卡中使用此藝術家的音樂。</target>
+      </trans-unit>
+      <trans-unit id="602717774784802816" xml:space="preserve" resname="editor_artistmusicinclusion_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved inclusion of their music in custom level exports.
+
+A copy of the music file will automatically be included when exporting this level.</source>
+        <target state="translated">所選藝術家{0}已批准在自訂關卡的導出文件中能夠包含此藝術家的音樂。
+
+導出本關卡時會自動包含該音樂文件的副本。</target>
+      </trans-unit>
+      <trans-unit id="602715647983267840" xml:space="preserve" resname="editor_artistusage_partiallyapproved_description" approved="no">
+        <source>The selected artist, {0}, has only approved specific usage of their songs in Rhythm Quest custom levels. Any usage must comply with the following restrictions or terms:</source>
+        <target state="translated">所選藝術家{0}只批准其歌曲在Rhythm Quest自訂關卡中的特定用途。 任何使用均需要遵循下列限制或條款：</target>
+      </trans-unit>
+      <trans-unit id="602715431259385856" xml:space="preserve" resname="editor_artistpermission_denied" approved="no">
+        <source>Denied</source>
+        <target state="translated">拒絕</target>
+      </trans-unit>
+      <trans-unit id="602715430588297216" xml:space="preserve" resname="editor_artistpermission_partiallyapproved" approved="no">
+        <source>Partially Approved</source>
+        <target state="translated">部分同意</target>
+      </trans-unit>
+      <trans-unit id="602715428726026240" xml:space="preserve" resname="editor_artistpermission_mostlyapproved" approved="no">
+        <source>Mostly Approved</source>
+        <target state="translated">多數同意</target>
+      </trans-unit>
+      <trans-unit id="602715319154028544" xml:space="preserve" resname="editor_artistpermission_approved" approved="no">
+        <source>Approved</source>
+        <target state="translated">完全同意</target>
+      </trans-unit>
+      <trans-unit id="602715196751654912" xml:space="preserve" resname="editor_artistusage" approved="no">
+        <source>Artist Permission: {0}</source>
+        <target state="translated">藝術家許可：{0}</target>
+      </trans-unit>
+      <trans-unit id="602437369808596992" xml:space="preserve" resname="editor_artistselect_database_error" approved="no">
+        <source>Could not load Verified Artist database!
+An internet connection is required to select a Verified Artist.
+Try again later.</source>
+        <target state="translated">無法加載認證藝術家數據庫！
+你需要連接互聯網才能選擇已認證的藝術家。
+請稍後重試。</target>
+      </trans-unit>
+      <trans-unit id="602437255543173120" xml:space="preserve" resname="loading" approved="no">
+        <source>Loading...</source>
+        <target state="translated">載入中...</target>
+      </trans-unit>
+      <trans-unit id="594796035111170048" xml:space="preserve" resname="editor_artistselect_instructions" approved="no">
+        <source>Select the artist of the song from the list below:</source>
+        <target state="translated">從下方列表中選擇歌曲的藝術家：</target>
+      </trans-unit>
+      <trans-unit id="592883402007162880" xml:space="preserve" resname="button_refresh" approved="no">
+        <source>Refresh &lt;sprite name="fonticons_4"&gt;</source>
+        <target state="translated">刷新&lt;sprite name="fonticons_4"&gt;</target>
+      </trans-unit>
+      <trans-unit id="592881952782856192" xml:space="preserve" resname="editor_artistselect_unverifiedartist" approved="no">
+        <source>The artist isn't in this list</source>
+        <target state="translated">此藝術家未在此列表中</target>
+      </trans-unit>
+      <trans-unit id="592868686358687744" xml:space="preserve" resname="editor_input_musicartistsearch" approved="no">
+        <source>(type to search...)</source>
+        <target state="translated">（输入内容进行搜索...）</target>
+      </trans-unit>
+      <trans-unit id="603836714130911232" xml:space="preserve" resname="editor_musicproperties_musicfile" approved="no">
+        <source>Music File</source>
+        <target state="translated">音樂文檔</target>
+      </trans-unit>
+      <trans-unit id="603463981123547136" xml:space="preserve" resname="editor_terms_openurl" approved="no">
+        <source>View (opens in browser)</source>
+        <target state="translated">查看（在瀏覽器中打開）</target>
+      </trans-unit>
+      <trans-unit id="603460992468037632" xml:space="preserve" resname="editor_terms_description" approved="no">
+        <source>Before you can export your level, you must agree to the Rhythm Quest User Content Terms of Service.
+
+Click the button below to open the terms of service in a new browser window.</source>
+        <target state="translated">要導出關卡，您必須同意Rhythm Quest用戶內容服務條款。
+
+點擊下方的按鈕即可在新的瀏覽器窗口中打開服務條款。</target>
+      </trans-unit>
+      <trans-unit id="603418862110420992" xml:space="preserve" resname="editor_externallink_description" approved="no">
+        <source>Do you want to open the following link in your browser?
+Only follow links that you trust -- never download or open unknown files!</source>
+        <target state="translated">您想要在瀏覽器里打開此鏈接嗎？
+請只打開您信任的鏈接——切勿下載或打開未知文件！</target>
+      </trans-unit>
+      <trans-unit id="602717780258369536" xml:space="preserve" resname="editor_artistmusicinclusion_denied_description" approved="no">
+        <source>The selected artist, {0}, has denied permission for their music to be included in custom level exports, other than a streaming preview clip.
+
+Players will need to (legally) obtain their own copy of the music in order to play this custom level. You can optionally include a link that players can use to do this.</source>
+        <target state="translated">所選藝術家{0}已拒絕在自訂關卡的導出文件中包含此藝術家的音樂，音樂預覽片段除外。
+
+玩家需要（合法）獲取該音樂的副本才能遊玩該自訂關卡。 您可以選擇性提供一個鏈接，供玩家用於獲取音樂。</target>
+      </trans-unit>
+      <trans-unit id="602715642677473280" xml:space="preserve" resname="editor_artistusage_mostlyapproved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, but has some additional notes, terms, or restrictions that should be followed:</source>
+        <target state="translated">所選藝術家{0}已批准其歌曲在Rhythm Quest自訂關卡中的一般性用途，但是需要遵循一些額外的事項、條款或限制：</target>
+      </trans-unit>
+      <trans-unit id="602715597945221120" xml:space="preserve" resname="editor_artistusage_approved_description" approved="no">
+        <source>The selected artist, {0}, has approved general usage of their songs in Rhythm Quest custom levels, without any notable restrictions.
+
+Please ensure that the selected song is suitable for usage in general. For example, unofficial covers and bootleg remixes are usually not allowed, and collaborations with other artists are subject to their approval.</source>
+        <target state="translated">所選藝術家{0}已批准其歌曲在Rhythm Quest自訂關卡中的一般性用途，沒有任何需要注意的限制。
+
+請確保所選歌曲適合一般性用途。 例如，非官方的翻唱和混音通常是不允許使用的，與其他藝術家的合作曲目也需要徵得這些藝術家的批准。</target>
+      </trans-unit>
+      <trans-unit id="592218686633062400" xml:space="preserve" resname="editor_text_clicktoloadmusic" approved="no">
+        <source>Click below to load music for this level.</source>
+        <target state="translated">點擊下方加載本關卡的音樂。</target>
+      </trans-unit>
+      <trans-unit id="592160924427399168" xml:space="preserve" resname="editor_text_musicload_restrictions" approved="no">
+        <source>Click below to select an audio file to load.
+
+Note: Publishing restrictions may apply if you do not have permission to use or redistribute the music!</source>
+        <target state="translated">點擊下方選擇要加載的音頻文件。
+
+注意：如果你未獲得使用或再分發該音樂的許可，則可能會受到發布限制！</target>
+      </trans-unit>
+      <trans-unit id="591062119338520576" xml:space="preserve" resname="settings_marathonmode" approved="no">
+        <source>Marathon Mode</source>
+        <target state="translated">馬拉松模式</target>
+      </trans-unit>
+      <trans-unit id="464209125511573504" xml:space="preserve" resname="bonus_level_super_mega_zero_description" approved="no">
+        <source>The title track and trailer music for "Super Mega Zero", a platformer developed by Silkworm that I was commissioned to write the music for in my classic "9-bit" style.
+This song was designed to be energetic and fast-paced to get players excited about the game.</source>
+        <target state="translated">《Super Mega Zero》的標題曲及預告片音樂，這是由Silkworm開發的一款平台跳躍遊戲，我受託以我經典的“9-bit”風格為其創作了這首音樂。
+這首歌曲要求要充滿活力且要快節奏，這樣能讓玩家對這個遊戲興奮起來。</target>
+      </trans-unit>
+      <trans-unit id="464208037349732352" xml:space="preserve" resname="bonus_level_lets_have_an_adventure_description" approved="no">
+        <source>An upbeat chiptune track that I wrote in one sitting over the course of 3 hours after being inspired by music by "Aivi &amp; Surasshu".
+The intro melody has a reference to "Lonely Rolling Star" since we've both created related rearrangements of that song.</source>
+        <target state="translated">一首歡快的芯片電子音樂曲子。 受“Aivi&amp;Surasshu”的音樂啟發，我一口氣花了3小時寫成此曲。
+開頭的旋律參考了《Lonely Rolling Star》，因為我們都創作過那首歌曲相關的重編曲。</target>
+      </trans-unit>
+      <trans-unit id="464205859696455680" xml:space="preserve" resname="bonus_level_violet_hyperwave_description" approved="no">
+        <source>A track that utilizes elements of "synthwave" music, including warm analog synths.
+I used vinyl emulation effects to give a subtle "vintage" feel to the sound.</source>
+        <target state="translated">一首用到了“合成器浪潮”音樂元素的曲子，包括音色溫暖的模擬合成器。
+我使用了黑膠仿真效果器來給聲音一種輕微的“復古”感。</target>
+      </trans-unit>
+      <trans-unit id="464204757550804992" xml:space="preserve" resname="bonus_level_flower_fang_expert_mix_description" approved="no">
+        <source>Originally featured in "Melody Muncher" a two-button rhythm game I made in 2015 for the Ludum Dare game jam.
+Songs from Melody Muncher lend themselves naturally to being charted in Rhythm Quest due to sharing similar mechanics.</source>
+        <target state="translated">本曲首發於2015年，在Ludum Dare遊戲開發競賽時創作的雙鍵節奏遊戲《Melody Muncher》中收錄。
+因兩者遊戲機制高度相似，該作曲目天然適配《Rhythm Quest》的譜面設計。</target>
+      </trans-unit>
+      <trans-unit id="464203166634520576" xml:space="preserve" resname="bonus_level_piano_sonata_no_16_description" approved="no">
+        <source>The first movement of Piano Sonata No. 16 in C Major by Wolfgang Amadeus Mozart is a lively and familiar melody typical of Mozart's works.
+It is also known as "Sonata facile" or "Sonata semplice", being "for beginners".</source>
+        <target state="translated">沃爾夫岡·阿馬德烏斯·莫扎特的C大調第16號鋼琴奏鳴曲第一樂章，是一段活潑而熟悉的旋律，具有莫扎特作品的典型風格。
+這首曲子也被稱為《簡易奏鳴曲》或《入門奏鳴曲》，是“為初學者”而作的。</target>
+      </trans-unit>
+      <trans-unit id="464202106998140928" xml:space="preserve" resname="bonus_level_rondo_alla_turca_description" approved="no">
+        <source>The third movement of Piano Sonata No. 11 in A Major by Wolfgang Amadeus Mozart is also known as the "Rondo alla Turca" or "Turkish March" and is an instantly recognizable melody.
+The composition is said to emulate the style of military marching bands of the Turkish Empire.</source>
+        <target state="translated">沃爾夫岡·阿馬德烏斯·莫扎特的A大調第11號鋼琴奏鳴曲第三樂章，又稱《土耳其進行曲》或《土耳其風迴旋曲》，是一段極具辨識度的旋律。
+據說該作品模仿了土耳其帝國軍樂隊的風格。</target>
+      </trans-unit>
+      <trans-unit id="464194807772524544" xml:space="preserve" resname="bonus_level_crimson_halls_description" approved="no">
+        <source>A chiptune track originally intended for inclusion in world 3.
+This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
+        <target state="translated">一首原本計劃包含在世界3中的芯片音樂曲目。
+這個關卡最初引入了綠色攻擊+跳躍組合的敵人，之後該機制被移至世界5。</target>
       </trans-unit>
     </body>
   </file>
