@@ -1336,9 +1336,9 @@ Would you like to enable screen reader mode?
           <source>Crossway Corridor</source>
           <target>交错长廊</target>
         </trans-unit>
-        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4">
-          <source>Planar Puzzle</source>
-          <target>平面迷阵</target>
+        <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
+          <source>Gemstone Garden</source>
+          <target state="needs-translation">平面迷阵</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
           <source>Brilliant Boulevard</source>
