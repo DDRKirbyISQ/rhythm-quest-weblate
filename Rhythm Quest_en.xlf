@@ -2475,12 +2475,12 @@ Click on a checkpoint section to edit its particle effects.</target>
           <target>Crimson Halls</target>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>Color Skins...</target>
+          <source>Readability Options...</source>
+          <target>Readability Options...</target>
         </trans-unit>
         <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>Modify the coloration of obstacles to make patterns easier to read.</target>
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target>Modify the visual display of obstacles to help with readability.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2935,8 +2935,8 @@ Would you like to enable game assist features?</source>
 Would you like to enable game assist features?</target>
         </trans-unit>
         <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
-          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</target>
+          <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+          <target>If you want to enable assists at a later time, you can do so in the "Assists" menu.</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
@@ -4525,6 +4525,10 @@ Do you still want to continue with this audio?</target>
         <trans-unit id="650238209558360064" xml:space="preserve" resname="settings_levelfading_description_invisible">
           <source>Obstacles are completely invisible.</source>
           <target>Obstacles are completely invisible.</target>
+        </trans-unit>
+        <trans-unit id="671831660356952064" xml:space="preserve" resname="settings_menu_practicemodeadditional_description">
+          <source>Change additional practice mode settings.</source>
+          <target>Change additional practice mode settings.</target>
         </trans-unit>
       </group>
     </body>
