@@ -2466,13 +2466,13 @@ Spauskite ant kontrolinio taško sekcijos, norėdami redaguoti jos dalelių efek
           <source>Crimson Halls</source>
           <target state="final">„Crimson Halls“</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="yes">
-          <source>Color Skins...</source>
-          <target state="final">Spalvos...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Spalvos...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="yes">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target state="final">Pakeisti kliūčių spalvą, kad būtų lengviau matomi modeliai.</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">Pakeisti kliūčių spalvą, kad būtų lengviau matomi modeliai.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="yes">
           <source>Beat Grid</source>
@@ -2922,9 +2922,9 @@ Would you like to enable game assist features?</source>
           <target state="final">Atrodo jog jums sunku su šia vieta.
 Ar norėtumėte įjungti pagalbines žaidimo funkcijas?</target>
         </trans-unit>
-        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="yes">
-          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target state="final">Jei norėsite įjungti pagalbines funkcijas vėliau, tai galite padaryti "Modai ir pagalbos" meniu.</target>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+          <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+          <target state="needs-translation">Jei norėsite įjungti pagalbines funkcijas vėliau, tai galite padaryti "Modai ir pagalbos" meniu.</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="yes">
           <source>Practice Mode Settings</source>
