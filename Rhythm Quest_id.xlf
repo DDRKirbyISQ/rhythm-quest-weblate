@@ -2426,9 +2426,9 @@ Klik pada bagian checkpoint untuk mengedit efek partikel.</target>
           <source>Crimson Halls</source>
           <target state="final">Crimson Halls</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>Warna Skin...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Warna Skin...</target>
         </trans-unit>
         <trans-unit id="357289983399997440" xml:space="preserve" resname="menu_settings_colorskins_enemies">
           <source>Enemies</source>
