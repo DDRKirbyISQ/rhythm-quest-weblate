@@ -1338,7 +1338,7 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
           <source>Gemstone Garden</source>
-          <target state="needs-translation">Planar Puzzle</target>
+          <target state="translated">보석 정원</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5">
           <source>Brilliant Boulevard</source>
@@ -4522,6 +4522,14 @@ Scoring data has been retained in case you import the same level again.</source>
       <trans-unit id="650222244997148672" xml:space="preserve" resname="settings_levelfading" approved="no">
         <source>Level Fading</source>
         <target state="translated">레벨 페이드 인/아웃</target>
+      </trans-unit>
+      <trans-unit id="650225809438322688" xml:space="preserve" resname="settings_levelfading_description_fadeinplus" approved="no">
+        <source>Obstacles start hidden and fade in suddenly.</source>
+        <target state="translated">장애물이 숨겨져 있다가 갑자기 나타납니다.</target>
+      </trans-unit>
+      <trans-unit id="650238073012793344" xml:space="preserve" resname="settings_levelfading_fadein_invisible" approved="no">
+        <source>Invisible</source>
+        <target state="translated">숨겨짐</target>
       </trans-unit>
     </body>
   </file>
