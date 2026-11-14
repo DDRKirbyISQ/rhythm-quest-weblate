@@ -2408,16 +2408,16 @@ Click on a checkpoint section to edit its particle effects.</source>
         <target state="translated">真紅の回廊</target>
       </trans-unit>
       <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
-        <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-        <target state="translated">障害物の色を変更して、パターンを見やすくします。</target>
+        <source>Modify the visual display of obstacles to help with readability.</source>
+        <target state="needs-translation">障害物の色を変更して、パターンを見やすくします。</target>
       </trans-unit>
       <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="no">
         <source>Beat Grid</source>
         <target state="translated">ビートグリッド</target>
       </trans-unit>
       <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
-        <source>Color Skins...</source>
-        <target state="translated">カラースキン...</target>
+        <source>Readability Options...</source>
+        <target state="needs-translation">カラースキン...</target>
       </trans-unit>
       <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes" approved="no">
         <source>Spikes</source>
@@ -2980,8 +2980,8 @@ Check the code and try again.</source>
         <target state="translated">（これらの設定は、現在のセクションが完了するとリセットされます）</target>
       </trans-unit>
       <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
-        <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-        <target state="translated">後からアシストを有効にしたい場合は、「Modとアシスト」メニューで設定できます。</target>
+        <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+        <target state="needs-translation">後からアシストを有効にしたい場合は、「Modとアシスト」メニューで設定できます。</target>
       </trans-unit>
       <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="no">
         <source>Track Freezing</source>
