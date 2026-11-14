@@ -2466,13 +2466,13 @@ Cliquer sur une section de point de passage pour modifier ses effets de particul
           <source>Crimson Halls</source>
           <target>Crimson Halls (Couloirs Carmins)</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>Thèmes de Couleur...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Thèmes de Couleur...</target>
         </trans-unit>
         <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target state="translated">Modifie les couleurs des obstacles pour rendre les actions plus faciles à lire.</target>
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">Modifie les couleurs des obstacles pour rendre les actions plus faciles à lire.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2922,9 +2922,9 @@ Would you like to enable game assist features?</source>
           <target>On dirait que vous avez des difficultés avec cette section.
 Souhaitez-vous activer des fonctionnalités d'aide ?</target>
         </trans-unit>
-        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
-          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target>Si vous souhaitez activer les aides ultérieurement, vous les trouverez dans le menu "Modificateurs et Aides".</target>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+          <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+          <target state="needs-translation">Si vous souhaitez activer les aides ultérieurement, vous les trouverez dans le menu "Modificateurs et Aides".</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
