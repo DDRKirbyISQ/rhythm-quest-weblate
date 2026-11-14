@@ -2466,13 +2466,13 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Crimson Halls</source>
           <target state="final">Crimson Halls</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>Цветовые Скины...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Цветовые Скины...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>Измени цвета препятствий, чтобы определенные моменты было проще проходить.</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">Измени цвета препятствий, чтобы определенные моменты было проще проходить.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2922,9 +2922,9 @@ Would you like to enable game assist features?</source>
           <target>Похоже, что вам тяжело дается эта секция.
 Хотите включить режим упрощения игры?</target>
         </trans-unit>
-        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
-          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target>Если вы захотите включить режим упрощения, вы можете это сделать в меню "Моды и Упрощения".</target>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+          <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+          <target state="needs-translation">Если вы захотите включить режим упрощения, вы можете это сделать в меню "Моды и Упрощения".</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
