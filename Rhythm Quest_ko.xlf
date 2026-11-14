@@ -4483,6 +4483,42 @@ Scoring data has been retained in case you import the same level again.</source>
         <source>Air jump wings are colored blue, flight path wings are colored green.</source>
         <target state="translated">공중점프를 파란색으로, 비행 경로 날개를 초록으로 표시합니다.</target>
       </trans-unit>
+      <trans-unit id="650225709408366592" xml:space="preserve" resname="settings_levelfading_fadeoutplus" approved="no">
+        <source>Fade Out+</source>
+        <target state="translated">페이드 아웃+</target>
+      </trans-unit>
+      <trans-unit id="650238209558360064" xml:space="preserve" resname="settings_levelfading_description_invisible" approved="no">
+        <source>Obstacles are completely invisible.</source>
+        <target state="translated">장애물이 완전히 보이지 않습니다.</target>
+      </trans-unit>
+      <trans-unit id="650225790589120512" xml:space="preserve" resname="settings_levelfading_description_disabled" approved="no">
+        <source>Obstacles appear normally.</source>
+        <target state="translated">장애물이 정상적으로 나타납니다.</target>
+      </trans-unit>
+      <trans-unit id="650225794825367552" xml:space="preserve" resname="settings_levelfading_description_fadein" approved="no">
+        <source>Obstacles start hidden and fade in.</source>
+        <target state="translated">장애물이 숨겨져 있다가 서서히 나타납니다.</target>
+      </trans-unit>
+      <trans-unit id="650225624465321984" xml:space="preserve" resname="settings_levelfading_fadeinplus" approved="no">
+        <source>Fade In+</source>
+        <target state="translated">페이드 인+</target>
+      </trans-unit>
+      <trans-unit id="650225686226448384" xml:space="preserve" resname="settings_levelfading_fadeout" approved="no">
+        <source>Fade Out</source>
+        <target state="translated">페이드 아웃</target>
+      </trans-unit>
+      <trans-unit id="650225494643224576" xml:space="preserve" resname="settings_levelfading_fadein" approved="no">
+        <source>Fade In</source>
+        <target state="translated">페이드 인</target>
+      </trans-unit>
+      <trans-unit id="650225823657013248" xml:space="preserve" resname="settings_levelfading_description_fadeout" approved="no">
+        <source>Obstacles start visible and fade out.</source>
+        <target state="translated">장애물이 보이다가 서서히 사라집니다.</target>
+      </trans-unit>
+      <trans-unit id="650225831605219328" xml:space="preserve" resname="settings_levelfading_description_fadeoutplus" approved="no">
+        <source>Obstacles start visible and fade out far in advance.</source>
+        <target state="translated">장애물이 보이다가 멀리서부터 서서히 사라집니다.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
