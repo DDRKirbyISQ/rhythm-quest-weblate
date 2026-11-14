@@ -2458,13 +2458,13 @@ Haz click en una sección de punto de control para editar su efecto de partícul
           <source>Crimson Halls</source>
           <target>Salas de Crimson</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>Skins de Color...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Skins de Color...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>Modifica la colorizacion de obstáculos para que los patrones sean más fáciles de leer.</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">Modifica la colorizacion de obstáculos para que los patrones sean más fáciles de leer.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2932,8 +2932,8 @@ It makes use of several samples I recorded myself using glass bottles.</source>
 Hace uso de varias muestras que grabé yo mismo utilizando botellas de vidrio.</target>
       </trans-unit>
       <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
-        <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-        <target state="translated">Si deseas habilitar asistencias más tarde, puedes hacerlo desde el menú de "Modificaciones y Asistencias".</target>
+        <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+        <target state="needs-translation">Si deseas habilitar asistencias más tarde, puedes hacerlo desde el menú de "Modificaciones y Asistencias".</target>
       </trans-unit>
       <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="no">
         <source>Practice Mode Settings</source>
