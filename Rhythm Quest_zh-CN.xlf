@@ -2466,13 +2466,13 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Crimson Halls</source>
           <target>Crimson Halls</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>颜色外观...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">颜色外观...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>修改障碍的颜色，优化读谱难度。</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">修改障碍的颜色，优化读谱难度。</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2923,8 +2923,8 @@ Would you like to enable game assist features?</source>
 您想要启用游戏助手吗？</target>
         </trans-unit>
         <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
-          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target state="translated">您可在“模组和助手”菜单中随时启用助手。</target>
+          <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+          <target state="needs-translation">您可在“模组和助手”菜单中随时启用助手。</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
