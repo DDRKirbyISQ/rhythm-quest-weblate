@@ -2462,13 +2462,13 @@ Kliknij punkt zapisu sekcji, aby zmienić jej drobinki.</target>
           <source>Crimson Halls</source>
           <target>Karmazynowe Sienie</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>Skórki Kolorów...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Skórki Kolorów...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>Modyfikuj kolor przeszkód, aby były bardziej czytelne.</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">Modyfikuj kolor przeszkód, aby były bardziej czytelne.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
