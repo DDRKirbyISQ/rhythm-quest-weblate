@@ -2467,13 +2467,13 @@ Klicke auf einen Checkpoint Abschnitt, um seine Partikeleffekte zu bearbeiten.</
           <source>Crimson Halls</source>
           <target state="final">Crimson Halls</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="yes">
-          <source>Color Skins...</source>
-          <target state="final">Farbliche Skins...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Farbliche Skins...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="yes">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target state="final">Die Färbung von Hindernissen ändern, um die Muster besser lesbar zu machen.</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">Die Färbung von Hindernissen ändern, um die Muster besser lesbar zu machen.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="yes">
           <source>Beat Grid</source>
@@ -2923,9 +2923,9 @@ Would you like to enable game assist features?</source>
           <target state="final">Es sieht so aus, als hättest du Probleme mit diesem Abschnitt.
 Möchtest du die Spiel-Assistenzfunktionen aktivieren?</target>
         </trans-unit>
-        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="yes">
-          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target state="final">Wenn du zu einem späteren Zeitpunkt Assistenten aktivieren möchtest, kannst du dies im Menü „Mods und Assistenten“ tun.</target>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+          <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+          <target state="needs-translation">Wenn du zu einem späteren Zeitpunkt Assistenten aktivieren möchtest, kannst du dies im Menü „Mods und Assistenten“ tun.</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="yes">
           <source>Practice Mode Settings</source>
