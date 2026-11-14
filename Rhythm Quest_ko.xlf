@@ -2466,13 +2466,13 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Crimson Halls</source>
           <target>Crimson Halls</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>색깔...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">색깔...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>장애물의 색상을 수정하여 패턴을 읽기 쉽게 합니다.</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">장애물의 색상을 수정하여 패턴을 읽기 쉽게 합니다.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -3022,8 +3022,8 @@ mod.io에 레벨을 게시하기 위해서는 계정이 필요합니다.</target
         <target state="translated">현재 구간을 쉽게 만들기 위한 옵션.</target>
       </trans-unit>
       <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
-        <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-        <target state="translated">만일 보조 기능을 나중에 활성화하고 싶다면, "변형 및 보조 기능" 메뉴에서 할 수 있습니다.</target>
+        <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+        <target state="needs-translation">만일 보조 기능을 나중에 활성화하고 싶다면, "변형 및 보조 기능" 메뉴에서 할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="384828164580093952" xml:space="preserve" resname="description_trackpreview_switch" approved="no">
         <source>Use &lt;sprite name="controller_icons_45"&gt; to scroll.
