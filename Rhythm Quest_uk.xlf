@@ -2466,13 +2466,13 @@ Click on a checkpoint section to edit its particle effects.</source>
           <source>Crimson Halls</source>
           <target>Crimson Halls</target>
         </trans-unit>
-        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins">
-          <source>Color Skins...</source>
-          <target>Зміна вигляду...</target>
+        <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
+          <source>Readability Options...</source>
+          <target state="needs-translation">Зміна вигляду...</target>
         </trans-unit>
-        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description">
-          <source>Modify the coloration of obstacles to make patterns easier to read.</source>
-          <target>Змінити кольори перешкод, щоб покращити їхній візуальний вигляд.</target>
+        <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
+          <source>Modify the visual display of obstacles to help with readability.</source>
+          <target state="needs-translation">Змінити кольори перешкод, щоб покращити їхній візуальний вигляд.</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2922,9 +2922,9 @@ Would you like to enable game assist features?</source>
           <target state="translated">Схоже, що у Вас виникають проблеми з цією секцією.
 Не хотіли б увімкнути допоміжні функції гри?</target>
         </trans-unit>
-        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined">
-          <source>If you want to enable assists at a later time, you can do so in the "Mods and Assists" menu.</source>
-          <target>Якщо Ви хочете увімкнути допомогу пізніше, то це можна зробити у меню "Моди та Підмоги".</target>
+        <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
+          <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
+          <target state="needs-translation">Якщо Ви хочете увімкнути допомогу пізніше, то це можна зробити у меню "Моди та Підмоги".</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
