@@ -2468,11 +2468,11 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
           <source>Readability Options...</source>
-          <target state="needs-translation">顏色外觀...</target>
+          <target state="translated">易讀性選項...</target>
         </trans-unit>
         <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
           <source>Modify the visual display of obstacles to help with readability.</source>
-          <target state="needs-translation">修改障礙物的顏色使讀譜更簡單。</target>
+          <target state="translated">修改障礙物的顏色使讀譜更容易。</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2933,7 +2933,7 @@ Would you like to enable game assist features?</source>
       </trans-unit>
       <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
         <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
-        <target state="needs-translation">您隨時都可在"模組和輔助"中啟用輔助。</target>
+        <target state="translated">您隨時都可在"輔助"中啟用輔助。</target>
       </trans-unit>
       <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode" approved="no">
         <source>Practice Mode Settings</source>
@@ -4530,6 +4530,10 @@ The composition is said to emulate the style of military marching bands of the T
 This level originally introduced the green attack + jump combo enemies, before that mechanic was moved to world 5 instead.</source>
         <target state="translated">一首原本計劃包含在世界3中的芯片音樂曲目。
 這個關卡最初引入了綠色攻擊+跳躍組合的敵人，之後該機制被移至世界5。</target>
+      </trans-unit>
+      <trans-unit id="671831660356952064" xml:space="preserve" resname="settings_menu_practicemodeadditional_description" approved="no">
+        <source>Change additional practice mode settings.</source>
+        <target state="translated">更改其他練習模式設定。</target>
       </trans-unit>
     </body>
   </file>
