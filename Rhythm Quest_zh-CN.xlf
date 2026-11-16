@@ -2468,11 +2468,11 @@ Click on a checkpoint section to edit its particle effects.</source>
         </trans-unit>
         <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
           <source>Readability Options...</source>
-          <target state="needs-translation">颜色外观...</target>
+          <target state="translated">可读性选项...</target>
         </trans-unit>
         <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
           <source>Modify the visual display of obstacles to help with readability.</source>
-          <target state="needs-translation">修改障碍的颜色，优化读谱难度。</target>
+          <target state="translated">修改障碍物的视觉显示，以提高可读性。</target>
         </trans-unit>
         <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids">
           <source>Beat Grid</source>
@@ -2924,7 +2924,7 @@ Would you like to enable game assist features?</source>
         </trans-unit>
         <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
           <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
-          <target state="needs-translation">您可在“模组和助手”菜单中随时启用助手。</target>
+          <target state="translated">您可在“助手”菜单中随时启用助手。</target>
         </trans-unit>
         <trans-unit id="380971758844162048" xml:space="preserve" resname="menu_description_practicemode">
           <source>Practice Mode Settings</source>
@@ -4530,6 +4530,10 @@ Do you still want to continue with this audio?</source>
       <trans-unit id="609960527738482688" xml:space="preserve" resname="editor_action_deletedifficulty" approved="no">
         <source>Delete chart: {0}</source>
         <target state="translated">删除图表: {0}</target>
+      </trans-unit>
+      <trans-unit id="671831660356952064" xml:space="preserve" resname="settings_menu_practicemodeadditional_description" approved="no">
+        <source>Change additional practice mode settings.</source>
+        <target state="translated">更改附加练习模式的设置。</target>
       </trans-unit>
     </body>
   </file>
