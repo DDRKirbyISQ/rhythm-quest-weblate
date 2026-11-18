@@ -1338,7 +1338,7 @@ Would you like to enable screen reader mode?
         </trans-unit>
         <trans-unit id="221620850235584512" xml:space="preserve" resname="level5-4" approved="no">
           <source>Gemstone Garden</source>
-          <target state="needs-translation">幾何学のパズル</target>
+          <target state="translated">宝石の庭</target>
         </trans-unit>
         <trans-unit id="226146874990309376" xml:space="preserve" resname="level5-5" approved="no">
           <source>Brilliant Boulevard</source>
@@ -2409,7 +2409,7 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="356920879900045312" xml:space="preserve" resname="settings_menu_colorskins_description" approved="no">
         <source>Modify the visual display of obstacles to help with readability.</source>
-        <target state="needs-translation">障害物の色を変更して、パターンを見やすくします。</target>
+        <target state="translated">視認性を高めるため、障害物の表示を変更します。</target>
       </trans-unit>
       <trans-unit id="357289891473436672" xml:space="preserve" resname="menu_settings_colorskins_beatgrids" approved="no">
         <source>Beat Grid</source>
@@ -2417,7 +2417,7 @@ Click on a checkpoint section to edit its particle effects.</source>
       </trans-unit>
       <trans-unit id="356919886684663808" xml:space="preserve" resname="menu_settings_colorskins" approved="no">
         <source>Readability Options...</source>
-        <target state="needs-translation">カラースキン...</target>
+        <target state="translated">見やすさの設定...</target>
       </trans-unit>
       <trans-unit id="357290085216727040" xml:space="preserve" resname="menu_settings_colorskins_rollingspikes" approved="no">
         <source>Spikes</source>
@@ -2981,7 +2981,7 @@ Check the code and try again.</source>
       </trans-unit>
       <trans-unit id="380891828210937856" xml:space="preserve" resname="description_assistdeclined" approved="no">
         <source>If you want to enable assists at a later time, you can do so in the "Assists" menu.</source>
-        <target state="needs-translation">後からアシストを有効にしたい場合は、「Modとアシスト」メニューで設定できます。</target>
+        <target state="translated">後からアシストを有効にしたい場合は、「アシスト」メニューで設定できます。</target>
       </trans-unit>
       <trans-unit id="380972725245358080" xml:space="preserve" resname="settings_trackfreeze" approved="no">
         <source>Track Freezing</source>
@@ -4482,6 +4482,58 @@ Levels must be authored using another version of the game.</source>
       <trans-unit id="627795780628688896" xml:space="preserve" resname="language_description_id" approved="no">
         <source>Use Indonesian translation by {0}.</source>
         <target state="translated">{0} によるインドネシア語の翻訳を使用する。</target>
+      </trans-unit>
+      <trans-unit id="671831660356952064" xml:space="preserve" resname="settings_menu_practicemodeadditional_description" approved="no">
+        <source>Change additional practice mode settings.</source>
+        <target state="translated">練習モードの詳細な設定を変更します。</target>
+      </trans-unit>
+      <trans-unit id="650222244997148672" xml:space="preserve" resname="settings_levelfading" approved="no">
+        <source>Level Fading</source>
+        <target state="translated">レベルのフェード</target>
+      </trans-unit>
+      <trans-unit id="650225494643224576" xml:space="preserve" resname="settings_levelfading_fadein" approved="no">
+        <source>Fade In</source>
+        <target state="translated">フェードイン</target>
+      </trans-unit>
+      <trans-unit id="650225624465321984" xml:space="preserve" resname="settings_levelfading_fadeinplus" approved="no">
+        <source>Fade In+</source>
+        <target state="translated">フェードイン＋</target>
+      </trans-unit>
+      <trans-unit id="650225686226448384" xml:space="preserve" resname="settings_levelfading_fadeout" approved="no">
+        <source>Fade Out</source>
+        <target state="translated">フェードアウト</target>
+      </trans-unit>
+      <trans-unit id="650225709408366592" xml:space="preserve" resname="settings_levelfading_fadeoutplus" approved="no">
+        <source>Fade Out+</source>
+        <target state="translated">フェードアウト＋</target>
+      </trans-unit>
+      <trans-unit id="650225794825367552" xml:space="preserve" resname="settings_levelfading_description_fadein" approved="no">
+        <source>Obstacles start hidden and fade in.</source>
+        <target state="translated">障害物が途中から徐々に現れます。</target>
+      </trans-unit>
+      <trans-unit id="650225790589120512" xml:space="preserve" resname="settings_levelfading_description_disabled" approved="no">
+        <source>Obstacles appear normally.</source>
+        <target state="translated">障害物は通常通り出現します。</target>
+      </trans-unit>
+      <trans-unit id="650225823657013248" xml:space="preserve" resname="settings_levelfading_description_fadeout" approved="no">
+        <source>Obstacles start visible and fade out.</source>
+        <target state="translated">障害物が途中から徐々に消えます。</target>
+      </trans-unit>
+      <trans-unit id="650225809438322688" xml:space="preserve" resname="settings_levelfading_description_fadeinplus" approved="no">
+        <source>Obstacles start hidden and fade in suddenly.</source>
+        <target state="translated">障害物が途中から突然現れます。</target>
+      </trans-unit>
+      <trans-unit id="650225831605219328" xml:space="preserve" resname="settings_levelfading_description_fadeoutplus" approved="no">
+        <source>Obstacles start visible and fade out far in advance.</source>
+        <target state="translated">障害物が遠くから徐々に消えます。</target>
+      </trans-unit>
+      <trans-unit id="650238073012793344" xml:space="preserve" resname="settings_levelfading_fadein_invisible" approved="no">
+        <source>Invisible</source>
+        <target state="translated">不可視</target>
+      </trans-unit>
+      <trans-unit id="650238209558360064" xml:space="preserve" resname="settings_levelfading_description_invisible" approved="no">
+        <source>Obstacles are completely invisible.</source>
+        <target state="translated">障害物が見えなくなります。</target>
       </trans-unit>
     </body>
   </file>
